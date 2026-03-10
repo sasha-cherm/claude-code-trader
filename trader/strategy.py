@@ -3,18 +3,20 @@ Trading strategy: Kelly-based position sizing with edge detection.
 
 Strategy overview:
 - Scan top Polymarket markets by volume/liquidity
-- Use current order book to find markets where we believe we have edge
+- Look for low-priced tokens (0.05-0.30) with asymmetric upside for 10x goal
 - Size positions using fractional Kelly criterion (1/4 Kelly for safety)
-- Track open positions in state.json
-- Take profit at 70%+ gain, cut loss at 50% loss
+- Track open positions with share counts in state.json
+- Take profit at +60% gain, cut loss at -55% loss
+- Actually close positions via market SELL orders
 """
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import Optional
 
 from py_clob_client.client import ClobClient
-from py_clob_client.clob_types import MarketOrderArgs
+from py_clob_client.clob_types import MarketOrderArgs, OrderArgs
+from py_clob_client.order_builder.constants import BUY, SELL
 
 from trader.config import (
     MAX_POSITION_USDC,
@@ -49,6 +51,8 @@ def kelly_fraction(p_win: float, odds: float, fraction: float = 0.25) -> float:
     """
     b = odds - 1.0
     q = 1.0 - p_win
+    if b <= 0:
+        return 0.0
     kelly = (b * p_win - q) / b
     return max(0.0, kelly * fraction)
 
@@ -56,18 +60,20 @@ def kelly_fraction(p_win: float, odds: float, fraction: float = 0.25) -> float:
 def estimate_edge(opportunity: dict, orderbook: Optional[dict]) -> tuple[float, str, float]:
     """
     Estimate edge for a market opportunity.
-    Returns (edge, side, fair_price).
+    Returns (edge, side, estimated_fair_price).
 
-    Simple model: use order book mid vs last trade price to find temporary dislocations.
-    If no orderbook available, use price momentum heuristic.
+    Priority:
+    1. Near-arb: YES+NO < 0.97 — buy whichever side is underpriced
+    2. Order book mid dislocation
+    3. Near-resolution momentum (end_date within 5 days)
     """
     yes_price = opportunity["yes_price"]
     no_price = opportunity["no_price"]
+    end_date = opportunity.get("end_date", "")
 
-    # Basic heuristic: if YES + NO < 1.0 (negative spread), take the cheaper side
+    # 1. Near-arbitrage: prices don't sum to 1
     total = yes_price + no_price
     if total < 0.97:
-        # Arbitrage-ish opportunity: buy whichever is cheaper relative to fair value
         fair_yes = 1.0 - no_price
         if yes_price < fair_yes:
             edge = fair_yes - yes_price
@@ -77,7 +83,7 @@ def estimate_edge(opportunity: dict, orderbook: Optional[dict]) -> tuple[float, 
             edge = fair_no - no_price
             return edge, "NO", fair_no
 
-    # Order book spread play: buy near mid
+    # 2. Order book mid dislocation
     if orderbook:
         bids = orderbook.get("bids", [])
         asks = orderbook.get("asks", [])
@@ -86,21 +92,31 @@ def estimate_edge(opportunity: dict, orderbook: Optional[dict]) -> tuple[float, 
             best_ask = float(asks[0]["price"])
             mid = (best_bid + best_ask) / 2.0
             spread = best_ask - best_bid
-            # Edge = half the spread if we're a price taker at mid
-            if spread > 0.02:
-                # Buy YES if mid suggests YES is cheap vs our model
-                if yes_price < mid - 0.02:
+            if spread > 0.025:
+                if yes_price < mid - 0.025:
                     return spread / 2, "YES", mid
-                elif no_price < (1.0 - mid) - 0.02:
+                elif no_price < (1.0 - mid) - 0.025:
                     return spread / 2, "NO", 1.0 - mid
+
+    # 3. Aggressive: high-payout plays — low-price tokens with volume signal
+    # Buy YES at <0.20 or NO at <0.20 if there's meaningful recent volume
+    vol = opportunity.get("volume_24h", 0)
+    liquidity = opportunity.get("liquidity", 0)
+    if vol > 2000 or liquidity > 1000:
+        if yes_price <= 0.18 and yes_price >= 0.04:
+            # Volume surge on low-priced YES: possible underpriced event
+            edge = 0.05  # conservative estimate of edge
+            return edge, "YES", yes_price + edge
+        if no_price <= 0.18 and no_price >= 0.04:
+            edge = 0.05
+            return edge, "NO", no_price + edge
 
     return 0.0, "YES", yes_price
 
 
-def place_market_order(client: ClobClient, token_id: str, amount_usdc: float) -> Optional[dict]:
-    """Place a market buy order for a given token (FOK = fill-or-kill)."""
+def place_market_buy(client: ClobClient, token_id: str, amount_usdc: float) -> Optional[dict]:
+    """Place a market BUY order. amount_usdc = USDC to spend."""
     try:
-        from py_clob_client.order_builder.constants import BUY
         args = MarketOrderArgs(
             token_id=token_id,
             amount=amount_usdc,
@@ -110,49 +126,113 @@ def place_market_order(client: ClobClient, token_id: str, amount_usdc: float) ->
         resp = client.post_order(signed)
         return resp
     except Exception as e:
-        print(f"[ORDER] Failed to place order: {e}")
+        print(f"[ORDER] BUY failed: {e}")
         return None
+
+
+def place_market_sell(client: ClobClient, token_id: str, shares: float, current_price: float) -> Optional[dict]:
+    """Place a market SELL order. shares = number of tokens to sell."""
+    try:
+        # Try market order first
+        args = MarketOrderArgs(
+            token_id=token_id,
+            amount=shares,
+            side=SELL,
+        )
+        signed = client.create_market_order(args)
+        resp = client.post_order(signed)
+        return resp
+    except Exception as e:
+        print(f"[ORDER] Market SELL failed ({e}), trying limit sell at bid-1tick")
+        try:
+            # Fallback: limit sell slightly below current price to ensure fill
+            sell_price = max(0.01, round(current_price - 0.01, 2))
+            tick = client.get_tick_size(token_id) if hasattr(client, 'get_tick_size') else 0.01
+            sell_price = max(float(tick), sell_price)
+            args2 = OrderArgs(
+                token_id=token_id,
+                price=sell_price,
+                size=shares,
+                side=SELL,
+            )
+            signed2 = client.create_order(args2)
+            resp2 = client.post_order(signed2)
+            return resp2
+        except Exception as e2:
+            print(f"[ORDER] Limit SELL also failed: {e2}")
+            return None
 
 
 def check_and_close_positions(client: ClobClient, state: dict, balance: float) -> float:
     """Check open positions and close if TP/SL hit. Returns updated balance estimate."""
     positions = state.get("positions", [])
-    closed = []
     still_open = []
 
     for pos in positions:
         try:
             token_id = pos["token_id"]
             entry_price = pos["entry_price"]
-            size = pos["size_usdc"]
             side = pos.get("side", "YES")
+            shares = pos.get("shares", 0)
 
-            # Get current price from orderbook
-            book = client.get_order_book(token_id)
-            if book and book.get("bids"):
-                current_price = float(book["bids"][0]["price"])
-            else:
+            # Get current price
+            try:
+                book = client.get_order_book(token_id)
+                if book and book.get("bids"):
+                    current_price = float(book["bids"][0]["price"])
+                else:
+                    still_open.append(pos)
+                    continue
+            except Exception:
                 still_open.append(pos)
                 continue
 
-            pnl_pct = (current_price - entry_price) / entry_price
+            pnl_pct = (current_price - entry_price) / entry_price if entry_price > 0 else 0
 
-            # Take profit at +70% or stop loss at -50%
-            if pnl_pct >= 0.70:
-                send(f"TP hit: {pos['question'][:50]} | {side} | entry={entry_price:.3f} current={current_price:.3f} | +{pnl_pct*100:.1f}%")
-                # TODO: place sell order
-                closed.append({**pos, "exit_price": current_price, "pnl_pct": pnl_pct, "closed_at": str(datetime.utcnow())})
-            elif pnl_pct <= -0.50:
-                send(f"SL hit: {pos['question'][:50]} | {side} | entry={entry_price:.3f} current={current_price:.3f} | {pnl_pct*100:.1f}%")
-                closed.append({**pos, "exit_price": current_price, "pnl_pct": pnl_pct, "closed_at": str(datetime.utcnow())})
+            should_close = False
+            reason = ""
+            if pnl_pct >= 0.60:
+                should_close = True
+                reason = f"TP +{pnl_pct*100:.1f}%"
+            elif pnl_pct <= -0.55:
+                should_close = True
+                reason = f"SL {pnl_pct*100:.1f}%"
+            # Also close if price near 1.0 (market almost resolved YES)
+            elif current_price >= 0.92 and side == "YES":
+                should_close = True
+                reason = f"Near-resolution {current_price:.3f}"
+
+            if should_close:
+                close_resp = None
+                if shares > 0:
+                    close_resp = place_market_sell(client, token_id, shares, current_price)
+
+                pnl_usdc = shares * (current_price - entry_price) if shares > 0 else 0
+                send(
+                    f"{reason}: {pos['question'][:50]}\n"
+                    f"  {side} | entry={entry_price:.3f} → {current_price:.3f}\n"
+                    f"  Shares={shares:.2f} | PnL≈${pnl_usdc:.2f}"
+                    + (f" | sell_resp={close_resp}" if close_resp else " | SELL FAILED")
+                )
+                closed_rec = {
+                    **pos,
+                    "exit_price": current_price,
+                    "pnl_pct": pnl_pct,
+                    "pnl_usdc": pnl_usdc,
+                    "closed_at": str(datetime.now(timezone.utc)),
+                    "close_reason": reason,
+                }
+                state.setdefault("trades", []).append(closed_rec)
+                if shares > 0 and pnl_usdc != 0:
+                    balance += pnl_usdc
             else:
                 still_open.append(pos)
+
         except Exception as e:
             print(f"[POSITIONS] Error checking position: {e}")
             still_open.append(pos)
 
     state["positions"] = still_open
-    state["trades"].extend(closed)
     return balance
 
 
@@ -162,10 +242,10 @@ def run_session(client: ClobClient, balance: float) -> None:
     state["sessions"] = state.get("sessions", 0) + 1
     session_num = state["sessions"]
 
-    send(f"Session #{session_num} | Balance: ${balance:.2f} USDC | Open positions: {len(state['positions'])}")
+    send(f"Session #{session_num} | Balance: ${balance:.2f} USDC | Open: {len(state['positions'])}")
 
     if balance < 5.0:
-        send("Balance too low to trade. Waiting.")
+        send("Balance too low to trade.")
         save_state(state)
         return
 
@@ -179,13 +259,12 @@ def run_session(client: ClobClient, balance: float) -> None:
         return
 
     # Find new opportunities
-    opps = find_opportunities(top_n=20)
+    opps = find_opportunities(top_n=30)
     if not opps:
         send("No opportunities found this session.")
         save_state(state)
         return
 
-    # Avoid re-entering existing positions
     existing_token_ids = {p["token_id"] for p in state["positions"]}
 
     trades_placed = 0
@@ -199,7 +278,6 @@ def run_session(client: ClobClient, balance: float) -> None:
         if yes_id in existing_token_ids or no_id in existing_token_ids:
             continue
 
-        # Get orderbook for edge estimation
         try:
             book = client.get_order_book(yes_id) if yes_id else None
         except Exception:
@@ -213,18 +291,33 @@ def run_session(client: ClobClient, balance: float) -> None:
         token_id = yes_id if side == "YES" else no_id
         entry_price = opp["yes_price"] if side == "YES" else opp["no_price"]
 
+        if entry_price <= 0:
+            continue
+
         # Kelly sizing
-        odds = 1.0 / entry_price  # approximate decimal odds
+        odds = 1.0 / entry_price
         k = kelly_fraction(fair_price, odds)
         size = min(k * balance, MAX_POSITION_USDC)
-        size = max(1.0, round(size, 2))  # min $1
+        size = max(2.0, round(size, 2))
 
-        if size > balance * 0.25:
-            size = round(balance * 0.25, 2)  # max 25% of balance per trade
+        if size > balance * 0.30:
+            size = round(balance * 0.30, 2)
+
+        if size > balance * 0.95:
+            size = round(balance * 0.95, 2)
 
         # Place order
-        result = place_market_order(client, token_id, size)
+        result = place_market_buy(client, token_id, size)
         if result:
+            # Estimate shares received (USDC / price, approx)
+            shares_est = round(size / entry_price, 4)
+            # Try to get actual fill from response
+            try:
+                fill_price = float(result.get("price", entry_price) or entry_price)
+                shares_est = round(size / fill_price, 4)
+            except Exception:
+                pass
+
             pos = {
                 "token_id": token_id,
                 "market_id": opp["market_id"],
@@ -234,14 +327,15 @@ def run_session(client: ClobClient, balance: float) -> None:
                 "fair_price": fair_price,
                 "edge": edge,
                 "size_usdc": size,
-                "opened_at": str(datetime.utcnow()),
+                "shares": shares_est,
+                "opened_at": str(datetime.now(timezone.utc)),
             }
             state["positions"].append(pos)
             trades_placed += 1
             send(
-                f"TRADE: {opp['question'][:60]}\n"
+                f"BUY: {opp['question'][:60]}\n"
                 f"  {side} @ {entry_price:.3f} | fair={fair_price:.3f} | edge={edge:.3f}\n"
-                f"  Size: ${size:.2f} | Vol24h: ${opp['volume_24h']:.0f}"
+                f"  Size: ${size:.2f} ({shares_est:.2f} shares) | Vol24h: ${opp['volume_24h']:.0f}"
             )
         else:
             print(f"[SESSION] Order failed for {opp['question'][:50]}")
@@ -250,4 +344,4 @@ def run_session(client: ClobClient, balance: float) -> None:
         send("No trades placed this session (edge threshold not met).")
 
     save_state(state)
-    print(f"[SESSION] Done. Trades placed: {trades_placed}. Open positions: {len(state['positions'])}")
+    print(f"[SESSION] Done. Trades: {trades_placed}. Open: {len(state['positions'])}")
