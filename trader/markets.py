@@ -52,9 +52,12 @@ def days_until_end(end_date_str: str) -> Optional[float]:
     """Parse end date and return days remaining. None if can't parse."""
     if not end_date_str:
         return None
-    for fmt in ("%Y-%m-%dT%H:%M:%SZ", "%Y-%m-%dT%H:%M:%S.%fZ", "%Y-%m-%d"):
+    for fmt in ("%Y-%m-%dT%H:%M:%SZ", "%Y-%m-%dT%H:%M:%S.%fZ", "%Y-%m-%dT%H:%M:%S", "%Y-%m-%d"):
         try:
-            end = datetime.strptime(end_date_str[:19], fmt[:len(fmt)])
+            s = end_date_str.rstrip("Z")
+            if fmt.endswith("Z"):
+                s = end_date_str
+            end = datetime.strptime(s, fmt)
             end = end.replace(tzinfo=timezone.utc)
             delta = (end - datetime.now(timezone.utc)).total_seconds() / 86400
             return delta
