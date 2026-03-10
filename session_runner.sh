@@ -17,4 +17,4 @@ Files in project (excluding .git, .env, logs):
 $(find "$DIR" -not -path '*/.git/*' -not -name '.env' -not -path '*/logs/*' -not -name '*.log' | sort | sed "s|$DIR/||" | grep -v '^$')
 === END STATE ==="
 
-claude -p "$PROMPT" --dangerouslySkipPermissions 2>&1 | tee -a "$LOG"
+claude -p "$PROMPT" --dangerously-skip-permissions 2>&1 | tee -a "$LOG"
