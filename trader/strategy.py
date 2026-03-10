@@ -24,6 +24,7 @@ from trader.config import (
     MAX_OPEN_POSITIONS,
     TARGET_BALANCE_USDC,
 )
+from trader.client import orderbook_to_dict
 from trader.markets import find_opportunities
 from trader.notify import send
 
@@ -99,17 +100,22 @@ def estimate_edge(opportunity: dict, orderbook: Optional[dict]) -> tuple[float, 
                     return spread / 2, "NO", 1.0 - mid
 
     # 3. Aggressive: high-payout plays — low-price tokens with volume signal
-    # Buy YES at <0.20 or NO at <0.20 if there's meaningful recent volume
+    # Buy the cheapest side if it's priced 0.04-0.28 with meaningful volume (matches scoring)
     vol = opportunity.get("volume_24h", 0)
     liquidity = opportunity.get("liquidity", 0)
+    days_left = opportunity.get("days_left")
     if vol > 2000 or liquidity > 1000:
-        if yes_price <= 0.18 and yes_price >= 0.04:
-            # Volume surge on low-priced YES: possible underpriced event
-            edge = 0.05  # conservative estimate of edge
-            return edge, "YES", yes_price + edge
-        if no_price <= 0.18 and no_price >= 0.04:
-            edge = 0.05
-            return edge, "NO", no_price + edge
+        # Near-resolution bonus: tighter price range and stronger edge signal for short-dated markets
+        max_price = 0.28
+        base_edge = 0.05
+        if days_left is not None and days_left <= 3:
+            max_price = 0.35  # allow slightly higher-priced bets when resolving very soon
+            base_edge = 0.06
+
+        if yes_price <= max_price and yes_price >= 0.04:
+            return base_edge, "YES", yes_price + base_edge
+        if no_price <= max_price and no_price >= 0.04:
+            return base_edge, "NO", no_price + base_edge
 
     return 0.0, "YES", yes_price
 
@@ -177,9 +183,13 @@ def check_and_close_positions(client: ClobClient, state: dict, balance: float) -
 
             # Get current price
             try:
-                book = client.get_order_book(token_id)
-                if book and book.get("bids"):
-                    current_price = float(book["bids"][0]["price"])
+                raw_book = client.get_order_book(token_id)
+                book = orderbook_to_dict(raw_book)
+                bids = book.get("bids", [])
+                if bids:
+                    current_price = float(bids[0]["price"])
+                elif book.get("last_trade_price"):
+                    current_price = float(book["last_trade_price"])
                 else:
                     still_open.append(pos)
                     continue
@@ -279,7 +289,8 @@ def run_session(client: ClobClient, balance: float) -> None:
             continue
 
         try:
-            book = client.get_order_book(yes_id) if yes_id else None
+            raw_book = client.get_order_book(yes_id) if yes_id else None
+            book = orderbook_to_dict(raw_book)
         except Exception:
             book = None
 
@@ -294,14 +305,24 @@ def run_session(client: ClobClient, balance: float) -> None:
         if entry_price <= 0:
             continue
 
-        # Kelly sizing
+        # Kelly sizing — more aggressive for near-resolution opportunities
         odds = 1.0 / entry_price
-        k = kelly_fraction(fair_price, odds)
-        size = min(k * balance, MAX_POSITION_USDC)
-        size = max(2.0, round(size, 2))
+        days_left = opp.get("days_left")
+        kelly_frac = 0.25  # base fraction
+        if days_left is not None and days_left <= 1:
+            kelly_frac = 0.50  # more aggressive for same-day resolution
+        elif days_left is not None and days_left <= 3:
+            kelly_frac = 0.35
 
-        if size > balance * 0.30:
-            size = round(balance * 0.30, 2)
+        k = kelly_fraction(fair_price, odds, fraction=kelly_frac)
+        size = min(k * balance, MAX_POSITION_USDC)
+
+        # Floor: $5 for near-resolution, $2 otherwise
+        min_size = 5.0 if (days_left is not None and days_left <= 3) else 2.0
+        size = max(min_size, round(size, 2))
+
+        if size > balance * 0.25:
+            size = round(balance * 0.25, 2)
 
         if size > balance * 0.95:
             size = round(balance * 0.95, 2)
