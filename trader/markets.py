@@ -135,7 +135,9 @@ def score_market(market: dict) -> Optional[dict]:
 
         # === Tier 2: High-payout low-price play ===
         min_price = min(yes_price, no_price)
-        is_high_payout = min_price <= 0.28 and (volume > 1000 or liquidity > 800)
+        max_price = max(yes_price, no_price)
+        # Only flag as high-payout if the opposing side lacks overwhelming conviction (<85%)
+        is_high_payout = min_price <= 0.28 and max_price < 0.85 and (volume > 1000 or liquidity > 800)
 
         if not is_near_arb and not is_high_payout:
             return None
