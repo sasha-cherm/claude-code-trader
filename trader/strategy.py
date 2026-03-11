@@ -125,14 +125,42 @@ def estimate_edge(opportunity: dict, orderbook: Optional[dict]) -> tuple[float, 
 
 
 def place_market_buy(client: ClobClient, token_id: str, amount_usdc: float) -> Optional[dict]:
-    """Place a market BUY order. amount_usdc = USDC to spend."""
+    """
+    Place a BUY order spending ~amount_usdc USDC.
+    Uses a limit order at best ask so shares (takerAmount) can be rounded to 2 decimal
+    places — the CLOB rejects market orders whose takerAmount exceeds 2 decimal places.
+    """
+    from math import floor
+    from py_clob_client.clob_types import OrderArgs
+
     try:
-        args = MarketOrderArgs(
+        # Get best ask price from order book
+        raw_book = client.get_order_book(token_id)
+        from trader.client import orderbook_to_dict
+        book = orderbook_to_dict(raw_book)
+        asks = book.get("asks", [])
+        if asks:
+            fill_price = float(asks[0]["price"])
+        else:
+            # Fallback: try last trade price
+            bids = book.get("bids", [])
+            if bids:
+                fill_price = float(bids[0]["price"]) + 0.01
+            else:
+                raise ValueError("No orderbook liquidity")
+
+        # Round shares to 2 decimal places (CLOB taker amount max 2 decimals)
+        shares = floor((amount_usdc / fill_price) * 100) / 100.0
+        if shares < 0.01:
+            raise ValueError(f"Too few shares at price {fill_price}")
+
+        args = OrderArgs(
             token_id=token_id,
-            amount=amount_usdc,
+            price=fill_price,
+            size=shares,
             side=BUY,
         )
-        signed = client.create_market_order(args)
+        signed = client.create_order(args)
         resp = client.post_order(signed)
         return resp
     except Exception as e:
@@ -358,12 +386,14 @@ def run_session(client: ClobClient, balance: float) -> None:
         # Place order
         result = place_market_buy(client, token_id, size)
         if result:
-            # Estimate shares received (USDC / price, approx)
-            shares_est = round(size / entry_price, 4)
-            # Try to get actual fill from response
+            from math import floor
+            # Use same rounding as place_market_buy: floor to 2 decimal places
+            # so shares_est matches what was actually submitted to the CLOB
+            shares_est = floor((size / entry_price) * 100) / 100.0
             try:
                 fill_price = float(result.get("price", entry_price) or entry_price)
-                shares_est = round(size / fill_price, 4)
+                if fill_price > 0:
+                    shares_est = floor((size / fill_price) * 100) / 100.0
             except Exception:
                 pass
 
