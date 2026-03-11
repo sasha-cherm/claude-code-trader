@@ -169,37 +169,56 @@ def place_market_buy(client: ClobClient, token_id: str, amount_usdc: float) -> O
         return None
 
 
-def place_market_sell(client: ClobClient, token_id: str, shares: float, current_price: float) -> Optional[dict]:
-    """Place a market SELL order. shares = number of tokens to sell."""
+def get_actual_shares(client: ClobClient, token_id: str) -> float:
+    """Query actual on-chain conditional token balance (6-decimal)."""
     try:
-        # Try market order first
-        args = MarketOrderArgs(
+        from py_clob_client.clob_types import BalanceAllowanceParams, AssetType
+        params = BalanceAllowanceParams(asset_type=AssetType.CONDITIONAL, token_id=token_id)
+        result = client.get_balance_allowance(params)
+        raw = int(result.get("balance", 0))
+        return raw / 1_000_000
+    except Exception as e:
+        print(f"[SELL] Could not get actual shares for {token_id[:16]}: {e}")
+        return 0.0
+
+
+def place_market_sell(client: ClobClient, token_id: str, shares: float, current_price: float) -> Optional[dict]:
+    """Place a SELL limit order. Uses actual on-chain balance to avoid over-selling."""
+    from math import floor
+
+    # Use actual balance to avoid "not enough balance" errors from estimation drift
+    actual = get_actual_shares(client, token_id)
+    if actual > 0 and actual < shares:
+        print(f"[ORDER] Adjusting sell shares: state={shares:.4f} → actual={actual:.4f}")
+        shares = floor(actual * 100) / 100.0  # floor to 2 decimals
+
+    if shares <= 0:
+        print("[ORDER] No shares to sell.")
+        return None
+
+    try:
+        # Limit sell at best bid for immediate fill
+        raw_book = client.get_order_book(token_id)
+        from trader.client import orderbook_to_dict
+        book = orderbook_to_dict(raw_book)
+        bids = book.get("bids", [])
+        if bids:
+            sell_price = float(bids[0]["price"])
+        else:
+            sell_price = max(0.01, round(current_price - 0.01, 2))
+
+        args = OrderArgs(
             token_id=token_id,
-            amount=shares,
+            price=sell_price,
+            size=shares,
             side=SELL,
         )
-        signed = client.create_market_order(args)
+        signed = client.create_order(args)
         resp = client.post_order(signed)
         return resp
     except Exception as e:
-        print(f"[ORDER] Market SELL failed ({e}), trying limit sell at bid-1tick")
-        try:
-            # Fallback: limit sell slightly below current price to ensure fill
-            sell_price = max(0.01, round(current_price - 0.01, 2))
-            tick = client.get_tick_size(token_id) if hasattr(client, 'get_tick_size') else 0.01
-            sell_price = max(float(tick), sell_price)
-            args2 = OrderArgs(
-                token_id=token_id,
-                price=sell_price,
-                size=shares,
-                side=SELL,
-            )
-            signed2 = client.create_order(args2)
-            resp2 = client.post_order(signed2)
-            return resp2
-        except Exception as e2:
-            print(f"[ORDER] Limit SELL also failed: {e2}")
-            return None
+        print(f"[ORDER] Limit SELL failed: {e}")
+        return None
 
 
 def check_and_close_positions(client: ClobClient, state: dict, balance: float) -> float:
@@ -388,15 +407,14 @@ def run_session(client: ClobClient, balance: float) -> None:
         result = place_market_buy(client, token_id, size)
         if result:
             from math import floor
-            # Use same rounding as place_market_buy: floor to 2 decimal places
-            # so shares_est matches what was actually submitted to the CLOB
-            shares_est = floor((size / entry_price) * 100) / 100.0
-            try:
-                fill_price = float(result.get("price", entry_price) or entry_price)
-                if fill_price > 0:
-                    shares_est = floor((size / fill_price) * 100) / 100.0
-            except Exception:
-                pass
+            # Query actual on-chain balance for precise share count
+            shares_est = get_actual_shares(client, token_id)
+            if shares_est <= 0:
+                # Fallback to estimate if query fails
+                fill_price = float((result or {}).get("price", entry_price) or entry_price)
+                if fill_price <= 0:
+                    fill_price = entry_price
+                shares_est = floor((size / fill_price) * 100) / 100.0
 
             pos = {
                 "token_id": token_id,
