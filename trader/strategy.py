@@ -201,16 +201,19 @@ def check_and_close_positions(client: ClobClient, state: dict, balance: float) -
 
             should_close = False
             reason = ""
-            if pnl_pct >= 0.60:
+            # Near-resolution: close regardless of side when token approaches full payout
+            if current_price >= 0.92:
                 should_close = True
-                reason = f"TP +{pnl_pct*100:.1f}%"
+                reason = f"Near-resolution {current_price:.3f}"
             elif pnl_pct <= -0.55:
                 should_close = True
                 reason = f"SL {pnl_pct*100:.1f}%"
-            # Also close if price near 1.0 (market almost resolved YES)
-            elif current_price >= 0.92 and side == "YES":
+            # TP only applies to higher-priced entries (e.g. 50/50 markets).
+            # For aggressive low-price entries (< 0.20), hold to near-resolution
+            # to capture 5-10x gains needed for the 10x goal.
+            elif entry_price >= 0.20 and pnl_pct >= 0.60:
                 should_close = True
-                reason = f"Near-resolution {current_price:.3f}"
+                reason = f"TP +{pnl_pct*100:.1f}%"
 
             if should_close:
                 close_resp = None
