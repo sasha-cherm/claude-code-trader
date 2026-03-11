@@ -14,6 +14,8 @@ import os
 from datetime import datetime, timezone
 from typing import Optional
 
+from trader.markets import days_until_end
+
 from py_clob_client.client import ClobClient
 from py_clob_client.clob_types import MarketOrderArgs, OrderArgs
 from py_clob_client.order_builder.constants import BUY, SELL
@@ -183,6 +185,27 @@ def check_and_close_positions(client: ClobClient, state: dict, balance: float) -
             side = pos.get("side", "YES")
             shares = pos.get("shares", 0)
 
+            # Check if market has expired (past end date) — settlement is automatic on Polymarket.
+            # Remove from state so the slot is freed; USDC appears in wallet on next balance check.
+            end_date = pos.get("end_date", "")
+            if end_date:
+                days_remaining = days_until_end(end_date)
+                if days_remaining is not None and days_remaining < -0.5:
+                    pnl_note = f"shares={shares:.2f} @ entry={entry_price:.3f}"
+                    send(
+                        f"EXPIRED (auto-settled): {pos['question'][:50]}\n"
+                        f"  {side} | {pnl_note} | USDC credited by Polymarket"
+                    )
+                    state.setdefault("trades", []).append({
+                        **pos,
+                        "exit_price": None,
+                        "pnl_pct": None,
+                        "pnl_usdc": None,
+                        "closed_at": str(datetime.now(timezone.utc)),
+                        "close_reason": "expired/auto-settled",
+                    })
+                    continue  # drop from still_open
+
             # Get current price
             try:
                 raw_book = client.get_order_book(token_id)
@@ -307,7 +330,7 @@ def run_session(client: ClobClient, balance: float) -> None:
         token_id = yes_id if side == "YES" else no_id
         entry_price = opp["yes_price"] if side == "YES" else opp["no_price"]
 
-        if entry_price <= 0:
+        if not token_id or entry_price <= 0:
             continue
 
         # Kelly sizing — more aggressive for near-resolution opportunities
@@ -354,6 +377,8 @@ def run_session(client: ClobClient, balance: float) -> None:
                 "edge": edge,
                 "size_usdc": size,
                 "shares": shares_est,
+                "end_date": opp.get("end_date", ""),
+                "days_left_at_entry": opp.get("days_left"),
                 "opened_at": str(datetime.now(timezone.utc)),
             }
             state["positions"].append(pos)
