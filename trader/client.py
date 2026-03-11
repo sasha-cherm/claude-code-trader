@@ -1,7 +1,7 @@
 """Polymarket CLOB client wrapper."""
 from py_clob_client.client import ClobClient
 from py_clob_client.clob_types import BalanceAllowanceParams, AssetType
-from trader.config import PRIVATE_KEY, CHAIN_ID, CLOB_HOST
+from trader.config import PRIVATE_KEY, PROXY_ADDRESS, CHAIN_ID, CLOB_HOST
 
 
 def orderbook_to_dict(book) -> dict:
@@ -35,7 +35,8 @@ def get_client() -> ClobClient:
         host=CLOB_HOST,
         key=PRIVATE_KEY,
         chain_id=CHAIN_ID,
-        signature_type=0,  # EOA
+        signature_type=1,  # proxy wallet (Polymarket magic/embedded wallet)
+        funder=PROXY_ADDRESS or None,
     )
     # Derive API credentials from private key
     try:

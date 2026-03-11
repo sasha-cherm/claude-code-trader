@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 load_dotenv(os.path.join(os.path.dirname(__file__), "..", ".env"))
 
 PRIVATE_KEY: str = os.environ["POLYMARKET_PRIVATE_KEY"]
+PROXY_ADDRESS: str = os.getenv("POLYMARKET_PROXY_ADDRESS", "")  # proxy wallet (where funds live)
 CHAIN_ID: int = int(os.getenv("CHAIN_ID", "137"))  # Polygon mainnet
 CLOB_HOST: str = os.getenv("CLOB_HOST", "https://clob.polymarket.com")
 GAMMA_HOST: str = os.getenv("GAMMA_HOST", "https://gamma-api.polymarket.com")
