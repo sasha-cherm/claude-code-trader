@@ -117,12 +117,35 @@ def estimate_edge(opportunity: dict, orderbook: Optional[dict]) -> tuple[float, 
             base_edge = 0.06
 
         # Skip if the expensive side is > 0.85: market has very high conviction the cheap side loses
-        # (e.g. BTC>$68k YES=0.945 — buying NO at 0.055 is near-certain loss)
-        # Using 0.85 threshold (not 0.90) to give meaningful buffer vs. consensus
         if yes_price <= max_price and yes_price >= 0.04 and no_price < 0.85:
             return base_edge, "YES", yes_price + base_edge
         if no_price <= max_price and no_price >= 0.04 and yes_price < 0.85:
             return base_edge, "NO", no_price + base_edge
+
+    # 4. Competitive market plays — both sides 30-70%, resolving soon
+    # These offer better risk/reward than heavy underdog bets
+    # In competitive markets, orderbook dislocation gives edge
+    if opportunity.get("is_competitive") and (vol > 5000 or liquidity > 3000):
+        if orderbook:
+            bids = orderbook.get("bids", [])
+            asks = orderbook.get("asks", [])
+            if bids and asks:
+                best_bid = float(bids[0]["price"])
+                best_ask = float(asks[0]["price"])
+                mid = (best_bid + best_ask) / 2.0
+                spread = best_ask - best_bid
+                # If YES is below mid, buy YES; otherwise buy NO
+                if yes_price < mid - 0.01 and spread > 0.02:
+                    return max(spread / 2, 0.04), "YES", mid
+                elif no_price < (1.0 - mid) - 0.01 and spread > 0.02:
+                    return max(spread / 2, 0.04), "NO", 1.0 - mid
+        # Even without orderbook dislocation, competitive near-resolution markets
+        # have value from capital recycling speed
+        if days_left is not None and days_left <= 1:
+            cheaper_side = "YES" if yes_price < no_price else "NO"
+            cheaper_price = min(yes_price, no_price)
+            if 0.30 <= cheaper_price <= 0.50:
+                return 0.04, cheaper_side, cheaper_price + 0.04
 
     return 0.0, "YES", yes_price
 
@@ -257,21 +280,32 @@ def check_and_close_positions(client: ClobClient, state: dict, balance: float) -
             # If market resolved (no orderbook), check if shares still exist on-chain
             if market_resolved:
                 actual = get_actual_shares(client, token_id)
-                pnl_note = f"shares={shares:.2f} (on-chain={actual:.2f}) @ entry={entry_price:.3f}"
-                # Shares > 0 means settlement pending; shares == 0 means already credited
-                send(
-                    f"RESOLVED: {pos['question'][:50]}\n"
-                    f"  {side} | {pnl_note} | settlement {'pending' if actual > 0 else 'complete'}"
-                )
-                state.setdefault("trades", []).append({
-                    **pos,
-                    "exit_price": None,
-                    "pnl_pct": None,
-                    "pnl_usdc": None,
-                    "closed_at": str(datetime.now(timezone.utc)),
-                    "close_reason": "market-resolved",
-                })
-                continue  # free the slot
+                # If shares == 0, settlement already happened (won = USDC credited, lost = shares burned)
+                # If shares > 0, settlement still pending — keep tracking
+                if actual <= 0.01:
+                    # Settlement complete — position is done
+                    # We can't know exact PnL since settlement is automatic,
+                    # but we can check if our USDC balance went up
+                    send(
+                        f"SETTLED: {pos['question'][:50]}\n"
+                        f"  {side} @ {entry_price:.3f} | size=${pos.get('size_usdc', 0):.2f} | shares gone → settlement complete"
+                    )
+                    state.setdefault("trades", []).append({
+                        **pos,
+                        "exit_price": None,
+                        "pnl_pct": None,
+                        "pnl_usdc": None,
+                        "closed_at": str(datetime.now(timezone.utc)),
+                        "close_reason": "settled",
+                    })
+                else:
+                    # Shares still on-chain — settlement pending, keep tracking
+                    send(
+                        f"RESOLVED (pending): {pos['question'][:50]}\n"
+                        f"  {side} @ {entry_price:.3f} | on-chain={actual:.2f} shares | awaiting settlement"
+                    )
+                    still_open.append(pos)
+                continue
 
             # If past end_date and no price available, clean up after 3 hours
             if current_price is None:
@@ -317,27 +351,41 @@ def check_and_close_positions(client: ClobClient, state: dict, balance: float) -
 
             if should_close:
                 close_resp = None
+                sell_succeeded = False
                 if shares > 0:
                     close_resp = place_market_sell(client, token_id, shares, current_price)
+                    sell_succeeded = close_resp is not None
 
-                pnl_usdc = shares * (current_price - entry_price) if shares > 0 else 0
+                # Only count PnL if sell actually went through
+                if sell_succeeded:
+                    pnl_usdc = shares * (current_price - entry_price)
+                    pnl_pct_final = pnl_pct
+                else:
+                    # Sell failed — shares still held, mark as failed close attempt
+                    pnl_usdc = 0.0
+                    pnl_pct_final = None
+
                 send(
                     f"{reason}: {pos['question'][:50]}\n"
                     f"  {side} | entry={entry_price:.3f} -> {current_price:.3f}\n"
                     f"  Shares={shares:.2f} | PnL=${pnl_usdc:.2f}"
-                    + (f" | sell_resp={close_resp}" if close_resp else " | SELL FAILED")
+                    + (f" | SOLD" if sell_succeeded else " | SELL FAILED (holding)")
                 )
-                closed_rec = {
-                    **pos,
-                    "exit_price": current_price,
-                    "pnl_pct": pnl_pct,
-                    "pnl_usdc": pnl_usdc,
-                    "closed_at": str(datetime.now(timezone.utc)),
-                    "close_reason": reason,
-                }
-                state.setdefault("trades", []).append(closed_rec)
-                if shares > 0 and pnl_usdc != 0:
+
+                if sell_succeeded:
+                    closed_rec = {
+                        **pos,
+                        "exit_price": current_price,
+                        "pnl_pct": pnl_pct_final,
+                        "pnl_usdc": pnl_usdc,
+                        "closed_at": str(datetime.now(timezone.utc)),
+                        "close_reason": reason,
+                    }
+                    state.setdefault("trades", []).append(closed_rec)
                     balance += pnl_usdc
+                else:
+                    # Keep position open if sell failed — retry next session
+                    still_open.append(pos)
             else:
                 still_open.append(pos)
 
@@ -408,24 +456,38 @@ def run_session(client: ClobClient, balance: float) -> None:
         if not token_id or entry_price <= 0:
             continue
 
-        # Kelly sizing — progressive with bankroll, aggressive for near-resolution
+        # Kelly sizing — aggressive with bankroll for 10x goal
         odds = 1.0 / entry_price
         days_left = opp.get("days_left")
-        kelly_frac = 0.25  # base fraction
+        volume = opp.get("volume_24h", 0)
+        score = opp.get("score", 0)
+
+        # Base Kelly fraction scales with conviction signals
+        kelly_frac = 0.25
         if days_left is not None and days_left <= 1:
-            kelly_frac = 0.50  # more aggressive for same-day resolution
+            kelly_frac = 0.50  # same-day resolution: highest conviction
         elif days_left is not None and days_left <= 3:
-            kelly_frac = 0.35
+            kelly_frac = 0.40
+
+        # Boost for high-volume markets (more liquid = more reliable pricing)
+        if volume > 50000:
+            kelly_frac *= 1.2
+        elif volume > 10000:
+            kelly_frac *= 1.1
+
+        # Boost for near-arb opportunities
+        if opp.get("is_near_arb"):
+            kelly_frac *= 1.3
 
         k = kelly_fraction(fair_price, odds, fraction=kelly_frac)
-        # Progressive sizing: scale with bankroll (15% max per trade)
+        # Progressive sizing: scale with bankroll
         max_for_bankroll = min(balance * MAX_POSITION_PCT, MAX_POSITION_USDC)
         size = min(k * balance, max_for_bankroll)
         size = max(MIN_POSITION_USDC, round(size, 2))
 
-        # Never risk more than 20% of remaining balance on one trade
-        if size > balance * 0.20:
-            size = round(balance * 0.20, 2)
+        # Cap at 25% of remaining balance per trade
+        if size > balance * 0.25:
+            size = round(balance * 0.25, 2)
 
         if size > balance * 0.95:
             size = round(balance * 0.95, 2)

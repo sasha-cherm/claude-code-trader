@@ -143,16 +143,27 @@ def score_market(market: dict) -> Optional[dict]:
         # Only flag as high-payout if the opposing side lacks overwhelming conviction (<85%)
         is_high_payout = min_price <= 0.28 and max_price < 0.85 and (volume > 1000 or liquidity > 800)
 
-        if not is_near_arb and not is_high_payout:
+        # === Tier 3: Competitive market play ===
+        # Markets where both sides are 30-70% — more likely to be mispriced
+        # and offer good risk/reward at closer to even money
+        is_competitive = (0.30 <= yes_price <= 0.70 and 0.30 <= no_price <= 0.70
+                         and (volume > 5000 or liquidity > 3000)
+                         and days_left is not None and days_left <= 2)
+
+        if not is_near_arb and not is_high_payout and not is_competitive:
             return None
 
         # Composite score — heavily weight near-resolution + volume for the 10x goal
         arb_score = max(0.0, (0.97 - total) * 10) if is_near_arb else 0.0
 
         # Near-resolution bonus: strongly prefer markets resolving within 24 hours
+        # Capital recycling is key to compounding — same-day resolution means we can
+        # reinvest winnings immediately rather than having capital locked up
         resolution_bonus = 0.0
-        if days_left is not None and 0 < days_left <= 1:
-            resolution_bonus = 0.5  # same-day: highest priority
+        if days_left is not None and 0 < days_left <= 0.5:
+            resolution_bonus = 0.7  # resolving in <12 hours: highest priority
+        elif days_left is not None and 0 < days_left <= 1:
+            resolution_bonus = 0.55  # same-day
         elif days_left is not None and 0 < days_left <= 3:
             resolution_bonus = 0.35 * (1.0 - days_left / 3)
         elif days_left is not None and 0 < days_left <= 7:
@@ -163,17 +174,30 @@ def score_market(market: dict) -> Optional[dict]:
         liquidity_score = min(liquidity / 5000.0, 1.0)
 
         # High-payout score: lower price = higher potential return
+        # Sweet spot: 0.08-0.20 (5x-12.5x payout if correct)
         payout_score = 0.0
         if is_high_payout:
-            if 0.04 <= min_price <= 0.25 and volume > 1000:
-                payout_score = (0.25 - min_price) / 0.21 * 0.5
+            if 0.04 <= min_price <= 0.12:
+                payout_score = 0.6  # huge upside (8x-25x)
+            elif 0.12 < min_price <= 0.20:
+                payout_score = 0.4  # strong upside (5x-8x)
+            elif 0.20 < min_price <= 0.28:
+                payout_score = 0.2  # moderate upside (3.5x-5x)
+
+        # Competitive market bonus: closer to 50/50 with near resolution
+        competitive_score = 0.0
+        if is_competitive:
+            # Markets near 50/50 with fast resolution = high capital velocity
+            balance_ratio = 1.0 - abs(yes_price - 0.5) * 2  # 1.0 at 50/50, 0.0 at extremes
+            competitive_score = balance_ratio * 0.4
 
         composite_score = (
-            arb_score * 0.25
+            arb_score * 0.15
             + resolution_bonus * 0.35
-            + volume_score * 0.20
-            + liquidity_score * 0.10
-            + payout_score * 0.10
+            + volume_score * 0.15
+            + liquidity_score * 0.05
+            + payout_score * 0.15
+            + competitive_score * 0.15
         )
 
         return {
@@ -193,6 +217,7 @@ def score_market(market: dict) -> Optional[dict]:
             "days_left": days_left,
             "is_near_arb": is_near_arb,
             "is_high_payout": is_high_payout,
+            "is_competitive": is_competitive,
             "score": composite_score,
         }
     except Exception as e:
