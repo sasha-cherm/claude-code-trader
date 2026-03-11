@@ -112,9 +112,11 @@ def estimate_edge(opportunity: dict, orderbook: Optional[dict]) -> tuple[float, 
             max_price = 0.35  # allow slightly higher-priced bets when resolving very soon
             base_edge = 0.06
 
-        if yes_price <= max_price and yes_price >= 0.04:
+        # Skip if the expensive side is > 0.90: market has very high conviction the cheap side loses
+        # (e.g. BTC>$68k YES=0.945 — buying NO at 0.055 is near-certain loss)
+        if yes_price <= max_price and yes_price >= 0.04 and no_price <= 0.90:
             return base_edge, "YES", yes_price + base_edge
-        if no_price <= max_price and no_price >= 0.04:
+        if no_price <= max_price and no_price >= 0.04 and yes_price <= 0.90:
             return base_edge, "NO", no_price + base_edge
 
     return 0.0, "YES", yes_price
