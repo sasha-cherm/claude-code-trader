@@ -81,6 +81,12 @@ def score_market(market: dict) -> Optional[dict]:
         if market.get("closed", True) or not market.get("active", False):
             return None
 
+        # Skip social media count/post markets — no informational edge
+        question_lower = market.get("question", "").lower()
+        if any(kw in question_lower for kw in ["tweets", "tweet", "posts from", "post "]) and \
+           any(kw in question_lower for kw in ["will elon", "will andrew", "will donald"]):
+            return None
+
         token_ids = _parse_json_field(market.get("clobTokenIds", []))
         outcome_prices = _parse_json_field(market.get("outcomePrices", []))
         outcomes = _parse_json_field(market.get("outcomes", []))
@@ -141,7 +147,7 @@ def score_market(market: dict) -> Optional[dict]:
         min_price = min(yes_price, no_price)
         max_price = max(yes_price, no_price)
         # Only flag as high-payout if the opposing side lacks overwhelming conviction (<85%)
-        is_high_payout = min_price <= 0.28 and max_price < 0.85 and (volume > 1000 or liquidity > 800)
+        is_high_payout = min_price <= 0.30 and min_price >= 0.08 and max_price < 0.85 and (volume > 5000 or liquidity > 2000)
 
         # === Tier 3: Competitive market play ===
         # Markets where both sides are 30-70% — more likely to be mispriced

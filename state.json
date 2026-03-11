@@ -57,18 +57,18 @@
       "opened_at": "2026-03-11 21:01:29.000962+00:00"
     },
     {
-      "token_id": "16585278955818694175681898046616594865865904875603064361371660434914104659924",
-      "market_id": "1488846",
-      "question": "Will Andrew Tate post 100-129 posts from March 6 to March 13, 2026?",
-      "side": "NO",
-      "entry_price": 0.225,
-      "fair_price": 0.28500000000000003,
-      "edge": 0.06,
-      "size_usdc": 3.0,
-      "shares": 13.33,
-      "end_date": "2026-03-13T16:00:00Z",
-      "days_left_at_entry": 1.7906631362384258,
-      "opened_at": "2026-03-11 21:01:30.463948+00:00"
+      "token_id": "73008318104611978818326721561809290251265992644491422028502536003629269265400",
+      "market_id": "1507471",
+      "question": "Timberwolves vs. Clippers",
+      "side": "YES",
+      "entry_price": 0.48,
+      "fair_price": 0.53,
+      "edge": 0.05,
+      "size_usdc": 20.0,
+      "shares": 41.66,
+      "end_date": "2026-03-12T02:30:00Z",
+      "days_left_at_entry": 0.15,
+      "opened_at": "2026-03-11 23:10:30.463951+00:00"
     }
   ],
   "trades": [
@@ -204,7 +204,26 @@
       "pnl_usdc": 12.61476,
       "closed_at": "2026-03-11 21:01:25.485758+00:00",
       "close_reason": "Near-resolution 0.999"
+    },
+    {
+      "token_id": "16585278955818694175681898046616594865865904875603064361371660434914104659924",
+      "market_id": "1488846",
+      "question": "Will Andrew Tate post 100-129 posts from March 6 to March 13, 2026?",
+      "side": "NO",
+      "entry_price": 0.225,
+      "fair_price": 0.28500000000000003,
+      "edge": 0.06,
+      "size_usdc": 3.0,
+      "shares": 13.33,
+      "end_date": "2026-03-13T16:00:00Z",
+      "days_left_at_entry": 1.7906631362384258,
+      "opened_at": "2026-03-11 21:01:30.463948+00:00",
+      "exit_price": 0.1526,
+      "pnl_pct": -0.3218,
+      "pnl_usdc": -0.99,
+      "closed_at": "2026-03-11 23:02:37.083682+00:00",
+      "close_reason": "Manual cut -32% (no edge on social media counts)"
     }
   ],
-  "sessions": 8
+  "sessions": 10
 }

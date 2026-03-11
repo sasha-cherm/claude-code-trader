@@ -103,29 +103,24 @@ def estimate_edge(opportunity: dict, orderbook: Optional[dict]) -> tuple[float, 
                 elif no_price < (1.0 - mid) - 0.025:
                     return spread / 2, "NO", 1.0 - mid
 
-    # 3. Aggressive: high-payout plays — low-price tokens with volume signal
-    # Buy the cheapest side if it's priced 0.04-0.28 with meaningful volume (matches scoring)
+    # 3. High-payout plays — low-price tokens with volume, resolving soon
+    # Only enter with sufficient volume and near-term resolution for capital velocity
     vol = opportunity.get("volume_24h", 0)
     liquidity = opportunity.get("liquidity", 0)
     days_left = opportunity.get("days_left")
-    if vol > 2000 or liquidity > 1000:
-        # Near-resolution bonus: tighter price range and stronger edge signal for short-dated markets
-        max_price = 0.28
-        base_edge = 0.05
-        if days_left is not None and days_left <= 3:
-            max_price = 0.35  # allow slightly higher-priced bets when resolving very soon
-            base_edge = 0.06
-
-        # Skip if the expensive side is > 0.85: market has very high conviction the cheap side loses
-        if yes_price <= max_price and yes_price >= 0.04 and no_price < 0.85:
+    if (vol > 5000 or liquidity > 2000) and days_left is not None and days_left <= 2:
+        max_price = 0.30
+        base_edge = 0.06
+        # Skip tokens priced too low (<0.08) — near-certain losers
+        # Skip if the expensive side is > 0.85: overwhelming market conviction against us
+        if yes_price <= max_price and yes_price >= 0.08 and no_price < 0.85:
             return base_edge, "YES", yes_price + base_edge
-        if no_price <= max_price and no_price >= 0.04 and yes_price < 0.85:
+        if no_price <= max_price and no_price >= 0.08 and yes_price < 0.85:
             return base_edge, "NO", no_price + base_edge
 
-    # 4. Competitive market plays — both sides 30-70%, resolving soon
-    # These offer better risk/reward than heavy underdog bets
-    # In competitive markets, orderbook dislocation gives edge
-    if opportunity.get("is_competitive") and (vol > 5000 or liquidity > 3000):
+    # 4. Competitive market plays — only with orderbook dislocation (real edge)
+    # Don't enter 50/50 coin-flip bets without a pricing signal
+    if opportunity.get("is_competitive") and (vol > 10000 or liquidity > 5000):
         if orderbook:
             bids = orderbook.get("bids", [])
             asks = orderbook.get("asks", [])
@@ -134,18 +129,11 @@ def estimate_edge(opportunity: dict, orderbook: Optional[dict]) -> tuple[float, 
                 best_ask = float(asks[0]["price"])
                 mid = (best_bid + best_ask) / 2.0
                 spread = best_ask - best_bid
-                # If YES is below mid, buy YES; otherwise buy NO
-                if yes_price < mid - 0.01 and spread > 0.02:
+                # Only enter when there's meaningful spread dislocation
+                if yes_price < mid - 0.015 and spread > 0.025:
                     return max(spread / 2, 0.04), "YES", mid
-                elif no_price < (1.0 - mid) - 0.01 and spread > 0.02:
+                elif no_price < (1.0 - mid) - 0.015 and spread > 0.025:
                     return max(spread / 2, 0.04), "NO", 1.0 - mid
-        # Even without orderbook dislocation, competitive near-resolution markets
-        # have value from capital recycling speed
-        if days_left is not None and days_left <= 1:
-            cheaper_side = "YES" if yes_price < no_price else "NO"
-            cheaper_price = min(yes_price, no_price)
-            if 0.30 <= cheaper_price <= 0.50:
-                return 0.04, cheaper_side, cheaper_price + 0.04
 
     return 0.0, "YES", yes_price
 
