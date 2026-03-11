@@ -29,20 +29,6 @@
       "opened_at": "2026-03-11 14:37:19.751359+00:00"
     },
     {
-      "token_id": "109069929227071925683742974428296930196077257286101930927263804493142202232290",
-      "market_id": "1456056",
-      "question": "Will Bayer 04 Leverkusen win on 2026-03-11?",
-      "side": "YES",
-      "entry_price": 0.145,
-      "fair_price": 0.205,
-      "edge": 0.06,
-      "size_usdc": 5.0,
-      "shares": 33.33,
-      "end_date": "2026-03-11T17:45:00Z",
-      "days_left_at_entry": 0.13035275667824076,
-      "opened_at": "2026-03-11 14:37:20.968102+00:00"
-    },
-    {
       "token_id": "56414504707422739955831237046661798725741455841321832950381253795907320301962",
       "market_id": "1456062",
       "question": "Will Real Madrid CF win on 2026-03-11?",
@@ -69,6 +55,20 @@
       "end_date": "2026-03-11T20:00:00Z",
       "days_left_at_entry": 0.12473056640046297,
       "opened_at": "2026-03-11 17:00:24.114391+00:00"
+    },
+    {
+      "token_id": "46305916066249574967965943094873262646307995728419846255000995234994656849313",
+      "market_id": "1456129",
+      "question": "Real Madrid CF vs. Manchester City FC: O/U 1.5",
+      "side": "NO",
+      "entry_price": 0.195,
+      "fair_price": 0.255,
+      "edge": 0.06,
+      "size_usdc": 3.06,
+      "shares": 15.69,
+      "end_date": "2026-03-11T20:00:00Z",
+      "days_left_at_entry": 0.037746785335648146,
+      "opened_at": "2026-03-11 19:05:39.540892+00:00"
     }
   ],
   "trades": [
@@ -128,7 +128,26 @@
       "pnl_usdc": 44.95,
       "closed_at": "2026-03-11 17:00:21.918470+00:00",
       "close_reason": "Near-resolution 0.999"
+    },
+    {
+      "token_id": "109069929227071925683742974428296930196077257286101930927263804493142202232290",
+      "market_id": "1456056",
+      "question": "Will Bayer 04 Leverkusen win on 2026-03-11?",
+      "side": "YES",
+      "entry_price": 0.145,
+      "fair_price": 0.205,
+      "edge": 0.06,
+      "size_usdc": 5.0,
+      "shares": 33.33,
+      "end_date": "2026-03-11T17:45:00Z",
+      "days_left_at_entry": 0.13035275667824076,
+      "opened_at": "2026-03-11 14:37:20.968102+00:00",
+      "exit_price": 0.51,
+      "pnl_pct": 2.5172413793103448,
+      "pnl_usdc": 12.16545,
+      "closed_at": "2026-03-11 19:05:37.523310+00:00",
+      "close_reason": "TP +251.7% (low-entry)"
     }
   ],
-  "sessions": 5
+  "sessions": 7
 }

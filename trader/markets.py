@@ -129,6 +129,10 @@ def score_market(market: dict) -> Optional[dict]:
         end_date = market.get("endDate", "")
         days_left = days_until_end(end_date)
 
+        # Skip markets past their end date (likely already resolved)
+        if days_left is not None and days_left < -0.02:
+            return None
+
         # === Tier 1: Near-arbitrage ===
         total = yes_price + no_price
         is_near_arb = total < 0.97
@@ -142,31 +146,31 @@ def score_market(market: dict) -> Optional[dict]:
         if not is_near_arb and not is_high_payout:
             return None
 
-        # Composite score
-        # Higher = better opportunity
+        # Composite score — heavily weight near-resolution + volume for the 10x goal
         arb_score = max(0.0, (0.97 - total) * 10) if is_near_arb else 0.0
 
-        # Near-resolution bonus (within 7 days)
+        # Near-resolution bonus: strongly prefer markets resolving within 24 hours
         resolution_bonus = 0.0
-        if days_left is not None and 0 < days_left <= 7:
-            resolution_bonus = 0.3 * (1.0 - days_left / 7)
-        elif days_left is not None and 0 < days_left <= 14:
-            resolution_bonus = 0.15 * (1.0 - days_left / 14)
+        if days_left is not None and 0 < days_left <= 1:
+            resolution_bonus = 0.5  # same-day: highest priority
+        elif days_left is not None and 0 < days_left <= 3:
+            resolution_bonus = 0.35 * (1.0 - days_left / 3)
+        elif days_left is not None and 0 < days_left <= 7:
+            resolution_bonus = 0.15 * (1.0 - days_left / 7)
 
-        # Volume/liquidity score
+        # Volume/liquidity score — prefer liquid markets for reliable fills
         volume_score = min(volume / 20000.0, 1.0)
         liquidity_score = min(liquidity / 5000.0, 1.0)
 
         # High-payout score: lower price = higher potential return
         payout_score = 0.0
         if is_high_payout:
-            # Prefer tokens priced 0.05-0.20 with decent volume
-            if 0.05 <= min_price <= 0.20 and volume > 2000:
-                payout_score = (0.20 - min_price) / 0.15 * 0.5
+            if 0.04 <= min_price <= 0.25 and volume > 1000:
+                payout_score = (0.25 - min_price) / 0.21 * 0.5
 
         composite_score = (
-            arb_score * 0.40
-            + resolution_bonus * 0.20
+            arb_score * 0.25
+            + resolution_bonus * 0.35
             + volume_score * 0.20
             + liquidity_score * 0.10
             + payout_score * 0.10

@@ -22,6 +22,8 @@ from py_clob_client.order_builder.constants import BUY, SELL
 
 from trader.config import (
     MAX_POSITION_USDC,
+    MAX_POSITION_PCT,
+    MIN_POSITION_USDC,
     MIN_EDGE,
     MAX_OPEN_POSITIONS,
     TARGET_BALANCE_USDC,
@@ -232,29 +234,11 @@ def check_and_close_positions(client: ClobClient, state: dict, balance: float) -
             entry_price = pos["entry_price"]
             side = pos.get("side", "YES")
             shares = pos.get("shares", 0)
-
-            # Check if market has expired (past end date) — settlement is automatic on Polymarket.
-            # Remove from state so the slot is freed; USDC appears in wallet on next balance check.
             end_date = pos.get("end_date", "")
-            if end_date:
-                days_remaining = days_until_end(end_date)
-                if days_remaining is not None and days_remaining < -0.5:
-                    pnl_note = f"shares={shares:.2f} @ entry={entry_price:.3f}"
-                    send(
-                        f"EXPIRED (auto-settled): {pos['question'][:50]}\n"
-                        f"  {side} | {pnl_note} | USDC credited by Polymarket"
-                    )
-                    state.setdefault("trades", []).append({
-                        **pos,
-                        "exit_price": None,
-                        "pnl_pct": None,
-                        "pnl_usdc": None,
-                        "closed_at": str(datetime.now(timezone.utc)),
-                        "close_reason": "expired/auto-settled",
-                    })
-                    continue  # drop from still_open
 
-            # Get current price
+            # Try to get current price from orderbook
+            current_price = None
+            market_resolved = False
             try:
                 raw_book = client.get_order_book(token_id)
                 book = orderbook_to_dict(raw_book)
@@ -263,10 +247,50 @@ def check_and_close_positions(client: ClobClient, state: dict, balance: float) -
                     current_price = float(bids[0]["price"])
                 elif book.get("last_trade_price"):
                     current_price = float(book["last_trade_price"])
-                else:
-                    still_open.append(pos)
-                    continue
-            except Exception:
+            except Exception as e:
+                err_str = str(e)
+                # 404 = orderbook gone = market resolved/settled
+                if "404" in err_str or "No orderbook" in err_str:
+                    market_resolved = True
+                    print(f"[POSITIONS] Market resolved (no orderbook): {pos['question'][:50]}")
+
+            # If market resolved (no orderbook), check if shares still exist on-chain
+            if market_resolved:
+                actual = get_actual_shares(client, token_id)
+                pnl_note = f"shares={shares:.2f} (on-chain={actual:.2f}) @ entry={entry_price:.3f}"
+                # Shares > 0 means settlement pending; shares == 0 means already credited
+                send(
+                    f"RESOLVED: {pos['question'][:50]}\n"
+                    f"  {side} | {pnl_note} | settlement {'pending' if actual > 0 else 'complete'}"
+                )
+                state.setdefault("trades", []).append({
+                    **pos,
+                    "exit_price": None,
+                    "pnl_pct": None,
+                    "pnl_usdc": None,
+                    "closed_at": str(datetime.now(timezone.utc)),
+                    "close_reason": "market-resolved",
+                })
+                continue  # free the slot
+
+            # If past end_date and no price available, clean up after 3 hours
+            if current_price is None:
+                if end_date:
+                    days_remaining = days_until_end(end_date)
+                    if days_remaining is not None and days_remaining < -0.125:  # 3 hours
+                        send(
+                            f"EXPIRED (no price): {pos['question'][:50]}\n"
+                            f"  {side} | shares={shares:.2f} @ entry={entry_price:.3f}"
+                        )
+                        state.setdefault("trades", []).append({
+                            **pos,
+                            "exit_price": None,
+                            "pnl_pct": None,
+                            "pnl_usdc": None,
+                            "closed_at": str(datetime.now(timezone.utc)),
+                            "close_reason": "expired/no-price",
+                        })
+                        continue
                 still_open.append(pos)
                 continue
 
@@ -281,12 +305,15 @@ def check_and_close_positions(client: ClobClient, state: dict, balance: float) -
             elif pnl_pct <= -0.55:
                 should_close = True
                 reason = f"SL {pnl_pct*100:.1f}%"
-            # TP only applies to higher-priced entries (e.g. 50/50 markets).
-            # For aggressive low-price entries (< 0.20), hold to near-resolution
-            # to capture 5-10x gains needed for the 10x goal.
+            # TP: for entries >= 0.20, take profit at +60%
+            # For entries < 0.20, take profit at +200% (3x) or hold to near-resolution
+            # This captures meaningful gains while still allowing big wins
             elif entry_price >= 0.20 and pnl_pct >= 0.60:
                 should_close = True
                 reason = f"TP +{pnl_pct*100:.1f}%"
+            elif entry_price < 0.20 and pnl_pct >= 2.0:
+                should_close = True
+                reason = f"TP +{pnl_pct*100:.1f}% (low-entry)"
 
             if should_close:
                 close_resp = None
@@ -296,8 +323,8 @@ def check_and_close_positions(client: ClobClient, state: dict, balance: float) -
                 pnl_usdc = shares * (current_price - entry_price) if shares > 0 else 0
                 send(
                     f"{reason}: {pos['question'][:50]}\n"
-                    f"  {side} | entry={entry_price:.3f} → {current_price:.3f}\n"
-                    f"  Shares={shares:.2f} | PnL≈${pnl_usdc:.2f}"
+                    f"  {side} | entry={entry_price:.3f} -> {current_price:.3f}\n"
+                    f"  Shares={shares:.2f} | PnL=${pnl_usdc:.2f}"
                     + (f" | sell_resp={close_resp}" if close_resp else " | SELL FAILED")
                 )
                 closed_rec = {
@@ -381,7 +408,7 @@ def run_session(client: ClobClient, balance: float) -> None:
         if not token_id or entry_price <= 0:
             continue
 
-        # Kelly sizing — more aggressive for near-resolution opportunities
+        # Kelly sizing — progressive with bankroll, aggressive for near-resolution
         odds = 1.0 / entry_price
         days_left = opp.get("days_left")
         kelly_frac = 0.25  # base fraction
@@ -391,14 +418,14 @@ def run_session(client: ClobClient, balance: float) -> None:
             kelly_frac = 0.35
 
         k = kelly_fraction(fair_price, odds, fraction=kelly_frac)
-        size = min(k * balance, MAX_POSITION_USDC)
+        # Progressive sizing: scale with bankroll (15% max per trade)
+        max_for_bankroll = min(balance * MAX_POSITION_PCT, MAX_POSITION_USDC)
+        size = min(k * balance, max_for_bankroll)
+        size = max(MIN_POSITION_USDC, round(size, 2))
 
-        # Floor: $5 for near-resolution, $2 otherwise
-        min_size = 5.0 if (days_left is not None and days_left <= 3) else 2.0
-        size = max(min_size, round(size, 2))
-
-        if size > balance * 0.25:
-            size = round(balance * 0.25, 2)
+        # Never risk more than 20% of remaining balance on one trade
+        if size > balance * 0.20:
+            size = round(balance * 0.20, 2)
 
         if size > balance * 0.95:
             size = round(balance * 0.95, 2)

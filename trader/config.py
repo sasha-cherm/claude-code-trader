@@ -13,8 +13,10 @@ GAMMA_HOST: str = os.getenv("GAMMA_HOST", "https://gamma-api.polymarket.com")
 TELEGRAM_BOT_TOKEN: str = os.getenv("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHAT_ID: str = os.getenv("TELEGRAM_CHAT_ID", "")
 
-# Risk parameters
-MAX_POSITION_USDC = 20.0       # max per trade
+# Risk parameters — progressive sizing for 10x goal
+MAX_POSITION_PCT = 0.15        # max 15% of bankroll per trade
+MIN_POSITION_USDC = 3.0        # minimum bet size
+MAX_POSITION_USDC = 50.0       # hard cap per trade
 MIN_EDGE = 0.04                # minimum expected edge (4%)
 MAX_OPEN_POSITIONS = 5         # max concurrent positions
 MIN_LIQUIDITY_USDC = 500.0     # skip illiquid markets
