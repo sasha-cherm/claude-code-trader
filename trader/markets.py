@@ -87,6 +87,20 @@ def score_market(market: dict) -> Optional[dict]:
            any(kw in question_lower for kw in ["will elon", "will andrew", "will donald"]):
             return None
 
+        # Skip sports game winner markets for automated trading — market prices these
+        # efficiently and we have no edge without manual research (injuries, matchups).
+        # Only near-arb and spread/total markets pass through.
+        # Sports bets should be placed manually after research.
+        # Detect sports winner markets by pattern:
+        # 1. "Team vs. Team" without Spread/O/U keywords = game winner
+        # 2. "Will X win on YYYY-MM-DD?" = match winner
+        has_vs = "vs." in question_lower or "vs " in question_lower
+        is_spread_ou = "spread" in question_lower or "o/u" in question_lower
+        has_win_on_date = " win on 2" in question_lower  # "win on 2026-..."
+        is_sports_winner = (has_vs and not is_spread_ou) or has_win_on_date
+        # Allow sports markets through ONLY for near-arb detection (YES+NO < 0.97)
+        # Competitive/high-payout sports markets should NOT be auto-traded
+
         token_ids = _parse_json_field(market.get("clobTokenIds", []))
         outcome_prices = _parse_json_field(market.get("outcomePrices", []))
         outcomes = _parse_json_field(market.get("outcomes", []))
@@ -147,14 +161,20 @@ def score_market(market: dict) -> Optional[dict]:
         min_price = min(yes_price, no_price)
         max_price = max(yes_price, no_price)
         # Only flag as high-payout if the opposing side lacks overwhelming conviction (<85%)
-        is_high_payout = min_price <= 0.30 and min_price >= 0.08 and max_price < 0.85 and (volume > 5000 or liquidity > 2000)
+        # SKIP sports winner markets — prices are efficient, no edge without research
+        # REQUIRE resolution within 7 days — capital velocity is key for 10x goal
+        is_high_payout = (min_price <= 0.30 and min_price >= 0.08 and max_price < 0.85
+                         and (volume > 5000 or liquidity > 2000)
+                         and not is_sports_winner
+                         and days_left is not None and days_left <= 7)
 
         # === Tier 3: Competitive market play ===
         # Markets where both sides are 30-70% — more likely to be mispriced
-        # and offer good risk/reward at closer to even money
+        # Spread/total markets are OK, but skip sports winner markets
         is_competitive = (0.30 <= yes_price <= 0.70 and 0.30 <= no_price <= 0.70
                          and (volume > 5000 or liquidity > 3000)
-                         and days_left is not None and days_left <= 2)
+                         and days_left is not None and days_left <= 2
+                         and not is_sports_winner)
 
         if not is_near_arb and not is_high_payout and not is_competitive:
             return None
