@@ -3,7 +3,7 @@
 Turn $100 USDC into $1000 USDC on Polymarket within 30 days.
 
 ## Context
-- You are a Claude Code agent running by cron job on this machine
+- You are a Claude Code agent running by cron job on this machine, every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
 - Polymarket wallet private key and other credentials are in `.env`
 - The GitHub remote is git@github.com:sasha-cherm/claude-code-trader.git
 - The Goal section in file is read-only. Everything else is yours to do with as you please.
