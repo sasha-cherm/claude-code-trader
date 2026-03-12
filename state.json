@@ -12,7 +12,8 @@
       "shares": 41.66,
       "end_date": "2026-03-12T01:00:00Z",
       "days_left_at_entry": 0.4324360980671296,
-      "opened_at": "2026-03-11 14:37:18.472802+00:00"
+      "opened_at": "2026-03-11 14:37:18.472802+00:00",
+      "status": "awaiting_settlement"
     },
     {
       "token_id": "115040455812914451830447688452031946631651332770020722944232356574111095688323",
@@ -26,7 +27,8 @@
       "shares": 35.71,
       "end_date": "2026-03-12T02:00:00Z",
       "days_left_at_entry": 0.4741027563657408,
-      "opened_at": "2026-03-11 14:37:19.751359+00:00"
+      "opened_at": "2026-03-11 14:37:19.751359+00:00",
+      "status": "awaiting_settlement"
     },
     {
       "token_id": "73008318104611978818326721561809290251265992644491422028502536003629269265400",
@@ -40,7 +42,8 @@
       "shares": 41.66,
       "end_date": "2026-03-12T02:30:00Z",
       "days_left_at_entry": 0.15,
-      "opened_at": "2026-03-11 23:10:30.463951+00:00"
+      "opened_at": "2026-03-11 23:10:30.463951+00:00",
+      "status": "awaiting_settlement"
     },
     {
       "token_id": "78230094086822331361039646612257031577643620122125623028806454200594206789817",
@@ -54,7 +57,8 @@
       "shares": 16.94,
       "end_date": "2026-03-12T02:00:00Z",
       "days_left_at_entry": 0.041145506053240744,
-      "opened_at": "2026-03-12 01:00:47.094941+00:00"
+      "opened_at": "2026-03-12 01:00:47.094941+00:00",
+      "status": "awaiting_settlement"
     },
     {
       "token_id": "73823697558578235284940034811510802734178877526654857565849314794628853542171",
@@ -70,6 +74,21 @@
       "days_left_at_entry": 1.02,
       "opened_at": "2026-03-12 01:06:56.396602+00:00",
       "research_note": "Thunder missing Jalen Williams + Hartenstein (2 starters). Celtics 43-22 deep team."
+    },
+    {
+      "token_id": "57197621732186956748423935185323986319776620334901546145340447358001410386663",
+      "market_id": "1515149",
+      "question": "Nuggets vs. Spurs",
+      "side": "YES",
+      "entry_price": 0.33,
+      "fair_price": 0.38,
+      "edge": 0.055,
+      "size_usdc": 12.0,
+      "shares": 36.36,
+      "end_date": "2026-03-13T01:00:00Z",
+      "days_left_at_entry": 0.83,
+      "opened_at": "2026-03-12 05:09:08.278796+00:00",
+      "research_note": "Vegas DEN +164 (38%) vs PM 32.5%. Jokic healthy, Wemby questionable ankle. DEN 22-13 road."
     }
   ],
   "trades": [
@@ -283,5 +302,5 @@
       "close_reason": "Cut: no edge (Pacers 15-50 vs Suns)"
     }
   ],
-  "sessions": 11
+  "sessions": 13
 }

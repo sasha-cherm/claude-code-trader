@@ -247,25 +247,36 @@ def check_and_close_positions(client: ClobClient, state: dict, balance: float) -
             shares = pos.get("shares", 0)
             end_date = pos.get("end_date", "")
 
+            # Check if market is past its end date — if so, don't try to sell,
+            # wait for on-chain settlement instead
+            days_remaining = days_until_end(end_date) if end_date else None
+            market_expired = days_remaining is not None and days_remaining < -0.04  # ~1 hour past
+
             # Try to get current price from orderbook
             current_price = None
             market_resolved = False
-            try:
-                raw_book = client.get_order_book(token_id)
-                book = orderbook_to_dict(raw_book)
-                bids = book.get("bids", [])
-                if bids:
-                    current_price = float(bids[0]["price"])
-                elif book.get("last_trade_price"):
-                    current_price = float(book["last_trade_price"])
-            except Exception as e:
-                err_str = str(e)
-                # 404 = orderbook gone = market resolved/settled
-                if "404" in err_str or "No orderbook" in err_str:
-                    market_resolved = True
-                    print(f"[POSITIONS] Market resolved (no orderbook): {pos['question'][:50]}")
 
-            # If market resolved (no orderbook), check if shares still exist on-chain
+            if market_expired:
+                # Market ended — treat as resolved, skip orderbook query
+                market_resolved = True
+                print(f"[POSITIONS] Market expired ({abs(days_remaining):.1f}d ago): {pos['question'][:50]}")
+            else:
+                try:
+                    raw_book = client.get_order_book(token_id)
+                    book = orderbook_to_dict(raw_book)
+                    bids = book.get("bids", [])
+                    if bids:
+                        current_price = float(bids[0]["price"])
+                    elif book.get("last_trade_price"):
+                        current_price = float(book["last_trade_price"])
+                except Exception as e:
+                    err_str = str(e)
+                    # 404 = orderbook gone = market resolved/settled
+                    if "404" in err_str or "No orderbook" in err_str:
+                        market_resolved = True
+                        print(f"[POSITIONS] Market resolved (no orderbook): {pos['question'][:50]}")
+
+            # If market resolved/expired, check if shares still exist on-chain
             if market_resolved:
                 actual = get_actual_shares(client, token_id)
                 # If shares == 0, settlement already happened (won = USDC credited, lost = shares burned)
@@ -342,7 +353,14 @@ def check_and_close_positions(client: ClobClient, state: dict, balance: float) -
                 sell_succeeded = False
                 if shares > 0:
                     close_resp = place_market_sell(client, token_id, shares, current_price)
-                    sell_succeeded = close_resp is not None
+                    if close_resp is not None:
+                        # Verify sell actually filled by checking on-chain balance
+                        import time
+                        time.sleep(1)  # brief wait for settlement
+                        remaining = get_actual_shares(client, token_id)
+                        sell_succeeded = remaining < 0.5  # less than 0.5 shares = filled
+                        if not sell_succeeded:
+                            print(f"[ORDER] Sell order placed but not filled. Remaining: {remaining:.2f} shares")
 
                 # Only count PnL if sell actually went through
                 if sell_succeeded:
