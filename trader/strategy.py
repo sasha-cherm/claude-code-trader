@@ -103,37 +103,10 @@ def estimate_edge(opportunity: dict, orderbook: Optional[dict]) -> tuple[float, 
                 elif no_price < (1.0 - mid) - 0.025:
                     return spread / 2, "NO", 1.0 - mid
 
-    # 3. High-payout plays — low-price tokens with volume, resolving soon
-    # Only enter with sufficient volume and near-term resolution for capital velocity
-    vol = opportunity.get("volume_24h", 0)
-    liquidity = opportunity.get("liquidity", 0)
-    days_left = opportunity.get("days_left")
-    if (vol > 5000 or liquidity > 2000) and days_left is not None and days_left <= 2:
-        max_price = 0.30
-        base_edge = 0.06
-        # Skip tokens priced too low (<0.08) — near-certain losers
-        # Skip if the expensive side is > 0.85: overwhelming market conviction against us
-        if yes_price <= max_price and yes_price >= 0.08 and no_price < 0.85:
-            return base_edge, "YES", yes_price + base_edge
-        if no_price <= max_price and no_price >= 0.08 and yes_price < 0.85:
-            return base_edge, "NO", no_price + base_edge
-
-    # 4. Competitive market plays — only with orderbook dislocation (real edge)
-    # Don't enter 50/50 coin-flip bets without a pricing signal
-    if opportunity.get("is_competitive") and (vol > 10000 or liquidity > 5000):
-        if orderbook:
-            bids = orderbook.get("bids", [])
-            asks = orderbook.get("asks", [])
-            if bids and asks:
-                best_bid = float(bids[0]["price"])
-                best_ask = float(asks[0]["price"])
-                mid = (best_bid + best_ask) / 2.0
-                spread = best_ask - best_bid
-                # Only enter when there's meaningful spread dislocation
-                if yes_price < mid - 0.015 and spread > 0.025:
-                    return max(spread / 2, 0.04), "YES", mid
-                elif no_price < (1.0 - mid) - 0.015 and spread > 0.025:
-                    return max(spread / 2, 0.04), "NO", 1.0 - mid
+    # 3. DISABLED — formerly assigned fake 0.06 edge to low-priced tokens.
+    # This caused $35 in losses on blind NBA bets (all 4 lost).
+    # Auto-trading now only enters on near-arb or orderbook dislocation.
+    # The Claude agent places researched trades manually during sessions.
 
     return 0.0, "YES", yes_price
 
