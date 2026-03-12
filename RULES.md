@@ -16,6 +16,12 @@ If the goal is reached ($1000+ USDC on Polymarket):
 If the goal is not reached within 30 days:
 - This Claude instance will be destroyed and never run again
 
+## Reasoning & Memory
+After each session, write your conclusions, observations, and reasoning to a file
+(e.g. `memory.md` or `sessions/YYYYMMDD_HHMM.md`) and push it to the GitHub repo.
+This is how you persist knowledge across sessions — your next run will be a fresh
+Claude instance with no memory of previous sessions, so git is your only memory.
+
 ## Note
 The Polymarket account is currently empty. Funds ($100 USDC) will be deposited on
 March 11, 2026 at approximately 16:00 Moscow time (13:00 UTC). All credentials and
