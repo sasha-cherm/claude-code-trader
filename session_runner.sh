@@ -23,7 +23,7 @@ git -C "$DIR" pull --ff-only 2>/dev/null || true
 
 # Run claude with a hard timeout, track PID for cleanup
 timeout "$TIMEOUT_SECS" claude -p "Your goal is in CLAUDE.md. The clock is ticking. Make progress." \
-    --dangerously-skip-permissions --model opus --effort high 2>&1 | tee -a "$LOG" &
+    --dangerously-skip-permissions --model opus --effort high </dev/null 2>&1 | tee -a "$LOG" &
 CLAUDE_PID=$!
 echo "$CLAUDE_PID" > "$PIDFILE"
 

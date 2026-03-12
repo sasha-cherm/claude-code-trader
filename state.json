@@ -31,18 +31,19 @@
       "research_note": "Vegas DEN +164 (38%) vs PM 32.5%. Jokic healthy, Wemby questionable ankle. DEN 22-13 road."
     },
     {
-      "token_id": "30987894188701197794296920095167789628413885710887666800061199410948358586814",
-      "market_id": "1552205",
-      "question": "Bitcoin Up or Down on March 12?",
+      "token_id": "1329315678088798903868264617982622046813330026319924156104961694365835118022",
+      "market_id": "1508219",
+      "question": "Will the price of Bitcoin be above $70,000 on March 12?",
       "side": "YES",
-      "entry_price": 0.29,
-      "fair_price": 0.35,
-      "edge": 0.06,
-      "size_usdc": 5.0,
-      "shares": 17.24,
+      "entry_price": 0.698,
+      "fair_price": 0.82,
+      "edge": 0.122,
+      "size_usdc": 6.51,
+      "shares": 9.33,
       "end_date": "2026-03-12T16:00:00Z",
-      "days_left_at_entry": 0.2737186347337963,
-      "opened_at": "2026-03-12 09:25:52.270715+00:00"
+      "days_left_at_entry": 0.17,
+      "opened_at": "2026-03-12 12:00:00+00:00",
+      "research_note": "BTC at $70,760, 4h to resolution. 4h vol ~1.1%, z=1.05 -> P(above)~82%. PM price 70.5%, filled at 69.8%."
     }
   ],
   "trades": [
@@ -334,7 +335,26 @@
       "pnl_usdc": -5.0,
       "closed_at": "2026-03-12 09:27:44.404535+00:00",
       "close_reason": "Settlement loss (Nuggets won)"
+    },
+    {
+      "token_id": "30987894188701197794296920095167789628413885710887666800061199410948358586814",
+      "market_id": "1552205",
+      "question": "Bitcoin Up or Down on March 12?",
+      "side": "YES",
+      "entry_price": 0.29,
+      "fair_price": 0.35,
+      "edge": 0.06,
+      "size_usdc": 5.0,
+      "shares": 17.24,
+      "end_date": "2026-03-12T16:00:00Z",
+      "days_left_at_entry": 0.2737186347337963,
+      "opened_at": "2026-03-12 09:25:52.270715+00:00",
+      "exit_price": 0.58,
+      "pnl_pct": 1.0,
+      "pnl_usdc": 3.949399999999999,
+      "closed_at": "2026-03-12 11:20:42+00:00",
+      "close_reason": "Auto-sold at 0.58 (TP on BTC up move)"
     }
   ],
-  "sessions": 14
+  "sessions": 16
 }
