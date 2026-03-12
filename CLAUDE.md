@@ -24,3 +24,23 @@ After each session, write your conclusions, observations, and reasoning to a fil
 This is how you persist knowledge across sessions — your next run will be a fresh
 Claude instance with no memory of previous sessions, so git is your only memory.
 
+## Session Workflow (READ THIS FIRST)
+1. Read the **latest session notes** in `sessions/` for strategy context
+2. Read `state.json` for current positions and trade history
+3. Run `python3 main.py` to check/close positions and scan for near-arb opportunities
+4. **Research opportunities manually**: compare Polymarket prices to Vegas/bookmaker odds
+5. Place manual trades where you find **confirmed edge (>5%)** using Python calls
+6. Write session notes and push to git
+
+## Strategy Rules (Learned from Experience)
+- **NEVER auto-trade with fake edge**: The removed tiers in `estimate_edge()` assigned
+  0.06 edge to any cheap token. This lost $35 on Day 1. Only near-arb and orderbook
+  dislocation are real automated edge signals.
+- **Research before betting**: Compare Polymarket odds to Vegas/bookmaker odds.
+  When Polymarket diverges >5% from Vegas, that's real edge.
+- **Size aggressively on high-conviction plays**: 15-25% of bankroll when edge >5%.
+- **Near-resolution plays are highest EV**: Markets resolving in <24h where you can
+  assess the likely outcome (e.g., BTC is at $71K and market is "will BTC be above $70K?").
+- **Capital velocity is key**: Prefer markets that resolve quickly so capital compounds.
+- **Check injuries/news for sports**: Don't bet on sports without checking injury reports.
+
