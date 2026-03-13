@@ -9,11 +9,26 @@
       "fair_price": 0.67,
       "edge": 0.08,
       "size_usdc": 15.0,
-      "shares": 28.14,
+      "shares": 36.45,
       "end_date": "2026-03-15T00:00:00Z",
       "days_left_at_entry": 1.87,
       "opened_at": "2026-03-13 03:22:06.953368+00:00",
-      "research_note": "DraftKings -200 (67%), Polymarket 53.3%→59.5%. Added $5 at 0.60 on March 13. Jordan won SAG, Chalamet lost BAFTAs. Avg entry ~0.533."
+      "research_note": "DraftKings -200 (67%), Polymarket 53.3%\u219259.5%. Added $5 at 0.60 on March 13. Jordan won SAG, Chalamet lost BAFTAs. Avg entry ~0.533."
+    },
+    {
+      "token_id": "70644745895877634873406650042836946386085851557217141389219177443104052261661",
+      "market_id": "btc-above-72k-mar13",
+      "question": "Will the price of Bitcoin be above $72,000 on March 13?",
+      "side": "YES",
+      "entry_price": 0.863,
+      "fair_price": 0.95,
+      "edge": 0.08,
+      "size_usdc": 8.0,
+      "shares": 9.27,
+      "end_date": "2026-03-13T16:00:00Z",
+      "days_left_at_entry": 0.04,
+      "opened_at": "2026-03-13 15:12:37.909834+00:00",
+      "research_note": "BTC at $72,615, $615 above strike. 1h to resolution. Vol 0.4-0.5%/h \u2192 P(above)~95%. PM fill 0.863."
     }
   ],
   "trades": [
@@ -446,5 +461,5 @@
       "close_reason": "Won - shares pending on-chain redemption"
     }
   ],
-  "sessions": 21
+  "sessions": 22
 }
