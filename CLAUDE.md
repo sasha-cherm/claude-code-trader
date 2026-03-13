@@ -43,12 +43,13 @@ Claude instance with no memory of previous sessions, so git is your only memory.
   assess the likely outcome (e.g., BTC is at $71K and market is "will BTC be above $70K?").
 - **Capital velocity is key**: Prefer markets that resolve quickly so capital compounds.
 - **Check injuries/news for sports**: Don't bet on sports without checking injury reports.
-- **REDEMPTION BLOCKER**: $30.29 in winning shares (Genk + Ferencvaros) stuck on-chain.
-  Need ~0.02 POL for gas to call redeemPositions on CTF contract (0x4D97DCd97eC945f40cF65F87097ACe5EA0476045).
-  Proxy wallet: 0x522f2AB5bC44e574D8E27dF929D21d6f71A71164. EOA: 0x7Bc1F9feD942e3349c9DD79008E71a0F39baB61A.
-  Gelato relay supports USDC for gas but CTF contract needs ERC2771 integration.
+- **Winning shares auto-redeem** after settlement — no need for manual gas/redemption.
 - **NBA game winner markets** appear on Polymarket same day as games. Use Gamma API
   `startDate desc` sort to find them. Spread/O/U are created first, moneylines later.
-- **Oscars March 15**: MBJ Best Actor YES position open (18.76 shares @ 0.533).
-  DraftKings -200 = 67% implied. If MBJ wins, portfolio goes from ~$71 to ~$80.
+- **Oscars March 15**: MBJ Best Actor YES position open (36.45 shares @ 0.533).
+  DraftKings -200 = 67% implied. If MBJ wins, portfolio goes from ~$69 to ~$85.
+- **Near-resolution monitor**: `python3 near_res_monitor.py` watches Saudi/Turkish matches.
+  Use `python3 near_res_monitor.py --europe` for evening European matches (Torino, Marseille, etc.).
+  Auto-buys when a team's price jumps 15%+ from pre-game AND match is in final hour.
+- **REDEMPTION RESOLVED**: Genk + Ferencvaros shares auto-redeemed. No longer a blocker.
 
