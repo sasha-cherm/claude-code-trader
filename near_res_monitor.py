@@ -109,6 +109,89 @@ EUROPE_WATCH = [
     },
 ]
 
+# NBA games March 13-14 (tip-off 23:30 UTC March 13 to 02:00 UTC March 14)
+# Best near-res candidates: underdog-friendly or competitive games
+NBA_WATCH = [
+    {
+        "name": "Suns",
+        "token_id": "90831007321498878309635985921294862978869592655078198354418017935785677882935",
+        "end_date": "2026-03-13T23:30:00Z",
+        "pre_game_price": 0.355,
+        "question": "Suns vs. Raptors",
+    },
+    {
+        "name": "Raptors",
+        "token_id": "98806195999269766246380874445524922591407796607735276469911486842340306289903",
+        "end_date": "2026-03-13T23:30:00Z",
+        "pre_game_price": 0.645,
+        "question": "Suns vs. Raptors",
+    },
+    {
+        "name": "Pelicans",
+        "token_id": "101065891306751865878824869180517933241409340908670876011208199462295610465144",
+        "end_date": "2026-03-14T00:00:00Z",
+        "pre_game_price": 0.285,
+        "question": "Pelicans vs. Rockets",
+    },
+    {
+        "name": "Rockets",
+        "token_id": "18176990394337660517284500509535423190698716346893436345719073263245777351420",
+        "end_date": "2026-03-14T00:00:00Z",
+        "pre_game_price": 0.715,
+        "question": "Pelicans vs. Rockets",
+    },
+    {
+        "name": "Timberwolves",
+        "token_id": "26916626020902189771338431077646753563876966479504685873022270080357728455598",
+        "end_date": "2026-03-14T02:00:00Z",
+        "pre_game_price": 0.665,
+        "question": "Timberwolves vs. Warriors",
+    },
+    {
+        "name": "Warriors",
+        "token_id": "63086044200370587101552982416857948268064991221522873754579523700218090148897",
+        "end_date": "2026-03-14T02:00:00Z",
+        "pre_game_price": 0.335,
+        "question": "Timberwolves vs. Warriors",
+    },
+    {
+        "name": "Knicks",
+        "token_id": "86481924397129064868065568151775506251048405696468172318944549052111737450450",
+        "end_date": "2026-03-13T23:30:00Z",
+        "pre_game_price": 0.875,
+        "question": "Knicks vs. Pacers",
+    },
+    {
+        "name": "Cavaliers",
+        "token_id": "46760401027593982194128381193964014866650565058033474933527346539890122852049",
+        "end_date": "2026-03-13T23:30:00Z",
+        "pre_game_price": 0.875,
+        "question": "Cavaliers vs. Mavericks",
+    },
+    {
+        "name": "Pistons",
+        "token_id": "39166042140681004392613639091441013276843690188303371574870320155393923699842",
+        "end_date": "2026-03-13T23:30:00Z",
+        "pre_game_price": 0.905,
+        "question": "Grizzlies vs. Pistons",
+    },
+    # NHL games
+    {
+        "name": "Oilers",
+        "token_id": "57774900735301434161221702797910866527249162546352749981245418215732388831285",
+        "end_date": "2026-03-14T00:00:00Z",
+        "pre_game_price": 0.575,
+        "question": "Oilers vs. Blues",
+    },
+    {
+        "name": "Blues",
+        "token_id": "11737355181338681672537774641147494389537517255178772891539713448807516284070",
+        "end_date": "2026-03-14T00:00:00Z",
+        "pre_game_price": 0.425,
+        "question": "Oilers vs. Blues",
+    },
+]
+
 MAX_SPEND_PER_TRADE = 12.0
 MIN_SPEND = 5.0
 MIN_PRICE_JUMP = 0.15  # Price must have jumped 15%+ from pre-game
@@ -238,13 +321,19 @@ def try_buy(client, market, balance):
 
 
 def main():
+    global WATCH_LIST
     # Choose watch list based on command-line arg
-    use_europe = "--europe" in sys.argv
-    watch = EUROPE_WATCH if use_europe else WATCH_LIST
-    label = "EUROPE" if use_europe else "SAUDI/TURKISH"
+    if "--nba" in sys.argv:
+        watch = NBA_WATCH
+        label = "NBA/NHL"
+    elif "--europe" in sys.argv:
+        watch = EUROPE_WATCH
+        label = "EUROPE"
+    else:
+        watch = WATCH_LIST
+        label = "SAUDI/TURKISH"
 
     # Override the global WATCH_LIST for this run
-    global WATCH_LIST
     WATCH_LIST = watch
 
     print(f"=== Near-Resolution Monitor ({label}) Started at {datetime.now(timezone.utc).strftime('%H:%M UTC')} ===")

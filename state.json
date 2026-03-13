@@ -5,15 +5,15 @@
       "market_id": "614012",
       "question": "Will Michael B. Jordan win Best Actor at the 98th Academy Awards?",
       "side": "YES",
-      "entry_price": 0.533,
+      "entry_price": 0.45573212258796825,
       "fair_price": 0.67,
       "edge": 0.08,
-      "size_usdc": 15.0,
-      "shares": 36.45,
+      "size_usdc": 24.09,
+      "shares": 52.86,
       "end_date": "2026-03-15T00:00:00Z",
       "days_left_at_entry": 1.87,
       "opened_at": "2026-03-13 03:22:06.953368+00:00",
-      "research_note": "DraftKings -200 (67%), Polymarket 53.3%\u219259.5%. Added $5 at 0.60 on March 13. Jordan won SAG, Chalamet lost BAFTAs. Avg entry ~0.533."
+      "research_note": "DraftKings -200 (67%), Polymarket 53.3%\u219259.5%. Added $5 at 0.60 on March 13. Jordan won SAG, Chalamet lost BAFTAs. Avg entry ~0.533. | Added $10.0 at 0.553 on March 13 18:00. DraftKings -200 (67%), PM 55.3%. 11.7% edge."
     }
   ],
   "trades": [
@@ -466,5 +466,5 @@
       "close_reason": "Settlement loss (BTC at $71,827 < $72K strike)"
     }
   ],
-  "sessions": 23
+  "sessions": 24
 }
