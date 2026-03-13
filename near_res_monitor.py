@@ -45,7 +45,7 @@ WATCH_LIST = [
         "pre_game_price": 0.615,
         "question": "Will Al Ittihad win on 2026-03-13?",
     },
-    # Fenerbahce (kickoff ~17:00 Turkish time, PM end 17:00 UTC? -- check)
+    # Fenerbahce (kickoff ~17:00 UTC, PM end 17:00)
     {
         "name": "Fenerbahçe",
         "token_id": "46709670121582610004912857317063745965467029251368454355229888096157919924763",
@@ -53,20 +53,59 @@ WATCH_LIST = [
         "pre_game_price": 0.675,
         "question": "Will Fenerbahçe SK win on 2026-03-13?",
     },
-    # PEC Zwolle vs Groningen (kickoff ~17:00, PM end 19:00)
+    # Antalyaspor (kickoff ~17:00 UTC, PM end 17:00)
     {
-        "name": "PEC Zwolle",
-        "token_id": None,  # Need to find
-        "end_date": "2026-03-13T19:00:00Z",
-        "pre_game_price": 0.355,
-        "question": "Will PEC Zwolle win on 2026-03-13?",
+        "name": "Antalyaspor",
+        "token_id": "27021387477550538567800367709106543132999418818195686013649320843412015593607",
+        "end_date": "2026-03-13T17:00:00Z",
+        "pre_game_price": 0.405,
+        "question": "Will Antalyaspor win on 2026-03-13?",
+    },
+]
+
+# European evening matches (kickoff 19:30-20:00 UTC, near-res ~21:00)
+EUROPE_WATCH = [
+    {
+        "name": "Mönchengladbach",
+        "token_id": "74716747861267976065658579604004998847595596338481453464874106170396996672549",
+        "end_date": "2026-03-13T19:30:00Z",
+        "pre_game_price": 0.495,
+        "question": "Will Borussia Mönchengladbach win on 2026-03-13?",
     },
     {
-        "name": "FC Groningen",
-        "token_id": None,  # Need to find
-        "end_date": "2026-03-13T19:00:00Z",
-        "pre_game_price": 0.375,
-        "question": "Will FC Groningen win on 2026-03-13?",
+        "name": "Torino",
+        "token_id": "91130554885371201812339149180015571854199766648578743080409422082306816993713",
+        "end_date": "2026-03-13T19:45:00Z",
+        "pre_game_price": 0.435,
+        "question": "Will Torino FC win on 2026-03-13?",
+    },
+    {
+        "name": "Marseille",
+        "token_id": "102414546583444019585087874009357452675172941208962004544393866943625229507329",
+        "end_date": "2026-03-13T19:45:00Z",
+        "pre_game_price": 0.675,
+        "question": "Will Olympique de Marseille win on 2026-03-13?",
+    },
+    {
+        "name": "Villarreal",
+        "token_id": "33333125574953505042014572663065796133539712143996059145716404099571082268669",
+        "end_date": "2026-03-13T20:00:00Z",
+        "pre_game_price": 0.435,
+        "question": "Will Villarreal CF win on 2026-03-13?",
+    },
+    {
+        "name": "Parma",
+        "token_id": "42889018969408201219144683339269090123817398615942189954858475540348463489158",
+        "end_date": "2026-03-13T19:45:00Z",
+        "pre_game_price": 0.245,
+        "question": "Will Parma Calcio 1913 win on 2026-03-13?",
+    },
+    {
+        "name": "Alavés",
+        "token_id": "20893137374710954151401739368173702855784950337521949657086259029802619532488",
+        "end_date": "2026-03-13T20:00:00Z",
+        "pre_game_price": 0.285,
+        "question": "Will Deportivo Alavés win on 2026-03-13?",
     },
 ]
 
@@ -199,7 +238,16 @@ def try_buy(client, market, balance):
 
 
 def main():
-    print(f"=== Near-Resolution Monitor Started at {datetime.now(timezone.utc).strftime('%H:%M UTC')} ===")
+    # Choose watch list based on command-line arg
+    use_europe = "--europe" in sys.argv
+    watch = EUROPE_WATCH if use_europe else WATCH_LIST
+    label = "EUROPE" if use_europe else "SAUDI/TURKISH"
+
+    # Override the global WATCH_LIST for this run
+    global WATCH_LIST
+    WATCH_LIST = watch
+
+    print(f"=== Near-Resolution Monitor ({label}) Started at {datetime.now(timezone.utc).strftime('%H:%M UTC')} ===")
 
     client = get_client()
     balance = get_usdc_balance(client)
@@ -209,8 +257,8 @@ def main():
     print("\nResolving token IDs...")
     find_token_ids(client)
 
-    # Monitor loop — run for up to 2 hours
-    max_iterations = 120  # 120 * 60s = 2 hours
+    # Monitor loop — run for up to 2.5 hours
+    max_iterations = 150  # 150 * 60s = 2.5 hours
     for i in range(max_iterations):
         now = datetime.now(timezone.utc)
         print(f"\n--- Check #{i+1} at {now.strftime('%H:%M:%S UTC')} ---")
