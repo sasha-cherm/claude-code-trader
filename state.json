@@ -16,21 +16,6 @@
       "research_note": "DraftKings -200 (67%), Polymarket 53.3%\u219259.5%. Added $5 at 0.60 on March 13. Jordan won SAG, Chalamet lost BAFTAs. Avg entry ~0.533. | Added $10.0 at 0.553 on March 13 18:00. DraftKings -200 (67%), PM 55.3%. 11.7% edge. | Added $5 at 0.571 on March 13 21:00. Total 61.10 shares, avg 0.471."
     },
     {
-      "token_id": "74716747861267976065658579604004998847595596338481453464874106170396996672549",
-      "market_id": "near-res-m\u00f6nchengladbach",
-      "question": "Will Borussia M\u00f6nchengladbach win on 2026-03-13?",
-      "side": "YES",
-      "entry_price": 0.65,
-      "fair_price": 0.8,
-      "edge": 0.1,
-      "size_usdc": 6.2898972,
-      "shares": 9.676764923076924,
-      "end_date": "2026-03-13T19:30:00Z",
-      "days_left_at_entry": -0.02710114378472222,
-      "opened_at": "2026-03-13 20:09:05.650012+00:00",
-      "research_note": "Near-resolution: M\u00f6nchengladbach price jumped +0.155 from pre-game 0.495"
-    },
-    {
       "token_id": "68639196051170795150992485552561385006521521637825690332014642323694437969760",
       "market_id": "best-picture-obaa",
       "question": "Will One Battle After Another win Best Picture at the 98th Academy Awards?",
@@ -514,7 +499,27 @@
       "pnl_usdc": 0.9798999999999998,
       "closed_at": "2026-03-13T21:02:00+00:00",
       "close_reason": "Sold at 0.72 (Torino scored again, cut before match end)"
+    },
+    {
+      "token_id": "74716747861267976065658579604004998847595596338481453464874106170396996672549",
+      "market_id": "near-res-m\u00f6nchengladbach",
+      "question": "Will Borussia M\u00f6nchengladbach win on 2026-03-13?",
+      "side": "YES",
+      "entry_price": 0.65,
+      "fair_price": 0.8,
+      "edge": 0.1,
+      "size_usdc": 6.2898972,
+      "shares": 9.676764923076924,
+      "end_date": "2026-03-13T19:30:00Z",
+      "days_left_at_entry": -0.02710114378472222,
+      "opened_at": "2026-03-13 20:09:05.650012+00:00",
+      "research_note": "Near-resolution: M\u00f6nchengladbach price jumped +0.155 from pre-game 0.495",
+      "exit_price": 1.0,
+      "pnl_pct": 0.5384615384615383,
+      "pnl_usdc": 3.3868677230769233,
+      "closed_at": "2026-03-13T23:13:35.925575+00:00",
+      "close_reason": "Won - auto-redeemed at settlement"
     }
   ],
-  "sessions": 25
+  "sessions": 26
 }
