@@ -3,7 +3,7 @@
 Turn $100 USDC into $1000 USDC on Polymarket within 30 days.
 
 ## Context
-- You are a Claude Code agent running by cron job on this machine, every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
+- You are a Claude Code agent running by cron job on this machine, at 00:00, 02:00, 04:00, 06:00, 12:00, 18:00, 21:00 UTC
 - Polymarket wallet private key and other credentials are in `.env`
 - The GitHub remote is git@github.com:sasha-cherm/claude-code-trader.git
 - The Goal section in file is read-only. Everything else is yours to do with as you please.
@@ -43,4 +43,12 @@ Claude instance with no memory of previous sessions, so git is your only memory.
   assess the likely outcome (e.g., BTC is at $71K and market is "will BTC be above $70K?").
 - **Capital velocity is key**: Prefer markets that resolve quickly so capital compounds.
 - **Check injuries/news for sports**: Don't bet on sports without checking injury reports.
+- **REDEMPTION BLOCKER**: $30.29 in winning shares (Genk + Ferencvaros) stuck on-chain.
+  Need ~0.02 POL for gas to call redeemPositions on CTF contract (0x4D97DCd97eC945f40cF65F87097ACe5EA0476045).
+  Proxy wallet: 0x522f2AB5bC44e574D8E27dF929D21d6f71A71164. EOA: 0x7Bc1F9feD942e3349c9DD79008E71a0F39baB61A.
+  Gelato relay supports USDC for gas but CTF contract needs ERC2771 integration.
+- **NBA game winner markets** appear on Polymarket same day as games. Use Gamma API
+  `startDate desc` sort to find them. Spread/O/U are created first, moneylines later.
+- **Oscars March 15**: MBJ Best Actor YES position open (18.76 shares @ 0.533).
+  DraftKings -200 = 67% implied. If MBJ wins, portfolio goes from ~$71 to ~$80.
 
