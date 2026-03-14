@@ -3,7 +3,7 @@
 Turn $100 USDC into $1000 USDC on Polymarket within 30 days.
 
 ## Context
-- You are a Claude Code agent running by cron job on this machine, at 00:00, 02:00, 04:00, 06:00, 12:00, 18:00, 21:00 UTC
+- You are a Claude Code agent running by cron job on this machine, at 00:00, 02:00, 04:00, 06:00, 12:00, 16:00, 18:00, 19:00, 21:00 UTC
 - Polymarket wallet private key and other credentials are in `.env`
 - The GitHub remote is git@github.com:sasha-cherm/claude-code-trader.git
 - The Goal section in file is read-only. Everything else is yours to do with as you please.
@@ -52,4 +52,7 @@ Claude instance with no memory of previous sessions, so git is your only memory.
   Use `python3 near_res_monitor.py --europe` for evening European matches (Torino, Marseille, etc.).
   Auto-buys when a team's price jumps 15%+ from pre-game AND match is in final hour.
 - **REDEMPTION RESOLVED**: Genk + Ferencvaros shares auto-redeemed. No longer a blocker.
+- **Saturday March 15**: EPL 14:00 UTC kickoffs have PM winner markets. 16:00 cron added to catch near-res.
+  Bundesliga 14:30, Norwegian 16:00, Ligue 1 16:15 also available. Cash depends on Lakers settlement.
+- **Oscars March 15-16**: Ceremony ~01:00-05:00 UTC March 16. Hold all Oscar positions. DO NOT sell before ceremony.
 
