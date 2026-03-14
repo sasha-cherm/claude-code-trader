@@ -29,6 +29,21 @@
       "days_left_at_entry": 1.12,
       "opened_at": "2026-03-13T21:15:00+00:00",
       "research_note": "DraftKings -400 (80%), PM 74.5%. 5.5% edge. Diversification vs MBJ (Sinners)."
+    },
+    {
+      "token_id": "47405163348676293834589671705645034857039227776272025575492768248598632198761",
+      "market_id": "1474167",
+      "question": "Will Real Madrid CF win on 2026-03-14?",
+      "side": "YES",
+      "entry_price": 0.74,
+      "fair_price": 0.787,
+      "edge": 0.052,
+      "size_usdc": 4.995,
+      "shares": 6.75,
+      "end_date": "2026-03-14T20:00:00Z",
+      "days_left_at_entry": 0.65,
+      "opened_at": "2026-03-14T04:25:00+00:00",
+      "research_note": "RM at home vs 17th-place Elche. Bookmaker 1.26 (79%). Mbappe/Bellingham/Rodrygo out but squad depth enough. 5.2% edge."
     }
   ],
   "trades": [
@@ -521,5 +536,5 @@
       "close_reason": "Won - auto-redeemed at settlement"
     }
   ],
-  "sessions": 26
+  "sessions": 29
 }
