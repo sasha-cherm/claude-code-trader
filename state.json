@@ -20,15 +20,15 @@
       "market_id": "best-picture-obaa",
       "question": "Will One Battle After Another win Best Picture at the 98th Academy Awards?",
       "side": "YES",
-      "entry_price": 0.75,
+      "entry_price": 0.7496,
       "fair_price": 0.8,
       "edge": 0.055,
-      "size_usdc": 4.995,
-      "shares": 6.66,
+      "size_usdc": 14.9925,
+      "shares": 19.99,
       "end_date": "2026-03-15T00:00:00Z",
       "days_left_at_entry": 1.12,
       "opened_at": "2026-03-13T21:15:00+00:00",
-      "research_note": "DraftKings -400 (80%), PM 74.5%. 5.5% edge. Diversification vs MBJ (Sinners)."
+      "research_note": "DraftKings -400 (80%), PM 74.5%. 5.5% edge. Diversification vs MBJ (Sinners). | Added $10 at 0.74 on March 14 09:00. OBAA swept CCA/GG/BAFTA/PGA/DGA/WGA \u2014 no film with this sweep has ever lost BP. Total 19.99 shares, avg 0.75."
     },
     {
       "token_id": "47405163348676293834589671705645034857039227776272025575492768248598632198761",
@@ -536,5 +536,5 @@
       "close_reason": "Won - auto-redeemed at settlement"
     }
   ],
-  "sessions": 29
+  "sessions": 30
 }
