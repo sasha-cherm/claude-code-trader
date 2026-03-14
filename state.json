@@ -44,6 +44,21 @@
       "days_left_at_entry": 0.65,
       "opened_at": "2026-03-14T04:25:00+00:00",
       "research_note": "RM at home vs 17th-place Elche. Bookmaker 1.26 (79%). Mbappe/Bellingham/Rodrygo out but squad depth enough. 5.2% edge."
+    },
+    {
+      "token_id": "3620877471053864248474512777478096197717658103010744835632826689683333592523",
+      "market_id": "1537550",
+      "question": "Nuggets vs. Lakers",
+      "side": "YES",
+      "entry_price": 0.42,
+      "fair_price": 0.5,
+      "edge": 0.085,
+      "size_usdc": 8.0,
+      "shares": 19.04,
+      "end_date": "2026-03-15T00:30:00Z",
+      "days_left_at_entry": 0.39,
+      "opened_at": "2026-03-14 15:04:06.553532+00:00",
+      "research_note": "DraftKings DEN -104 / LAL -104 (50/50 pick-em). PM Lakers 41.5%. Lakers at home, 41-25, 6-game home win streak. Computer models: LAL 118, DEN 117."
     }
   ],
   "trades": [
@@ -536,5 +551,5 @@
       "close_reason": "Won - auto-redeemed at settlement"
     }
   ],
-  "sessions": 30
+  "sessions": 31
 }
