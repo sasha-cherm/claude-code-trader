@@ -23,172 +23,182 @@ from trader.notify import send
 
 # Markets to monitor: (search_term, end_date_utc, pre_game_fav_price)
 WATCH_LIST = [
-    # Saudi League (kickoff ~15:30, ends ~17:15, PM end 18:00)
+    # March 14: Premier League 17:30 kickoffs (near-res ~19:00-19:15)
     {
-        "name": "Al Qadisiyah",
-        "token_id": "105836362869408823324177118215126371998519795443641115541764244066501605428150",
-        "end_date": "2026-03-13T18:00:00Z",
-        "pre_game_price": 0.405,
-        "question": "Will Al Qadisiyah Saudi Club win on 2026-03-13?",
+        "name": "Chelsea",
+        "token_id": "86033427677252416086751450370475670590824726105322635674860437641344282902660",
+        "end_date": "2026-03-14T17:30:00Z",
+        "pre_game_price": 0.525,
+        "question": "Will Chelsea FC win on 2026-03-14?",
     },
     {
-        "name": "Al Ahli",
-        "token_id": "75185641502519272705063822919555187238482510854841025352351433084740549515570",
-        "end_date": "2026-03-13T18:00:00Z",
-        "pre_game_price": 0.305,
-        "question": "Will Al Ahli Saudi Club win on 2026-03-13?",
+        "name": "Newcastle",
+        "token_id": "79051789373886457546553944638473613045587191226843744294349583359740412740625",
+        "end_date": "2026-03-14T17:30:00Z",
+        "pre_game_price": 0.245,
+        "question": "Will Newcastle United FC win on 2026-03-14?",
     },
     {
-        "name": "Al Ittihad",
-        "token_id": None,  # Need to find
-        "end_date": "2026-03-13T18:00:00Z",
-        "pre_game_price": 0.615,
-        "question": "Will Al Ittihad win on 2026-03-13?",
+        "name": "Arsenal",
+        "token_id": "38994064194073482228229509993277184534677234863592159586324882995065445332711",
+        "end_date": "2026-03-14T17:30:00Z",
+        "pre_game_price": 0.695,
+        "question": "Will Arsenal FC win on 2026-03-14?",
     },
-    # Fenerbahce (kickoff ~17:00 UTC, PM end 17:00)
     {
-        "name": "Fenerbahçe",
-        "token_id": "46709670121582610004912857317063745965467029251368454355229888096157919924763",
-        "end_date": "2026-03-13T17:00:00Z",
-        "pre_game_price": 0.675,
-        "question": "Will Fenerbahçe SK win on 2026-03-13?",
+        "name": "Everton",
+        "token_id": "43604923306352456348302507504058451331490120371228577268768753674967093388529",
+        "end_date": "2026-03-14T17:30:00Z",
+        "pre_game_price": 0.105,
+        "question": "Will Everton FC win on 2026-03-14?",
     },
-    # Antalyaspor (kickoff ~17:00 UTC, PM end 17:00)
+    # Galatasaray & Napoli — 17:00 kickoff (near-res ~18:45)
     {
-        "name": "Antalyaspor",
-        "token_id": "27021387477550538567800367709106543132999418818195686013649320843412015593607",
-        "end_date": "2026-03-13T17:00:00Z",
-        "pre_game_price": 0.405,
-        "question": "Will Antalyaspor win on 2026-03-13?",
+        "name": "Galatasaray",
+        "token_id": "25515057910772055243331874116691924170920013614841644354223486326070351821619",
+        "end_date": "2026-03-14T17:00:00Z",
+        "pre_game_price": 0.635,
+        "question": "Will Galatasaray SK win on 2026-03-14?",
+    },
+    {
+        "name": "Napoli",
+        "token_id": "23908744235029436668032187407696757858496393436364928402129538177797433532204",
+        "end_date": "2026-03-14T17:00:00Z",
+        "pre_game_price": 0.695,
+        "question": "Will SSC Napoli win on 2026-03-14?",
+    },
+    # Valencia & Hamburger SV — 17:30 kickoff
+    {
+        "name": "Valencia",
+        "token_id": "8750194317516268516817718126091365606027657031311578952835586854765548022671",
+        "end_date": "2026-03-14T17:30:00Z",
+        "pre_game_price": 0.365,
+        "question": "Will Valencia CF win on 2026-03-14?",
+    },
+    # PSV — 17:45 kickoff
+    {
+        "name": "PSV",
+        "token_id": "49533029700384006654091626079285563941775000157257605826954360379768422248009",
+        "end_date": "2026-03-14T17:45:00Z",
+        "pre_game_price": 0.665,
+        "question": "Will PSV win on 2026-03-14?",
     },
 ]
 
-# European evening matches (kickoff 19:30-20:00 UTC, near-res ~21:00)
+# European evening matches (kickoff 19:45-20:30 UTC, near-res ~21:00-21:45)
 EUROPE_WATCH = [
     {
-        "name": "Mönchengladbach",
-        "token_id": "74716747861267976065658579604004998847595596338481453464874106170396996672549",
-        "end_date": "2026-03-13T19:30:00Z",
-        "pre_game_price": 0.495,
-        "question": "Will Borussia Mönchengladbach win on 2026-03-13?",
+        "name": "Man City",
+        "token_id": "110162709167587205216232528451528728935099976071721615825821885124373392450388",
+        "end_date": "2026-03-14T20:00:00Z",
+        "pre_game_price": 0.585,
+        "question": "Will Manchester City FC win on 2026-03-14?",
     },
     {
-        "name": "Torino",
-        "token_id": "91130554885371201812339149180015571854199766648578743080409422082306816993713",
-        "end_date": "2026-03-13T19:45:00Z",
+        "name": "West Ham",
+        "token_id": "92825265075799673067651598133667095451197237682299985513689996841118596412360",
+        "end_date": "2026-03-14T20:00:00Z",
+        "pre_game_price": 0.195,
+        "question": "Will West Ham United FC win on 2026-03-14?",
+    },
+    {
+        "name": "Juventus",
+        "token_id": "32897316543933165251725391380019961733982806506523098784268030110806251195504",
+        "end_date": "2026-03-14T19:45:00Z",
+        "pre_game_price": 0.635,
+        "question": "Will Juventus FC win on 2026-03-14?",
+    },
+    {
+        "name": "Ajax",
+        "token_id": "13413759278643140865491808498379429762143370712073655986480539147479476284507",
+        "end_date": "2026-03-14T20:00:00Z",
+        "pre_game_price": 0.555,
+        "question": "Will AFC Ajax win on 2026-03-14?",
+    },
+    {
+        "name": "Monaco",
+        "token_id": "4525178718973714005518178755756920621448711993962533058118612855091762018393",
+        "end_date": "2026-03-14T20:05:00Z",
+        "pre_game_price": 0.595,
+        "question": "Will AS Monaco FC win on 2026-03-14?",
+    },
+    {
+        "name": "Benfica",
+        "token_id": "96678350184449364313383924060096992021831586517408123639485157413196462513033",
+        "end_date": "2026-03-14T20:30:00Z",
+        "pre_game_price": 0.755,
+        "question": "Will Sport Lisboa e Benfica win on 2026-03-14?",
+    },
+    {
+        "name": "Hertha",
+        "token_id": "101350916652676475722763375668894677984591801526137475256169695767270592994694",
+        "end_date": "2026-03-14T19:30:00Z",
         "pre_game_price": 0.435,
-        "question": "Will Torino FC win on 2026-03-13?",
-    },
-    {
-        "name": "Marseille",
-        "token_id": "102414546583444019585087874009357452675172941208962004544393866943625229507329",
-        "end_date": "2026-03-13T19:45:00Z",
-        "pre_game_price": 0.675,
-        "question": "Will Olympique de Marseille win on 2026-03-13?",
-    },
-    {
-        "name": "Villarreal",
-        "token_id": "33333125574953505042014572663065796133539712143996059145716404099571082268669",
-        "end_date": "2026-03-13T20:00:00Z",
-        "pre_game_price": 0.435,
-        "question": "Will Villarreal CF win on 2026-03-13?",
-    },
-    {
-        "name": "Parma",
-        "token_id": "42889018969408201219144683339269090123817398615942189954858475540348463489158",
-        "end_date": "2026-03-13T19:45:00Z",
-        "pre_game_price": 0.245,
-        "question": "Will Parma Calcio 1913 win on 2026-03-13?",
-    },
-    {
-        "name": "Alavés",
-        "token_id": "20893137374710954151401739368173702855784950337521949657086259029802619532488",
-        "end_date": "2026-03-13T20:00:00Z",
-        "pre_game_price": 0.285,
-        "question": "Will Deportivo Alavés win on 2026-03-13?",
+        "question": "Will Hertha BSC win on 2026-03-14?",
     },
 ]
 
-# NBA games March 13-14 (tip-off 23:30 UTC March 13 to 02:00 UTC March 14)
-# Best near-res candidates: underdog-friendly or competitive games
+# NBA games March 14-15 — near-res candidates
 NBA_WATCH = [
+    # Hornets vs Spurs — tip-off 19:30 UTC, competitive (CHA 35.5%)
     {
-        "name": "Suns",
-        "token_id": "90831007321498878309635985921294862978869592655078198354418017935785677882935",
-        "end_date": "2026-03-13T23:30:00Z",
+        "name": "Hornets",
+        "token_id": "110869774625647847297483294625719024865442757690993620922476091681122575065947",
+        "end_date": "2026-03-14T19:30:00Z",
         "pre_game_price": 0.355,
-        "question": "Suns vs. Raptors",
+        "question": "Hornets vs. Spurs",
     },
     {
-        "name": "Raptors",
-        "token_id": "98806195999269766246380874445524922591407796607735276469911486842340306289903",
-        "end_date": "2026-03-13T23:30:00Z",
+        "name": "Spurs",
+        "token_id": "89413703435662076766671780767668367664284824115908819707674538237103927401639",
+        "end_date": "2026-03-14T19:30:00Z",
         "pre_game_price": 0.645,
-        "question": "Suns vs. Raptors",
+        "question": "Hornets vs. Spurs",
+    },
+    # Bucks vs Hawks — tip-off 19:00 UTC
+    {
+        "name": "Bucks",
+        "token_id": "78265320434438407236904713809661535853467556329693049148689383877376486577277",
+        "end_date": "2026-03-14T19:00:00Z",
+        "pre_game_price": 0.225,
+        "question": "Bucks vs. Hawks",
     },
     {
-        "name": "Pelicans",
-        "token_id": "101065891306751865878824869180517933241409340908670876011208199462295610465144",
-        "end_date": "2026-03-14T00:00:00Z",
-        "pre_game_price": 0.285,
-        "question": "Pelicans vs. Rockets",
+        "name": "Hawks",
+        "token_id": "63122922322829694953022986094683228506728480541563434685829692181976875224010",
+        "end_date": "2026-03-14T19:00:00Z",
+        "pre_game_price": 0.775,
+        "question": "Bucks vs. Hawks",
+    },
+    # Magic vs Heat — tip-off 00:00 UTC Mar 15
+    {
+        "name": "Magic",
+        "token_id": "66615266624359354060400093448369771789228282833780928627869485822387307717041",
+        "end_date": "2026-03-15T00:00:00Z",
+        "pre_game_price": 0.395,
+        "question": "Magic vs. Heat",
     },
     {
-        "name": "Rockets",
-        "token_id": "18176990394337660517284500509535423190698716346893436345719073263245777351420",
-        "end_date": "2026-03-14T00:00:00Z",
-        "pre_game_price": 0.715,
-        "question": "Pelicans vs. Rockets",
+        "name": "Heat",
+        "token_id": "34869283377703440323383941894688217713531070205322598936747028741052007807950",
+        "end_date": "2026-03-15T00:00:00Z",
+        "pre_game_price": 0.605,
+        "question": "Magic vs. Heat",
+    },
+    # Nuggets vs Lakers — our position! tip-off 00:30 UTC Mar 15
+    {
+        "name": "Lakers",
+        "token_id": "3620877471053864248474512777478096197717658103010744835632826689683333592523",
+        "end_date": "2026-03-15T00:30:00Z",
+        "pre_game_price": 0.415,
+        "question": "Nuggets vs. Lakers",
     },
     {
-        "name": "Timberwolves",
-        "token_id": "26916626020902189771338431077646753563876966479504685873022270080357728455598",
-        "end_date": "2026-03-14T02:00:00Z",
-        "pre_game_price": 0.665,
-        "question": "Timberwolves vs. Warriors",
-    },
-    {
-        "name": "Warriors",
-        "token_id": "63086044200370587101552982416857948268064991221522873754579523700218090148897",
-        "end_date": "2026-03-14T02:00:00Z",
-        "pre_game_price": 0.335,
-        "question": "Timberwolves vs. Warriors",
-    },
-    {
-        "name": "Knicks",
-        "token_id": "86481924397129064868065568151775506251048405696468172318944549052111737450450",
-        "end_date": "2026-03-13T23:30:00Z",
-        "pre_game_price": 0.875,
-        "question": "Knicks vs. Pacers",
-    },
-    {
-        "name": "Cavaliers",
-        "token_id": "46760401027593982194128381193964014866650565058033474933527346539890122852049",
-        "end_date": "2026-03-13T23:30:00Z",
-        "pre_game_price": 0.875,
-        "question": "Cavaliers vs. Mavericks",
-    },
-    {
-        "name": "Pistons",
-        "token_id": "39166042140681004392613639091441013276843690188303371574870320155393923699842",
-        "end_date": "2026-03-13T23:30:00Z",
-        "pre_game_price": 0.905,
-        "question": "Grizzlies vs. Pistons",
-    },
-    # NHL games
-    {
-        "name": "Oilers",
-        "token_id": "57774900735301434161221702797910866527249162546352749981245418215732388831285",
-        "end_date": "2026-03-14T00:00:00Z",
-        "pre_game_price": 0.575,
-        "question": "Oilers vs. Blues",
-    },
-    {
-        "name": "Blues",
-        "token_id": "11737355181338681672537774641147494389537517255178772891539713448807516284070",
-        "end_date": "2026-03-14T00:00:00Z",
-        "pre_game_price": 0.425,
-        "question": "Oilers vs. Blues",
+        "name": "Nuggets",
+        "token_id": "53527326655632348904951814527652963993760607637916381884216680176529652766595",
+        "end_date": "2026-03-15T00:30:00Z",
+        "pre_game_price": 0.585,
+        "question": "Nuggets vs. Lakers",
     },
 ]
 
