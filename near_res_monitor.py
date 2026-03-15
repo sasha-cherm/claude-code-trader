@@ -195,12 +195,86 @@ EUROPE_WATCH = [
     },
 ]
 
-# NBA games March 15 — placeholder, markets not yet created
-# Will be populated by the 19:00/21:00 cron sessions
-NBA_WATCH = []
+# NBA games March 15 — end_date is tip-off time, games end ~2.5h later
+# 19:00 cron: MIN vs OKC near end (~19:30 UTC)
+# 21:00 cron: DET vs TOR, DAL vs CLE near end (~22:00 UTC)
+# 00:00 cron: POR vs PHI near end (~00:30 UTC)
+# 02:00 cron: GSW vs NYK near end (~02:30 UTC), UTA vs SAC in progress
+NBA_WATCH = [
+    {
+        "name": "Timberwolves",
+        "token_id": "72810586197585785194598917405425586022922993698884057036860456597458350862208",
+        "end_date": "2026-03-15T19:30:00Z",  # game ends ~19:30 UTC
+        "pre_game_price": 0.225,
+        "question": "Timberwolves vs. Thunder",
+    },
+    {
+        "name": "Thunder",
+        "token_id": "77924895823984704357291646568595586506671111239972966308352581216927852107129",
+        "end_date": "2026-03-15T19:30:00Z",
+        "pre_game_price": 0.775,
+        "question": "Timberwolves vs. Thunder",
+    },
+    {
+        "name": "Pistons",
+        "token_id": "70457986130149362920170503631165857912603883842969975511878425625770842075688",
+        "end_date": "2026-03-15T22:00:00Z",
+        "pre_game_price": 0.605,
+        "question": "Pistons vs. Raptors",
+    },
+    {
+        "name": "Raptors",
+        "token_id": "67049270054048456266663906825097999756591436738469079719416498827447415270685",
+        "end_date": "2026-03-15T22:00:00Z",
+        "pre_game_price": 0.395,
+        "question": "Pistons vs. Raptors",
+    },
+    {
+        "name": "Cavaliers",
+        "token_id": "110305381223890885784301123756740765727714315684391656978762837578545088708094",
+        "end_date": "2026-03-15T22:00:00Z",
+        "pre_game_price": 0.915,
+        "question": "Mavericks vs. Cavaliers",
+    },
+    {
+        "name": "Trail Blazers",
+        "token_id": "104807386405203753627029272733434517075421396226707309390912932054047431986054",
+        "end_date": "2026-03-16T00:30:00Z",
+        "pre_game_price": 0.745,
+        "question": "Trail Blazers vs. 76ers",
+    },
+    {
+        "name": "Knicks",
+        "token_id": "94128496026797918984844864568223307829485952150454162992788300657069085242634",
+        "end_date": "2026-03-16T02:30:00Z",
+        "pre_game_price": 0.875,
+        "question": "Warriors vs. Knicks",
+    },
+    {
+        "name": "Bucks",
+        "token_id": "32551155368524168873951622774578938504266557172625716658873470005302238348663",
+        "end_date": "2026-03-15T22:00:00Z",
+        "pre_game_price": 0.725,
+        "question": "Pacers vs. Bucks",
+    },
+    {
+        "name": "Jazz",
+        "token_id": "29938514184970414348155694778671980817991099472183324339505529775105034074937",
+        "end_date": "2026-03-16T04:30:00Z",
+        "pre_game_price": 0.445,
+        "question": "Jazz vs. Kings",
+    },
+    {
+        "name": "Kings",
+        "token_id": "103652504291292774936796488328924952807631851838476414345461142609770264573246",
+        "end_date": "2026-03-16T04:30:00Z",
+        "pre_game_price": 0.555,
+        "question": "Jazz vs. Kings",
+    },
+]
 
 MAX_SPEND_PER_TRADE = 5.0
-MIN_SPEND = 2.5
+MIN_SPEND = 2.0
 MIN_PRICE_JUMP = 0.15  # Price must have jumped 15%+ from pre-game
 MIN_NEAR_RES_PRICE = 0.62  # Minimum price to trigger buy (team clearly leading)
 MAX_NEAR_RES_PRICE = 0.85  # Don't buy above this (not enough upside)
@@ -285,8 +359,9 @@ def try_buy(client, market, balance):
         print(f"  Already bought {name}, skipping")
         return False
 
-    # Size: spend up to MAX_SPEND_PER_TRADE, capped at 20% of balance
-    spend = min(MAX_SPEND_PER_TRADE, balance * 0.20)
+    # Size: spend up to MAX_SPEND_PER_TRADE, capped at 80% of balance
+    # Near-res plays resolve in minutes, so we can deploy most of our cash
+    spend = min(MAX_SPEND_PER_TRADE, balance * 0.80)
     if spend < MIN_SPEND:
         print(f"  Insufficient balance for {name} (need ${MIN_SPEND}, have ${balance:.2f})")
         return False
@@ -338,7 +413,7 @@ def main():
         label = "EUROPE"
     else:
         watch = WATCH_LIST
-        label = "SAUDI/TURKISH"
+        label = "EPL/BUNDESLIGA/SERIE-A"
 
     # Override the global WATCH_LIST for this run
     WATCH_LIST = watch
