@@ -44,6 +44,21 @@
       "days_left_at_entry": 0.25,
       "opened_at": "2026-03-14T18:02:00+00:00",
       "research_note": "DK -140 (58.3%), Gold Derby 60%+. PM 48.9%. Swept SAG + Critics Choice. BAFTA snub is risk factor. | Added $3 at 0.488 on March 14 21:00. DK -140 (58.3%), PM 48.5%. 9.8% edge. Total 16.33 shares."
+    },
+    {
+      "token_id": "67049270054048456266663906825097999756591436738469079719416498827447415270685",
+      "market_id": "near-res-raptors",
+      "question": "Pistons vs. Raptors",
+      "side": "YES",
+      "entry_price": 0.63,
+      "fair_price": 0.78,
+      "edge": 0.1,
+      "size_usdc": 5.0,
+      "shares": 7.936507936507937,
+      "end_date": "2026-03-15T22:00:00Z",
+      "days_left_at_entry": 0.03166641449074074,
+      "opened_at": "2026-03-15 21:14:27.845732+00:00",
+      "research_note": "Near-resolution: Raptors price jumped +0.235 from pre-game 0.395"
     }
   ],
   "trades": [
@@ -634,7 +649,27 @@
       "pnl_usdc": 0.7219331999999996,
       "closed_at": "2026-03-15 16:12:16.408418+00:00",
       "close_reason": "Sold at 0.961 (match won, freeing cash for evening near-res)"
+    },
+    {
+      "token_id": "56641814751167200171673046320920175033674354018860266749757763925800910183753",
+      "market_id": "near-res-union-berlin",
+      "question": "Will 1. FC Union Berlin win on 2026-03-15?",
+      "side": "YES",
+      "entry_price": 0.84,
+      "fair_price": 0.95,
+      "edge": 0.1,
+      "size_usdc": 5.0,
+      "shares": 5.68,
+      "end_date": "2026-03-15T18:20:00Z",
+      "days_left_at_entry": 0.00010436376157407408,
+      "opened_at": "2026-03-15 18:19:55.737921+00:00",
+      "research_note": "Near-resolution: Union Berlin price jumped +0.575 from pre-game 0.265",
+      "exit_price": null,
+      "pnl_pct": null,
+      "pnl_usdc": null,
+      "closed_at": "2026-03-15 21:00:45.304233+00:00",
+      "close_reason": "settled"
     }
   ],
-  "sessions": 44
+  "sessions": 46
 }
