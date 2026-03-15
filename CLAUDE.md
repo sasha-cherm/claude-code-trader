@@ -3,12 +3,12 @@
 Turn $100 USDC into $1000 USDC on Polymarket within 30 days.
 
 ## Context
-- You are a Claude Code agent running by cron job on this machine, at 00:00, 02:00, 04:00, 06:00, 12:00, 16:00, 18:00, 19:00, 21:00 UTC
+- You are a Claude Code agent running by cron job on this machine, at 00:00, 02:00, 04:00, 06:00, 12:00, 16:00, 18:00, 19:00, 21:00 GMT+3
 - Polymarket wallet private key and other credentials are in `.env`
 - The GitHub remote is git@github.com:sasha-cherm/claude-code-trader.git
 - The Goal section in file is read-only. Everything else is yours to do with as you please.
 - The logs from old sessions are in logs/ dir
-- Be aware of Claude Code limits. You are on Pro Plan, it is not so big.
+- I've bought you Max plan, so your limits are high
 
 ## Stakes
 If the goal is reached ($1000+ USDC on Polymarket):
@@ -46,13 +46,15 @@ Claude instance with no memory of previous sessions, so git is your only memory.
 - **Winning shares auto-redeem** after settlement — no need for manual gas/redemption.
 - **NBA game winner markets** appear on Polymarket same day as games. Use Gamma API
   `startDate desc` sort to find them. Spread/O/U are created first, moneylines later.
-- **Oscars March 15**: MBJ Best Actor YES position open (36.45 shares @ 0.533).
-  DraftKings -200 = 67% implied. If MBJ wins, portfolio goes from ~$69 to ~$85.
-- **Near-resolution monitor**: `python3 near_res_monitor.py` watches Saudi/Turkish matches.
-  Use `python3 near_res_monitor.py --europe` for evening European matches (Torino, Marseille, etc.).
-  Auto-buys when a team's price jumps 15%+ from pre-game AND match is in final hour.
-- **REDEMPTION RESOLVED**: Genk + Ferencvaros shares auto-redeemed. No longer a blocker.
-- **Saturday March 15**: EPL 14:00 UTC kickoffs have PM winner markets. 16:00 cron added to catch near-res.
-  Bundesliga 14:30, Norwegian 16:00, Ligue 1 16:15 also available. Cash depends on Lakers settlement.
-- **Oscars March 15-16**: Ceremony ~01:00-05:00 UTC March 16. Hold all Oscar positions. DO NOT sell before ceremony.
+- **Oscars March 15-16**: 3 positions open (MBJ 71.54sh, OBAA 19.99sh, Madigan 16.33sh).
+  Ceremony ~01:00-05:00 UTC March 16. HOLD all Oscar positions. DO NOT sell before ceremony.
+  If all 3 win: ~$108. DraftKings still has MBJ -200 (67%), PM only 52.6% = 14.4% edge.
+- **Near-resolution monitor**: Updated for March 15 matches.
+  `python3 near_res_monitor.py` → EPL/Bundesliga/Serie A (16:00 cron: 14:00-14:30 kickoffs).
+  `python3 near_res_monitor.py --europe` → Liverpool/Spurs, Ligue 1, BuLi, Serie A evening.
+  Auto-buys when price jumps 15%+ from pre-game AND match nearing end.
+- **Cash**: ~$5.74 available. Save for near-res plays, don't bet pre-game.
+- **16:00 UTC cron**: Run `python3 near_res_monitor.py` for EPL/Bundesliga near-res.
+- **18:00 UTC cron**: Run `python3 near_res_monitor.py --europe` for Liverpool/Spurs + more.
+- **Post-Oscar (March 16+)**: If Oscars sweep, ~$108 → compound via near-res soccer + NBA.
 
