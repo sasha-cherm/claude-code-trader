@@ -48,18 +48,26 @@ Claude instance with no memory of previous sessions, so git is your only memory.
   `startDate desc` sort to find them. Spread/O/U are created first, moneylines later.
 - **Oscars March 15-16**: 3 positions open (MBJ 71.54sh, OBAA 19.99sh, Madigan 16.33sh).
   Ceremony ~01:00-05:00 UTC March 16. HOLD all Oscar positions. DO NOT sell before ceremony.
-  Settlement expected ~06:00-07:00 UTC March 16. If all 3 win: ~$118.
-- **Raptors near-res**: 7.94 shares @ 0.63. Game ending ~22:00 UTC March 15.
-- **Near-resolution monitor (March 15)**: `near_res_monitor.py --nba` running in background.
+  Settlement expected ~06:00-12:00 UTC March 16. If all 3 win: ~$118.
+- **Raptors**: SOLD at 0.999, +$2.93 profit.
 - **Sunday March 16 monitor**: `near_res_sunday.py` created with 3 modes:
-  - Default: EPL Brentford-Wolves + Italian Coppa + Championship (run at 19:00 UTC cron)
-  - `--south`: Argentine/Chilean/Brazilian leagues (run at 21:00 UTC cron)
-  - `--nba`: 6 NBA games (run at 00:00/02:00 UTC March 17 cron)
-  Max spend $12/trade, 20% of balance per trade.
-- **Cash after Oscar settlement**: Deploy via near_res_sunday.py monitors.
-- **06:00 UTC March 16**: Check Oscar settlement, confirm balance.
-- **12:00 UTC March 16**: Research Vegas odds for Sunday matches, verify token IDs.
-- **19:00 UTC March 16**: Run `python3 near_res_sunday.py` for EPL/Europe.
-- **21:00 UTC March 16**: Run `python3 near_res_sunday.py --south` for South America.
-- **00:00 UTC March 17**: Run `python3 near_res_sunday.py --nba` for NBA.
+  - Default: EPL Brentford-Wolves + Italian Coppa + Championship + Spanish 2nd
+  - `--south`: Argentine/Chilean/Brazilian leagues
+  - `--nba`: 6 NBA games + add Grizzlies/Bulls, Mavericks/Pelicans if found
+  All 31 token IDs verified valid. Max spend $25/trade, 20% of balance per trade.
+- **No pre-game edge** on any Sunday match (all <5% vs DK/ESPN odds).
+  Near-resolution is the ONLY strategy. Buy teams surging at 75th+ minute.
+
+### Sunday March 16 Session Plan (cron times in GMT+3 → UTC)
+- **01:00 UTC** (04:00 GMT+3): Oscar ceremony in progress. HOLD. Do nothing.
+- **03:00 UTC** (06:00 GMT+3): Check if Oscar results announced. Wait for settlement.
+- **09:00 UTC** (12:00 GMT+3): Check Oscar settlement. Confirm balance. Plan deployment.
+- **13:00 UTC** (16:00 GMT+3): Pre-soccer. Update pre_game_prices in near_res_sunday.py.
+- **15:00 UTC** (18:00 GMT+3): Soccer kicks off. Too early for near-res.
+- **16:00 UTC** (19:00 GMT+3): Soccer ~60th min. Still early. Could start monitor.
+- **18:00 UTC** (21:00 GMT+3): **START `python3 near_res_sunday.py &`** — covers 18:00-20:30 UTC, catches near-res window 19:15-19:50 UTC.
+- **21:00 UTC** (00:00 GMT+3 Mar 17): **START `python3 near_res_sunday.py --south &`** — covers SA games ending 21:30-01:05 UTC.
+### Monday March 17 Session Plan
+- **01:00 UTC** (04:00 GMT+3): **START `python3 near_res_sunday.py --nba &`** — NBA games ending ~01:30-04:30 UTC.
+- **03:00 UTC** (06:00 GMT+3): Check NBA results. Start `--nba` again for late games.
 

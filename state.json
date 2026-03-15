@@ -44,21 +44,6 @@
       "days_left_at_entry": 0.25,
       "opened_at": "2026-03-14T18:02:00+00:00",
       "research_note": "DK -140 (58.3%), Gold Derby 60%+. PM 48.9%. Swept SAG + Critics Choice. BAFTA snub is risk factor. | Added $3 at 0.488 on March 14 21:00. DK -140 (58.3%), PM 48.5%. 9.8% edge. Total 16.33 shares."
-    },
-    {
-      "token_id": "67049270054048456266663906825097999756591436738469079719416498827447415270685",
-      "market_id": "near-res-raptors",
-      "question": "Pistons vs. Raptors",
-      "side": "YES",
-      "entry_price": 0.63,
-      "fair_price": 0.78,
-      "edge": 0.1,
-      "size_usdc": 5.0,
-      "shares": 7.936507936507937,
-      "end_date": "2026-03-15T22:00:00Z",
-      "days_left_at_entry": 0.03166641449074074,
-      "opened_at": "2026-03-15 21:14:27.845732+00:00",
-      "research_note": "Near-resolution: Raptors price jumped +0.235 from pre-game 0.395"
     }
   ],
   "trades": [
@@ -669,7 +654,27 @@
       "pnl_usdc": null,
       "closed_at": "2026-03-15 21:00:45.304233+00:00",
       "close_reason": "settled"
+    },
+    {
+      "token_id": "67049270054048456266663906825097999756591436738469079719416498827447415270685",
+      "market_id": "near-res-raptors",
+      "question": "Pistons vs. Raptors",
+      "side": "YES",
+      "entry_price": 0.63,
+      "fair_price": 0.78,
+      "edge": 0.1,
+      "size_usdc": 5.0,
+      "shares": 7.936507936507937,
+      "end_date": "2026-03-15T22:00:00Z",
+      "days_left_at_entry": 0.03166641449074074,
+      "opened_at": "2026-03-15 21:14:27.845732+00:00",
+      "research_note": "Near-resolution: Raptors price jumped +0.235 from pre-game 0.395",
+      "exit_price": 0.999,
+      "pnl_pct": 0.5857142857142857,
+      "pnl_usdc": 2.928571428571429,
+      "closed_at": "2026-03-15 23:05:04.009236+00:00",
+      "close_reason": "Sold at 0.999 (Raptors won)"
     }
   ],
-  "sessions": 46
+  "sessions": 47
 }

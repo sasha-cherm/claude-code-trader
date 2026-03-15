@@ -249,9 +249,37 @@ NBA_WATCH = [
         "pre_game_price": 0.235,
         "question": "Spurs vs. Clippers",
     },
+    {
+        "name": "Grizzlies",
+        "token_id": "4062392739798996600100669113842499961437199362792380002696840099967289549054",
+        "end_date": "2026-03-17T02:30:00Z",
+        "pre_game_price": 0.325,
+        "question": "Grizzlies vs. Bulls",
+    },
+    {
+        "name": "Bulls",
+        "token_id": "109572301012504856576829159417798499161617770153662254689815407628603566395962",
+        "end_date": "2026-03-17T02:30:00Z",
+        "pre_game_price": 0.675,
+        "question": "Grizzlies vs. Bulls",
+    },
+    {
+        "name": "Mavericks",
+        "token_id": "73076199521042016483590271134332180685639678683056501181406114343583982235572",
+        "end_date": "2026-03-17T02:30:00Z",
+        "pre_game_price": 0.295,
+        "question": "Mavericks vs. Pelicans",
+    },
+    {
+        "name": "Pelicans",
+        "token_id": "73430689641666162570208609687376950474748567262949087092171303688003662051888",
+        "end_date": "2026-03-17T02:30:00Z",
+        "pre_game_price": 0.705,
+        "question": "Mavericks vs. Pelicans",
+    },
 ]
 
-MAX_SPEND_PER_TRADE = 12.0  # Higher spend for post-Oscar bankroll
+MAX_SPEND_PER_TRADE = 25.0  # Post-Oscar bankroll (~$118 if all win)
 MIN_SPEND = 3.0
 MIN_PRICE_JUMP = 0.15
 MIN_NEAR_RES_PRICE = 0.62
