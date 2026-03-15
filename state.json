@@ -5,15 +5,15 @@
       "market_id": "614012",
       "question": "Will Michael B. Jordan win Best Actor at the 98th Academy Awards?",
       "side": "YES",
-      "entry_price": 0.47926575505350777,
+      "entry_price": 0.4825971484484205,
       "fair_price": 0.67,
       "edge": 0.08,
-      "size_usdc": 32.245000000000005,
-      "shares": 67.28,
+      "size_usdc": 34.525000000000006,
+      "shares": 71.54,
       "end_date": "2026-03-15T00:00:00Z",
       "days_left_at_entry": 1.87,
       "opened_at": "2026-03-13 03:22:06.953368+00:00",
-      "research_note": "DraftKings -200 (67%), Polymarket 53.3%\u219259.5%. Added $5 at 0.60 on March 13. Jordan won SAG, Chalamet lost BAFTAs. Avg entry ~0.533. | Added $10.0 at 0.553 on March 13 18:00. DraftKings -200 (67%), PM 55.3%. 11.7% edge. | Added $5 at 0.571 on March 13 21:00. Total 61.10 shares, avg 0.471. | Added $3.45 at 0.559 on March 14 21:00. DK -200 (67%), PM 55.5%. 11.5% edge. Total 67.28 shares."
+      "research_note": "DraftKings -200 (67%), Polymarket 53.3%\u219259.5%. Added $5 at 0.60 on March 13. Jordan won SAG, Chalamet lost BAFTAs. Avg entry ~0.533. | Added $10.0 at 0.553 on March 13 18:00. DraftKings -200 (67%), PM 55.3%. 11.7% edge. | Added $5 at 0.571 on March 13 21:00. Total 61.10 shares, avg 0.471. | Added $3.45 at 0.559 on March 14 21:00. DK -200 (67%), PM 55.5%. 11.5% edge. Total 67.28 shares. | Added $2.28 at 0.536 on March 15 03:00. Total 71.54 shares."
     },
     {
       "token_id": "68639196051170795150992485552561385006521521637825690332014642323694437969760",
@@ -29,21 +29,6 @@
       "days_left_at_entry": 1.12,
       "opened_at": "2026-03-13T21:15:00+00:00",
       "research_note": "DraftKings -400 (80%), PM 74.5%. 5.5% edge. Diversification vs MBJ (Sinners). | Added $10 at 0.74 on March 14 09:00. OBAA swept CCA/GG/BAFTA/PGA/DGA/WGA \u2014 no film with this sweep has ever lost BP. Total 19.99 shares, avg 0.75."
-    },
-    {
-      "token_id": "3620877471053864248474512777478096197717658103010744835632826689683333592523",
-      "market_id": "1537550",
-      "question": "Nuggets vs. Lakers",
-      "side": "YES",
-      "entry_price": 0.42,
-      "fair_price": 0.5,
-      "edge": 0.085,
-      "size_usdc": 8.0,
-      "shares": 19.04,
-      "end_date": "2026-03-15T00:30:00Z",
-      "days_left_at_entry": 0.39,
-      "opened_at": "2026-03-14 15:04:06.553532+00:00",
-      "research_note": "DraftKings DEN -104 / LAL -104 (50/50 pick-em). PM Lakers 41.5%. Lakers at home, 41-25, 6-game home win streak. Computer models: LAL 118, DEN 117."
     },
     {
       "token_id": "35794365276633497585739245052126033211226767785372805090190071105864704284323",
@@ -609,7 +594,27 @@
       "pnl_usdc": 1.4849999999999999,
       "closed_at": "2026-03-14 21:02:41.768373+00:00",
       "close_reason": "Near-resolution sell at 0.96"
+    },
+    {
+      "token_id": "3620877471053864248474512777478096197717658103010744835632826689683333592523",
+      "market_id": "1537550",
+      "question": "Nuggets vs. Lakers",
+      "side": "YES",
+      "entry_price": 0.42,
+      "fair_price": 0.5,
+      "edge": 0.085,
+      "size_usdc": 8.0,
+      "shares": 19.04,
+      "end_date": "2026-03-15T00:30:00Z",
+      "days_left_at_entry": 0.39,
+      "opened_at": "2026-03-14 15:04:06.553532+00:00",
+      "research_note": "DraftKings DEN -104 / LAL -104 (50/50 pick-em). PM Lakers 41.5%. Lakers at home, 41-25, 6-game home win streak. Computer models: LAL 118, DEN 117.",
+      "exit_price": 0.12,
+      "pnl_pct": -0.7142857142857143,
+      "pnl_usdc": -5.712,
+      "closed_at": "2026-03-15T03:05:00+00:00",
+      "close_reason": "Panic sold at 0.12 (down 3, 9.9 sec left). Lakers tied it and went to OT."
     }
   ],
-  "sessions": 36
+  "sessions": 41
 }
