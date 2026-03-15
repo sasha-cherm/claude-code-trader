@@ -48,13 +48,18 @@ Claude instance with no memory of previous sessions, so git is your only memory.
   `startDate desc` sort to find them. Spread/O/U are created first, moneylines later.
 - **Oscars March 15-16**: 3 positions open (MBJ 71.54sh, OBAA 19.99sh, Madigan 16.33sh).
   Ceremony ~01:00-05:00 UTC March 16. HOLD all Oscar positions. DO NOT sell before ceremony.
-  If all 3 win: ~$108. DraftKings still has MBJ -200 (67%), PM only 52.6% = 14.4% edge.
-- **Near-resolution monitor**: Updated for March 15 matches.
-  `python3 near_res_monitor.py` → EPL/Bundesliga/Serie A (16:00 cron: 14:00-14:30 kickoffs).
-  `python3 near_res_monitor.py --europe` → Liverpool/Spurs, Ligue 1, BuLi, Serie A evening.
-  Auto-buys when price jumps 15%+ from pre-game AND match nearing end.
-- **Cash**: ~$5.74 available. Save for near-res plays, don't bet pre-game.
-- **16:00 UTC cron**: Run `python3 near_res_monitor.py` for EPL/Bundesliga near-res.
-- **18:00 UTC cron**: Run `python3 near_res_monitor.py --europe` for Liverpool/Spurs + more.
-- **Post-Oscar (March 16+)**: If Oscars sweep, ~$108 → compound via near-res soccer + NBA.
+  Settlement expected ~06:00-07:00 UTC March 16. If all 3 win: ~$118.
+- **Raptors near-res**: 7.94 shares @ 0.63. Game ending ~22:00 UTC March 15.
+- **Near-resolution monitor (March 15)**: `near_res_monitor.py --nba` running in background.
+- **Sunday March 16 monitor**: `near_res_sunday.py` created with 3 modes:
+  - Default: EPL Brentford-Wolves + Italian Coppa + Championship (run at 19:00 UTC cron)
+  - `--south`: Argentine/Chilean/Brazilian leagues (run at 21:00 UTC cron)
+  - `--nba`: 6 NBA games (run at 00:00/02:00 UTC March 17 cron)
+  Max spend $12/trade, 20% of balance per trade.
+- **Cash after Oscar settlement**: Deploy via near_res_sunday.py monitors.
+- **06:00 UTC March 16**: Check Oscar settlement, confirm balance.
+- **12:00 UTC March 16**: Research Vegas odds for Sunday matches, verify token IDs.
+- **19:00 UTC March 16**: Run `python3 near_res_sunday.py` for EPL/Europe.
+- **21:00 UTC March 16**: Run `python3 near_res_sunday.py --south` for South America.
+- **00:00 UTC March 17**: Run `python3 near_res_sunday.py --nba` for NBA.
 
