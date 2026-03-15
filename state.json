@@ -614,7 +614,27 @@
       "pnl_usdc": -5.712,
       "closed_at": "2026-03-15T03:05:00+00:00",
       "close_reason": "Panic sold at 0.12 (down 3, 9.9 sec left). Lakers tied it and went to OT."
+    },
+    {
+      "token_id": "70463659833118434932121900409446017687175970320223208483199932175066511150301",
+      "market_id": "near-res-mainz",
+      "question": "Will 1. FSV Mainz 05 win on 2026-03-15?",
+      "side": "YES",
+      "entry_price": 0.82,
+      "fair_price": 0.95,
+      "edge": 0.1,
+      "size_usdc": 4.5923968,
+      "shares": 5.53,
+      "end_date": "2026-03-15T16:20:00Z",
+      "days_left_at_entry": 0.026762134282407406,
+      "opened_at": "2026-03-15 15:41:31.031538+00:00",
+      "research_note": "Near-resolution: Mainz price jumped +0.555 from pre-game 0.265",
+      "exit_price": 0.961,
+      "pnl_pct": 0.15720183412722513,
+      "pnl_usdc": 0.7219331999999996,
+      "closed_at": "2026-03-15 16:12:16.408418+00:00",
+      "close_reason": "Sold at 0.961 (match won, freeing cash for evening near-res)"
     }
   ],
-  "sessions": 41
+  "sessions": 44
 }
