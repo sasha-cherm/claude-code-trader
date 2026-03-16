@@ -62,13 +62,20 @@ Claude instance with no memory of previous sessions, so git is your only memory.
 - ~~01:00 UTC: Oscar ceremony. DONE.~~
 - ~~03:00 UTC: Oscar results confirmed. All 3 won. DONE.~~
 - ~~09:00 UTC: Oscar settlement confirmed. Balance $117.41. Updated near_res_sunday.py. DONE.~~
-- **13:00 UTC** (16:00 GMT+3): **START `python3 near_res_sunday.py --early &`** — Punjab FC match ending ~14:00 UTC. Also run `python3 main.py` for position management.
-- **15:00 UTC** (18:00 GMT+3): Nothing to do. Danish/Argentine haven't kicked off yet.
+- ~~13:00 UTC: Punjab FC (ISL) + KHL monitors — no signals (illiquid/static orderbooks). DONE.~~
 - **16:00 UTC** (19:00 GMT+3): **START `python3 near_res_sunday.py --mid &`** — Danish Superliga (ends 18:00) + early Argentine (ends 18:30). Near-res window 17:15-18:25 UTC.
-- **18:00 UTC** (21:00 GMT+3): **START `python3 near_res_sunday.py &`** — EPL + Championship + La Liga 2 + Ligue 2 + Italian Coppa (ends 19:30-20:00). Also start **`python3 near_res_sunday.py --south &`** and **`python3 near_res_sunday.py --nhl &`** in parallel.
+- **18:00 UTC** (21:00 GMT+3): **START `python3 near_res_sunday.py &`** — EPL + Championship + La Liga 2 + Ligue 2 + Italian Coppa (ends 19:30-20:00). Also start **`python3 near_res_sunday.py --south &`** in parallel. SKIP `--nhl` (KHL has no dynamic MMs, static orderbooks).
 ### Monday March 17 Session Plan
 - **21:00 UTC** (00:00 GMT+3 Mar 17): Check results from evening monitors. Start `--south` again if needed.
-- **23:00 UTC** (02:00 GMT+3): Check NHL results.
 - **01:00 UTC** (04:00 GMT+3): **START `python3 near_res_sunday.py --nba &`** — NBA games ending ~01:30-04:30 UTC.
 - **03:00 UTC** (06:00 GMT+3): Check NBA results. Start `--nba` again for late games.
+### Monday March 17 Evening — CL NEAR-RES (HIGH PRIORITY)
+- **21:00 UTC**: Monitor Man City vs Real Madrid (CL, $950K vol, active MMs). Kickoff 20:00 UTC.
+  Near-res window: 21:15-21:45 UTC. Also monitor Sporting vs Bodø/Glimt.
+- Create CL near-res script before 21:00 UTC session.
+### Learnings from Session 48
+- **KHL/NHL markets have static CLOB orderbooks** — no dynamic MMs during games. Near-res DOES NOT WORK for hockey on PM. Skip.
+- **ISL (Indian soccer) = $0 volume** — skip entirely.
+- **Gamma API prices ≠ CLOB execution prices** — always verify with `client.get_price()` or orderbook before trading.
+- **Near-res only works where dynamic MMs exist**: EPL ✓, Bundesliga ✓, Championship ✓, NBA ✓, La Liga ✓. KHL ✗, ISL ✗.
 
