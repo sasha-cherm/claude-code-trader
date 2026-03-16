@@ -58,36 +58,56 @@ Claude instance with no memory of previous sessions, so git is your only memory.
 - **No pre-game edge** on any Sunday match (all <5% vs DK/ESPN odds).
   Near-resolution is the ONLY strategy. Buy teams surging at 75th+ minute.
 
-### Sunday March 16 (MOSTLY COMPLETE)
-- ~~Oscar ceremony + settlement. All 3 won. Balance $117.41. DONE.~~
-- ~~13:00 UTC: KHL/ISL — no signals. DONE.~~
-- ~~15:00 UTC: No pre-game edge. DONE.~~
-- ~~`--mid` monitor: Danish + Argentine — no signals (flat). DONE.~~
-- ~~Europe monitor: 4 trades — Las Palmas ✓, Fiorentina ✓, Brentford ✓, Annecy ✗ (drew 1-1). Net +$17.21 (+24.8% ROC).~~
-- ~~21:00 UTC: Results checked. Annecy sold. O'Higgins bought by south monitor.~~
-- **South monitor RUNNING** (PID 270878) — Racing Club, Gremio, Chapecoense, Colo-Colo, Huachipato, Instituto, Independiente
-- **NBA monitor AUTO-STARTS at 01:00 UTC Mar 17** (scheduler PID 265938) — 8 games
-- **Portfolio**: $43 cash + 4 positions. Settles at ~$125-140 when 3 winners redeem.
-- **Campaign: $100 → ~$130 (+30% in 5.5 days)**
+### Sunday March 16 — COMPLETE
+- Europe near-res: 3/4 wins. Las Palmas ✓, Fiorentina ✓, Brentford ✓, Annecy ✗.
+- Oscars: All 3 won. South monitor: O'Higgins bought (sold at poor CLOB price — lesson learned).
+- **Campaign: $100 → ~$125 (+25% in 5.5 days)**
 
-### Monday March 17 — CL NEAR-RES (HIGH PRIORITY)
-- **CL script READY**: `near_res_cl_mar17.py` created with all token IDs
-  - `--early`: Sporting vs Bodø/Glimt (17:45 UTC kickoff, near-res 19:00-19:30)
-  - default: Man City vs RM + Chelsea vs PSG + Arsenal vs Leverkusen (20:00 kickoff, near-res 21:15-21:45)
-- **CL Aggregate Context** (critical for near-res):
-  - Arsenal vs Leverkusen: **TIED on aggregate** → match winner likely advances. Most decisive tie.
-  - Man City vs Real Madrid: RM leads 3-0 → City needs 4+ goals. Desperate attacking play = volatile prices. $820K volume.
-  - Chelsea vs PSG: PSG leads 5-2 → comfortable. Lower near-res opportunity.
-  - Sporting vs Bodø/Glimt: BG leads 3-0 → Sporting at home fighting back.
-- **18:00 UTC Mar 17**: START `python3 -u near_res_cl_mar17.py --early > logs/cl_early.log 2>&1 &`
-- **21:00 UTC Mar 17**: START `python3 -u near_res_cl_mar17.py > logs/cl_main.log 2>&1 &`
-- Also check for NBA Monday games and other soccer opportunities.
+### Monday March 17 — CL + NBA (HIGH PRIORITY)
 
-### Learnings from Sessions 48-54
-- **Pre-game sports markets are efficiently priced at CLOB level** — Gamma display shows fake edge, CLOB execution matches Vegas within 1-2%. Only trade near-res or confirmed >5% edge at CLOB.
-- **KHL/NHL/ISL markets are untradeable** — static orderbooks, no dynamic MMs. Skip.
+**Portfolio**: $69.17 cash + Las Palmas $36.69 + Brentford $19.26 pending settlement = **~$125 total**
+
+#### SESSION ACTIONS BY TIME (UTC):
+**18:00 UTC (= 21:00 GMT+3 cron)** — LAUNCH ALL CL MONITORS:
+```bash
+cd /home/cctrd/cc-trader-agent
+bash launch_cl_mar17.sh
+```
+This launches BOTH CL scripts. The main script captures pre-game prices before 20:00 kickoff.
+
+**21:00 UTC (= 00:00 GMT+3 cron)** — LAUNCH NBA + CHECK CL STATUS:
+```bash
+cd /home/cctrd/cc-trader-agent
+python3 -u near_res_nba_mar17.py > logs/nba_mar17_$(date -u +%Y%m%d_%H%M).log 2>&1 &
+# Check CL logs:
+tail -20 logs/cl_early_*.log logs/cl_main_*.log
+```
+
+**23:00 UTC (= 02:00 GMT+3 cron)** — CHECK NBA + CL RESULTS:
+- Check NBA monitor log: `tail -30 logs/nba_mar17_*.log`
+- Check CL logs for final trades
+- Update state.json for any settled positions
+
+**01:00 UTC Mar 18 (= 04:00 GMT+3 cron)** — LATE NBA CHECK:
+- NBA late games (Spurs/Kings, 76ers/Nuggets) near-res window
+- Check if NBA monitor is still running, review results
+
+#### CL Aggregate Context (CRITICAL for near-res decisions):
+- **Arsenal vs Leverkusen**: TIED on aggregate → match winner advances. **TOP TARGET**.
+- **Man City vs Real Madrid**: RM leads 3-0 → City desperate, volatile. $1.58M vol.
+- **Chelsea vs PSG**: PSG leads 5-2 → comfortable. Lower opportunity.
+- **Sporting vs Bodø/Glimt**: BG leads 3-0 → Sporting at home.
+
+#### NBA Monday (4 games):
+- Early (~21:30 UTC tipoff): Suns vs T-Wolves ($43K), Cavs vs Bucks ($26K)
+- Late (~23:30 UTC tipoff): Spurs vs Kings ($31K), 76ers vs Nuggets ($13K)
+- Script: `near_res_nba_mar17.py` (all token IDs verified)
+
+### Learnings from Sessions 48-55
 - **Near-res is the ONLY reliable edge source** — compound via repeated near-res plays.
 - **Near-res win rate ~75%** (3/4 on Europe session). Losses come from draws/equalizers in lower-tier leagues.
-- **Lower-tier leagues (Ligue 2) have higher draw risk** — Annecy led then conceded equalizer. Consider higher min_price_jump for lower leagues.
-- **Chilean league MMs are slower** — O'Higgins at 0.64 ten minutes past end, while EPL prices jump to 0.80+ quickly.
+- **NEVER sell on illiquid markets via CLOB** — Chilean league O'Higgins sold at $0.01 (resting bids are garbage). ALWAYS wait for settlement on illiquid markets.
+- **Pre-game sports markets are efficiently priced at CLOB level** — only near-res or confirmed >5% edge.
+- **KHL/NHL/ISL markets untradeable** — static orderbooks, no dynamic MMs.
+- **Lower-tier leagues (Ligue 2) have higher draw risk** — consider higher min_price_jump.
 

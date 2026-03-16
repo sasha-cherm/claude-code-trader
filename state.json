@@ -16,21 +16,6 @@
       "research_note": "Near-resolution: Las Palmas price jumped +0.245 from pre-game 0.375"
     },
     {
-      "token_id": "43983711992682466425811740625239734206601633218569106954677431072543095443529",
-      "market_id": "near-res-fiorentina",
-      "question": "Will ACF Fiorentina win on 2026-03-16?",
-      "side": "YES",
-      "entry_price": 0.72,
-      "fair_price": 0.87,
-      "edge": 0.1,
-      "size_usdc": 18.786223200000002,
-      "shares": 26.09197666666667,
-      "end_date": "2026-03-16T19:45:00Z",
-      "days_left_at_entry": -0.018497685891203704,
-      "opened_at": "2026-03-16 20:11:43.436620+00:00",
-      "research_note": "Near-resolution: Fiorentina price jumped +0.225 from pre-game 0.495"
-    },
-    {
       "token_id": "47494701246623683904467099439211712078496707997982781452643608690648347494691",
       "market_id": "near-res-brentford",
       "question": "Will Brentford FC win on 2026-03-16?",
@@ -44,21 +29,6 @@
       "days_left_at_entry": -0.015549949386574075,
       "opened_at": "2026-03-16 20:22:29.226310+00:00",
       "research_note": "Near-resolution: Brentford price jumped +0.155 from pre-game 0.615"
-    },
-    {
-      "token_id": "40912250292393906879991095230111090654175781756283114646873359278730469319965",
-      "market_id": "near-res-o'higgins",
-      "question": "Will O'Higgins FC win on 2026-03-16?",
-      "side": "YES",
-      "entry_price": 0.64,
-      "fair_price": 0.79,
-      "edge": 0.1,
-      "size_usdc": 9.621883200000001,
-      "shares": 14.8,
-      "end_date": "2026-03-16T21:00:00Z",
-      "days_left_at_entry": -0.002148455486111111,
-      "opened_at": "2026-03-16 21:03:10.427464+00:00",
-      "research_note": "Near-resolution: O'Higgins price jumped +0.295 from pre-game 0.345"
     }
   ],
   "trades": [
@@ -769,7 +739,47 @@
       "pnl_usdc": -7.369979380645162,
       "closed_at": "2026-03-16T21:08:13.278460+00:00",
       "close_reason": "Sold at 0.24 (match drew 1-1, cut loss)"
+    },
+    {
+      "token_id": "43983711992682466425811740625239734206601633218569106954677431072543095443529",
+      "market_id": "near-res-fiorentina",
+      "question": "Will ACF Fiorentina win on 2026-03-16?",
+      "side": "YES",
+      "entry_price": 0.72,
+      "fair_price": 0.87,
+      "edge": 0.1,
+      "size_usdc": 18.786223200000002,
+      "shares": 26.09197666666667,
+      "end_date": "2026-03-16T19:45:00Z",
+      "days_left_at_entry": -0.018497685891203704,
+      "opened_at": "2026-03-16 20:11:43.436620+00:00",
+      "research_note": "Near-resolution: Fiorentina price jumped +0.225 from pre-game 0.495",
+      "exit_price": 0.999,
+      "pnl_pct": 0.38750000000000007,
+      "pnl_usdc": 7.279661490000002,
+      "closed_at": "2026-03-16 23:04:43.883399+00:00",
+      "close_reason": "Sold at 0.999 (won, pre-settlement sell)"
+    },
+    {
+      "token_id": "40912250292393906879991095230111090654175781756283114646873359278730469319965",
+      "market_id": "near-res-o'higgins",
+      "question": "Will O'Higgins FC win on 2026-03-16?",
+      "side": "YES",
+      "entry_price": 0.64,
+      "fair_price": 0.79,
+      "edge": 0.1,
+      "size_usdc": 9.621883200000001,
+      "shares": 14.8,
+      "end_date": "2026-03-16T21:00:00Z",
+      "days_left_at_entry": -0.002148455486111111,
+      "opened_at": "2026-03-16 21:03:10.427464+00:00",
+      "research_note": "Near-resolution: O'Higgins price jumped +0.295 from pre-game 0.345",
+      "exit_price": 0.01,
+      "pnl_pct": -0.984375,
+      "pnl_usdc": -9.473883200000001,
+      "closed_at": "2026-03-16 23:04:43.883399+00:00",
+      "close_reason": "Sold at ~0.01 (Chilean league no CLOB liquidity - should have waited for settlement)"
     }
   ],
-  "sessions": 54
+  "sessions": 55
 }
