@@ -1,51 +1,5 @@
 {
-  "positions": [
-    {
-      "token_id": "107310412053206155502134878830001857135409545986442943995751633404361679341850",
-      "market_id": "614012",
-      "question": "Will Michael B. Jordan win Best Actor at the 98th Academy Awards?",
-      "side": "YES",
-      "entry_price": 0.4825971484484205,
-      "fair_price": 0.67,
-      "edge": 0.08,
-      "size_usdc": 34.525000000000006,
-      "shares": 71.54,
-      "end_date": "2026-03-15T00:00:00Z",
-      "days_left_at_entry": 1.87,
-      "opened_at": "2026-03-13 03:22:06.953368+00:00",
-      "research_note": "DraftKings -200 (67%), Polymarket 53.3%\u219259.5%. Added $5 at 0.60 on March 13. Jordan won SAG, Chalamet lost BAFTAs. Avg entry ~0.533. | Added $10.0 at 0.553 on March 13 18:00. DraftKings -200 (67%), PM 55.3%. 11.7% edge. | Added $5 at 0.571 on March 13 21:00. Total 61.10 shares, avg 0.471. | Added $3.45 at 0.559 on March 14 21:00. DK -200 (67%), PM 55.5%. 11.5% edge. Total 67.28 shares. | Added $2.28 at 0.536 on March 15 03:00. Total 71.54 shares."
-    },
-    {
-      "token_id": "68639196051170795150992485552561385006521521637825690332014642323694437969760",
-      "market_id": "best-picture-obaa",
-      "question": "Will One Battle After Another win Best Picture at the 98th Academy Awards?",
-      "side": "YES",
-      "entry_price": 0.7496,
-      "fair_price": 0.8,
-      "edge": 0.055,
-      "size_usdc": 14.9925,
-      "shares": 19.99,
-      "end_date": "2026-03-15T00:00:00Z",
-      "days_left_at_entry": 1.12,
-      "opened_at": "2026-03-13T21:15:00+00:00",
-      "research_note": "DraftKings -400 (80%), PM 74.5%. 5.5% edge. Diversification vs MBJ (Sinners). | Added $10 at 0.74 on March 14 09:00. OBAA swept CCA/GG/BAFTA/PGA/DGA/WGA \u2014 no film with this sweep has ever lost BP. Total 19.99 shares, avg 0.75."
-    },
-    {
-      "token_id": "35794365276633497585739245052126033211226767785372805090190071105864704284323",
-      "market_id": "614361",
-      "question": "Will Amy Madigan win Best Supporting Actress at the 98th Academy Awards?",
-      "side": "YES",
-      "entry_price": 0.48989589712186166,
-      "fair_price": 0.583,
-      "edge": 0.095,
-      "size_usdc": 8.0,
-      "shares": 16.33,
-      "end_date": "2026-03-15T00:00:00Z",
-      "days_left_at_entry": 0.25,
-      "opened_at": "2026-03-14T18:02:00+00:00",
-      "research_note": "DK -140 (58.3%), Gold Derby 60%+. PM 48.9%. Swept SAG + Critics Choice. BAFTA snub is risk factor. | Added $3 at 0.488 on March 14 21:00. DK -140 (58.3%), PM 48.5%. 9.8% edge. Total 16.33 shares."
-    }
-  ],
+  "positions": [],
   "trades": [
     {
       "token_id": "89003136096914568294011168339858112910546045281702936178525401387691265991942",
@@ -674,7 +628,67 @@
       "pnl_usdc": 2.928571428571429,
       "closed_at": "2026-03-15 23:05:04.009236+00:00",
       "close_reason": "Sold at 0.999 (Raptors won)"
+    },
+    {
+      "token_id": "107310412053206155502134878830001857135409545986442943995751633404361679341850",
+      "market_id": "614012",
+      "question": "Will Michael B. Jordan win Best Actor at the 98th Academy Awards?",
+      "side": "YES",
+      "entry_price": 0.4825971484484205,
+      "fair_price": 0.67,
+      "edge": 0.08,
+      "size_usdc": 34.525000000000006,
+      "shares": 71.54,
+      "end_date": "2026-03-15T00:00:00Z",
+      "days_left_at_entry": 1.87,
+      "opened_at": "2026-03-13 03:22:06.953368+00:00",
+      "research_note": "DraftKings -200 (67%), Polymarket 53.3%\u219259.5%. Added $5 at 0.60 on March 13. Jordan won SAG, Chalamet lost BAFTAs. Avg entry ~0.533. | Added $10.0 at 0.553 on March 13 18:00. DraftKings -200 (67%), PM 55.3%. 11.7% edge. | Added $5 at 0.571 on March 13 21:00. Total 61.10 shares, avg 0.471. | Added $3.45 at 0.559 on March 14 21:00. DK -200 (67%), PM 55.5%. 11.5% edge. Total 67.28 shares. | Added $2.28 at 0.536 on March 15 03:00. Total 71.54 shares.",
+      "exit_price": 1.0,
+      "pnl_usdc": 37.015,
+      "pnl_pct": 1.0721216509775524,
+      "closed_at": "2026-03-16T03:01:37.912107+00:00",
+      "close_reason": "Won - Oscar announced, awaiting settlement/redemption"
+    },
+    {
+      "token_id": "68639196051170795150992485552561385006521521637825690332014642323694437969760",
+      "market_id": "best-picture-obaa",
+      "question": "Will One Battle After Another win Best Picture at the 98th Academy Awards?",
+      "side": "YES",
+      "entry_price": 0.7496,
+      "fair_price": 0.8,
+      "edge": 0.055,
+      "size_usdc": 14.9925,
+      "shares": 19.99,
+      "end_date": "2026-03-15T00:00:00Z",
+      "days_left_at_entry": 1.12,
+      "opened_at": "2026-03-13T21:15:00+00:00",
+      "research_note": "DraftKings -400 (80%), PM 74.5%. 5.5% edge. Diversification vs MBJ (Sinners). | Added $10 at 0.74 on March 14 09:00. OBAA swept CCA/GG/BAFTA/PGA/DGA/WGA \u2014 no film with this sweep has ever lost BP. Total 19.99 shares, avg 0.75.",
+      "exit_price": 1.0,
+      "pnl_usdc": 5.005495999999999,
+      "pnl_pct": 0.33404482390608314,
+      "closed_at": "2026-03-16T03:01:37.912107+00:00",
+      "close_reason": "Won - Oscar announced, awaiting settlement/redemption"
+    },
+    {
+      "token_id": "35794365276633497585739245052126033211226767785372805090190071105864704284323",
+      "market_id": "614361",
+      "question": "Will Amy Madigan win Best Supporting Actress at the 98th Academy Awards?",
+      "side": "YES",
+      "entry_price": 0.48989589712186166,
+      "fair_price": 0.583,
+      "edge": 0.095,
+      "size_usdc": 8.0,
+      "shares": 16.33,
+      "end_date": "2026-03-15T00:00:00Z",
+      "days_left_at_entry": 0.25,
+      "opened_at": "2026-03-14T18:02:00+00:00",
+      "research_note": "DK -140 (58.3%), Gold Derby 60%+. PM 48.9%. Swept SAG + Critics Choice. BAFTA snub is risk factor. | Added $3 at 0.488 on March 14 21:00. DK -140 (58.3%), PM 48.5%. 9.8% edge. Total 16.33 shares.",
+      "exit_price": 1.0,
+      "pnl_usdc": 8.329999999999998,
+      "pnl_pct": 1.0412499999999998,
+      "closed_at": "2026-03-16T03:01:37.912107+00:00",
+      "close_reason": "Won - Oscar announced, awaiting settlement/redemption"
     }
   ],
-  "sessions": 47
+  "sessions": 50
 }
