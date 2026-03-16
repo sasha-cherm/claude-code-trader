@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 """
 Near-resolution monitor for Sunday March 16, 2026.
-Key matches: EPL (Brentford-Wolves), Italian Coppa, South American leagues, NBA.
 
 Usage:
-  python3 near_res_sunday.py           # EPL/Europe 18:00 kickoffs (run at 19:00 cron)
-  python3 near_res_sunday.py --south   # South American matches (run at 21:00 cron)
-  python3 near_res_sunday.py --nba     # NBA games (run at 00:00/02:00 cron)
+  python3 near_res_sunday.py --early   # Punjab FC (13:00 UTC session, match ends 14:00)
+  python3 near_res_sunday.py --mid     # Danish + early Argentine (16:00 UTC session, ends 18:00-18:30)
+  python3 near_res_sunday.py           # EPL/Europe/LaLiga2/Ligue2 (18:00 UTC session, ends 19:30-20:00)
+  python3 near_res_sunday.py --south   # South American matches (18:00 UTC session, ends 20:50-01:05)
+  python3 near_res_sunday.py --nhl     # NHL games (18:00 UTC session, ends 23:00-01:30)
+  python3 near_res_sunday.py --nba     # NBA games (01:00 UTC Mar 17, ends 01:30-04:30)
 """
 import json
 import os
@@ -19,64 +21,151 @@ from trader.client import get_client, get_usdc_balance
 from trader.strategy import place_market_buy, get_actual_shares, load_state, save_state
 from trader.notify import send
 
-# EPL/Europe 18:00 UTC kickoffs → ends ~19:50 UTC
-# Run at 19:00 cron
+# Indian Super League — kickoff ~12:30 UTC, ends ~14:00 UTC
+# Run at 13:00 UTC session
+EARLY_WATCH = [
+    {
+        "name": "Punjab FC",
+        "token_id": "33420247652531790942183146833296055289798680116452221351026910759940846368544",
+        "end_date": "2026-03-16T14:00:00Z",
+        "pre_game_price": 0.08,
+        "question": "Will Punjab FC win on 2026-03-16?",
+    },
+]
+
+# Danish Superliga + early Argentine — kickoffs 16:30-17:00 UTC, ends 18:00-18:30 UTC
+# Run at 16:00 UTC session
+MID_WATCH = [
+    {
+        "name": "Silkeborg",
+        "token_id": "76251405295621436320109594699982261721622360096422545331087659564945852354393",
+        "end_date": "2026-03-16T18:00:00Z",
+        "pre_game_price": 0.415,
+        "question": "Will Silkeborg IF win on 2026-03-16?",
+    },
+    {
+        "name": "Vejle",
+        "token_id": "46765730313545420769713900324097730700260030716629938981246033852473055506381",
+        "end_date": "2026-03-16T18:00:00Z",
+        "pre_game_price": 0.335,
+        "question": "Will Vejle BK win on 2026-03-16?",
+    },
+    {
+        "name": "Aldosivi",
+        "token_id": "47881912504738507089672585112189779068436978334423938813500337000709260832173",
+        "end_date": "2026-03-16T18:30:00Z",
+        "pre_game_price": 0.275,
+        "question": "Will CA Aldosivi win on 2026-03-16?",
+    },
+    {
+        "name": "Huracán",
+        "token_id": "69242399533781587076859212018684961441705165256883616509219908032406186977592",
+        "end_date": "2026-03-16T18:30:00Z",
+        "pre_game_price": 0.365,
+        "question": "Will CA Huracán win on 2026-03-16?",
+    },
+    {
+        "name": "Barracas Central",
+        "token_id": "82783216275684847263525856535048452493554193410373941267889297749318010149550",
+        "end_date": "2026-03-16T18:30:00Z",
+        "pre_game_price": 0.315,
+        "question": "Will CA Barracas Central win on 2026-03-16?",
+    },
+    {
+        "name": "Tucumán",
+        "token_id": "44855767563839897696650470160503916619678639815874879879618162699948069632672",
+        "end_date": "2026-03-16T18:30:00Z",
+        "pre_game_price": 0.345,
+        "question": "Will CA Tucumán win on 2026-03-16?",
+    },
+]
+
+# EPL/Europe 18:00 UTC kickoffs + LaLiga2 + Ligue2 → ends ~19:30-20:00 UTC
+# Run at 18:00 UTC session
 EUROPE_WATCH = [
     {
         "name": "Brentford",
         "token_id": "47494701246623683904467099439211712078496707997982781452643608690648347494691",
-        "end_date": "2026-03-16T19:50:00Z",
+        "end_date": "2026-03-16T20:00:00Z",
         "pre_game_price": 0.615,
         "question": "Will Brentford FC win on 2026-03-16?",
     },
     {
         "name": "Wolves",
         "token_id": "98107912998624786361577465233693172875466676473751002010266720534494299124333",
-        "end_date": "2026-03-16T19:50:00Z",
+        "end_date": "2026-03-16T20:00:00Z",
         "pre_game_price": 0.165,
         "question": "Will Wolverhampton Wanderers FC win on 2026-03-16?",
     },
     {
         "name": "Fiorentina",
         "token_id": "43983711992682466425811740625239734206601633218569106954677431072543095443529",
-        "end_date": "2026-03-16T19:35:00Z",
+        "end_date": "2026-03-16T19:45:00Z",
         "pre_game_price": 0.495,
         "question": "Will ACF Fiorentina win on 2026-03-16?",
     },
     {
         "name": "Cremonese",
         "token_id": "88758540586548013257655823628323495448742483005238291704425202430956623302069",
-        "end_date": "2026-03-16T19:35:00Z",
+        "end_date": "2026-03-16T19:45:00Z",
         "pre_game_price": 0.245,
         "question": "Will US Cremonese win on 2026-03-16?",
     },
     {
         "name": "Rayo Vallecano",
         "token_id": "23561011456839630483320447422611805590525573311608314249136826402719853192782",
-        "end_date": "2026-03-16T19:50:00Z",
+        "end_date": "2026-03-16T20:00:00Z",
         "pre_game_price": 0.565,
         "question": "Will Rayo Vallecano win on 2026-03-16?",
     },
     {
         "name": "Levante",
         "token_id": "90347551560998319459646346345246341704554454009264927560302680546197984074340",
-        "end_date": "2026-03-16T19:50:00Z",
+        "end_date": "2026-03-16T20:00:00Z",
         "pre_game_price": 0.185,
         "question": "Will Levante UD win on 2026-03-16?",
     },
     {
         "name": "Portsmouth",
         "token_id": "79113958372401132960623887825921476327895108551989880716565658866851105146926",
-        "end_date": "2026-03-16T19:50:00Z",
+        "end_date": "2026-03-16T20:00:00Z",
         "pre_game_price": 0.435,
         "question": "Will Portsmouth FC win on 2026-03-16?",
     },
     {
         "name": "Derby",
         "token_id": "77630630823935491730059268360060621037610896686110028761231141117748139682620",
-        "end_date": "2026-03-16T19:50:00Z",
+        "end_date": "2026-03-16T20:00:00Z",
         "pre_game_price": 0.265,
         "question": "Will Derby County FC win on 2026-03-16?",
+    },
+    {
+        "name": "Albacete",
+        "token_id": "43298800389747133126447457118231349817074958797963461303335007936433082095123",
+        "end_date": "2026-03-16T19:30:00Z",
+        "pre_game_price": 0.325,
+        "question": "Will Albacete Balompié win on 2026-03-16?",
+    },
+    {
+        "name": "Las Palmas",
+        "token_id": "52838116614997262972033497838211663286665639650135717435226760891993148892649",
+        "end_date": "2026-03-16T19:30:00Z",
+        "pre_game_price": 0.375,
+        "question": "Will UD Las Palmas win on 2026-03-16?",
+    },
+    {
+        "name": "Annecy",
+        "token_id": "27530018766838365060693688741016636130901001337709459905136078913844821274295",
+        "end_date": "2026-03-16T19:45:00Z",
+        "pre_game_price": 0.335,
+        "question": "Will FC Annecy win on 2026-03-16?",
+    },
+    {
+        "name": "Troyes",
+        "token_id": "84422137571235618173565145407041135423409593797318072272318087535466438558571",
+        "end_date": "2026-03-16T19:45:00Z",
+        "pre_game_price": 0.365,
+        "question": "Will ES Troyes AC win on 2026-03-16?",
     },
 ]
 
@@ -86,28 +175,28 @@ SOUTH_WATCH = [
     {
         "name": "Union La Calera",
         "token_id": "94138453717501536312396825434338777298642977051488669600090841371771666075486",
-        "end_date": "2026-03-16T20:50:00Z",
-        "pre_game_price": 0.35,
-        "question": "Will CD Union La Calera win on 2026-03-16?",
+        "end_date": "2026-03-16T21:00:00Z",
+        "pre_game_price": 0.365,
+        "question": "Will CD Unión La Calera win on 2026-03-16?",
     },
     {
         "name": "O'Higgins",
         "token_id": "40912250292393906879991095230111090654175781756283114646873359278730469319965",
-        "end_date": "2026-03-16T20:50:00Z",
+        "end_date": "2026-03-16T21:00:00Z",
         "pre_game_price": 0.345,
         "question": "Will O'Higgins FC win on 2026-03-16?",
     },
     {
         "name": "San Lorenzo",
         "token_id": "74050595533791162209410774082575246805836917194681466581558416756459286653551",
-        "end_date": "2026-03-16T21:20:00Z",
+        "end_date": "2026-03-16T21:30:00Z",
         "pre_game_price": 0.425,
-        "question": "Will CA San Lorenzo win on 2026-03-16?",
+        "question": "Will CA San Lorenzo de Almagro win on 2026-03-16?",
     },
     {
         "name": "Defensa y Justicia",
         "token_id": "115662459717938769394474917600788573269931675726269611112305465186973799016988",
-        "end_date": "2026-03-16T21:20:00Z",
+        "end_date": "2026-03-16T21:30:00Z",
         "pre_game_price": 0.23,
         "question": "Will CSyD Defensa y Justicia win on 2026-03-16?",
     },
@@ -279,7 +368,47 @@ NBA_WATCH = [
     },
 ]
 
-MAX_SPEND_PER_TRADE = 25.0  # Post-Oscar bankroll (~$118 if all win)
+# NHL games — tipoffs 19:00-23:00 UTC
+# Run at 18:00 UTC session with --nhl
+NHL_WATCH = [
+    {
+        "name": "Flames",
+        "token_id": "35393791921103862539532811050191199853443199052334079701647166046717901845755",
+        "end_date": "2026-03-16T23:00:00Z",
+        "pre_game_price": 0.375,
+        "question": "Flames vs. Red Wings",
+    },
+    {
+        "name": "Bruins",
+        "token_id": "57003827975365780968276491189684072880823887434402061246812363111799030725362",
+        "end_date": "2026-03-16T23:00:00Z",
+        "pre_game_price": 0.475,
+        "question": "Bruins vs. Devils",
+    },
+    {
+        "name": "Kings",
+        "token_id": "32160398821510407644503179208539185029745698547726074049827123882545826092587",
+        "end_date": "2026-03-16T23:00:00Z",
+        "pre_game_price": 0.515,
+        "question": "Kings vs. Rangers",
+    },
+    {
+        "name": "Utah",
+        "token_id": "10722530545942620364531888479248052707509023609982065185598034042471733861696",
+        "end_date": "2026-03-17T00:00:00Z",
+        "pre_game_price": 0.405,
+        "question": "Utah vs. Stars",
+    },
+    {
+        "name": "Penguins",
+        "token_id": "34820417400698973727806160446787948445000036716051705138492646136053373067388",
+        "end_date": "2026-03-17T01:30:00Z",
+        "pre_game_price": 0.335,
+        "question": "Penguins vs. Avalanche",
+    },
+]
+
+MAX_SPEND_PER_TRADE = 25.0  # Post-Oscar bankroll (~$118)
 MIN_SPEND = 3.0
 MIN_PRICE_JUMP = 0.15
 MIN_NEAR_RES_PRICE = 0.62
@@ -384,9 +513,18 @@ def main():
     if "--nba" in sys.argv:
         watch = NBA_WATCH
         label = "NBA Sunday"
+    elif "--nhl" in sys.argv:
+        watch = NHL_WATCH
+        label = "NHL Sunday"
     elif "--south" in sys.argv:
         watch = SOUTH_WATCH
         label = "SOUTH AMERICA"
+    elif "--mid" in sys.argv:
+        watch = MID_WATCH
+        label = "DANISH+EARLY ARGENTINA"
+    elif "--early" in sys.argv:
+        watch = EARLY_WATCH
+        label = "INDIAN SUPER LEAGUE"
     else:
         watch = EUROPE_WATCH
         label = "EPL/EUROPE Sunday"

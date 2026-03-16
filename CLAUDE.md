@@ -59,15 +59,16 @@ Claude instance with no memory of previous sessions, so git is your only memory.
   Near-resolution is the ONLY strategy. Buy teams surging at 75th+ minute.
 
 ### Sunday March 16 Session Plan (cron times in GMT+3 → UTC)
-- **01:00 UTC** (04:00 GMT+3): Oscar ceremony in progress. HOLD. Do nothing.
-- **03:00 UTC** (06:00 GMT+3): Check if Oscar results announced. Wait for settlement.
-- **09:00 UTC** (12:00 GMT+3): Check Oscar settlement. Confirm balance. Plan deployment.
-- **13:00 UTC** (16:00 GMT+3): Pre-soccer. Update pre_game_prices in near_res_sunday.py.
-- **15:00 UTC** (18:00 GMT+3): Soccer kicks off. Too early for near-res.
-- **16:00 UTC** (19:00 GMT+3): Soccer ~60th min. Still early. Could start monitor.
-- **18:00 UTC** (21:00 GMT+3): **START `python3 near_res_sunday.py &`** — covers 18:00-20:30 UTC, catches near-res window 19:15-19:50 UTC.
-- **21:00 UTC** (00:00 GMT+3 Mar 17): **START `python3 near_res_sunday.py --south &`** — covers SA games ending 21:30-01:05 UTC.
+- ~~01:00 UTC: Oscar ceremony. DONE.~~
+- ~~03:00 UTC: Oscar results confirmed. All 3 won. DONE.~~
+- ~~09:00 UTC: Oscar settlement confirmed. Balance $117.41. Updated near_res_sunday.py. DONE.~~
+- **13:00 UTC** (16:00 GMT+3): **START `python3 near_res_sunday.py --early &`** — Punjab FC match ending ~14:00 UTC. Also run `python3 main.py` for position management.
+- **15:00 UTC** (18:00 GMT+3): Nothing to do. Danish/Argentine haven't kicked off yet.
+- **16:00 UTC** (19:00 GMT+3): **START `python3 near_res_sunday.py --mid &`** — Danish Superliga (ends 18:00) + early Argentine (ends 18:30). Near-res window 17:15-18:25 UTC.
+- **18:00 UTC** (21:00 GMT+3): **START `python3 near_res_sunday.py &`** — EPL + Championship + La Liga 2 + Ligue 2 + Italian Coppa (ends 19:30-20:00). Also start **`python3 near_res_sunday.py --south &`** and **`python3 near_res_sunday.py --nhl &`** in parallel.
 ### Monday March 17 Session Plan
+- **21:00 UTC** (00:00 GMT+3 Mar 17): Check results from evening monitors. Start `--south` again if needed.
+- **23:00 UTC** (02:00 GMT+3): Check NHL results.
 - **01:00 UTC** (04:00 GMT+3): **START `python3 near_res_sunday.py --nba &`** — NBA games ending ~01:30-04:30 UTC.
 - **03:00 UTC** (06:00 GMT+3): Check NBA results. Start `--nba` again for late games.
 
