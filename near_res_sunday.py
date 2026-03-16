@@ -535,7 +535,7 @@ def main():
     balance = get_usdc_balance(client)
     print(f"Balance: ${balance:.2f}")
 
-    max_iterations = 150  # 2.5 hours
+    max_iterations = 210  # 3.5 hours
     for i in range(max_iterations):
         now = datetime.now(timezone.utc)
         print(f"\n--- Check #{i+1} at {now.strftime('%H:%M:%S UTC')} ---")

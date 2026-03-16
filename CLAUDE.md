@@ -58,24 +58,30 @@ Claude instance with no memory of previous sessions, so git is your only memory.
 - **No pre-game edge** on any Sunday match (all <5% vs DK/ESPN odds).
   Near-resolution is the ONLY strategy. Buy teams surging at 75th+ minute.
 
-### Sunday March 16 Session Plan (cron times in GMT+3 → UTC)
-- ~~01:00 UTC: Oscar ceremony. DONE.~~
-- ~~03:00 UTC: Oscar results confirmed. All 3 won. DONE.~~
-- ~~09:00 UTC: Oscar settlement confirmed. Balance $117.41. Updated near_res_sunday.py. DONE.~~
-- ~~13:00 UTC: Punjab FC (ISL) + KHL monitors — no signals (illiquid/static orderbooks). DONE.~~
-- **16:00 UTC** (19:00 GMT+3): **START `python3 near_res_sunday.py --mid &`** — Danish Superliga (ends 18:00) + early Argentine (ends 18:30). Near-res window 17:15-18:25 UTC.
-- **18:00 UTC** (21:00 GMT+3): **START `python3 near_res_sunday.py &`** — EPL + Championship + La Liga 2 + Ligue 2 + Italian Coppa (ends 19:30-20:00). Also start **`python3 near_res_sunday.py --south &`** in parallel. SKIP `--nhl` (KHL has no dynamic MMs, static orderbooks).
-### Monday March 17 Session Plan
-- **21:00 UTC** (00:00 GMT+3 Mar 17): Check results from evening monitors. Start `--south` again if needed.
-- **01:00 UTC** (04:00 GMT+3): **START `python3 near_res_sunday.py --nba &`** — NBA games ending ~01:30-04:30 UTC.
-- **03:00 UTC** (06:00 GMT+3): Check NBA results. Start `--nba` again for late games.
-### Monday March 17 Evening — CL NEAR-RES (HIGH PRIORITY)
-- **21:00 UTC**: Monitor Man City vs Real Madrid (CL, $950K vol, active MMs). Kickoff 20:00 UTC.
-  Near-res window: 21:15-21:45 UTC. Also monitor Sporting vs Bodø/Glimt.
-- Create CL near-res script before 21:00 UTC session.
-### Learnings from Session 48
-- **KHL/NHL markets have static CLOB orderbooks** — no dynamic MMs during games. Near-res DOES NOT WORK for hockey on PM. Skip.
-- **ISL (Indian soccer) = $0 volume** — skip entirely.
-- **Gamma API prices ≠ CLOB execution prices** — always verify with `client.get_price()` or orderbook before trading.
-- **Near-res only works where dynamic MMs exist**: EPL ✓, Bundesliga ✓, Championship ✓, NBA ✓, La Liga ✓. KHL ✗, ISL ✗.
+### Sunday March 16 (COMPLETED/IN PROGRESS)
+- ~~Oscar ceremony + settlement. All 3 won. Balance $117.41. DONE.~~
+- ~~13:00 UTC: KHL/ISL — no signals (illiquid/static). DONE.~~
+- ~~15:00 UTC: Confirmed no pre-game edge on NBA/CL at CLOB execution prices. DONE.~~
+- **`--mid` monitor RUNNING** (PID 265546) — Danish + Argentine near-res
+- **Europe + South monitors AUTO-START at 18:00 UTC** (scheduler PID 265920)
+- **NBA monitor AUTO-STARTS at 01:00 UTC Mar 17** (scheduler PID 265938)
+- **21:00 UTC**: Check results from all monitors.
+
+### Monday March 17 — CL NEAR-RES (HIGH PRIORITY)
+- **CL script READY**: `near_res_cl_mar17.py` created with all token IDs
+  - `--early`: Sporting vs Bodø/Glimt (17:45 UTC kickoff, near-res 19:00-19:30)
+  - default: Man City vs RM + Chelsea vs PSG + Arsenal vs Leverkusen (20:00 kickoff, near-res 21:15-21:45)
+- **CL Aggregate Context** (critical for near-res):
+  - Arsenal vs Leverkusen: **TIED on aggregate** → match winner likely advances. Most decisive tie.
+  - Man City vs Real Madrid: RM leads 3-0 → City needs 4+ goals. Desperate attacking play = volatile prices. $820K volume.
+  - Chelsea vs PSG: PSG leads 5-2 → comfortable. Lower near-res opportunity.
+  - Sporting vs Bodø/Glimt: BG leads 3-0 → Sporting at home fighting back.
+- **18:00 UTC Mar 17**: START `python3 -u near_res_cl_mar17.py --early > logs/cl_early.log 2>&1 &`
+- **21:00 UTC Mar 17**: START `python3 -u near_res_cl_mar17.py > logs/cl_main.log 2>&1 &`
+- Also check for NBA Monday games and other soccer opportunities.
+
+### Learnings from Sessions 48-49
+- **Pre-game sports markets are efficiently priced at CLOB level** — Gamma display shows fake edge, CLOB execution matches Vegas within 1-2%. Only trade near-res or confirmed >5% edge at CLOB.
+- **KHL/NHL/ISL markets are untradeable** — static orderbooks, no dynamic MMs. Skip.
+- **Near-res is the ONLY reliable edge source** — compound via repeated near-res plays.
 
