@@ -1,5 +1,66 @@
 {
-  "positions": [],
+  "positions": [
+    {
+      "token_id": "52838116614997262972033497838211663286665639650135717435226760891993148892649",
+      "market_id": "near-res-las-palmas",
+      "question": "Will UD Las Palmas win on 2026-03-16?",
+      "side": "YES",
+      "entry_price": 0.62,
+      "fair_price": 0.77,
+      "edge": 0.1,
+      "size_usdc": 23.482543200000002,
+      "shares": 37.87506967741936,
+      "end_date": "2026-03-16T19:30:00Z",
+      "days_left_at_entry": -0.00646450712962963,
+      "opened_at": "2026-03-16 19:39:21.309316+00:00",
+      "research_note": "Near-resolution: Las Palmas price jumped +0.245 from pre-game 0.375"
+    },
+    {
+      "token_id": "43983711992682466425811740625239734206601633218569106954677431072543095443529",
+      "market_id": "near-res-fiorentina",
+      "question": "Will ACF Fiorentina win on 2026-03-16?",
+      "side": "YES",
+      "entry_price": 0.72,
+      "fair_price": 0.87,
+      "edge": 0.1,
+      "size_usdc": 18.786223200000002,
+      "shares": 26.09197666666667,
+      "end_date": "2026-03-16T19:45:00Z",
+      "days_left_at_entry": -0.018497685891203704,
+      "opened_at": "2026-03-16 20:11:43.436620+00:00",
+      "research_note": "Near-resolution: Fiorentina price jumped +0.225 from pre-game 0.495"
+    },
+    {
+      "token_id": "47494701246623683904467099439211712078496707997982781452643608690648347494691",
+      "market_id": "near-res-brentford",
+      "question": "Will Brentford FC win on 2026-03-16?",
+      "side": "YES",
+      "entry_price": 0.77,
+      "fair_price": 0.92,
+      "edge": 0.1,
+      "size_usdc": 15.0292632,
+      "shares": 19.518523636363636,
+      "end_date": "2026-03-16T20:00:00Z",
+      "days_left_at_entry": -0.015549949386574075,
+      "opened_at": "2026-03-16 20:22:29.226310+00:00",
+      "research_note": "Near-resolution: Brentford price jumped +0.155 from pre-game 0.615"
+    },
+    {
+      "token_id": "40912250292393906879991095230111090654175781756283114646873359278730469319965",
+      "market_id": "near-res-o'higgins",
+      "question": "Will O'Higgins FC win on 2026-03-16?",
+      "side": "YES",
+      "entry_price": 0.64,
+      "fair_price": 0.79,
+      "edge": 0.1,
+      "size_usdc": 9.621883200000001,
+      "shares": 14.8,
+      "end_date": "2026-03-16T21:00:00Z",
+      "days_left_at_entry": -0.002148455486111111,
+      "opened_at": "2026-03-16 21:03:10.427464+00:00",
+      "research_note": "Near-resolution: O'Higgins price jumped +0.295 from pre-game 0.345"
+    }
+  ],
   "trades": [
     {
       "token_id": "89003136096914568294011168339858112910546045281702936178525401387691265991942",
@@ -688,7 +749,27 @@
       "pnl_pct": 1.0412499999999998,
       "closed_at": "2026-03-16T03:01:37.912107+00:00",
       "close_reason": "Won - Oscar announced, awaiting settlement/redemption"
+    },
+    {
+      "token_id": "27530018766838365060693688741016636130901001337709459905136078913844821274295",
+      "market_id": "near-res-annecy",
+      "question": "Will FC Annecy win on 2026-03-16?",
+      "side": "YES",
+      "entry_price": 0.62,
+      "fair_price": 0.77,
+      "edge": 0.1,
+      "size_usdc": 12.024703200000001,
+      "shares": 19.394682580645163,
+      "end_date": "2026-03-16T19:45:00Z",
+      "days_left_at_entry": -0.029769236620370367,
+      "opened_at": "2026-03-16 20:27:54.723551+00:00",
+      "research_note": "Near-resolution: Annecy price jumped +0.285 from pre-game 0.335",
+      "exit_price": 0.24,
+      "pnl_pct": -0.6129032258064516,
+      "pnl_usdc": -7.369979380645162,
+      "closed_at": "2026-03-16T21:08:13.278460+00:00",
+      "close_reason": "Sold at 0.24 (match drew 1-1, cut loss)"
     }
   ],
-  "sessions": 50
+  "sessions": 54
 }

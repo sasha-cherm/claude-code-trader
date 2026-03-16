@@ -58,14 +58,17 @@ Claude instance with no memory of previous sessions, so git is your only memory.
 - **No pre-game edge** on any Sunday match (all <5% vs DK/ESPN odds).
   Near-resolution is the ONLY strategy. Buy teams surging at 75th+ minute.
 
-### Sunday March 16 (COMPLETED/IN PROGRESS)
+### Sunday March 16 (MOSTLY COMPLETE)
 - ~~Oscar ceremony + settlement. All 3 won. Balance $117.41. DONE.~~
-- ~~13:00 UTC: KHL/ISL — no signals (illiquid/static). DONE.~~
-- ~~15:00 UTC: Confirmed no pre-game edge on NBA/CL at CLOB execution prices. DONE.~~
-- **`--mid` monitor RUNNING** (PID 265546) — Danish + Argentine near-res
-- **Europe + South monitors AUTO-START at 18:00 UTC** (scheduler PID 265920)
-- **NBA monitor AUTO-STARTS at 01:00 UTC Mar 17** (scheduler PID 265938)
-- **21:00 UTC**: Check results from all monitors.
+- ~~13:00 UTC: KHL/ISL — no signals. DONE.~~
+- ~~15:00 UTC: No pre-game edge. DONE.~~
+- ~~`--mid` monitor: Danish + Argentine — no signals (flat). DONE.~~
+- ~~Europe monitor: 4 trades — Las Palmas ✓, Fiorentina ✓, Brentford ✓, Annecy ✗ (drew 1-1). Net +$17.21 (+24.8% ROC).~~
+- ~~21:00 UTC: Results checked. Annecy sold. O'Higgins bought by south monitor.~~
+- **South monitor RUNNING** (PID 270878) — Racing Club, Gremio, Chapecoense, Colo-Colo, Huachipato, Instituto, Independiente
+- **NBA monitor AUTO-STARTS at 01:00 UTC Mar 17** (scheduler PID 265938) — 8 games
+- **Portfolio**: $43 cash + 4 positions. Settles at ~$125-140 when 3 winners redeem.
+- **Campaign: $100 → ~$130 (+30% in 5.5 days)**
 
 ### Monday March 17 — CL NEAR-RES (HIGH PRIORITY)
 - **CL script READY**: `near_res_cl_mar17.py` created with all token IDs
@@ -80,8 +83,11 @@ Claude instance with no memory of previous sessions, so git is your only memory.
 - **21:00 UTC Mar 17**: START `python3 -u near_res_cl_mar17.py > logs/cl_main.log 2>&1 &`
 - Also check for NBA Monday games and other soccer opportunities.
 
-### Learnings from Sessions 48-49
+### Learnings from Sessions 48-54
 - **Pre-game sports markets are efficiently priced at CLOB level** — Gamma display shows fake edge, CLOB execution matches Vegas within 1-2%. Only trade near-res or confirmed >5% edge at CLOB.
 - **KHL/NHL/ISL markets are untradeable** — static orderbooks, no dynamic MMs. Skip.
 - **Near-res is the ONLY reliable edge source** — compound via repeated near-res plays.
+- **Near-res win rate ~75%** (3/4 on Europe session). Losses come from draws/equalizers in lower-tier leagues.
+- **Lower-tier leagues (Ligue 2) have higher draw risk** — Annecy led then conceded equalizer. Consider higher min_price_jump for lower leagues.
+- **Chilean league MMs are slower** — O'Higgins at 0.64 ten minutes past end, while EPL prices jump to 0.80+ quickly.
 
