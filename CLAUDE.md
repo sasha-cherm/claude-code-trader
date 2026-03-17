@@ -71,6 +71,20 @@ Claude instance with no memory of previous sessions, so git is your only memory.
 **Portfolio**: $69.17 cash, NO pending positions. **Must recover.**
 
 #### SESSION ACTIONS BY TIME (UTC):
+**09:00 UTC (= 12:00 GMT+3 cron)** — CHECK TELEGRAM + BTC SETUP:
+```bash
+cd /home/cctrd/cc-trader-agent
+python3 -c "from trader.telegram_io import check_user_commands; print(check_user_commands())"
+```
+Check for user messages via Telegram. Review any instructions.
+
+**13:00 UTC (= 16:00 GMT+3 cron)** — LAUNCH BTC NEAR-RES:
+```bash
+cd /home/cctrd/cc-trader-agent
+bash launch_cl_mar17.sh btc
+```
+BTC threshold markets resolve at 16:00 UTC. Monitor starts 3h before.
+
 **15:00 UTC (= 18:00 GMT+3 cron)** — LAUNCH CL EARLY:
 ```bash
 cd /home/cctrd/cc-trader-agent
@@ -78,12 +92,12 @@ bash launch_cl_mar17.sh early
 ```
 Captures Sporting vs Bodo/Glimt pre-game prices (17:45 kickoff).
 
-**18:00 UTC (= 21:00 GMT+3 cron)** — LAUNCH CL MAIN + NBA + WBC:
+**18:00 UTC (= 21:00 GMT+3 cron)** — LAUNCH CL MAIN + NBA:
 ```bash
 cd /home/cctrd/cc-trader-agent
 bash launch_cl_mar17.sh all
 ```
-Launches CL main (3 matches + 3 draw markets + Sporting draw, 20:00 kickoff), NBA (8 games), and WBC Final (USA vs Venezuela).
+Launches CL main (3 matches + 3 draw markets + Sporting draw, 20:00 kickoff), NBA (8 games).
 
 **21:00 UTC (= 00:00 GMT+3 cron)** — CHECK CL + WBC + NBA STATUS:
 ```bash
@@ -128,3 +142,20 @@ CL main matches near-res window. WBC final underway.
 - O'Higgins was a 0-0 draw — monitor incorrectly bought at 0.64 based on false price signal
 - **ACTION TAKEN**: Fixed near-res parameters (min price 0.80, spread check, tighter time window)
 - Previous sessions falsely claimed $125 portfolio — actual is $69.17
+## User feedback
+Think about other markets and strategies
+Use telegram for asking and getting info from user instead of the current useless notifications. You can also send summary of the last session there
+
+### Session 60 Actions (March 17 07:00 UTC)
+- **Telegram two-way comms**: Created `trader/telegram_io.py` with send/receive/commands.
+  - `check_user_commands()` — reads user messages, parses /status, /stop, /bet, etc.
+  - `send_session_summary()` — sends formatted portfolio summary via Telegram.
+  - Each session should call `check_user_commands()` first, then `send_session_summary()` at end.
+- **BTC near-res monitor**: Created `near_res_btc.py` for BTC daily threshold markets.
+  - Uses log-normal model to calculate P(above strike) given current price and time to resolution.
+  - Trades when edge > 5% and within 3h of resolution (16:00 UTC daily).
+  - Added to launch script: `bash launch_cl_mar17.sh btc`
+- **Market research**: Fed (99.5% hold, no edge), BTC ($74K, near coin-flip on $74K strike),
+  Elon tweets (can't track count), NHL (no reliable odds source).
+- **Strategy expansion ideas for future**: weather markets (Tel Aviv temp had $800K+ vol),
+  cross-market arb (team win vs spread vs O/U), esports near-res, political event near-res.

@@ -9,8 +9,36 @@ from datetime import datetime, timezone
 
 from trader.client import get_client, get_usdc_balance
 from trader.config import TARGET_BALANCE_USDC
-from trader.notify import send
-from trader.strategy import run_session
+from trader.notify import send, send_session_summary, check_user_commands
+from trader.strategy import run_session, load_state
+
+
+def handle_user_commands(client, state):
+    """Check Telegram for user commands and respond."""
+    commands = check_user_commands()
+    for cmd in commands:
+        cmd_lower = cmd.lower().strip()
+        if cmd_lower in ("status", "s", "/status"):
+            balance = get_usdc_balance(client)
+            send_session_summary(balance, state.get("positions", []),
+                                 state.get("trades", [])[-5:])
+        elif cmd_lower in ("positions", "pos", "/positions"):
+            positions = state.get("positions", [])
+            if not positions:
+                send("No open positions.")
+            else:
+                lines = [f"Open positions ({len(positions)}):"]
+                for p in positions:
+                    lines.append(f"  • {p['question'][:45]} | {p['side']} @ {p['entry_price']:.3f} | ${p.get('size_usdc', 0):.2f}")
+                send("\n".join(lines))
+        elif cmd_lower.startswith("stop"):
+            send("Trading paused. Send 'go' to resume.")
+            return "stop"
+        elif cmd_lower in ("go", "resume", "/go"):
+            send("Trading resumed.")
+        else:
+            send(f"Unknown command: {cmd}\nCommands: status, positions, stop, go")
+    return None
 
 
 def main():
@@ -28,6 +56,13 @@ def main():
     balance = get_usdc_balance(client)
     print(f"[MAIN] Balance: ${balance:.2f} USDC")
 
+    # Check user commands from Telegram
+    state = load_state()
+    action = handle_user_commands(client, state)
+    if action == "stop":
+        print("[MAIN] User requested stop via Telegram.")
+        return
+
     if balance <= 0:
         print("[MAIN] Balance is 0 — funds not yet deposited or not bridged to CLOB. Skipping.")
         send("Polymarket balance is $0. Waiting for funds.")
@@ -44,6 +79,12 @@ def main():
         tb = traceback.format_exc()
         print(f"[MAIN] Session error: {e}\n{tb}")
         send(f"SESSION ERROR: {e}")
+
+    # Send session summary at end
+    balance = get_usdc_balance(client)
+    state = load_state()
+    recent = state.get("trades", [])[-5:]
+    send_session_summary(balance, state.get("positions", []), recent)
 
 
 if __name__ == "__main__":
