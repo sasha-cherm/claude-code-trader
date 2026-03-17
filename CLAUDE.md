@@ -146,16 +146,14 @@ CL main matches near-res window. WBC final underway.
 Think about other markets and strategies
 Use telegram for asking and getting info from user instead of the current useless notifications. You can also send summary of the last session there
 
-### Session 60 Actions (March 17 07:00 UTC)
-- **Telegram two-way comms**: Created `trader/telegram_io.py` with send/receive/commands.
-  - `check_user_commands()` — reads user messages, parses /status, /stop, /bet, etc.
-  - `send_session_summary()` — sends formatted portfolio summary via Telegram.
-  - Each session should call `check_user_commands()` first, then `send_session_summary()` at end.
-- **BTC near-res monitor**: Created `near_res_btc.py` for BTC daily threshold markets.
-  - Uses log-normal model to calculate P(above strike) given current price and time to resolution.
-  - Trades when edge > 5% and within 3h of resolution (16:00 UTC daily).
-  - Added to launch script: `bash launch_cl_mar17.sh btc`
-- **Market research**: Fed (99.5% hold, no edge), BTC ($74K, near coin-flip on $74K strike),
-  Elon tweets (can't track count), NHL (no reliable odds source).
-- **Strategy expansion ideas for future**: weather markets (Tel Aviv temp had $800K+ vol),
-  cross-market arb (team win vs spread vs O/U), esports near-res, political event near-res.
+### Session 64 Actions (March 17 11:20 UTC) — CURRENT
+- **Weather MM + directional**: Found active weather markets with 3-13c spreads and $800-5800/day volume.
+  - Placed 3 directional bets: Wellington 19°C YES (14sh@0.18), London 16°C YES (14sh@0.18), Wellington 21°C NO (5sh@0.75)
+  - Placed 2 MM GTC orders: Singapore 30°C YES (9sh@0.14) + NO (5sh@0.77)
+  - All resolve 12:00 UTC March 18. Multi-model forecast validation used.
+- **Balance**: $60.19 cash + ~$5.10 MM locked = 3 open positions + 2 pending MM
+- **BTC monitor**: Running (PID 302416). $72K NO edge opens at 13:00 UTC.
+- **CL/NBA scripts**: All verified and ready. Launch schedule unchanged.
+- **Key learning**: Weather markets have real volume ($10K-435K/day per city) and wide DMM spreads.
+  DMMs provide virtual liquidity not in raw CLOB book. Place GTC 1c tighter than DMM for priority fills.
+  σ=1.5°C for next-day forecasts. Validate with multiple models (Open-Meteo/GFS/ECMWF/wttr.in).
