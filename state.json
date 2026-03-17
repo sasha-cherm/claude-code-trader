@@ -74,6 +74,36 @@
       "days_left_at_entry": 0.12002024561342593,
       "opened_at": "2026-03-17 13:07:10.250779+00:00",
       "research_note": "BTC $73,753, strike $72,000, 2.9h to res. P(above)=90.0%, PM=0.957"
+    },
+    {
+      "token_id": "90844743874769941462606095963570163953622317354374593191344326387032909581015",
+      "market_id": "btc-near-res-74k",
+      "question": "Will the price of Bitcoin be above $74,000 on March 17?",
+      "side": "YES",
+      "entry_price": 0.44,
+      "fair_price": 0.5054156319982959,
+      "edge": 0.0654,
+      "size_usdc": 6.5321469,
+      "shares": 14.84578840909091,
+      "end_date": "2026-03-17T16:00:00Z",
+      "days_left_at_entry": 0.09552177320601853,
+      "opened_at": "2026-03-17 13:42:26.918795+00:00",
+      "research_note": "BTC $74,027, strike $74,000, 2.3h to res. P(above)=50.5%, PM=0.440"
+    },
+    {
+      "token_id": "9205020458679678562833213782766631491348445156477523096065042062467732424308",
+      "market_id": "btc-near-res-74k",
+      "question": "Will the price of Bitcoin be above $74,000 on March 17?",
+      "side": "NO",
+      "entry_price": 0.315,
+      "fair_price": 0.4087586052044043,
+      "edge": 0.0938,
+      "size_usdc": 5.0052069,
+      "shares": 15.889545714285715,
+      "end_date": "2026-03-17T16:00:00Z",
+      "days_left_at_entry": 0.053547751898148144,
+      "opened_at": "2026-03-17 14:42:53.474236+00:00",
+      "research_note": "BTC $74,219, strike $74,000, 1.3h to res. P(above)=59.1%, PM=0.685"
     }
   ],
   "trades": [
