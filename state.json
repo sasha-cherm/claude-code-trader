@@ -1,21 +1,5 @@
 {
-  "positions": [
-    {
-      "token_id": "16327684167841711999635003831148801852942982052761108878338691095472902020483",
-      "market_id": "london-14c-mar17",
-      "question": "Will the highest temperature in London be 14\u00b0C on March 17?",
-      "side": "YES",
-      "entry_price": 0.36,
-      "fair_price": 0.6,
-      "edge": 0.06,
-      "size_usdc": 5.0,
-      "shares": 13.88,
-      "end_date": "2026-03-17T12:00:00Z",
-      "days_left_at_entry": 0.21,
-      "opened_at": "2026-03-17 07:16:28.837022+00:00",
-      "research_note": "Weather: Open-Meteo 14.4C max at EGLC. wttr.in 14C. Two models agree. CLOB ask 0.36."
-    }
-  ],
+  "positions": [],
   "trades": [
     {
       "token_id": "89003136096914568294011168339858112910546045281702936178525401387691265991942",
@@ -804,7 +788,27 @@
       "pnl_pct": -1.0,
       "closed_at": "2026-03-17T03:00:00Z",
       "close_reason": "Settlement loss (Brentford did NOT win)"
+    },
+    {
+      "token_id": "16327684167841711999635003831148801852942982052761108878338691095472902020483",
+      "market_id": "london-14c-mar17",
+      "question": "Will the highest temperature in London be 15\u00b0C on March 17?",
+      "side": "YES",
+      "entry_price": 0.36,
+      "fair_price": 0.6,
+      "edge": 0.06,
+      "size_usdc": 5.0,
+      "shares": 13.88,
+      "end_date": "2026-03-17T12:00:00Z",
+      "days_left_at_entry": 0.21,
+      "opened_at": "2026-03-17 07:16:28.837022+00:00",
+      "research_note": "Weather: Open-Meteo 14.4C max at EGLC. wttr.in 14C. Two models agree. CLOB ask 0.36.",
+      "exit_price": 0.33,
+      "pnl_pct": -0.08333333333333326,
+      "pnl_usdc": -0.4195999999999991,
+      "closed_at": "2026-03-17T09:03:54.183612+00:00",
+      "close_reason": "Manual sell: wrong market (15\u00b0C not 14\u00b0C), forecast 13.7\u00b0C max"
     }
   ],
-  "sessions": 55
+  "sessions": 62
 }
