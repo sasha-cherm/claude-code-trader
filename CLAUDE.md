@@ -75,21 +75,24 @@ bash launch_cl_mar17.sh early
 ```
 Captures Sporting vs Bodo/Glimt pre-game prices (17:45 kickoff).
 
-**18:00 UTC (= 21:00 GMT+3 cron)** — LAUNCH CL MAIN + NBA:
+**18:00 UTC (= 21:00 GMT+3 cron)** — LAUNCH CL MAIN + NBA + WBC:
 ```bash
 cd /home/cctrd/cc-trader-agent
 bash launch_cl_mar17.sh all
 ```
-Launches CL main (3 matches + 3 draw markets, 20:00 kickoff) and NBA (6 games including Thunder/Magic and Pacers/Knicks).
+Launches CL main (3 matches + 3 draw markets + Sporting draw, 20:00 kickoff), NBA (8 games), and WBC Final (USA vs Venezuela).
 
-**21:00 UTC (= 00:00 GMT+3 cron)** — CHECK CL + NBA STATUS:
+**21:00 UTC (= 00:00 GMT+3 cron)** — CHECK CL + WBC + NBA STATUS:
 ```bash
-tail -20 logs/cl_early_*.log logs/cl_main_*.log logs/nba_mar17_*.log
+tail -30 logs/cl_early_*.log logs/cl_main_*.log logs/nba_mar17_*.log
 ```
+CL main matches near-res window. WBC final underway.
 
 **23:00 UTC (= 02:00 GMT+3 cron)** — NBA NEAR-RES WINDOW:
-- Thunder/Magic + Pacers/Knicks near-res window (~22:00-23:30 UTC)
-- Suns/TWolves + Cavs/Bucks near-res window (~23:00-00:00 UTC)
+- Heat/Hornets + Pistons/Wizards + Thunder/Magic near-res (~22:00-23:00 UTC)
+- Pacers/Knicks near-res (~22:30-23:30 UTC)
+- WBC final near-res (~22:00-23:30 UTC)
+- Suns/TWolves + Cavs/Bucks near-res (~23:00-00:00 UTC)
 - Check all monitor logs
 
 **01:00 UTC Mar 18 (= 04:00 GMT+3 cron)** — LATE NBA CHECK:
@@ -102,11 +105,12 @@ tail -20 logs/cl_early_*.log logs/cl_main_*.log logs/nba_mar17_*.log
 - **Chelsea vs PSG**: PSG leads 5-2 → comfortable. Lower opportunity.
 - **Sporting vs Bodø/Glimt**: BG leads 3-0 → Sporting at home.
 
-#### NBA Monday (6 games):
-- Extra-early: Thunder vs Magic ($64K, end 23:00), Pacers vs Knicks ($68K, end 23:30)
-- Early (~21:30 UTC tipoff): Suns vs T-Wolves ($47K), Cavs vs Bucks ($29K)
-- Late (~23:30 UTC tipoff): Spurs vs Kings ($31K), 76ers vs Nuggets ($26K)
-- Script: `near_res_nba_mar17.py` (all 12 token IDs verified — 6 games, both sides)
+#### NBA Monday (8 games) + WBC Final:
+- Extra-early (end 23:00-23:30): Heat vs Hornets ($293K), Pistons vs Wizards ($131K), Thunder vs Magic ($86K), Pacers vs Knicks ($137K)
+- Early (~21:30 UTC tipoff): Suns vs T-Wolves ($66K), Cavs vs Bucks ($47K)
+- Late (~23:30 UTC tipoff): Spurs vs Kings ($45K), 76ers vs Nuggets ($51K)
+- WBC Final: USA vs Venezuela ($1M+, end 23:55 UTC) — Dynamic MMs confirmed
+- Script: `near_res_nba_mar17.py` (all 18 token IDs verified — 8 NBA + WBC)
 
 ### Learnings from Sessions 48-55
 - **Near-res is the ONLY reliable edge source** — compound via repeated near-res plays.

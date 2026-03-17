@@ -2,19 +2,21 @@
 """
 Near-resolution monitor for NBA Monday March 17, 2026.
 
-6 games:
+8 games:
   Extra-early (end ~23:00-23:30 UTC, near-res ~22:00-22:30 UTC):
-    - Thunder vs. Magic (Thunder fav 0.775, $64K vol)
-    - Pacers vs. Knicks (Knicks fav 0.885, $68K vol)
+    - Heat vs. Hornets ($293K vol)
+    - Pistons vs. Wizards ($131K vol)
+    - Thunder vs. Magic ($86K vol)
+    - Pacers vs. Knicks ($137K vol)
   Early (tipoff ~21:30 UTC, near-res ~23:30 UTC):
-    - Suns vs. Timberwolves (T-Wolves fav 0.605, $43K vol)
-    - Cavaliers vs. Bucks (Cavs fav 0.785, $29K vol)
+    - Suns vs. Timberwolves ($66K vol)
+    - Cavaliers vs. Bucks ($47K vol)
   Late (tipoff ~23:30 UTC, near-res ~01:30 UTC Mar 18):
-    - Spurs vs. Kings ($31K vol)
-    - 76ers vs. Nuggets (Nuggets fav 0.865, $26K vol)
+    - Spurs vs. Kings ($45K vol)
+    - 76ers vs. Nuggets ($51K vol)
 
 Usage:
-  python3 near_res_nba_mar17.py          # All 6 games
+  python3 near_res_nba_mar17.py          # All 8 games
   python3 near_res_nba_mar17.py --late   # Only late games (Spurs/Kings, 76ers/Nuggets)
 """
 import json
@@ -29,6 +31,34 @@ from trader.strategy import place_market_buy, get_actual_shares, load_state, sav
 from trader.notify import send
 
 EXTRA_EARLY_GAMES = [
+    {
+        "name": "Heat",
+        "token_id": "6087401712754856840770710788808797544168435146436671864529302588463415816366",
+        "end_date": "2026-03-17T23:00:00Z",
+        "pre_game_price": 0.0,
+        "question": "Heat vs. Hornets",
+    },
+    {
+        "name": "Hornets",
+        "token_id": "1809681482951707674012395356212140615234154334581743465339144085976054396593",
+        "end_date": "2026-03-17T23:00:00Z",
+        "pre_game_price": 0.0,
+        "question": "Heat vs. Hornets",
+    },
+    {
+        "name": "Pistons",
+        "token_id": "82790834489296792548001754818893068269706014238351914889123814624040902456072",
+        "end_date": "2026-03-17T23:00:00Z",
+        "pre_game_price": 0.0,
+        "question": "Pistons vs. Wizards",
+    },
+    {
+        "name": "Wizards",
+        "token_id": "17099481025837246885779189828657260235952615421316280987531483773805113695816",
+        "end_date": "2026-03-17T23:00:00Z",
+        "pre_game_price": 0.0,
+        "question": "Pistons vs. Wizards",
+    },
     {
         "name": "Thunder",
         "token_id": "88536762430284806618501517499086969073586167153112020992659151202063177650409",
@@ -87,6 +117,23 @@ EARLY_GAMES = [
         "end_date": "2026-03-18T00:00:00Z",
         "pre_game_price": 0.0,
         "question": "Cavaliers vs. Bucks",
+    },
+]
+
+WBC_GAMES = [
+    {
+        "name": "USA (WBC)",
+        "token_id": "74703519327710712757553592788004847524143089285144132580937499588474411589292",
+        "end_date": "2026-03-17T23:55:00Z",
+        "pre_game_price": 0.0,
+        "question": "Will USA win the 2026 World Baseball Classic?",
+    },
+    {
+        "name": "Venezuela (WBC)",
+        "token_id": "46211170528412621902777844924399001591628628991357980873756319774571327094924",
+        "end_date": "2026-03-17T23:55:00Z",
+        "pre_game_price": 0.0,
+        "question": "Will Venezuela win the 2026 World Baseball Classic?",
     },
 ]
 
@@ -201,7 +248,7 @@ def try_buy(client, market, balance):
         state = load_state()
         pos = {
             "token_id": tid,
-            "market_id": f"near-res-nba-{name.lower().replace(' ', '-')}",
+            "market_id": f"near-res-{'wbc' if 'WBC' in name else 'nba'}-{name.lower().replace(' ', '-').replace(' (wbc)', '')}",
             "question": market["question"],
             "side": "YES",
             "entry_price": price,
@@ -234,8 +281,8 @@ def main():
         watch = EXTRA_EARLY_GAMES + EARLY_GAMES
         label = "NBA Early: Thunder/Magic + Pacers/Knicks + Suns/TWolves + Cavs/Bucks"
     else:
-        watch = EXTRA_EARLY_GAMES + EARLY_GAMES + LATE_GAMES
-        label = "NBA All 6 Monday games"
+        watch = EXTRA_EARLY_GAMES + WBC_GAMES + EARLY_GAMES + LATE_GAMES
+        label = "NBA All 8 Monday games + WBC Final"
 
     print(f"=== NBA Near-Res Monitor ({label}) Started at {datetime.now(timezone.utc).strftime('%H:%M UTC')} ===")
 

@@ -34,6 +34,13 @@ EARLY_WATCH = [
         "pre_game_price": 0.0,
         "question": "Will Sporting CP win on 2026-03-17?",
     },
+    {
+        "name": "Sporting/BG Draw",
+        "token_id": "72429265217288858991511814047668837748469824491554767016144570850151659406562",
+        "end_date": "2026-03-17T19:30:00Z",
+        "pre_game_price": 0.0,
+        "question": "Will Sporting CP vs. FK Bodø/Glimt end in a draw?",
+    },
 ]
 
 # Man City vs Real Madrid + Chelsea vs PSG + Arsenal vs Leverkusen — kickoff 20:00 UTC, ends ~21:45 UTC
