@@ -161,12 +161,12 @@ def evaluate_and_trade(client, markets: list[dict], btc_price: float):
         token_id = None
         price = 0
 
-        if yes_edge >= MIN_EDGE and yes_price < 0.95 and yes_price > 0.05:
+        if yes_edge >= MIN_EDGE and yes_price < 0.95 and yes_price > 0.02:
             side = "YES"
             edge = yes_edge
             token_id = m["yes_token"]
             price = yes_price
-        elif no_edge >= MIN_EDGE and no_price < 0.95 and no_price > 0.05:
+        elif no_edge >= MIN_EDGE and no_price < 0.95 and no_price > 0.02:
             side = "NO"
             edge = no_edge
             token_id = m["no_token"]
