@@ -1,36 +1,5 @@
 {
-  "positions": [
-    {
-      "token_id": "52838116614997262972033497838211663286665639650135717435226760891993148892649",
-      "market_id": "near-res-las-palmas",
-      "question": "Will UD Las Palmas win on 2026-03-16?",
-      "side": "YES",
-      "entry_price": 0.62,
-      "fair_price": 0.77,
-      "edge": 0.1,
-      "size_usdc": 23.482543200000002,
-      "shares": 37.87506967741936,
-      "end_date": "2026-03-16T19:30:00Z",
-      "days_left_at_entry": -0.00646450712962963,
-      "opened_at": "2026-03-16 19:39:21.309316+00:00",
-      "research_note": "Near-resolution: Las Palmas price jumped +0.245 from pre-game 0.375"
-    },
-    {
-      "token_id": "47494701246623683904467099439211712078496707997982781452643608690648347494691",
-      "market_id": "near-res-brentford",
-      "question": "Will Brentford FC win on 2026-03-16?",
-      "side": "YES",
-      "entry_price": 0.77,
-      "fair_price": 0.92,
-      "edge": 0.1,
-      "size_usdc": 15.0292632,
-      "shares": 19.518523636363636,
-      "end_date": "2026-03-16T20:00:00Z",
-      "days_left_at_entry": -0.015549949386574075,
-      "opened_at": "2026-03-16 20:22:29.226310+00:00",
-      "research_note": "Near-resolution: Brentford price jumped +0.155 from pre-game 0.615"
-    }
-  ],
+  "positions": [],
   "trades": [
     {
       "token_id": "89003136096914568294011168339858112910546045281702936178525401387691265991942",
@@ -779,6 +748,46 @@
       "pnl_usdc": -9.473883200000001,
       "closed_at": "2026-03-16 23:04:43.883399+00:00",
       "close_reason": "Sold at ~0.01 (Chilean league no CLOB liquidity - should have waited for settlement)"
+    },
+    {
+      "token_id": "52838116614997262972033497838211663286665639650135717435226760891993148892649",
+      "market_id": "near-res-las-palmas",
+      "question": "Will UD Las Palmas win on 2026-03-16?",
+      "side": "YES",
+      "entry_price": 0.62,
+      "fair_price": 0.77,
+      "edge": 0.1,
+      "size_usdc": 23.482543200000002,
+      "shares": 37.87506967741936,
+      "end_date": "2026-03-16T19:30:00Z",
+      "days_left_at_entry": -0.00646450712962963,
+      "opened_at": "2026-03-16 19:39:21.309316+00:00",
+      "research_note": "Near-resolution: Las Palmas price jumped +0.245 from pre-game 0.375",
+      "exit_price": 0,
+      "pnl_usdc": -23.482543200000002,
+      "pnl_pct": -1.0,
+      "closed_at": "2026-03-17T03:00:00Z",
+      "close_reason": "Settlement loss (Las Palmas did NOT win)"
+    },
+    {
+      "token_id": "47494701246623683904467099439211712078496707997982781452643608690648347494691",
+      "market_id": "near-res-brentford",
+      "question": "Will Brentford FC win on 2026-03-16?",
+      "side": "YES",
+      "entry_price": 0.77,
+      "fair_price": 0.92,
+      "edge": 0.1,
+      "size_usdc": 15.0292632,
+      "shares": 19.518523636363636,
+      "end_date": "2026-03-16T20:00:00Z",
+      "days_left_at_entry": -0.015549949386574075,
+      "opened_at": "2026-03-16 20:22:29.226310+00:00",
+      "research_note": "Near-resolution: Brentford price jumped +0.155 from pre-game 0.615",
+      "exit_price": 0,
+      "pnl_usdc": -15.0292632,
+      "pnl_pct": -1.0,
+      "closed_at": "2026-03-17T03:00:00Z",
+      "close_reason": "Settlement loss (Brentford did NOT win)"
     }
   ],
   "sessions": 55

@@ -168,11 +168,13 @@ LATE_GAMES = [
     },
 ]
 
-MAX_SPEND_PER_TRADE = 20.0
+MAX_SPEND_PER_TRADE = 15.0
 MIN_SPEND = 3.0
-MIN_PRICE_JUMP = 0.15
-MIN_NEAR_RES_PRICE = 0.62
-MAX_NEAR_RES_PRICE = 0.85
+MIN_PRICE_JUMP = 0.18
+MIN_NEAR_RES_PRICE = 0.78   # Higher threshold — only buy when team clearly winning
+MAX_NEAR_RES_PRICE = 0.93
+MAX_SPREAD = 0.08            # Skip if buy-sell spread too wide
+MAX_MINS_TO_END = 30         # Only buy in last 30 mins
 BOUGHT = set()
 
 
@@ -210,15 +212,17 @@ def check_prices(client, watch_list):
                 "mins_to_end": mins_to_end,
             })
 
+            spread = price - sell_price
             status = "***BUY SIGNAL***" if (
                 price >= MIN_NEAR_RES_PRICE and
                 price <= MAX_NEAR_RES_PRICE and
                 jump >= MIN_PRICE_JUMP and
-                mins_to_end < 60
+                mins_to_end < MAX_MINS_TO_END and
+                spread < MAX_SPREAD
             ) else ""
 
             print(f"  {watch['name']:14s} buy={price:.3f} sell={sell_price:.3f} "
-                  f"jump={jump:+.3f} mins_left={mins_to_end:.0f} {status}")
+                  f"spread={spread:.3f} jump={jump:+.3f} mins_left={mins_to_end:.0f} {status}")
         except Exception as e:
             print(f"  {watch['name']:14s} ERROR: {e}")
     return results
@@ -304,10 +308,12 @@ def main():
         results = check_prices(client, watch)
 
         for r in results:
+            spread = r["current_buy"] - r["current_sell"]
             if (r["jump"] >= MIN_PRICE_JUMP and
                 r["current_buy"] >= MIN_NEAR_RES_PRICE and
                 r["current_buy"] <= MAX_NEAR_RES_PRICE and
-                r["mins_to_end"] < 60 and
+                r["mins_to_end"] < MAX_MINS_TO_END and
+                spread < MAX_SPREAD and
                 r["token_id"] not in BOUGHT and
                 balance >= MIN_SPEND):
 

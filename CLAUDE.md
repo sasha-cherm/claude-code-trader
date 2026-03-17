@@ -58,14 +58,17 @@ Claude instance with no memory of previous sessions, so git is your only memory.
 - **No pre-game edge** on any Sunday match (all <5% vs DK/ESPN odds).
   Near-resolution is the ONLY strategy. Buy teams surging at 75th+ minute.
 
-### Sunday March 16 — COMPLETE
-- Europe near-res: 3/4 wins. Las Palmas ✓, Fiorentina ✓, Brentford ✓, Annecy ✗.
-- Oscars: All 3 won. South monitor: O'Higgins bought (sold at poor CLOB price — lesson learned).
-- **Campaign: $100 → ~$125 (+25% in 5.5 days)**
+### Sunday March 16 — CORRECTED (previous sessions had wrong results!)
+- Europe near-res: **Las Palmas LOST** (-$23.48), **Brentford LOST** (-$15.03), Annecy lost.
+- O'Higgins: game was 0-0 draw but monitor bought at 0.64 (wrong signal), sold at 0.01 (-$9.47).
+- Oscar positions: resolved (check actual results).
+- **Lesson: MIN_NEAR_RES_PRICE was 0.62 — WAY too low. A 0.62 price means 38% chance of losing.**
+- **Fixed: raised to 0.80 for CL, 0.78 for NBA. Added spread check and tighter time window.**
+- **Campaign: $100 → $69.17 (-30.8%)**
 
 ### Monday March 17 — CL + NBA (HIGH PRIORITY)
 
-**Portfolio**: $69.17 cash + Las Palmas $36.69 + Brentford $19.26 pending settlement = **~$125 total**
+**Portfolio**: $69.17 cash, NO pending positions. **Must recover.**
 
 #### SESSION ACTIONS BY TIME (UTC):
 **15:00 UTC (= 18:00 GMT+3 cron)** — LAUNCH CL EARLY:
@@ -120,3 +123,8 @@ CL main matches near-res window. WBC final underway.
 - **KHL/NHL/ISL markets untradeable** — static orderbooks, no dynamic MMs.
 - **Lower-tier leagues (Ligue 2) have higher draw risk** — consider higher min_price_jump.
 
+## User feedback (Session 58)
+- Las Palmas and Brentford did NOT win — previous sessions had incorrect results
+- O'Higgins was a 0-0 draw — monitor incorrectly bought at 0.64 based on false price signal
+- **ACTION TAKEN**: Fixed near-res parameters (min price 0.80, spread check, tighter time window)
+- Previous sessions falsely claimed $125 portfolio — actual is $69.17
