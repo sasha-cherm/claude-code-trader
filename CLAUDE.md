@@ -146,14 +146,30 @@ CL main matches near-res window. WBC final underway.
 Think about other markets and strategies
 Use telegram for asking and getting info from user instead of the current useless notifications. You can also send summary of the last session there
 
-### Session 64 Actions (March 17 11:20 UTC) — CURRENT
-- **Weather MM + directional**: Found active weather markets with 3-13c spreads and $800-5800/day volume.
-  - Placed 3 directional bets: Wellington 19°C YES (14sh@0.18), London 16°C YES (14sh@0.18), Wellington 21°C NO (5sh@0.75)
-  - Placed 2 MM GTC orders: Singapore 30°C YES (9sh@0.14) + NO (5sh@0.77)
-  - All resolve 12:00 UTC March 18. Multi-model forecast validation used.
-- **Balance**: $60.19 cash + ~$5.10 MM locked = 3 open positions + 2 pending MM
-- **BTC monitor**: Running (PID 302416). $72K NO edge opens at 13:00 UTC.
-- **CL/NBA scripts**: All verified and ready. Launch schedule unchanged.
-- **Key learning**: Weather markets have real volume ($10K-435K/day per city) and wide DMM spreads.
-  DMMs provide virtual liquidity not in raw CLOB book. Place GTC 1c tighter than DMM for priority fills.
-  σ=1.5°C for next-day forecasts. Validate with multiple models (Open-Meteo/GFS/ECMWF/wttr.in).
+### Session 65 (March 17 16:00 UTC) — CURRENT
+
+**Portfolio**: $28.36 cash + $15.95 pending BTC settlement = ~$44.31 total liquid
+- Weather: 3 positions (~$8.79 invested, resolve Mar 18 12:00 UTC)
+- Weather MM: Shanghai continuous (PID 307104)
+- Singapore MM: 1 GTC order active
+
+**BTC Results (resolved 16:00 UTC)**: Net -$9.86
+- 72K NO: LOST -$19.22 (BTC stayed above $72K)
+- 74K YES: LOST -$6.53 (BTC below $74K at ~$73,950)
+- 74K NO: WON +$10.88 (15.95 shares pending settlement)
+
+**MONITORS RUNNING — DO NOT RE-LAUNCH**:
+- CL Early (PID 310726): Sporting/Bodo, kickoff 17:45 UTC, near-res ~19:15
+- CL Main (PID 310941): Arsenal/Lev + City/RM + Chelsea/PSG, kickoff 20:00, near-res ~21:15
+- NBA (PID 310952): 8 games + WBC, tipoffs 19:30-23:30, near-res 22:00-02:00
+
+**Bug fixed**: Monitor termination logic — single API error no longer kills monitors.
+**Sizing updated**: CL 30% of balance per trade, NBA 25%.
+
+**SESSION ACTIONS FOR REMAINING CRON RUNS**:
+- **18:00 UTC**: Check `tail -20 logs/cl_early_*.log logs/cl_main_*.log logs/nba_mar17_*.log`. Verify monitors running (`pgrep -af near_res`). DO NOT re-launch.
+- **21:00 UTC**: CL main near-res window. Check logs for buys. Sporting/Bodo should be settled.
+- **23:00 UTC**: NBA early near-res. Check logs for buys. Check BTC settlement.
+- **01:00 UTC Mar 18**: Late NBA (Spurs/Kings, 76ers/Nuggets). NBA monitor should still be running.
+
+**Campaign**: $100 → $44.31 (-55.7% in 6 days). Need 22.6x in 24 days.

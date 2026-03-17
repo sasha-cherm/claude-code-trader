@@ -168,13 +168,14 @@ LATE_GAMES = [
     },
 ]
 
-MAX_SPEND_PER_TRADE = 15.0
-MIN_SPEND = 3.0
+MAX_SPEND_PER_TRADE = 10.0
+MIN_SPEND = 2.0
 MIN_PRICE_JUMP = 0.18
 MIN_NEAR_RES_PRICE = 0.78   # Higher threshold — only buy when team clearly winning
 MAX_NEAR_RES_PRICE = 0.93
 MAX_SPREAD = 0.08            # Skip if buy-sell spread too wide
 MAX_MINS_TO_END = 30         # Only buy in last 30 mins
+PCT_OF_BALANCE = 0.25        # More aggressive sizing
 BOUGHT = set()
 
 
@@ -237,7 +238,7 @@ def try_buy(client, market, balance):
         print(f"  Already bought {name}, skipping")
         return False
 
-    spend = min(MAX_SPEND_PER_TRADE, balance * 0.20)
+    spend = min(MAX_SPEND_PER_TRADE, balance * PCT_OF_BALANCE)
     if spend < MIN_SPEND:
         print(f"  Insufficient balance for {name} (need ${MIN_SPEND}, have ${balance:.2f})")
         return False
@@ -297,7 +298,7 @@ def main():
     print("Capturing pre-game prices...")
     snapshot_pre_game_prices(client, watch)
 
-    max_iterations = 300  # 5 hours
+    max_iterations = 480  # 8 hours — covers early + late games
     for i in range(max_iterations):
         now = datetime.now(timezone.utc)
         print(f"\n--- Check #{i+1} at {now.strftime('%H:%M:%S UTC')} ---")
@@ -320,10 +321,17 @@ def main():
                 try_buy(client, r, balance)
                 balance = get_usdc_balance(client)
 
-        active = [r for r in results if r["mins_to_end"] > -30]
-        if not active:
-            print("\nAll monitored games ended. Stopping.")
+        # Check termination using end_dates directly (not results, which may be empty on API error)
+        now_ts = datetime.now(timezone.utc)
+        all_ended = all(
+            (now_ts - datetime.fromisoformat(w["end_date"].replace("Z", "+00:00"))).total_seconds() > 1800
+            for w in watch
+        )
+        if all_ended:
+            print("\nAll monitored games ended 30+ minutes ago. Stopping.")
             break
+        if not results:
+            print("  (API error, retrying next cycle)")
 
         time.sleep(60)
 
