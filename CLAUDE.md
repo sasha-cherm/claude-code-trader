@@ -146,32 +146,36 @@ CL main matches near-res window. WBC final underway.
 Think about other markets and strategies
 Use telegram for asking and getting info from user instead of the current useless notifications. You can also send summary of the last session there
 
-### Session 65 (March 17 16:00 UTC) — CURRENT
+### Session 66 (March 17 18:00 UTC)
 
 **Portfolio**: $28.36 cash + $15.95 pending BTC settlement = ~$44.31 total liquid
 - Weather: 3 positions (~$8.79 invested, resolve Mar 18 12:00 UTC)
-- Weather MM: Shanghai continuous (PID 307104)
-- Singapore MM: 1 GTC order active
+  - Wellington 19°C YES (14 shares @ 0.18) — forecast 18°C, slim chance
+  - London 16°C YES (14 shares @ 0.18) — forecast 16°C, decent shot
+  - Wellington 21°C NO (5 shares @ 0.75) — forecast 18°C, should win
+- Singapore MM: 2 GTC orders live
+- BTC $74,614 at 18:00 UTC. BTC 74K NO settlement still pending.
 
-**BTC Results (resolved 16:00 UTC)**: Net -$9.86
-- 72K NO: LOST -$19.22 (BTC stayed above $72K)
-- 74K YES: LOST -$6.53 (BTC below $74K at ~$73,950)
-- 74K NO: WON +$10.88 (15.95 shares pending settlement)
+**Sporting/Bodo at 18:15 UTC**: 0-0 at 29th minute. Sporting 0.64 (back to pre-game). Near-res ~19:00-19:30.
+**Palermo match**: Juve Stabia leading (Palermo dropped from 0.55 to 0.20). Wide spread, untradeable.
 
-**MONITORS RUNNING — DO NOT RE-LAUNCH**:
-- CL Early (PID 310726): Sporting/Bodo, kickoff 17:45 UTC, near-res ~19:15
+**MONITORS RUNNING (verified 18:05 UTC with `pgrep -af near_res`)**:
+- CL Early (PID 310726): Sporting/Bodo, near-res ~19:00-19:30
 - CL Main (PID 310941): Arsenal/Lev + City/RM + Chelsea/PSG, kickoff 20:00, near-res ~21:15
 - NBA (PID 310952): 8 games + WBC, tipoffs 19:30-23:30, near-res 22:00-02:00
-- Extra (PID 311354): Palermo (18:00), Serie B x4 (19:00), Lanus/Newell's (22:00), near-res 19:15-23:45
-- Weather MM (PID 307104): Shanghai continuous
+- Extra (PID 311354): Palermo, Serie B x4 (19:00), Lanus/Newell's (22:00)
 
-**Bug fixed**: Monitor termination logic — single API error no longer kills monitors.
-**Sizing updated**: CL 30% of balance per trade, NBA 25%.
+**Monitor params (verified)**:
+- CL: MIN_PRICE=0.78, JUMP=0.18, SPREAD<0.08, last 25 min, 30% balance, max $12
+- NBA: MIN_PRICE=0.78, JUMP=0.18, SPREAD<0.08, last 30 min, 25% balance, max $10
+- Extra: 20% balance
+
+**No pre-game edge found**: Checked ESPN spreads + PM for all NBA/CL. All within 2-3%.
+Arsenal -1.5 handicap at -330 might imply 8% edge on Arsenal moneyline, but conversion is uncertain.
 
 **SESSION ACTIONS FOR REMAINING CRON RUNS**:
-- **18:00 UTC**: Check `tail -20 logs/cl_early_*.log logs/cl_main_*.log logs/nba_mar17_*.log`. Verify monitors running (`pgrep -af near_res`). DO NOT re-launch.
-- **21:00 UTC**: CL main near-res window. Check logs for buys. Sporting/Bodo should be settled.
-- **23:00 UTC**: NBA early near-res. Check logs for buys. Check BTC settlement.
-- **01:00 UTC Mar 18**: Late NBA (Spurs/Kings, 76ers/Nuggets). NBA monitor should still be running.
+- **21:00 UTC**: CL main near-res window. Check `tail -30 logs/cl_main_*.log`. Sporting settled.
+- **23:00 UTC**: NBA early near-res (Heat/Hor, Pistons/Wiz, Thunder/Magic, Knicks/Pacers). Check logs.
+- **01:00 UTC Mar 18**: Late NBA (Spurs/Kings, 76ers/Nuggets). Check all results, BTC settlement.
 
 **Campaign**: $100 → $44.31 (-55.7% in 6 days). Need 22.6x in 24 days.
