@@ -2,16 +2,19 @@
 """
 Near-resolution monitor for NBA Monday March 17, 2026.
 
-4 games:
+6 games:
+  Extra-early (end ~23:00-23:30 UTC, near-res ~22:00-22:30 UTC):
+    - Thunder vs. Magic (Thunder fav 0.775, $64K vol)
+    - Pacers vs. Knicks (Knicks fav 0.885, $68K vol)
   Early (tipoff ~21:30 UTC, near-res ~23:30 UTC):
-    - Suns vs. Timberwolves (T-Wolves fav 0.605, $42.9K vol)
-    - Cavaliers vs. Bucks (Cavs fav 0.785, $25.7K vol)
+    - Suns vs. Timberwolves (T-Wolves fav 0.605, $43K vol)
+    - Cavaliers vs. Bucks (Cavs fav 0.785, $29K vol)
   Late (tipoff ~23:30 UTC, near-res ~01:30 UTC Mar 18):
-    - Spurs vs. Kings ($30.7K vol)
-    - 76ers vs. Nuggets (Nuggets fav 0.85, $13.3K vol)
+    - Spurs vs. Kings ($31K vol)
+    - 76ers vs. Nuggets (Nuggets fav 0.865, $26K vol)
 
 Usage:
-  python3 near_res_nba_mar17.py          # All 4 games
+  python3 near_res_nba_mar17.py          # All 6 games
   python3 near_res_nba_mar17.py --late   # Only late games (Spurs/Kings, 76ers/Nuggets)
 """
 import json
@@ -24,6 +27,37 @@ sys.path.insert(0, os.path.dirname(__file__))
 from trader.client import get_client, get_usdc_balance
 from trader.strategy import place_market_buy, get_actual_shares, load_state, save_state
 from trader.notify import send
+
+EXTRA_EARLY_GAMES = [
+    {
+        "name": "Thunder",
+        "token_id": "88536762430284806618501517499086969073586167153112020992659151202063177650409",
+        "end_date": "2026-03-17T23:00:00Z",
+        "pre_game_price": 0.0,
+        "question": "Thunder vs. Magic",
+    },
+    {
+        "name": "Magic",
+        "token_id": "67157385670249294994199439700858827590636077799054551741558747573219806661042",
+        "end_date": "2026-03-17T23:00:00Z",
+        "pre_game_price": 0.0,
+        "question": "Thunder vs. Magic",
+    },
+    {
+        "name": "Knicks",
+        "token_id": "48913018712744652147761122907336875899748540751417363008067660746220309136543",
+        "end_date": "2026-03-17T23:30:00Z",
+        "pre_game_price": 0.0,
+        "question": "Pacers vs. Knicks",
+    },
+    {
+        "name": "Pacers",
+        "token_id": "1679112624969420181923996019121447562057381977286350555544211427951161455439",
+        "end_date": "2026-03-17T23:30:00Z",
+        "pre_game_price": 0.0,
+        "question": "Pacers vs. Knicks",
+    },
+]
 
 EARLY_GAMES = [
     {
@@ -196,9 +230,12 @@ def main():
     if "--late" in sys.argv:
         watch = LATE_GAMES
         label = "NBA Late: Spurs/Kings + 76ers/Nuggets"
+    elif "--early-only" in sys.argv:
+        watch = EXTRA_EARLY_GAMES + EARLY_GAMES
+        label = "NBA Early: Thunder/Magic + Pacers/Knicks + Suns/TWolves + Cavs/Bucks"
     else:
-        watch = EARLY_GAMES + LATE_GAMES
-        label = "NBA All 4 Monday games"
+        watch = EXTRA_EARLY_GAMES + EARLY_GAMES + LATE_GAMES
+        label = "NBA All 6 Monday games"
 
     print(f"=== NBA Near-Res Monitor ({label}) Started at {datetime.now(timezone.utc).strftime('%H:%M UTC')} ===")
 

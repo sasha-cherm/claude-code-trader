@@ -53,6 +53,13 @@ CL_WATCH = [
         "question": "Will Real Madrid CF win on 2026-03-17?",
     },
     {
+        "name": "Man City/RM Draw",
+        "token_id": "95487646568849577210554203777265189565956273223905606855527886973693209233146",
+        "end_date": "2026-03-17T21:45:00Z",
+        "pre_game_price": 0.0,
+        "question": "Will Manchester City FC vs. Real Madrid CF end in a draw?",
+    },
+    {
         "name": "Chelsea",
         "token_id": "56817997803930189621621678482938928447956973865815474481042328008173861838753",
         "end_date": "2026-03-17T21:45:00Z",
@@ -67,6 +74,13 @@ CL_WATCH = [
         "question": "Will Paris Saint-Germain FC win on 2026-03-17?",
     },
     {
+        "name": "Chelsea/PSG Draw",
+        "token_id": "58718726174364621310521815907469929023493927093514361785699287934182852040113",
+        "end_date": "2026-03-17T21:45:00Z",
+        "pre_game_price": 0.0,
+        "question": "Will Chelsea FC vs. Paris Saint-Germain FC end in a draw?",
+    },
+    {
         "name": "Arsenal",
         "token_id": "108880650012405308230310790426893511945577423523009394904421019220163446158055",
         "end_date": "2026-03-17T21:45:00Z",
@@ -79,6 +93,13 @@ CL_WATCH = [
         "end_date": "2026-03-17T21:45:00Z",
         "pre_game_price": 0.0,
         "question": "Will Bayer 04 Leverkusen win on 2026-03-17?",
+    },
+    {
+        "name": "Arsenal/LEV Draw",
+        "token_id": "980353891091935392163843458159224612118943371316549619660099315502689148058",
+        "end_date": "2026-03-17T21:45:00Z",
+        "pre_game_price": 0.0,
+        "question": "Will Arsenal FC vs. Bayer 04 Leverkusen end in a draw?",
     },
 ]
 

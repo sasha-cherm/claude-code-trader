@@ -68,28 +68,32 @@ Claude instance with no memory of previous sessions, so git is your only memory.
 **Portfolio**: $69.17 cash + Las Palmas $36.69 + Brentford $19.26 pending settlement = **~$125 total**
 
 #### SESSION ACTIONS BY TIME (UTC):
-**18:00 UTC (= 21:00 GMT+3 cron)** — LAUNCH ALL CL MONITORS:
+**15:00 UTC (= 18:00 GMT+3 cron)** — LAUNCH CL EARLY:
 ```bash
 cd /home/cctrd/cc-trader-agent
-bash launch_cl_mar17.sh
+bash launch_cl_mar17.sh early
 ```
-This launches BOTH CL scripts. The main script captures pre-game prices before 20:00 kickoff.
+Captures Sporting vs Bodo/Glimt pre-game prices (17:45 kickoff).
 
-**21:00 UTC (= 00:00 GMT+3 cron)** — LAUNCH NBA + CHECK CL STATUS:
+**18:00 UTC (= 21:00 GMT+3 cron)** — LAUNCH CL MAIN + NBA:
 ```bash
 cd /home/cctrd/cc-trader-agent
-python3 -u near_res_nba_mar17.py > logs/nba_mar17_$(date -u +%Y%m%d_%H%M).log 2>&1 &
-# Check CL logs:
-tail -20 logs/cl_early_*.log logs/cl_main_*.log
+bash launch_cl_mar17.sh all
+```
+Launches CL main (3 matches + 3 draw markets, 20:00 kickoff) and NBA (6 games including Thunder/Magic and Pacers/Knicks).
+
+**21:00 UTC (= 00:00 GMT+3 cron)** — CHECK CL + NBA STATUS:
+```bash
+tail -20 logs/cl_early_*.log logs/cl_main_*.log logs/nba_mar17_*.log
 ```
 
-**23:00 UTC (= 02:00 GMT+3 cron)** — CHECK NBA + CL RESULTS:
-- Check NBA monitor log: `tail -30 logs/nba_mar17_*.log`
-- Check CL logs for final trades
-- Update state.json for any settled positions
+**23:00 UTC (= 02:00 GMT+3 cron)** — NBA NEAR-RES WINDOW:
+- Thunder/Magic + Pacers/Knicks near-res window (~22:00-23:30 UTC)
+- Suns/TWolves + Cavs/Bucks near-res window (~23:00-00:00 UTC)
+- Check all monitor logs
 
 **01:00 UTC Mar 18 (= 04:00 GMT+3 cron)** — LATE NBA CHECK:
-- NBA late games (Spurs/Kings, 76ers/Nuggets) near-res window
+- Spurs/Kings + 76ers/Nuggets near-res window (~01:00-02:00 UTC)
 - Check if NBA monitor is still running, review results
 
 #### CL Aggregate Context (CRITICAL for near-res decisions):
@@ -98,10 +102,11 @@ tail -20 logs/cl_early_*.log logs/cl_main_*.log
 - **Chelsea vs PSG**: PSG leads 5-2 → comfortable. Lower opportunity.
 - **Sporting vs Bodø/Glimt**: BG leads 3-0 → Sporting at home.
 
-#### NBA Monday (4 games):
-- Early (~21:30 UTC tipoff): Suns vs T-Wolves ($43K), Cavs vs Bucks ($26K)
-- Late (~23:30 UTC tipoff): Spurs vs Kings ($31K), 76ers vs Nuggets ($13K)
-- Script: `near_res_nba_mar17.py` (all token IDs verified)
+#### NBA Monday (6 games):
+- Extra-early: Thunder vs Magic ($64K, end 23:00), Pacers vs Knicks ($68K, end 23:30)
+- Early (~21:30 UTC tipoff): Suns vs T-Wolves ($47K), Cavs vs Bucks ($29K)
+- Late (~23:30 UTC tipoff): Spurs vs Kings ($31K), 76ers vs Nuggets ($26K)
+- Script: `near_res_nba_mar17.py` (all 12 token IDs verified — 6 games, both sides)
 
 ### Learnings from Sessions 48-55
 - **Near-res is the ONLY reliable edge source** — compound via repeated near-res plays.
