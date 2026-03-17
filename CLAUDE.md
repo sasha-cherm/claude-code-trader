@@ -162,6 +162,8 @@ Use telegram for asking and getting info from user instead of the current useles
 - CL Early (PID 310726): Sporting/Bodo, kickoff 17:45 UTC, near-res ~19:15
 - CL Main (PID 310941): Arsenal/Lev + City/RM + Chelsea/PSG, kickoff 20:00, near-res ~21:15
 - NBA (PID 310952): 8 games + WBC, tipoffs 19:30-23:30, near-res 22:00-02:00
+- Extra (PID 311354): Palermo (18:00), Serie B x4 (19:00), Lanus/Newell's (22:00), near-res 19:15-23:45
+- Weather MM (PID 307104): Shanghai continuous
 
 **Bug fixed**: Monitor termination logic — single API error no longer kills monitors.
 **Sizing updated**: CL 30% of balance per trade, NBA 25%.
