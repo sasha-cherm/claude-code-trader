@@ -219,14 +219,39 @@ nohup python3 -u near_res_nba_mar18.py > logs/nba_mar18_$(date -u +%Y%m%d_%H%M).
 8. **NBA (6 games)**: Warriors/Celtics, Thunder/Nets, Blazers/Pacers + 3 more. Tipoffs 23:00-00:00 UTC.
 
 #### NCAA March Madness:
-- First Four: March 17-18. First Round: March 19-20.
-- **PM has NO individual NCAAB game markets** — only tournament winner futures.
-- Near-res NOT possible on NCAAB. Monitor for market creation on March 19.
+- **CORRECTED**: NCAAB game winner markets DO exist with active dynamic MMs!
+- Tested VCU, TCU — get_price returns fair values, tight spreads. TRADEABLE.
+- 16+ First Round games on March 19, another 16 on March 20.
+- **Near-res MAY work** — need live game test to verify MM price updates.
 
-### Critical Learnings (updated Session 69)
-- **Near-res is NEGATIVE EV at current parameters**. Win rate must exceed 83% at 0.82 entry. Raised to 0.85 minimum.
-- **Last 15 minutes only**: More time = more chances for equalizer. Cut from 30→15 min.
-- **MONITORS MUST RUN LONG ENOUGH**: 12h runtime in near_res_mar18.py (fixed).
-- **Lower-tier leagues (Serie B, Ligue 2, Argentine) are draw traps**: 4 of 12 losses were draws.
-- **Non-sports markets efficiently priced**: Fed, BoE, ECB, BTC all fair. Only found edge on Oscars-type events.
-- **Pre-game DraftKings comparison is the best edge source**: MBJ Oscar play had 9%+ edge.
+### Wednesday March 19 — ACTION PLAN (HUGE DAY)
+
+**Scripts ready:**
+- `near_res_soccer_mar19.py` — UECL/UEL 10 matches (3 level aggregates!)
+- `near_res_cs2_mar19.py` — CS2 BLAST Group B 4 BO3 matches
+- `near_res_bball_mar19.py` — NCAAB Madness 12 games + NBA 8 games
+
+**Launch schedule (UTC):**
+| Time | Command |
+|------|---------|
+| 13:00 | `nohup python3 -u near_res_soccer_mar19.py > logs/soccer_mar19_$(date -u +%Y%m%d_%H%M).log 2>&1 &` |
+| 13:00 | `nohup python3 -u near_res_cs2_mar19.py > logs/cs2_mar19_$(date -u +%Y%m%d_%H%M).log 2>&1 &` |
+| 15:00 | `nohup python3 -u near_res_bball_mar19.py > logs/bball_mar19_$(date -u +%Y%m%d_%H%M).log 2>&1 &` |
+
+**Near-res windows March 19 (UTC):**
+- 19:00-19:30: UECL 17:45 kickoffs (AEK-Palace 0-0 agg, Mainz-Olomouc 0-0 agg)
+- 19:00-21:00: CS2 Group B first 2 matches
+- 18:00-21:00: NCAAB Wave 1+2
+- 21:15-21:45: UEL/UECL 20:00 kickoffs (Lyon-Celta 1-1 agg)
+- 22:50-01:00: NCAAB Wave 3
+- 23:00-03:00: NBA + NCAAB Wave 4
+- 21:00-02:30: CS2 Group B matches 3+4
+
+### Critical Learnings (updated Session 73)
+- **Near-res WR must be 85%+ at 0.85 entry** to be profitable. Tightened to 0.85 min, 15 min, 0.04 spread.
+- **CS2 near-res WORKS** — NAVI bought at 0.936, won. Signal: price jump during BO3 = team winning maps.
+- **NCAAB has dynamic MMs** — untested during live games, but token prices are fair.
+- **UECL level aggregates = ideal near-res targets** — first goal causes 0.30-0.50 price swing.
+- **GIS trade was phantom** — token ID didn't exist, buy never executed. Always verify with get_price after buy.
+- **Lower-tier leagues are draw traps**: 4 of 12 losses were draws. Stick to top leagues.
+- **Non-sports markets efficiently priced**: Central banks, BTC all fair. Oscars-type events are the only non-sports edge.
