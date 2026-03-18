@@ -195,15 +195,32 @@ nohup python3 -u near_res_nba_mar18.py > logs/nba_mar18_$(date -u +%Y%m%d_%H%M).
 
 **01:00 UTC Mar 19 (= 04:00 GMT+3)**: NBA near-res window. Check logs.
 
+#### CL Aggregate Context (CRITICAL for near-res decisions):
+- **Barca vs Newcastle**: 1-1 aggregate = LEVEL. Match winner probably advances. **TOP NEAR-RES TARGET.**
+- **Liverpool vs Galatasaray**: 0-1, Liverpool down. Must score at Anfield. **TOP NEAR-RES TARGET.**
+- **Tottenham vs Atletico**: 2-5, tie effectively over. LOW near-res priority.
+- **Bayern vs Atalanta**: 1-6, tie DEAD. No near-res value.
+- **Braga vs Ferencvaros (EL)**: 0-2, Braga at home needs 3. MEDIUM priority.
+
+#### Pre-Game Edge Check (Session 70, 05:00 UTC):
+- Barcelona PM 62% vs DK 62% — **NO EDGE**.
+- Liverpool PM 76% vs DK 77% — **NO EDGE**.
+- All CL matches efficiently priced. Near-res is the ONLY strategy today.
+
 #### Key Games:
-1. **Barca vs Newcastle (CL)** — 17:45 UTC, $754K vol, Camp Nou
-2. **Tottenham vs Atletico Madrid (CL)** — 20:00 UTC, $424K vol
-3. **Liverpool vs Galatasaray (CL)** — 20:00 UTC, $560K vol
-4. **Bayern vs Atalanta (CL)** — 20:00 UTC, $341K vol
-5. **Braga vs Ferencvaros (EL)** — 15:30 UTC, $107K vol
+1. **Barca vs Newcastle (CL)** — 17:45 UTC, $754K vol, Camp Nou. AGGREGATE LEVEL.
+2. **Liverpool vs Galatasaray (CL)** — 20:00 UTC, $560K vol, Anfield. LFC down 0-1.
+3. **Tottenham vs Atletico Madrid (CL)** — 20:00 UTC, $424K vol. Agg 2-5.
+4. **Bayern vs Atalanta (CL)** — 20:00 UTC, $341K vol. Agg 6-1.
+5. **Braga vs Ferencvaros (EL)** — 15:30 UTC, $107K vol. Agg 0-2.
 6. **Serie B**: Frosinone-Bari 18:00, Carrarese-Sampdoria 19:00
 7. **Brazilian Serie A**: 3 games at 22:00 UTC
 8. **NBA (6 games)**: Warriors/Celtics, Thunder/Nets, Blazers/Pacers + 3 more. Tipoffs 23:00-00:00 UTC.
+
+#### NCAA March Madness:
+- First Four: March 17-18. First Round: March 19-20.
+- **PM has NO individual NCAAB game markets** — only tournament winner futures.
+- Near-res NOT possible on NCAAB. Monitor for market creation on March 19.
 
 ### Critical Learnings (updated Session 69)
 - **Near-res is NEGATIVE EV at current parameters**. Win rate must exceed 83% at 0.82 entry. Raised to 0.85 minimum.
