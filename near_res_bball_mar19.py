@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Basketball near-resolution monitor for March 19, 2026.
-NCAAB March Madness First Round (16+ games) + NBA (8 games).
+NCAAB March Madness First Round (9 games) + NBA (7 games).
 Run from ~15:00 UTC, covers games through ~04:00 UTC March 20.
 
 NCAAB game waves (ET → UTC):
