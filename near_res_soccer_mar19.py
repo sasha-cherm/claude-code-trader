@@ -6,13 +6,13 @@ UEL + UECL Round of 16 second legs.
 KEY AGGREGATES:
   AEK Larnaca vs Crystal Palace — 0-0 agg (17:45 UTC) ***TOP***
   Mainz vs Sigma Olomouc — 0-0 agg (17:45 UTC) ***TOP***
-  Lyon vs Celta Vigo — 1-1 agg (20:00 UTC) ***TOP***
-  Freiburg vs Genk — Genk lead 1-0 (UEL)
-  Midtjylland vs Nottingham Forest — Midtjylland lead 1-0 (UEL)
+  Lyon vs Celta Vigo — 1-1 agg (17:45 UTC) ***TOP***
+  Freiburg vs Genk — Genk lead 1-0 (17:45 UTC UEL)
+  Midtjylland vs Nottingham Forest — Midtjylland lead 1-0 (17:45 UTC UEL)
   Sparta Praha vs AZ — AZ lead 2-1 (20:00 UTC)
   Raków vs Fiorentina — Fiorentina lead 2-1 (17:45 UTC)
 
-Near-res windows: 17:45 → 19:00-19:30 UTC, 20:00 → 21:15-21:45 UTC
+Near-res windows: 17:45 kickoffs → 19:00-19:30 UTC, 20:00 kickoffs → 21:15-21:45 UTC
 """
 import json
 import os
@@ -30,15 +30,15 @@ ALL_GAMES = [
 
     # AEK Larnaca vs Crystal Palace — AGG 0-0 ***TOP TARGET***
     {"name": "AEK Larnaca", "token_id": "113592167476112368377017567416536793397202318586644634522629615361927630230588",
-     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "question": "Will AEK Lárnakas win on 2026-03-19?"},
+     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "level_agg": True, "question": "Will AEK Lárnakas win on 2026-03-19?"},
     {"name": "Crystal Palace", "token_id": "34478539241263835627716465625468103086042104068749881228511182842076581156184",
-     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "question": "Will Crystal Palace FC win on 2026-03-19?"},
+     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "level_agg": True, "question": "Will Crystal Palace FC win on 2026-03-19?"},
 
     # Mainz vs Sigma Olomouc — AGG 0-0 ***TOP TARGET***
     {"name": "Mainz", "token_id": "69868544997512824044899123215660369925432048451579314120492168106306620825988",
-     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "question": "Will 1. FSV Mainz 05 win on 2026-03-19?"},
+     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "level_agg": True, "question": "Will 1. FSV Mainz 05 win on 2026-03-19?"},
     {"name": "Sigma Olomouc", "token_id": "69758248607959633563184507277655271437157141598290208908645133551682657660986",
-     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "question": "Will SK Sigma Olomouc win on 2026-03-19?"},
+     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "level_agg": True, "question": "Will SK Sigma Olomouc win on 2026-03-19?"},
 
     # Raków vs Fiorentina — AGG: Fiorentina lead 2-1
     {"name": "Rakow", "token_id": "102467901766651762647759573778846595736292552464284317814576569223866135699208",
@@ -46,7 +46,7 @@ ALL_GAMES = [
     {"name": "Fiorentina", "token_id": "85257638182063031746984096738970682192757388223474617391514620886673455897270",
      "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "question": "Will ACF Fiorentina win on 2026-03-19?"},
 
-    # === UEL Kickoffs (time TBD, likely 17:45 or 20:00 UTC) ===
+    # === UEL 17:45 UTC Kickoffs — near-res 19:00-19:30 UTC ===
 
     # Freiburg vs Genk — AGG: Genk lead 1-0
     {"name": "Freiburg", "token_id": "31546125618447629392456763920667712957460313159582282143982873674114205010802",
@@ -62,17 +62,17 @@ ALL_GAMES = [
 
     # Lyon vs Celta Vigo — AGG 1-1 ***TOP TARGET*** (17:45 UTC kickoff!)
     {"name": "Lyon", "token_id": "16736607457308526637193898830256233071814673439646651083024928473642839224863",
-     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "question": "Will Olympique Lyonnais win on 2026-03-19?"},
+     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "level_agg": True, "question": "Will Olympique Lyonnais win on 2026-03-19?"},
     {"name": "Celta Vigo", "token_id": "62505429809364797963518971310518916509956092021742080639017340569942721490348",
-     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "question": "Will RC Celta de Vigo win on 2026-03-19?"},
+     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "level_agg": True, "question": "Will RC Celta de Vigo win on 2026-03-19?"},
 
     # === 20:00 UTC Kickoffs — near-res 21:15-21:45 UTC ===
 
-    # Roma vs Bologna — AGG 1-1 ***TOP TARGET***
+    # Roma vs Bologna — AGG tied ***TOP TARGET***
     {"name": "Roma", "token_id": "62201878766395679219609333607682818399554278525517620289291635280180784905777",
-     "end_date": "2026-03-19T21:45:00Z", "pre_game_price": 0.0, "question": "Will AS Roma win on 2026-03-19?"},
+     "end_date": "2026-03-19T21:45:00Z", "pre_game_price": 0.0, "level_agg": True, "question": "Will AS Roma win on 2026-03-19?"},
     {"name": "Bologna", "token_id": "106619179671509077118313857008651187416821684235679509171170439420838436591827",
-     "end_date": "2026-03-19T21:45:00Z", "pre_game_price": 0.0, "question": "Will Bologna FC 1909 win on 2026-03-19?"},
+     "end_date": "2026-03-19T21:45:00Z", "pre_game_price": 0.0, "level_agg": True, "question": "Will Bologna FC 1909 win on 2026-03-19?"},
 
     # Aston Villa vs Lille — AGG: Villa lead 1-0
     {"name": "Aston Villa", "token_id": "62033066181846619602217677397394431047823124200859036296834340893601132584539",
@@ -105,15 +105,27 @@ ALL_GAMES = [
      "end_date": "2026-03-19T21:45:00Z", "pre_game_price": 0.0, "question": "Will Samsunspor win on 2026-03-19?"},
 ]
 
-# Tightened params
-MAX_SPEND_PER_TRADE = 5.0
+# Tiered params — level aggregate matches get bigger bets + slightly lower threshold
+# Level agg: first goal at 80th min = 95%+ true prob, MMs price 0.82-0.92 → real edge
+PARAMS_LEVEL_AGG = {
+    "max_spend": 8.0,
+    "min_price": 0.82,
+    "max_price": 0.94,
+    "min_jump": 0.20,
+    "max_spread": 0.04,
+    "max_mins": 15,
+    "pct_balance": 0.25,
+}
+PARAMS_STANDARD = {
+    "max_spend": 5.0,
+    "min_price": 0.85,
+    "max_price": 0.94,
+    "min_jump": 0.22,
+    "max_spread": 0.04,
+    "max_mins": 15,
+    "pct_balance": 0.20,
+}
 MIN_SPEND = 2.0
-MIN_PRICE_JUMP = 0.22
-MIN_NEAR_RES_PRICE = 0.85
-MAX_NEAR_RES_PRICE = 0.94
-MAX_SPREAD = 0.04
-MAX_MINS_TO_END = 15
-PCT_OF_BALANCE = 0.20
 BOUGHT = set()
 
 
@@ -156,23 +168,27 @@ def check_and_buy(client, watch_list):
             end_dt = datetime.fromisoformat(w["end_date"].replace("Z", "+00:00"))
             mins_left = (end_dt - now).total_seconds() / 60
 
+            # Use tiered params based on level_agg flag
+            p = PARAMS_LEVEL_AGG if w.get("level_agg") else PARAMS_STANDARD
+
             trigger = (
-                buy_price >= MIN_NEAR_RES_PRICE and
-                buy_price <= MAX_NEAR_RES_PRICE and
-                jump >= MIN_PRICE_JUMP and
-                abs(spread) < MAX_SPREAD and
-                mins_left <= MAX_MINS_TO_END and
+                buy_price >= p["min_price"] and
+                buy_price <= p["max_price"] and
+                jump >= p["min_jump"] and
+                abs(spread) < p["max_spread"] and
+                mins_left <= p["max_mins"] and
                 mins_left > 0 and
                 balance >= MIN_SPEND
             )
 
+            tier_label = " [AGG]" if w.get("level_agg") else ""
             if abs(jump) > 0.05 or buy_price >= 0.80:
                 status = "***BUY***" if trigger else ""
                 print(f"  {w['name']:14s} buy={buy_price:.3f} sell={sell_price:.3f} "
-                      f"spread={spread:.3f} jump={jump:+.3f} mins_left={mins_left:.0f} {status}")
+                      f"spread={spread:.3f} jump={jump:+.3f} mins_left={mins_left:.0f}{tier_label} {status}")
 
             if trigger:
-                spend = min(MAX_SPEND_PER_TRADE, balance * PCT_OF_BALANCE)
+                spend = min(p["max_spend"], balance * p["pct_balance"])
                 if spend < MIN_SPEND:
                     continue
                 print(f"\n  *** BUYING {w['name']} YES @ {buy_price:.3f} for ${spend:.2f} ***")
@@ -209,7 +225,8 @@ def check_and_buy(client, watch_list):
 def main():
     print(f"=== Soccer Near-Res Monitor: UECL + UEL March 19 ===")
     print(f"=== Started at {datetime.now(timezone.utc).strftime('%H:%M UTC')} ===")
-    print(f"Params: MIN_PRICE={MIN_NEAR_RES_PRICE}, JUMP={MIN_PRICE_JUMP}, SPREAD={MAX_SPREAD}, MAX_MINS={MAX_MINS_TO_END}")
+    print(f"Params LEVEL_AGG: {PARAMS_LEVEL_AGG}")
+    print(f"Params STANDARD: {PARAMS_STANDARD}")
     client = get_client()
 
     print("\nCapturing pre-game prices...")
