@@ -60,13 +60,25 @@ ALL_GAMES = [
     {"name": "Nott. Forest", "token_id": "11381745081746637908130783364467955863250369078721878469131698218997759271578",
      "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "question": "Will Nottingham Forest FC win on 2026-03-19?"},
 
+    # Lyon vs Celta Vigo — AGG 1-1 ***TOP TARGET*** (17:45 UTC kickoff!)
+    {"name": "Lyon", "token_id": "16736607457308526637193898830256233071814673439646651083024928473642839224863",
+     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "question": "Will Olympique Lyonnais win on 2026-03-19?"},
+    {"name": "Celta Vigo", "token_id": "62505429809364797963518971310518916509956092021742080639017340569942721490348",
+     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "question": "Will RC Celta de Vigo win on 2026-03-19?"},
+
     # === 20:00 UTC Kickoffs — near-res 21:15-21:45 UTC ===
 
-    # Lyon vs Celta Vigo — AGG 1-1 ***TOP TARGET***
-    {"name": "Lyon", "token_id": "16736607457308526637193898830256233071814673439646651083024928473642839224863",
-     "end_date": "2026-03-19T21:45:00Z", "pre_game_price": 0.0, "question": "Will Olympique Lyonnais win on 2026-03-19?"},
-    {"name": "Celta Vigo", "token_id": "62505429809364797963518971310518916509956092021742080639017340569942721490348",
-     "end_date": "2026-03-19T21:45:00Z", "pre_game_price": 0.0, "question": "Will RC Celta de Vigo win on 2026-03-19?"},
+    # Roma vs Bologna — AGG 1-1 ***TOP TARGET***
+    {"name": "Roma", "token_id": "62201878766395679219609333607682818399554278525517620289291635280180784905777",
+     "end_date": "2026-03-19T21:45:00Z", "pre_game_price": 0.0, "question": "Will AS Roma win on 2026-03-19?"},
+    {"name": "Bologna", "token_id": "106619179671509077118313857008651187416821684235679509171170439420838436591827",
+     "end_date": "2026-03-19T21:45:00Z", "pre_game_price": 0.0, "question": "Will Bologna FC 1909 win on 2026-03-19?"},
+
+    # Aston Villa vs Lille — AGG: Villa lead 1-0
+    {"name": "Aston Villa", "token_id": "62033066181846619602217677397394431047823124200859036296834340893601132584539",
+     "end_date": "2026-03-19T21:45:00Z", "pre_game_price": 0.0, "question": "Will Aston Villa FC win on 2026-03-19?"},
+    {"name": "Lille", "token_id": "94428360559874939242944998940635747485895796179106438605354645643890388961768",
+     "end_date": "2026-03-19T21:45:00Z", "pre_game_price": 0.0, "question": "Will Lille OSC win on 2026-03-19?"},
 
     # Sparta Praha vs AZ — AGG: AZ lead 2-1
     {"name": "Sparta Praha", "token_id": "45982255690619183697346722448259831858197509742730700252878372941959297252320",
