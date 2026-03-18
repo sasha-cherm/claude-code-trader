@@ -226,10 +226,11 @@ nohup python3 -u near_res_nba_mar18.py > logs/nba_mar18_$(date -u +%Y%m%d_%H%M).
 
 ### Wednesday March 19 — ACTION PLAN (HUGE DAY)
 
-**Scripts ready:**
-- `near_res_soccer_mar19.py` — UECL/UEL 10 matches (3 level aggregates!)
+**Scripts updated Session 74:**
+- `near_res_soccer_mar19.py` — UECL/UEL 12 matches (4 level aggregates: AEK-Palace, Mainz-Olomouc, Lyon-Celta, Roma-Bologna). **TIERED SIZING**: level-agg gets $8 max / 0.82 min, standard gets $5 / 0.85.
 - `near_res_cs2_mar19.py` — CS2 BLAST Group B 4 BO3 matches
-- `near_res_bball_mar19.py` — NCAAB Madness 12 games + NBA 8 games
+- `near_res_bball_mar19.py` — NCAAB 9 competitive games + NBA 7 games = 32 tokens. **FIXED: added end_dates + time filter** (MAX_MINS=20).
+- **6 NCAAB games had 404 orderbooks (removed)**: Santa Clara-Kentucky, Utah State-Villanova, Missouri-Miami.
 
 **Launch schedule (UTC):**
 | Time | Command |
@@ -239,19 +240,24 @@ nohup python3 -u near_res_nba_mar18.py > logs/nba_mar18_$(date -u +%Y%m%d_%H%M).
 | 15:00 | `nohup python3 -u near_res_bball_mar19.py > logs/bball_mar19_$(date -u +%Y%m%d_%H%M).log 2>&1 &` |
 
 **Near-res windows March 19 (UTC):**
-- 19:00-19:30: UECL 17:45 kickoffs (AEK-Palace 0-0 agg, Mainz-Olomouc 0-0 agg)
+- 19:00-19:30: UECL/UEL 17:45 kickoffs (AEK-Palace 0-0 agg, Mainz-Olomouc 0-0 agg, Lyon-Celta 1-1 agg)
 - 19:00-21:00: CS2 Group B first 2 matches
-- 18:00-21:00: NCAAB Wave 1+2
-- 21:15-21:45: UEL/UECL 20:00 kickoffs (Lyon-Celta 1-1 agg)
-- 22:50-01:00: NCAAB Wave 3
-- 23:00-03:00: NBA + NCAAB Wave 4
+- 18:10-19:25: NCAAB Wave 1 (TCU-OSU, S.Florida-Louisville)
+- 20:40-21:00: NCAAB Wave 2 (Iowa-Clemson, others)
+- 21:25-21:45: UEL/UECL 20:00 kickoffs (Roma-Bologna 0-0 agg)
+- 00:45-01:50: NCAAB Wave 3 (VCU-UNC, A&M-SMC)
+- 01:40-04:00: NBA + NCAAB Wave 4
 - 21:00-02:30: CS2 Group B matches 3+4
 
-### Critical Learnings (updated Session 73)
+### Critical Learnings (updated Session 74)
 - **Near-res WR must be 85%+ at 0.85 entry** to be profitable. Tightened to 0.85 min, 15 min, 0.04 spread.
 - **CS2 near-res WORKS** — NAVI bought at 0.936, won. Signal: price jump during BO3 = team winning maps.
-- **NCAAB has dynamic MMs** — untested during live games, but token prices are fair.
-- **UECL level aggregates = ideal near-res targets** — first goal causes 0.30-0.50 price swing.
-- **GIS trade was phantom** — token ID didn't exist, buy never executed. Always verify with get_price after buy.
+- **NCAAB has dynamic MMs** — untested during live games, but token prices are fair. 6 of 12 games had 404 orderbooks.
+- **UECL level aggregates = BEST near-res targets** — first goal at 80th min = 95%+ true prob vs MM 0.82-0.92. Use tiered sizing ($8 max, 0.82 min).
+- **Roma-Bologna also tied on aggregate** — 4 total level-agg matches on March 19 (not 3 as previously thought).
+- **ALL non-sports short-term markets efficiently priced** — ECB/BOE/BOJ/Fed at 98%+, no earnings on PM, no BTC brackets. Only Bank of Russia (89% cut) has non-trivial pricing but needs macro expertise.
+- **NCAAB pre-game = efficiently priced** — all within 1-3% of Vegas spreads. No >5% edge found.
+- **UECL/UEL pre-game = efficiently priced** — all within 2-4% of ESPN odds.
+- **Basketball scripts MUST have end_dates + time filter** — without these, mid-game temporary leads trigger buys. NBA comebacks are common.
 - **Lower-tier leagues are draw traps**: 4 of 12 losses were draws. Stick to top leagues.
-- **Non-sports markets efficiently priced**: Central banks, BTC all fair. Oscars-type events are the only non-sports edge.
+- **GIS trade was phantom** — token ID didn't exist, buy never executed. Always verify with get_price after buy.
