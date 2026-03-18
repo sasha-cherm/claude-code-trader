@@ -148,10 +148,11 @@ Use telegram for asking and getting info from user instead of the current useles
 
 ### Session 69 (March 18 03:00 UTC)
 
-**Portfolio**: $21.01 cash + Wellington weather positions (resolve 12:00 UTC)
-- T-Wolves sold @ 0.999: +$0.75
-- All March 17 monitors killed. No running processes.
-- **Campaign**: $100 → $21 (-79%, day 7). Need 47.6x in 23 days.
+**Portfolio**: $34.65 cash + weather positions (resolve 12:00 UTC March 18)
+- Settlements cleared: NBA Hornets (+$13.64), Wellington 21°C NO (+$5), others
+- Open: Wellington 19°C YES (13.88sh), Shanghai 12°C/13°C/14°C YES
+- mm_continuous.py running (PID 307104) managing weather MM
+- **Campaign**: $100 → $34.65 (-65%, day 7). Need 28.9x in 23 days.
 
 ### Near-Res Strategy Analysis (CRITICAL)
 **Near-res is marginally profitable at best.** Full analysis:
