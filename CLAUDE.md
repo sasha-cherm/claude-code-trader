@@ -146,36 +146,56 @@ CL main matches near-res window. WBC final underway.
 Think about other markets and strategies
 Use telegram for asking and getting info from user instead of the current useless notifications. You can also send summary of the last session there
 
-### Session 66 (March 17 18:00 UTC)
+### Session 68 (March 18 01:00 UTC)
 
-**Portfolio**: $28.36 cash + $15.95 pending BTC settlement = ~$44.31 total liquid
-- Weather: 3 positions (~$8.79 invested, resolve Mar 18 12:00 UTC)
-  - Wellington 19°C YES (14 shares @ 0.18) — forecast 18°C, slim chance
-  - London 16°C YES (14 shares @ 0.18) — forecast 16°C, decent shot
-  - Wellington 21°C NO (5 shares @ 0.75) — forecast 18°C, should win
-- Singapore MM: 2 GTC orders live
-- BTC $74,614 at 18:00 UTC. BTC 74K NO settlement still pending.
+**Portfolio**: $15.32 cash + $13.64 Hornets settlement = ~$29 total liquid
+- Weather: Wellington 19°C YES (14 sh, likely loss), Wellington 21°C NO (5 sh, likely win). Resolve 12:00 UTC.
+- Singapore MM orders: expired/cancelled (removed from state)
+- NBA monitor still running (PID 320744) for late games through ~05:00 UTC
 
-**Sporting/Bodo at 18:15 UTC**: 0-0 at 29th minute. Sporting 0.64 (back to pre-game). Near-res ~19:00-19:30.
-**Palermo match**: Juve Stabia leading (Palermo dropped from 0.55 to 0.20). Wide spread, untradeable.
+**March 17 Results**:
+- Hornets WON 100-90: +$2.15 profit (two buys at 0.83 and 0.86)
+- CL monitors TIMED OUT: missed Arsenal 2-0, PSG 3-0, RM 2-1 near-res windows
+- Palermo 2-2 draw: -$8.00 | Spezia 1-1 draw: -$6.61 | London 16°C sold: -$1.12
 
-**MONITORS RUNNING (verified 18:05 UTC with `pgrep -af near_res`)**:
-- CL Early (PID 310726): Sporting/Bodo, near-res ~19:00-19:30
-- CL Main (PID 310941): Arsenal/Lev + City/RM + Chelsea/PSG, kickoff 20:00, near-res ~21:15
-- NBA (PID 310952): 8 games + WBC, tipoffs 19:30-23:30, near-res 22:00-02:00
-- Extra (PID 311354): Palermo, Serie B x4 (19:00), Lanus/Newell's (22:00)
+**Campaign**: $100 → ~$29 (-71% in 7 days). Need 34.5x in 23 days.
 
-**Monitor params (verified)**:
-- CL: MIN_PRICE=0.78, JUMP=0.18, SPREAD<0.08, last 25 min, 30% balance, max $12
-- NBA: MIN_PRICE=0.78, JUMP=0.18, SPREAD<0.08, last 30 min, 25% balance, max $10
-- Extra: 20% balance
+### Tuesday March 18 — ACTION PLAN
 
-**No pre-game edge found**: Checked ESPN spreads + PM for all NBA/CL. All within 2-3%.
-Arsenal -1.5 handicap at -330 might imply 8% edge on Arsenal moneyline, but conversion is uncertain.
+**Monitor**: `near_res_mar18.py` (created, 13 games, 12h runtime, MIN_PRICE=0.80, MAX_SPREAD=0.06)
 
-**SESSION ACTIONS FOR REMAINING CRON RUNS**:
-- **21:00 UTC**: CL main near-res window. Check `tail -30 logs/cl_main_*.log`. Sporting settled.
-- **23:00 UTC**: NBA early near-res (Heat/Hor, Pistons/Wiz, Thunder/Magic, Knicks/Pacers). Check logs.
-- **01:00 UTC Mar 18**: Late NBA (Spurs/Kings, 76ers/Nuggets). Check all results, BTC settlement.
+#### Session Actions (UTC):
+**09:00 UTC (= 12:00 GMT+3)**: Check weather settlements, Hornets settlement, balance, Telegram.
 
-**Campaign**: $100 → $44.31 (-55.7% in 6 days). Need 22.6x in 24 days.
+**13:00 UTC (= 16:00 GMT+3)**: LAUNCH MONITOR + RESEARCH
+```bash
+cd /home/cctrd/cc-trader-agent
+nohup python3 -u near_res_mar18.py > logs/mar18_$(date -u +%Y%m%d_%H%M).log 2>&1 &
+```
+- Research Barca-Newcastle aggregate context (CL R16 2nd leg)
+- Find NBA Nuggets-Grizzlies March 18 token IDs (game-day market)
+- Check DraftKings odds for Barca, Braga pre-game edge
+
+**15:00 UTC (= 18:00 GMT+3)**: Braga near-res window starting (~16:45-17:15)
+- Check `tail -30 logs/mar18_*.log`
+
+**16:00 UTC (= 19:00 GMT+3)**: Barca kickoff (17:45). Check Braga results.
+
+**18:00 UTC (= 21:00 GMT+3)**: Barca near-res window (~19:00-19:30). Serie B Frosinone near-res.
+
+**21:00 UTC (= 00:00 GMT+3)**: Brazilian league near-res (~23:15). NBA Nuggets-Grizzlies setup.
+
+**23:00 UTC (= 02:00 GMT+3)**: Brazilian results. NBA near-res if applicable.
+
+#### Key Games:
+1. **Barca vs Newcastle (CL)** — 17:45 UTC, $754K vol, Camp Nou
+2. **Braga vs Ferencvaros (EL)** — 15:30 UTC, $107K vol
+3. **Serie B**: Frosinone-Bari 18:00, Carrarese-Sampdoria 19:00
+4. **Brazilian Serie A**: Palmeiras-Botafogo, Mineiro-Sao Paulo, Paranaense-Cruzeiro at 22:00
+5. **NBA**: Nuggets vs Grizzlies (only game, ~01:00 UTC end)
+
+### Critical Learnings (updated Session 68)
+- **MONITORS MUST RUN LONG ENOUGH**: CL main monitor expired 40 min before kickoff. Set runtime to 2x expected duration.
+- **Near-res overall win rate ~53%** (10W/9L). At 0.80+ entry, need 80%+ to profit. Tighter params should help.
+- **Draw risk in lower leagues**: 4 of 9 losses were draws. Consider skipping Serie B/Ligue 2 near-res.
+- **Consider ONLY buying at 0.85+**: Higher price = higher win rate. 15% return but lower variance.
