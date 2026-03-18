@@ -73,15 +73,16 @@ ALL_GAMES = [
      "end_date": "2026-03-18T23:45:00Z", "pre_game_price": 0.0, "question": "Will Cruzeiro EC win on 2026-03-18?"},
 ]
 
-# Stricter params — raised MIN_PRICE to 0.80 for better win rate
-MAX_SPEND_PER_TRADE = 8.0
+# TIGHTENED params — need 85%+ win rate to be profitable at these entries
+# Analysis: 57% WR at 0.80+ entry loses money. Need price >= 0.85 AND last 15 min.
+MAX_SPEND_PER_TRADE = 5.0  # Smaller bets to preserve capital
 MIN_SPEND = 2.0
-MIN_PRICE_JUMP = 0.18
-MIN_NEAR_RES_PRICE = 0.80
-MAX_NEAR_RES_PRICE = 0.93
-MAX_SPREAD = 0.06  # Tighter spread check
-MAX_MINS_TO_END = 30  # Only last 30 min
-PCT_OF_BALANCE = 0.25
+MIN_PRICE_JUMP = 0.22  # Bigger jump = more decisive lead
+MIN_NEAR_RES_PRICE = 0.85  # Only very high probability
+MAX_NEAR_RES_PRICE = 0.94
+MAX_SPREAD = 0.04  # Tighter spread = more liquid markets
+MAX_MINS_TO_END = 15  # Only last 15 min — much less time for equalizer
+PCT_OF_BALANCE = 0.20
 BOUGHT = set()
 
 

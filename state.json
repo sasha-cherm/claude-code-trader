@@ -1019,6 +1019,26 @@
       "pnl_pct": 0.16279069767441862,
       "closed_at": "2026-03-18T01:08:15.506866+00:00",
       "close_reason": "Won - Hornets beat Heat 100-90 (2nd buy)"
+    },
+    {
+      "token_id": "26286884867755304434249902063185317489810829034431393315833232083825319762413",
+      "market_id": "near-res-nba-t-wolves",
+      "question": "Suns vs. Timberwolves",
+      "side": "YES",
+      "entry_price": 0.87,
+      "fair_price": 0.95,
+      "edge": 0.1,
+      "size_usdc": 5.08036025,
+      "shares": 5.839494540229885,
+      "end_date": "2026-03-18T02:30:00Z",
+      "days_left_at_entry": 0.02169890199074074,
+      "opened_at": "2026-03-18 01:58:45.214868+00:00",
+      "research_note": "Near-res: T-Wolves price jumped +0.280 from pre-game 0.590",
+      "exit_price": 0.999,
+      "pnl_pct": 0.1482758620689655,
+      "pnl_usdc": 0.7532947956896552,
+      "closed_at": "2026-03-18T03:03:49.574992+00:00",
+      "close_reason": "Sold at 0.999 (T-Wolves won)"
     }
   ],
   "sessions": 68,

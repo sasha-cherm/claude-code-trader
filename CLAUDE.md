@@ -146,52 +146,52 @@ CL main matches near-res window. WBC final underway.
 Think about other markets and strategies
 Use telegram for asking and getting info from user instead of the current useless notifications. You can also send summary of the last session there
 
-### Session 68 (March 18 01:00 UTC)
+### Session 69 (March 18 03:00 UTC)
 
-**Portfolio**: $15.32 cash + $13.64 Hornets settlement = ~$29 total liquid
-- Weather: Wellington 19°C YES (14 sh, likely loss), Wellington 21°C NO (5 sh, likely win). Resolve 12:00 UTC.
-- Singapore MM orders: expired/cancelled (removed from state)
-- NBA monitor still running (PID 320744) for late games through ~05:00 UTC
+**Portfolio**: $21.01 cash + Wellington weather positions (resolve 12:00 UTC)
+- T-Wolves sold @ 0.999: +$0.75
+- All March 17 monitors killed. No running processes.
+- **Campaign**: $100 → $21 (-79%, day 7). Need 47.6x in 23 days.
 
-**March 17 Results**:
-- Hornets WON 100-90: +$2.15 profit (two buys at 0.83 and 0.86)
-- CL monitors TIMED OUT: missed Arsenal 2-0, PSG 3-0, RM 2-1 near-res windows
-- Palermo 2-2 draw: -$8.00 | Spezia 1-1 draw: -$6.61 | London 16°C sold: -$1.12
-
-**Campaign**: $100 → ~$29 (-71% in 7 days). Need 34.5x in 23 days.
+### Near-Res Strategy Analysis (CRITICAL)
+**Near-res is marginally profitable at best.** Full analysis:
+- Overall: 12W/12L (50% WR). Net P&L: -$67 on $170 deployed.
+- At >=0.80 entry: 4W/3L (57% WR). But avg win=$0.91, avg loss=$9.88. **NEGATIVE EV.**
+- Need 83%+ WR at 0.82 entry just to break even (win +20% vs lose -100%).
+- **TIGHTENED params for Mar 18**: MIN_PRICE=0.85, MAX_MINS=15, MAX_SPREAD=0.04, JUMP=0.22
+- This means: only very decisive leads in last 15 minutes. Fewer trades but higher WR.
+- **Also look for pre-game edge** (DraftKings comparison) on CL matches.
 
 ### Tuesday March 18 — ACTION PLAN
 
-**Monitor**: `near_res_mar18.py` (created, 19 games, 12h runtime, MIN_PRICE=0.80, MAX_SPREAD=0.06)
+**Monitors**: `near_res_mar18.py` (TIGHTENED: MIN_PRICE=0.85, 15min, spread 0.04)
 
 #### Session Actions (UTC):
-**09:00 UTC (= 12:00 GMT+3)**: Check weather settlements, Hornets settlement, balance, Telegram.
+**09:00 UTC (= 12:00 GMT+3)**: Check weather settlements, balance, Telegram.
 
 **13:00 UTC (= 16:00 GMT+3)**: LAUNCH MONITOR + RESEARCH
 ```bash
 cd /home/cctrd/cc-trader-agent
 nohup python3 -u near_res_mar18.py > logs/mar18_$(date -u +%Y%m%d_%H%M).log 2>&1 &
 ```
-- Research Barca-Newcastle aggregate context (CL R16 2nd leg)
-- Find NBA Nuggets-Grizzlies March 18 token IDs (game-day market)
-- Check DraftKings odds for Barca, Braga pre-game edge
+- Research Barca-Newcastle CL aggregate context
+- Check DraftKings odds for Barca, Tottenham, Liverpool, Bayern pre-game edge
+- Find NBA Nuggets-Grizzlies token IDs if market exists
 
-**15:00 UTC (= 18:00 GMT+3)**: Braga near-res window starting (~16:45-17:15)
-- Check `tail -30 logs/mar18_*.log`
+**15:00 UTC (= 18:00 GMT+3)**: Braga near-res window (~16:45-17:15). Check `tail -30 logs/mar18_*.log`
 
 **16:00 UTC (= 19:00 GMT+3)**: Barca kickoff (17:45). Check Braga results.
 
-**18:00 UTC (= 21:00 GMT+3)**: Barca near-res window (~19:00-19:30). Serie B Frosinone near-res.
+**18:00 UTC (= 21:00 GMT+3)**: Barca near-res window (~19:00-19:30). Serie B.
 
-**21:00 UTC (= 00:00 GMT+3)**: CL main near-res window (~21:15-21:45 for Spurs/Liverpool/Bayern). Brazilian league.
+**21:00 UTC (= 00:00 GMT+3)**: CL main near-res window (~21:15-21:45). Brazilian league.
 
-**23:00 UTC (= 02:00 GMT+3)**: LAUNCH NBA MONITOR + check Brazilian results.
+**23:00 UTC (= 02:00 GMT+3)**: LAUNCH NBA MONITOR.
 ```bash
 cd /home/cctrd/cc-trader-agent
 nohup python3 -u near_res_nba_mar18.py > logs/nba_mar18_$(date -u +%Y%m%d_%H%M).log 2>&1 &
 ```
-6 NBA games: Warriors/Celtics, Thunder/Nets, Blazers/Pacers, Raptors/Bulls, Jazz/TWolves, Clippers/Pelicans.
-Near-res windows: 01:00-02:30 UTC March 19.
+6 NBA games. Near-res windows: 01:00-02:30 UTC March 19.
 
 **01:00 UTC Mar 19 (= 04:00 GMT+3)**: NBA near-res window. Check logs.
 
@@ -202,12 +202,13 @@ Near-res windows: 01:00-02:30 UTC March 19.
 4. **Bayern vs Atalanta (CL)** — 20:00 UTC, $341K vol
 5. **Braga vs Ferencvaros (EL)** — 15:30 UTC, $107K vol
 6. **Serie B**: Frosinone-Bari 18:00, Carrarese-Sampdoria 19:00
-7. **Brazilian Serie A**: Palmeiras-Botafogo, Mineiro-Sao Paulo, Paranaense-Cruzeiro at 22:00
-8. **NBA (6 games)**: Warriors/Celtics, Thunder/Nets, Blazers/Pacers, Raptors/Bulls, Jazz/TWolves, Clippers/Pelicans ($212K). Tipoffs 23:00-00:00 UTC.
-9. **BTC**: $74K threshold at 48.5% (resolves 16:00 UTC). BTC near-res has been unprofitable — check carefully at 13:00 UTC session.
+7. **Brazilian Serie A**: 3 games at 22:00 UTC
+8. **NBA (6 games)**: Warriors/Celtics, Thunder/Nets, Blazers/Pacers + 3 more. Tipoffs 23:00-00:00 UTC.
 
-### Critical Learnings (updated Session 68)
-- **MONITORS MUST RUN LONG ENOUGH**: CL main monitor expired 40 min before kickoff. Set runtime to 2x expected duration.
-- **Near-res overall win rate ~53%** (10W/9L). At 0.80+ entry, need 80%+ to profit. Tighter params should help.
-- **Draw risk in lower leagues**: 4 of 9 losses were draws. Consider skipping Serie B/Ligue 2 near-res.
-- **Consider ONLY buying at 0.85+**: Higher price = higher win rate. 15% return but lower variance.
+### Critical Learnings (updated Session 69)
+- **Near-res is NEGATIVE EV at current parameters**. Win rate must exceed 83% at 0.82 entry. Raised to 0.85 minimum.
+- **Last 15 minutes only**: More time = more chances for equalizer. Cut from 30→15 min.
+- **MONITORS MUST RUN LONG ENOUGH**: 12h runtime in near_res_mar18.py (fixed).
+- **Lower-tier leagues (Serie B, Ligue 2, Argentine) are draw traps**: 4 of 12 losses were draws.
+- **Non-sports markets efficiently priced**: Fed, BoE, ECB, BTC all fair. Only found edge on Oscars-type events.
+- **Pre-game DraftKings comparison is the best edge source**: MBJ Oscar play had 9%+ edge.
