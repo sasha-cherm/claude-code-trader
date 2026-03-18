@@ -46,6 +46,12 @@ ALL_GAMES = [
     {"name": "Atalanta", "token_id": "36441370819971474726909845408900302734761643309259417804631053999454539416385",
      "end_date": "2026-03-18T21:45:00Z", "pre_game_price": 0.0, "question": "Will Atalanta BC win on 2026-03-18?"},
 
+    # Turkish Super Lig: Eyupspor vs Trabzonspor (17:00 UTC kickoff, end ~18:45)
+    {"name": "Eyupspor", "token_id": "1182709545676413380324693795453722565359057941946505832728049367624875061327",
+     "end_date": "2026-03-18T18:45:00Z", "pre_game_price": 0.0, "question": "Will Eyüpspor win on 2026-03-18?"},
+    {"name": "Trabzonspor", "token_id": "6549230516649423911357569698283003263967074425882721432447959518455010031165",
+     "end_date": "2026-03-18T18:45:00Z", "pre_game_price": 0.0, "question": "Will Trabzonspor win on 2026-03-18?"},
+
     # Serie B: Frosinone vs Bari (18:00 UTC kickoff, end ~19:45)
     {"name": "Frosinone", "token_id": "62618445002370891231902414718962161299662292789184767129617882435672692817173",
      "end_date": "2026-03-18T19:45:00Z", "pre_game_price": 0.0, "question": "Will Frosinone Calcio win on 2026-03-18?"},
@@ -71,6 +77,12 @@ ALL_GAMES = [
      "end_date": "2026-03-18T23:45:00Z", "pre_game_price": 0.0, "question": "Will CA Paranaense win on 2026-03-18?"},
     {"name": "Cruzeiro", "token_id": "98671698174358104834458706355249743185522854030346390518352262143106937028969",
      "end_date": "2026-03-18T23:45:00Z", "pre_game_price": 0.0, "question": "Will Cruzeiro EC win on 2026-03-18?"},
+
+    # Brazilian Serie A: Vasco vs Fluminense (00:30 UTC kickoff, end ~02:15)
+    {"name": "Vasco", "token_id": "35447112004895997419197939953130775342148895300842756741596267526913168019327",
+     "end_date": "2026-03-19T02:15:00Z", "pre_game_price": 0.0, "question": "Will CR Vasco da Gama win on 2026-03-18?"},
+    {"name": "Fluminense", "token_id": "25259798694418880321363333200869223748114755185835920437087826647486578921607",
+     "end_date": "2026-03-19T02:15:00Z", "pre_game_price": 0.0, "question": "Will Fluminense FC win on 2026-03-18?"},
 ]
 
 # TIGHTENED params — need 85%+ win rate to be profitable at these entries
