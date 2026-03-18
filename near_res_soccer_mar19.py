@@ -108,22 +108,22 @@ ALL_GAMES = [
 # Tiered params — level aggregate matches get bigger bets + slightly lower threshold
 # Level agg: first goal at 80th min = 95%+ true prob, MMs price 0.82-0.92 → real edge
 PARAMS_LEVEL_AGG = {
-    "max_spend": 8.0,
+    "max_spend": 10.0,
     "min_price": 0.82,
     "max_price": 0.94,
     "min_jump": 0.20,
     "max_spread": 0.04,
     "max_mins": 15,
-    "pct_balance": 0.25,
+    "pct_balance": 0.28,
 }
 PARAMS_STANDARD = {
-    "max_spend": 5.0,
+    "max_spend": 6.0,
     "min_price": 0.85,
     "max_price": 0.94,
     "min_jump": 0.22,
     "max_spread": 0.04,
     "max_mins": 15,
-    "pct_balance": 0.20,
+    "pct_balance": 0.18,
 }
 MIN_SPEND = 2.0
 BOUGHT = set()
