@@ -1,21 +1,6 @@
 {
   "positions": [
     {
-      "token_id": "89688742980565048844214788867390551717346156326525295305719443416346984945692",
-      "market_id": "wellington-19c-mar18",
-      "question": "Will the highest temperature in Wellington be 19\u00b0C on March 18?",
-      "side": "YES",
-      "entry_price": 0.18,
-      "fair_price": 0.26,
-      "edge": 0.08,
-      "size_usdc": 2.52,
-      "shares": 14.0,
-      "end_date": "2026-03-18T12:00:00Z",
-      "days_left_at_entry": 1.03,
-      "opened_at": "2026-03-17 11:23:12.290714+00:00",
-      "research_note": "All models (Open-Meteo, GFS, ECMWF, wttr.in) agree: Wellington max 18-19\u00b0C. P(19\u00b0C) \u2248 0.26 (\u03c3=1.5). Market ask 0.18. 8c+ edge."
-    },
-    {
       "token_id": "108845790548004322692968986487268356365518677702510540357391852249600044777237",
       "market_id": "wellington-21c-mar18-no",
       "question": "Will the highest temperature in Wellington be 21\u00b0C on March 18? (NO)",
@@ -29,6 +14,21 @@
       "days_left_at_entry": 1.03,
       "opened_at": "2026-03-17 11:23:12.290727+00:00",
       "research_note": "All models agree Wellington 18-19\u00b0C. 21\u00b0C is 2.2\u03c3 above forecast. P(NOT 21\u00b0C) \u2248 0.91. Market YES bid 0.25 (massively overpriced). 16c edge."
+    },
+    {
+      "token_id": "70360688417475040013853410868388481002216187232991815617863099444423177085113",
+      "market_id": "gis-earnings-beat",
+      "question": "Will General Mills (GIS) beat quarterly earnings? (EPS > $0.73)",
+      "side": "YES",
+      "entry_price": 0.19,
+      "fair_price": 0.7,
+      "edge": 0.57,
+      "size_usdc": 2.9982,
+      "shares": 15.78,
+      "end_date": "2026-03-18T13:00:00Z",
+      "days_left_at_entry": 0.17,
+      "opened_at": "2026-03-18 09:14:19.990655+00:00",
+      "research_note": "GIS beat 10/12 quarters (83%). PM price 0.12. Consensus $0.73 (at market creation). Reports ~11:00 UTC Mar 18. Risk: consensus may have moved below $0.73."
     }
   ],
   "trades": [
@@ -1039,8 +1039,28 @@
       "pnl_usdc": 0.7532947956896552,
       "closed_at": "2026-03-18T03:03:49.574992+00:00",
       "close_reason": "Sold at 0.999 (T-Wolves won)"
+    },
+    {
+      "token_id": "89688742980565048844214788867390551717346156326525295305719443416346984945692",
+      "market_id": "wellington-19c-mar18",
+      "question": "Will the highest temperature in Wellington be 19\u00b0C on March 18?",
+      "side": "YES",
+      "entry_price": 0.18,
+      "fair_price": 0.26,
+      "edge": 0.08,
+      "size_usdc": 2.52,
+      "shares": 14.0,
+      "end_date": "2026-03-18T12:00:00Z",
+      "days_left_at_entry": 1.03,
+      "opened_at": "2026-03-17 11:23:12.290714+00:00",
+      "research_note": "All models (Open-Meteo, GFS, ECMWF, wttr.in) agree: Wellington max 18-19\u00b0C. P(19\u00b0C) \u2248 0.26 (\u03c3=1.5). Market ask 0.18. 8c+ edge.",
+      "exit_price": null,
+      "pnl_pct": null,
+      "pnl_usdc": null,
+      "closed_at": "2026-03-18 09:00:33.322129+00:00",
+      "close_reason": "settled"
     }
   ],
-  "sessions": 68,
+  "sessions": 69,
   "mm_orders": []
 }

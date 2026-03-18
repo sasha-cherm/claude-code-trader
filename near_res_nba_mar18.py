@@ -46,6 +46,18 @@ ALL_GAMES = [
      "end_date": "2026-03-19T02:30:00Z", "pre_game_price": 0.0, "question": "Clippers vs. Pelicans"},
     {"name": "Pelicans", "token_id": "50405950143962369963302692343536687688455690785913162237484430741288187284298",
      "end_date": "2026-03-19T02:30:00Z", "pre_game_price": 0.0, "question": "Clippers vs. Pelicans"},
+
+    # 8:30pm ET = 00:30 UTC Mar 19, end ~03:00 UTC
+    {"name": "Hawks", "token_id": "47361326610987973060187007275983606017196071858666774035039394577096962610210",
+     "end_date": "2026-03-19T03:00:00Z", "pre_game_price": 0.0, "question": "Hawks vs. Mavericks"},
+    {"name": "Mavericks", "token_id": "11168971596254213873577871458728399143373873600118442060586802083018344252051",
+     "end_date": "2026-03-19T03:00:00Z", "pre_game_price": 0.0, "question": "Hawks vs. Mavericks"},
+
+    # 9:30pm ET = 01:30 UTC Mar 19, end ~04:00 UTC
+    {"name": "Lakers", "token_id": "30919315653158881856845055331042387181187920177463925686479249678172099008630",
+     "end_date": "2026-03-19T04:00:00Z", "pre_game_price": 0.0, "question": "Lakers vs. Rockets"},
+    {"name": "Rockets", "token_id": "3297246110392357046552306943086071577668939458611887017939306777662081813550",
+     "end_date": "2026-03-19T04:00:00Z", "pre_game_price": 0.0, "question": "Lakers vs. Rockets"},
 ]
 
 MAX_SPEND_PER_TRADE = 5.0
