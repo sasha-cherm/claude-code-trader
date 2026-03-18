@@ -183,9 +183,17 @@ nohup python3 -u near_res_mar18.py > logs/mar18_$(date -u +%Y%m%d_%H%M).log 2>&1
 
 **18:00 UTC (= 21:00 GMT+3)**: Barca near-res window (~19:00-19:30). Serie B Frosinone near-res.
 
-**21:00 UTC (= 00:00 GMT+3)**: Brazilian league near-res (~23:15). NBA Nuggets-Grizzlies setup.
+**21:00 UTC (= 00:00 GMT+3)**: CL main near-res window (~21:15-21:45 for Spurs/Liverpool/Bayern). Brazilian league.
 
-**23:00 UTC (= 02:00 GMT+3)**: Brazilian results. NBA near-res if applicable.
+**23:00 UTC (= 02:00 GMT+3)**: LAUNCH NBA MONITOR + check Brazilian results.
+```bash
+cd /home/cctrd/cc-trader-agent
+nohup python3 -u near_res_nba_mar18.py > logs/nba_mar18_$(date -u +%Y%m%d_%H%M).log 2>&1 &
+```
+6 NBA games: Warriors/Celtics, Thunder/Nets, Blazers/Pacers, Raptors/Bulls, Jazz/TWolves, Clippers/Pelicans.
+Near-res windows: 01:00-02:30 UTC March 19.
+
+**01:00 UTC Mar 19 (= 04:00 GMT+3)**: NBA near-res window. Check logs.
 
 #### Key Games:
 1. **Barca vs Newcastle (CL)** — 17:45 UTC, $754K vol, Camp Nou
@@ -195,7 +203,8 @@ nohup python3 -u near_res_mar18.py > logs/mar18_$(date -u +%Y%m%d_%H%M).log 2>&1
 5. **Braga vs Ferencvaros (EL)** — 15:30 UTC, $107K vol
 6. **Serie B**: Frosinone-Bari 18:00, Carrarese-Sampdoria 19:00
 7. **Brazilian Serie A**: Palmeiras-Botafogo, Mineiro-Sao Paulo, Paranaense-Cruzeiro at 22:00
-8. **NBA**: Nuggets vs Grizzlies (only game, find token IDs day-of)
+8. **NBA (6 games)**: Warriors/Celtics, Thunder/Nets, Blazers/Pacers, Raptors/Bulls, Jazz/TWolves, Clippers/Pelicans ($212K). Tipoffs 23:00-00:00 UTC.
+9. **BTC**: $74K threshold at 48.5% (resolves 16:00 UTC). BTC near-res has been unprofitable — check carefully at 13:00 UTC session.
 
 ### Critical Learnings (updated Session 68)
 - **MONITORS MUST RUN LONG ENOUGH**: CL main monitor expired 40 min before kickoff. Set runtime to 2x expected duration.
