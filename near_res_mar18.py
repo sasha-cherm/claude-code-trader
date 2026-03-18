@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Near-resolution monitor for March 18, 2026.
-Covers: Europa (Braga), CL (Barca-Newcastle), Serie B, Brazilian league.
+Covers: Europa (Braga), CL (Barca, Spurs, Liverpool, Bayern), Serie B, Brazilian league.
 Run from 13:00 UTC, covers games through ~00:00 UTC March 19.
 """
 import json
@@ -27,6 +27,24 @@ ALL_GAMES = [
      "end_date": "2026-03-18T19:30:00Z", "pre_game_price": 0.0, "question": "Will FC Barcelona win on 2026-03-18?"},
     {"name": "Newcastle", "token_id": "30909379099359904747245604913983590810498426007022367682132051536234269899376",
      "end_date": "2026-03-18T19:30:00Z", "pre_game_price": 0.0, "question": "Will Newcastle United FC win on 2026-03-18?"},
+
+    # CL: Tottenham vs Atletico Madrid (20:00 UTC kickoff, end ~21:45)
+    {"name": "Tottenham", "token_id": "72603425763703628210284078943879026205676270192638940022181711601436722592886",
+     "end_date": "2026-03-18T21:45:00Z", "pre_game_price": 0.0, "question": "Will Tottenham Hotspur FC win on 2026-03-18?"},
+    {"name": "Atletico", "token_id": "40838886869930762113062701183577408628487206030809939630887236134225189176789",
+     "end_date": "2026-03-18T21:45:00Z", "pre_game_price": 0.0, "question": "Will Club Atletico de Madrid win on 2026-03-18?"},
+
+    # CL: Liverpool vs Galatasaray (20:00 UTC kickoff, end ~21:45)
+    {"name": "Liverpool", "token_id": "73990697051716678138469696740410233978310192099211924752574468585654450181240",
+     "end_date": "2026-03-18T21:45:00Z", "pre_game_price": 0.0, "question": "Will Liverpool FC win on 2026-03-18?"},
+    {"name": "Galatasaray", "token_id": "108543550684823372847648267855989283734054984612936071294183640112699449703423",
+     "end_date": "2026-03-18T21:45:00Z", "pre_game_price": 0.0, "question": "Will Galatasaray SK win on 2026-03-18?"},
+
+    # CL: Bayern Munich vs Atalanta (20:00 UTC kickoff, end ~21:45)
+    {"name": "Bayern", "token_id": "107516046517968598071439454053508975465684785061463619804634759054220340150033",
+     "end_date": "2026-03-18T21:45:00Z", "pre_game_price": 0.0, "question": "Will FC Bayern Munchen win on 2026-03-18?"},
+    {"name": "Atalanta", "token_id": "36441370819971474726909845408900302734761643309259417804631053999454539416385",
+     "end_date": "2026-03-18T21:45:00Z", "pre_game_price": 0.0, "question": "Will Atalanta BC win on 2026-03-18?"},
 
     # Serie B: Frosinone vs Bari (18:00 UTC kickoff, end ~19:45)
     {"name": "Frosinone", "token_id": "62618445002370891231902414718962161299662292789184767129617882435672692817173",

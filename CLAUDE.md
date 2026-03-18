@@ -162,7 +162,7 @@ Use telegram for asking and getting info from user instead of the current useles
 
 ### Tuesday March 18 — ACTION PLAN
 
-**Monitor**: `near_res_mar18.py` (created, 13 games, 12h runtime, MIN_PRICE=0.80, MAX_SPREAD=0.06)
+**Monitor**: `near_res_mar18.py` (created, 19 games, 12h runtime, MIN_PRICE=0.80, MAX_SPREAD=0.06)
 
 #### Session Actions (UTC):
 **09:00 UTC (= 12:00 GMT+3)**: Check weather settlements, Hornets settlement, balance, Telegram.
@@ -189,10 +189,13 @@ nohup python3 -u near_res_mar18.py > logs/mar18_$(date -u +%Y%m%d_%H%M).log 2>&1
 
 #### Key Games:
 1. **Barca vs Newcastle (CL)** — 17:45 UTC, $754K vol, Camp Nou
-2. **Braga vs Ferencvaros (EL)** — 15:30 UTC, $107K vol
-3. **Serie B**: Frosinone-Bari 18:00, Carrarese-Sampdoria 19:00
-4. **Brazilian Serie A**: Palmeiras-Botafogo, Mineiro-Sao Paulo, Paranaense-Cruzeiro at 22:00
-5. **NBA**: Nuggets vs Grizzlies (only game, ~01:00 UTC end)
+2. **Tottenham vs Atletico Madrid (CL)** — 20:00 UTC, $424K vol
+3. **Liverpool vs Galatasaray (CL)** — 20:00 UTC, $560K vol
+4. **Bayern vs Atalanta (CL)** — 20:00 UTC, $341K vol
+5. **Braga vs Ferencvaros (EL)** — 15:30 UTC, $107K vol
+6. **Serie B**: Frosinone-Bari 18:00, Carrarese-Sampdoria 19:00
+7. **Brazilian Serie A**: Palmeiras-Botafogo, Mineiro-Sao Paulo, Paranaense-Cruzeiro at 22:00
+8. **NBA**: Nuggets vs Grizzlies (only game, find token IDs day-of)
 
 ### Critical Learnings (updated Session 68)
 - **MONITORS MUST RUN LONG ENOUGH**: CL main monitor expired 40 min before kickoff. Set runtime to 2x expected duration.
