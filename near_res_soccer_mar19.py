@@ -30,41 +30,41 @@ ALL_GAMES = [
 
     # AEK Larnaca vs Crystal Palace — AGG 0-0 ***TOP TARGET***
     {"name": "AEK Larnaca", "token_id": "113592167476112368377017567416536793397202318586644634522629615361927630230588",
-     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "level_agg": True, "question": "Will AEK Lárnakas win on 2026-03-19?"},
+     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.14, "level_agg": True, "question": "Will AEK Lárnakas win on 2026-03-19?"},
     {"name": "Crystal Palace", "token_id": "34478539241263835627716465625468103086042104068749881228511182842076581156184",
-     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "level_agg": True, "question": "Will Crystal Palace FC win on 2026-03-19?"},
+     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.61, "level_agg": True, "question": "Will Crystal Palace FC win on 2026-03-19?"},
 
     # Mainz vs Sigma Olomouc — AGG 0-0 ***TOP TARGET***
     {"name": "Mainz", "token_id": "69868544997512824044899123215660369925432048451579314120492168106306620825988",
-     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "level_agg": True, "question": "Will 1. FSV Mainz 05 win on 2026-03-19?"},
+     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.72, "level_agg": True, "question": "Will 1. FSV Mainz 05 win on 2026-03-19?"},
     {"name": "Sigma Olomouc", "token_id": "69758248607959633563184507277655271437157141598290208908645133551682657660986",
-     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "level_agg": True, "question": "Will SK Sigma Olomouc win on 2026-03-19?"},
+     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.08, "level_agg": True, "question": "Will SK Sigma Olomouc win on 2026-03-19?"},
 
     # Raków vs Fiorentina — AGG: Fiorentina lead 2-1
     {"name": "Rakow", "token_id": "102467901766651762647759573778846595736292552464284317814576569223866135699208",
-     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "question": "Will RKS Raków Częstochowa win on 2026-03-19?"},
+     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.39, "question": "Will RKS Raków Częstochowa win on 2026-03-19?"},
     {"name": "Fiorentina", "token_id": "85257638182063031746984096738970682192757388223474617391514620886673455897270",
-     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "question": "Will ACF Fiorentina win on 2026-03-19?"},
+     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.33, "question": "Will ACF Fiorentina win on 2026-03-19?"},
 
     # === UEL 17:45 UTC Kickoffs — near-res 19:00-19:30 UTC ===
 
     # Freiburg vs Genk — AGG: Genk lead 1-0
     {"name": "Freiburg", "token_id": "31546125618447629392456763920667712957460313159582282143982873674114205010802",
-     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "question": "Will SC Freiburg win on 2026-03-19?"},
+     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.60, "question": "Will SC Freiburg win on 2026-03-19?"},
     {"name": "Genk", "token_id": "50952005678815583020950425809435852261976700869378288897106995885118304322395",
-     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "question": "Will KRC Genk win on 2026-03-19?"},
+     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.16, "question": "Will KRC Genk win on 2026-03-19?"},
 
     # Midtjylland vs Nottingham Forest — AGG: Midtjylland lead 1-0
     {"name": "Midtjylland", "token_id": "47382633911097324690852856526737287671649541085913855159696395204536496865583",
-     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "question": "Will FC Midtjylland win on 2026-03-19?"},
+     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.31, "question": "Will FC Midtjylland win on 2026-03-19?"},
     {"name": "Nott. Forest", "token_id": "11381745081746637908130783364467955863250369078721878469131698218997759271578",
-     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "question": "Will Nottingham Forest FC win on 2026-03-19?"},
+     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.41, "question": "Will Nottingham Forest FC win on 2026-03-19?"},
 
     # Lyon vs Celta Vigo — AGG 1-1 ***TOP TARGET*** (17:45 UTC kickoff!)
     {"name": "Lyon", "token_id": "16736607457308526637193898830256233071814673439646651083024928473642839224863",
-     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "level_agg": True, "question": "Will Olympique Lyonnais win on 2026-03-19?"},
+     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.45, "level_agg": True, "question": "Will Olympique Lyonnais win on 2026-03-19?"},
     {"name": "Celta Vigo", "token_id": "62505429809364797963518971310518916509956092021742080639017340569942721490348",
-     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.0, "level_agg": True, "question": "Will RC Celta de Vigo win on 2026-03-19?"},
+     "end_date": "2026-03-19T19:30:00Z", "pre_game_price": 0.25, "level_agg": True, "question": "Will RC Celta de Vigo win on 2026-03-19?"},
 
     # === 20:00 UTC Kickoffs — near-res 21:15-21:45 UTC ===
 
@@ -110,7 +110,7 @@ ALL_GAMES = [
 PARAMS_LEVEL_AGG = {
     "max_spend": 14.0,
     "min_price": 0.82,
-    "max_price": 0.94,
+    "max_price": 0.97,
     "min_jump": 0.20,
     "max_spread": 0.04,
     "max_mins": 15,
