@@ -1,5 +1,57 @@
 {
-  "positions": [],
+  "positions": [
+    {
+      "token_id": "39457741763261644455805579486189997714134855427860230998554403786844381880617",
+      "market_id": "near-res-cs2-furia",
+      "question": "Counter-Strike: FURIA vs TYLOO (BO3) - BLAST Open Rotterdam Group A",
+      "side": "YES",
+      "entry_price": 0.92,
+      "fair_price": 0.99,
+      "edge": 0.08,
+      "size_usdc": 5.0,
+      "shares": 5.434782608695652,
+      "end_date": "2026-03-19T02:30:00Z",
+      "days_left_at_entry": 0,
+      "opened_at": "2026-03-18 22:12:13.076295+00:00",
+      "research_note": "CS2 near-res: FURIA price jumped +0.120 from pre-game 0.800. BO3 likely near 2-0 sweep.",
+      "status": "won_pending_settlement",
+      "exit_price": 1.0
+    },
+    {
+      "token_id": "36108519024502447424056492311689862615627129755422509453746007382639548207985",
+      "market_id": "near-res-palmeiras",
+      "question": "Will SE Palmeiras win on 2026-03-18?",
+      "side": "YES",
+      "entry_price": 0.93,
+      "fair_price": 0.95,
+      "edge": 0.1,
+      "size_usdc": 5.0,
+      "shares": 5.376344086021505,
+      "end_date": "2026-03-18T23:45:00Z",
+      "days_left_at_entry": 0.010276241689814817,
+      "opened_at": "2026-03-18 23:30:12.132718+00:00",
+      "research_note": "Near-res: Palmeiras jumped +0.300 from pre-game 0.630",
+      "status": "won_pending_settlement",
+      "exit_price": 1.0
+    },
+    {
+      "token_id": "88670427589650889462127420272390845460960511196741954418136034474962291047725",
+      "market_id": "near-res-paranaense",
+      "question": "Will CA Paranaense win on 2026-03-18?",
+      "side": "YES",
+      "entry_price": 0.91,
+      "fair_price": 0.95,
+      "edge": 0.1,
+      "size_usdc": 5.0,
+      "shares": 5.4945054945054945,
+      "end_date": "2026-03-18T23:45:00Z",
+      "days_left_at_entry": 0.010228421527777778,
+      "opened_at": "2026-03-18 23:30:16.264380+00:00",
+      "research_note": "Near-res: Paranaense jumped +0.470 from pre-game 0.440",
+      "status": "won_pending_settlement",
+      "exit_price": 1.0
+    }
+  ],
   "trades": [
     {
       "token_id": "89003136096914568294011168339858112910546045281702936178525401387691265991942",
