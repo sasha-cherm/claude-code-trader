@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Basketball near-resolution monitor for March 19, 2026.
-NCAAB March Madness First Round (9 games) + NBA (7 games).
+NCAAB March Madness First Round (13 games) + NBA (7 games).
 Run from ~15:00 UTC, covers games through ~04:00 UTC March 20.
 
 NCAAB game waves (ET → UTC):
@@ -76,7 +76,26 @@ ALL_GAMES = [
     {"name": "Georgia", "token_id": "54034530941382088240057378429034130481256150294287711254662539979606717652302",
      "end_date": "2026-03-20T04:00:00Z", "pre_game_price": 0.0, "question": "Saint Louis Billikens vs. Georgia Bulldogs"},
 
-    # Games with 404 orderbooks removed: Santa Clara-Kentucky, Utah State-Villanova, Missouri-Miami
+    # Wave 3/4 — previously 404 but now have dynamic MMs
+    {"name": "UCF", "token_id": "44175692827423386018808759351831397402512273431986287466254929610176446350297",
+     "end_date": "2026-03-20T04:00:00Z", "pre_game_price": 0.0, "question": "UCF Knights vs. UCLA Bruins"},
+    {"name": "UCLA", "token_id": "36778846944862813523381910724027804421084710594560204076855462226610146346771",
+     "end_date": "2026-03-20T04:00:00Z", "pre_game_price": 0.0, "question": "UCF Knights vs. UCLA Bruins"},
+
+    {"name": "Santa Clara", "token_id": "7209208853410266549175490708044855137325697203910236238375646804764733435388",
+     "end_date": "2026-03-20T04:00:00Z", "pre_game_price": 0.0, "question": "Santa Clara Broncos vs. Kentucky Wildcats"},
+    {"name": "Kentucky", "token_id": "96201733608502458627905480167652884986457888149548653845440039271543270786117",
+     "end_date": "2026-03-20T04:00:00Z", "pre_game_price": 0.0, "question": "Santa Clara Broncos vs. Kentucky Wildcats"},
+
+    {"name": "Utah State", "token_id": "106391806073421269485399607017664717821798955311962642998032514744839702135961",
+     "end_date": "2026-03-20T04:00:00Z", "pre_game_price": 0.0, "question": "Utah State Aggies vs. Villanova Wildcats"},
+    {"name": "Villanova", "token_id": "46384102915573339305724199265524140011696420022552417964812284208185711469680",
+     "end_date": "2026-03-20T04:00:00Z", "pre_game_price": 0.0, "question": "Utah State Aggies vs. Villanova Wildcats"},
+
+    {"name": "Missouri", "token_id": "5533407621462204419366790705917923676675270766779491181055620828944815843041",
+     "end_date": "2026-03-20T04:00:00Z", "pre_game_price": 0.0, "question": "Missouri Tigers vs. Miami Hurricanes"},
+    {"name": "Miami", "token_id": "20405373265263690273095397068448682914028493604888619902586392206352942539171",
+     "end_date": "2026-03-20T04:00:00Z", "pre_game_price": 0.0, "question": "Missouri Tigers vs. Miami Hurricanes"},
 
     # === NBA (tipoffs ~23:00-01:30 UTC, end ~01:30-04:00 UTC) ===
     {"name": "Lakers", "token_id": "2664311162279059241862911770684565005151952311104325708669060839371754814097",

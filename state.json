@@ -14,7 +14,7 @@
       "days_left_at_entry": 0,
       "opened_at": "2026-03-18 22:12:13.076295+00:00",
       "research_note": "CS2 near-res: FURIA price jumped +0.120 from pre-game 0.800. BO3 likely near 2-0 sweep.",
-      "status": "won_pending_settlement",
+      "status": "won",
       "exit_price": 1.0
     },
     {
@@ -31,7 +31,7 @@
       "days_left_at_entry": 0.010276241689814817,
       "opened_at": "2026-03-18 23:30:12.132718+00:00",
       "research_note": "Near-res: Palmeiras jumped +0.300 from pre-game 0.630",
-      "status": "won_pending_settlement",
+      "status": "won",
       "exit_price": 1.0
     },
     {
@@ -48,7 +48,7 @@
       "days_left_at_entry": 0.010228421527777778,
       "opened_at": "2026-03-18 23:30:16.264380+00:00",
       "research_note": "Near-res: Paranaense jumped +0.470 from pre-game 0.440",
-      "status": "won_pending_settlement",
+      "status": "won",
       "exit_price": 1.0
     }
   ],
