@@ -140,9 +140,9 @@ MAX_NEAR_RES_PRICE = 0.94
 MIN_PRICE_JUMP = 0.20       # Big jump = decisive lead
 MAX_SPREAD = 0.04
 MAX_MINS_TO_END = 20         # Basketball: last 20 min buffer (accounts for game clock vs real time)
-MAX_SPEND_PER_TRADE = 6.0
+MAX_SPEND_PER_TRADE = 9.0
 MIN_SPEND = 2.0
-PCT_OF_BALANCE = 0.18       # Slightly larger — need to compound aggressively
+PCT_OF_BALANCE = 0.22       # Aggressive — 11W/0L streak, need to compound hard
 BOUGHT = set()
 
 

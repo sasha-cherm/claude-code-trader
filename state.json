@@ -50,6 +50,23 @@
       "research_note": "Near-res: Paranaense jumped +0.470 from pre-game 0.440",
       "status": "won",
       "exit_price": 1.0
+    },
+    {
+      "token_id": "30919315653158881856845055331042387181187920177463925686479249678172099008630",
+      "market_id": "near-res-nba-lakers",
+      "question": "Lakers vs. Rockets",
+      "side": "YES",
+      "entry_price": 0.89,
+      "fair_price": 0.95,
+      "edge": 0.1,
+      "size_usdc": 5.0,
+      "shares": 5.617977528089887,
+      "end_date": "2026-03-19T04:00:00Z",
+      "days_left_at_entry": 0.000259998113425926,
+      "opened_at": "2026-03-19 03:59:37.536163+00:00",
+      "research_note": "NBA Near-res: Lakers jumped +0.430 from pre-game 0.460",
+      "status": "won",
+      "exit_price": 1.0
     }
   ],
   "trades": [
