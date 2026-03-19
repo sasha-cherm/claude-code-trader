@@ -67,6 +67,23 @@
       "research_note": "NBA Near-res: Lakers jumped +0.430 from pre-game 0.460",
       "status": "won",
       "exit_price": 1.0
+    },
+    {
+      "token_id": "114669676407805460971698922652742498488387915573275983788800351522266462485372",
+      "market_id": "near-res-cs2-spirit",
+      "question": "Counter-Strike: Spirit vs Liquid (BO3) - BLAST Open Rotterdam Group B",
+      "side": "YES",
+      "entry_price": 0.93,
+      "fair_price": 0.99,
+      "edge": 0.08,
+      "size_usdc": 8.0,
+      "shares": 8.602150537634408,
+      "end_date": "2026-03-19T21:30:00Z",
+      "days_left_at_entry": 0,
+      "opened_at": "2026-03-19 14:17:25.308774+00:00",
+      "research_note": "CS2 near-res: Spirit price jumped +0.080 from pre-game 0.850. BO3 likely near 2-0 sweep.",
+      "status": "won",
+      "exit_price": 1.0
     }
   ],
   "trades": [
