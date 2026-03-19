@@ -251,7 +251,9 @@
       "end_date": "2026-03-19T21:45:00Z",
       "days_left_at_entry": 0,
       "opened_at": "2026-03-19 21:26:15.269010+00:00",
-      "research_note": "Manual near-res: Lech Poznan from 0.28 pre-game to 0.91. 20min left in UEL match."
+      "research_note": "Manual near-res: Lech Poznan from 0.28 pre-game to 0.91. 20min left in UEL match.",
+      "status": "won",
+      "exit_price": 1.0
     }
   ],
   "trades": [
