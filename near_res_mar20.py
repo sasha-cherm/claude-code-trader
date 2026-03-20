@@ -378,6 +378,10 @@ def check_and_buy(client, watch_list):
                     })
                     save_state(state)
                     BOUGHT.add(w["token_id"])
+                    # Block other side of same game to prevent buying both sides
+                    for other in watch_list:
+                        if other["question"] == w["question"] and other["token_id"] != w["token_id"]:
+                            BOUGHT.add(other["token_id"])
                     balance = get_usdc_balance(client)
                     send(f"MAR20 NEAR-RES BUY: {w['name']} YES @ {buy_price:.3f}\n"
                          f"${spend:.2f} ({shares:.2f} sh)\n"
