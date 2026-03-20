@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 """
 Near-resolution monitor for March 21, 2026 (Saturday).
-No EPL/Bundesliga/SerieA/LaLiga — Championship + Eredivisie + MLS + Brazilian + Argentine + Mexican.
-NBA/NCAAB markers to be added at runtime when markets appear.
-
-28 games, 56 tokens. Both sides per game for dedup.
+MASSIVE DAY: EPL (5), Bundesliga (3+1 BL2), La Liga (3), Championship (10),
+Eredivisie (3), Norwegian (1), MLS (6), Brazilian (3), Argentine (2),
+Mexican (3), NBA (10). Total: 50+ games, 100+ tokens.
 """
 import json
 import os
@@ -18,6 +17,164 @@ from trader.strategy import place_market_buy, get_actual_shares, load_state, sav
 from trader.notify import send
 
 ALL_GAMES = [
+    # === EPL (TOP PRIORITY — highest volume, best MMs) ===
+    # Brighton vs Liverpool — 12:30 UTC kick (end ~14:15)
+    {"name": "Brighton", "token_id": "100464054121002033210929966097122721185902091676775506635237858654025169363262",
+     "end_date": "2026-03-21T14:15:00Z", "pre_game_price": 0.0,
+     "question": "Brighton & Hove Albion FC vs. Liverpool FC"},
+    {"name": "Liverpool", "token_id": "35083807819338446925002466154655205330091854330432756866206371119620373615428",
+     "end_date": "2026-03-21T14:15:00Z", "pre_game_price": 0.0,
+     "question": "Brighton & Hove Albion FC vs. Liverpool FC"},
+
+    # Man City vs Crystal Palace — 15:00 UTC kick (end ~16:45)
+    {"name": "Man City", "token_id": "59926179825727217606167341176846116057970189763068493202217393131144123674309",
+     "end_date": "2026-03-21T16:45:00Z", "pre_game_price": 0.0,
+     "question": "Manchester City FC vs. Crystal Palace FC"},
+    {"name": "Crystal Palace", "token_id": "47798652524102667635886769882234495418506879283040748965001754646341968655128",
+     "end_date": "2026-03-21T16:45:00Z", "pre_game_price": 0.0,
+     "question": "Manchester City FC vs. Crystal Palace FC"},
+
+    # Fulham vs Burnley — 15:00 UTC kick (end ~16:45)
+    {"name": "Fulham", "token_id": "100424505911492726143069668369640898890012859227903329249368753635028896002613",
+     "end_date": "2026-03-21T16:45:00Z", "pre_game_price": 0.0,
+     "question": "Fulham FC vs. Burnley FC"},
+    {"name": "Burnley", "token_id": "111387501328662145897103162600496351393235879641274336060199507793806731099077",
+     "end_date": "2026-03-21T16:45:00Z", "pre_game_price": 0.0,
+     "question": "Fulham FC vs. Burnley FC"},
+
+    # Everton vs Chelsea — 17:30 UTC kick (end ~19:15)
+    {"name": "Everton", "token_id": "16201391243045422507023801607586153372791417104258215636932788686821300331314",
+     "end_date": "2026-03-21T19:15:00Z", "pre_game_price": 0.0,
+     "question": "Everton FC vs. Chelsea FC"},
+    {"name": "Chelsea", "token_id": "77019523621478946963865271857336353830849712350406503519645871793341730636267",
+     "end_date": "2026-03-21T19:15:00Z", "pre_game_price": 0.0,
+     "question": "Everton FC vs. Chelsea FC"},
+
+    # Leeds vs Brentford — 20:00 UTC kick (end ~21:45)
+    {"name": "Leeds", "token_id": "33550256521588566181818107761102086100116148175456742347678976997881043151893",
+     "end_date": "2026-03-21T21:45:00Z", "pre_game_price": 0.0,
+     "question": "Leeds United FC vs. Brentford FC"},
+    {"name": "Brentford", "token_id": "25666419921296394159751233259946485552020074285656528843009715659948160932435",
+     "end_date": "2026-03-21T21:45:00Z", "pre_game_price": 0.0,
+     "question": "Leeds United FC vs. Brentford FC"},
+
+    # === Bundesliga (14:30 UTC kick, end ~16:15) ===
+    {"name": "Bayern", "token_id": "73608654579667762253217116531720070507518940654076511529510999262262027884268",
+     "end_date": "2026-03-21T16:15:00Z", "pre_game_price": 0.0,
+     "question": "FC Bayern München vs. 1. FC Union Berlin"},
+    {"name": "Union Berlin", "token_id": "53091408207552281959372860321965041196316558699049937733771437981327670353864",
+     "end_date": "2026-03-21T16:15:00Z", "pre_game_price": 0.0,
+     "question": "FC Bayern München vs. 1. FC Union Berlin"},
+
+    {"name": "Wolfsburg", "token_id": "49819722077709162050722942057375341115813548416036024717549689040608689645975",
+     "end_date": "2026-03-21T16:15:00Z", "pre_game_price": 0.0,
+     "question": "VfL Wolfsburg vs. SV Werder Bremen"},
+    {"name": "Werder", "token_id": "77887570342911999493957585235617706142387479967121537823906236245364748124425",
+     "end_date": "2026-03-21T16:15:00Z", "pre_game_price": 0.0,
+     "question": "VfL Wolfsburg vs. SV Werder Bremen"},
+
+    {"name": "Heidenheim", "token_id": "81618470378539016004084304569271130489919761679979279838229928389812463145047",
+     "end_date": "2026-03-21T16:15:00Z", "pre_game_price": 0.0,
+     "question": "1. FC Heidenheim 1846 vs. Bayer 04 Leverkusen"},
+    {"name": "Leverkusen", "token_id": "60255938594662677927258374878138772075596471823932570540145040845653072385376",
+     "end_date": "2026-03-21T16:15:00Z", "pre_game_price": 0.0,
+     "question": "1. FC Heidenheim 1846 vs. Bayer 04 Leverkusen"},
+
+    # Dortmund vs Hamburg (2. Bundesliga) — 17:30 UTC kick (end ~19:15)
+    {"name": "Dortmund", "token_id": "69975983437630865740919355819359124143797871698581159840041946973598354888329",
+     "end_date": "2026-03-21T19:15:00Z", "pre_game_price": 0.0,
+     "question": "BV Borussia 09 Dortmund vs. Hamburger SV"},
+    {"name": "Hamburg", "token_id": "114536474308445902340063082220979684912189800956998978843513496881483655598673",
+     "end_date": "2026-03-21T19:15:00Z", "pre_game_price": 0.0,
+     "question": "BV Borussia 09 Dortmund vs. Hamburger SV"},
+
+    # === La Liga ===
+    # Espanyol vs Getafe — 15:00 UTC kick (end ~16:45)
+    {"name": "Espanyol", "token_id": "73701870899525630801278951663635231976004791734689446731960507846593991776271",
+     "end_date": "2026-03-21T16:45:00Z", "pre_game_price": 0.0,
+     "question": "RCD Espanyol de Barcelona vs. Getafe CF"},
+    {"name": "Getafe", "token_id": "33222809016663559049188985006887368887946397491576107441078958500201998466014",
+     "end_date": "2026-03-21T16:45:00Z", "pre_game_price": 0.0,
+     "question": "RCD Espanyol de Barcelona vs. Getafe CF"},
+
+    # Osasuna vs Girona — 17:30 UTC kick (end ~19:15)
+    {"name": "Osasuna", "token_id": "258677385302688182461898417967106726834258313005766909541915428260925716921",
+     "end_date": "2026-03-21T19:15:00Z", "pre_game_price": 0.0,
+     "question": "CA Osasuna vs. Girona FC"},
+    {"name": "Girona", "token_id": "77761244344818711819030470373492527977913587169152648708182888704278173793633",
+     "end_date": "2026-03-21T19:15:00Z", "pre_game_price": 0.0,
+     "question": "CA Osasuna vs. Girona FC"},
+
+    # Sevilla vs Valencia — 20:00 UTC kick (end ~21:45)
+    {"name": "Sevilla", "token_id": "89261921640419081793779673565275963528601998871096312990615893330972331046097",
+     "end_date": "2026-03-21T21:45:00Z", "pre_game_price": 0.0,
+     "question": "Sevilla FC vs. Valencia CF"},
+    {"name": "Valencia", "token_id": "17685810212873216925695961769327560666758490814990506012223434116202381971711",
+     "end_date": "2026-03-21T21:45:00Z", "pre_game_price": 0.0,
+     "question": "Sevilla FC vs. Valencia CF"},
+
+    # === NBA (10 games, tipoffs 21:00 UTC - 02:00 UTC) ===
+    {"name": "Thunder", "token_id": "94844051458161093758408644748213964911062272689244334591279755394311450989118",
+     "end_date": "2026-03-22T00:30:00Z", "pre_game_price": 0.0,
+     "question": "Thunder vs. Wizards"},
+    {"name": "Wizards", "token_id": "68095691128077179100318731792628872850372804787496257265201482153936637006429",
+     "end_date": "2026-03-22T00:30:00Z", "pre_game_price": 0.0,
+     "question": "Thunder vs. Wizards"},
+    {"name": "Grizzlies", "token_id": "112493961779042478006346891746610690983081151525885535705297709617620965327035",
+     "end_date": "2026-03-22T02:30:00Z", "pre_game_price": 0.0,
+     "question": "Grizzlies vs. Hornets"},
+    {"name": "Hornets", "token_id": "25081080501033233654312754818909248623567642297753593125268132775695454858235",
+     "end_date": "2026-03-22T02:30:00Z", "pre_game_price": 0.0,
+     "question": "Grizzlies vs. Hornets"},
+    {"name": "Lakers", "token_id": "66419344206339468073253308897091364505984570816153869860212591505290583609104",
+     "end_date": "2026-03-22T02:30:00Z", "pre_game_price": 0.0,
+     "question": "Lakers vs. Magic"},
+    {"name": "Magic", "token_id": "59710325672987047484152804198498095977107600959651145229891529355298398088578",
+     "end_date": "2026-03-22T02:30:00Z", "pre_game_price": 0.0,
+     "question": "Lakers vs. Magic"},
+    {"name": "Cavaliers", "token_id": "115254320258539752708522193689293486816166369187979320184482189657307784963064",
+     "end_date": "2026-03-22T02:30:00Z", "pre_game_price": 0.0,
+     "question": "Cavaliers vs. Pelicans"},
+    {"name": "Pelicans", "token_id": "82016993096564541113171196398807867514046438129512700947240007036841990360444",
+     "end_date": "2026-03-22T02:30:00Z", "pre_game_price": 0.0,
+     "question": "Cavaliers vs. Pelicans"},
+    {"name": "Warriors", "token_id": "73477341174479152259577917870650353681944211549294712547249725182626389515512",
+     "end_date": "2026-03-22T03:30:00Z", "pre_game_price": 0.0,
+     "question": "Warriors vs. Hawks"},
+    {"name": "Hawks", "token_id": "47688476558965333598463501419452813288450981075962287030049367585373980290969",
+     "end_date": "2026-03-22T03:30:00Z", "pre_game_price": 0.0,
+     "question": "Warriors vs. Hawks"},
+    {"name": "Heat", "token_id": "66619962828726174779371387502442846499813128559203573763873012123716556972866",
+     "end_date": "2026-03-22T03:30:00Z", "pre_game_price": 0.0,
+     "question": "Heat vs. Rockets"},
+    {"name": "Rockets", "token_id": "44709731364797464574395633651617729372591090876651472137054184195967359549215",
+     "end_date": "2026-03-22T03:30:00Z", "pre_game_price": 0.0,
+     "question": "Heat vs. Rockets"},
+    {"name": "Pacers", "token_id": "70525269588579059962845302246989422128946174955986385912648420268953386711358",
+     "end_date": "2026-03-22T03:30:00Z", "pre_game_price": 0.0,
+     "question": "Pacers vs. Spurs"},
+    {"name": "Spurs", "token_id": "32877728229253329027329636082000638918329218780414503302794994633349393481502",
+     "end_date": "2026-03-22T03:30:00Z", "pre_game_price": 0.0,
+     "question": "Pacers vs. Spurs"},
+    {"name": "Clippers", "token_id": "109494632565651733301020904932199813861932582132036302717250905296971266287588",
+     "end_date": "2026-03-22T04:00:00Z", "pre_game_price": 0.0,
+     "question": "Clippers vs. Mavericks"},
+    {"name": "Mavericks", "token_id": "107498027172937403056773925260063954037483348009099426755694609797390489418850",
+     "end_date": "2026-03-22T04:00:00Z", "pre_game_price": 0.0,
+     "question": "Clippers vs. Mavericks"},
+    {"name": "76ers", "token_id": "92252343234129633768649797505793003493639180172408450196464214414346494971632",
+     "end_date": "2026-03-22T05:00:00Z", "pre_game_price": 0.0,
+     "question": "76ers vs. Jazz"},
+    {"name": "Jazz", "token_id": "79365399650316026880040710776474208525322429296929910801469223466522919311892",
+     "end_date": "2026-03-22T05:00:00Z", "pre_game_price": 0.0,
+     "question": "76ers vs. Jazz"},
+    {"name": "Bucks", "token_id": "89978578624481415270168164861148571396567375367208822145977787083394124020127",
+     "end_date": "2026-03-22T05:30:00Z", "pre_game_price": 0.0,
+     "question": "Bucks vs. Suns"},
+    {"name": "Suns", "token_id": "62621931224691683466453100876075260824584725786291390369738235958307849567075",
+     "end_date": "2026-03-22T05:30:00Z", "pre_game_price": 0.0,
+     "question": "Bucks vs. Suns"},
+
     # === Championship 12:30 UTC kick (end ~14:15) ===
     {"name": "Blackburn", "token_id": "58286119060054841992133849587124330118128288965155670770276611014015231158011",
      "end_date": "2026-03-21T14:15:00Z", "pre_game_price": 0.0,
@@ -224,15 +381,15 @@ ALL_GAMES = [
      "question": "Pumas de la UNAM vs. CF América"},
 ]
 
-# === Params — championship/lower-tier leagues have higher draw risk ===
-MIN_NEAR_RES_PRICE = 0.86     # Tighter for lower-tier leagues
+# === Params — EPL/BuLi/LaLiga are reliable; lower-tier needs caution ===
+MIN_NEAR_RES_PRICE = 0.85     # Top-tier leagues can go slightly lower
 MAX_NEAR_RES_PRICE = 0.96
-MIN_PRICE_JUMP = 0.22          # Higher threshold for draw-prone leagues
+MIN_PRICE_JUMP = 0.20          # Standard threshold
 MAX_SPREAD = 0.04
-MAX_MINS_TO_END = 18           # Tighter time window
-MAX_SPEND_PER_TRADE = 15.0     # Conservative — championship has higher draw risk
+MAX_MINS_TO_END = 20           # Standard time window
+MAX_SPEND_PER_TRADE = 18.0     # Moderate — compound gains
 MIN_SPEND = 1.0
-PCT_OF_BALANCE = 0.25          # Conservative sizing for lower-tier
+PCT_OF_BALANCE = 0.28          # Moderate sizing
 BOUGHT = set()                 # Dedup: prevent buying same token or same-game opponent
 
 
