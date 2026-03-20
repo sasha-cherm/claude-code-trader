@@ -99,8 +99,20 @@ ALL_GAMES = [
     {"name": "TYLOO2", "token_id": "101958465723685744167137796657899098904530951998538288108427147101804003806944",
      "end_date": "2026-03-20T16:30:00Z", "pre_game_price": 0.0,
      "question": "Counter-Strike: FaZe vs TYLOO (BO3) - BLAST Open Rotterdam Group A"},
-    # NOTE: NAVI-Falcons (16:00 UTC), FURIA-Aurora (18:30 UTC)
-    # — markets not yet created. Add token IDs when found by day-of session.
+    # 16:00 UTC: Team Falcons vs NAVI
+    {"name": "Falcons", "token_id": "29503957714165961688912979533555612060988378715877267488661521240832363873466",
+     "end_date": "2026-03-20T19:00:00Z", "pre_game_price": 0.0,
+     "question": "Counter-Strike: Team Falcons vs Natus Vincere (BO3) - BLAST Open Rotterdam Group A"},
+    {"name": "NAVI", "token_id": "9507066505426207693437964492035549694870385575058469070280464859636294293119",
+     "end_date": "2026-03-20T19:00:00Z", "pre_game_price": 0.0,
+     "question": "Counter-Strike: Team Falcons vs Natus Vincere (BO3) - BLAST Open Rotterdam Group A"},
+    # 18:30 UTC: FURIA vs Aurora
+    {"name": "FURIA2", "token_id": "75246859396206716548020355973913555051444697600818692262480634801725604948015",
+     "end_date": "2026-03-20T21:30:00Z", "pre_game_price": 0.0,
+     "question": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - BLAST Open Rotterdam Group A"},
+    {"name": "Aurora", "token_id": "57057247364592185484876280792184585102019040185109901206192058656888529238840",
+     "end_date": "2026-03-20T21:30:00Z", "pre_game_price": 0.0,
+     "question": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - BLAST Open Rotterdam Group A"},
 
     # === NCAAB March Madness First Round Day 2 ===
     # COMPETITIVE matchups (8v9, 7v10, 5v12) — BEST near-res targets
