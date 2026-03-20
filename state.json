@@ -373,6 +373,40 @@
       "research_note": "Mar20 near-res: Falcons jumped +0.240, 8 min left.",
       "status": "lost",
       "exit_price": 0.0
+    },
+    {
+      "token_id": "4817264963112251949679335223608148192980804912981074933141316625457847209281",
+      "market_id": "near-res-mar20-preston",
+      "question": "Will Preston North End FC win on 2026-03-20?",
+      "side": "YES",
+      "entry_price": 0.92,
+      "fair_price": 0.99,
+      "edge": 0.5900000000000001,
+      "size_usdc": 17.00696032,
+      "shares": 18.48582643478261,
+      "end_date": "2026-03-20T21:30:00Z",
+      "days_left_at_entry": 0.0063182218865740734,
+      "opened_at": "2026-03-20 21:20:54.105629+00:00",
+      "research_note": "Mar20 near-res: Preston jumped +0.590, 9 min left.",
+      "status": "won",
+      "exit_price": 1.0
+    },
+    {
+      "token_id": "106391806073421269485399607017664717821798955311962642998032514744839702135961",
+      "market_id": "near-res-mar20-utah-state",
+      "question": "Utah State Aggies vs. Villanova Wildcats",
+      "side": "YES",
+      "entry_price": 0.9,
+      "fair_price": 0.98,
+      "edge": 0.30000000000000004,
+      "size_usdc": 11.56548832,
+      "shares": 12.850542577777777,
+      "end_date": "2026-03-20T22:25:00Z",
+      "days_left_at_entry": 0.003525899050925926,
+      "opened_at": "2026-03-20 22:19:55.362322+00:00",
+      "research_note": "Mar20 near-res: Utah State jumped +0.300, 5 min left.",
+      "status": "won",
+      "exit_price": 1.0
     }
   ],
   "trades": [
