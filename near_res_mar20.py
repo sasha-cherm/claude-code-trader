@@ -92,7 +92,14 @@ ALL_GAMES = [
     {"name": "NRG", "token_id": "96691142177800687361923505332919663251911149848546155747520516122525298525706",
      "end_date": "2026-03-20T14:00:00Z", "pre_game_price": 0.0,
      "question": "Counter-Strike: B8 vs NRG (BO3) - BLAST Open Rotterdam Group A"},
-    # NOTE: TYLOO-FaZe (13:30 UTC), NAVI-Falcons (16:00 UTC), FURIA-Aurora (18:30 UTC)
+    # 13:30 UTC: FaZe vs TYLOO
+    {"name": "FaZe", "token_id": "52253849497190465038442463410087453126454104709115542677667998979089556591627",
+     "end_date": "2026-03-20T16:30:00Z", "pre_game_price": 0.0,
+     "question": "Counter-Strike: FaZe vs TYLOO (BO3) - BLAST Open Rotterdam Group A"},
+    {"name": "TYLOO2", "token_id": "101958465723685744167137796657899098904530951998538288108427147101804003806944",
+     "end_date": "2026-03-20T16:30:00Z", "pre_game_price": 0.0,
+     "question": "Counter-Strike: FaZe vs TYLOO (BO3) - BLAST Open Rotterdam Group A"},
+    # NOTE: NAVI-Falcons (16:00 UTC), FURIA-Aurora (18:30 UTC)
     # — markets not yet created. Add token IDs when found by day-of session.
 
     # === NCAAB March Madness First Round Day 2 ===
@@ -387,6 +394,6 @@ if __name__ == "__main__":
     print("\nCapturing pre-game prices...")
     snapshot_pre_game_prices(client, ALL_GAMES)
 
-    for i in range(720):  # 12 hours
+    for i in range(1080):  # 18 hours
         check_and_buy(client, ALL_GAMES)
         time.sleep(60)
