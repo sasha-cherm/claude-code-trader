@@ -59,7 +59,8 @@ EDGE_CANDLES = [
 ORDER_SIZE_SHARES = 5.0       # CLOB minimum; start small
 POLL_INTERVAL_SEC = 5         # orderbook poll frequency
 PRE_MARKET_MINUTES = 30       # start monitoring N min before candle
-CANCEL_BEFORE_SEC  = 5        # cancel unfilled order N sec before candle start
+# Cancel unfilled orders N seconds AFTER candle starts
+CANCEL_AFTER_SEC  = {"1H": 120, "4H": 600}   # 2 min for 1H, 10 min for 4H
 MIN_EDGE_CENTS     = 1.0      # min (edge% - price%) in cents to place/keep order
 
 TRADE_LOG_FILE = "logs/candle_trades.jsonl"
@@ -67,6 +68,7 @@ GAMMA_HOST     = "https://gamma-api.polymarket.com"
 ET_TZ          = ZoneInfo("America/New_York")
 
 running = True
+filled_candles: set[tuple] = set()   # (interval, candle_start_str, side)
 
 
 def _sighandler(sig, _frame):
@@ -233,15 +235,18 @@ def trade_candle(interval: str, candle_start_utc: datetime,
     cur_price = None
     filled_   = False
 
-    while running:
-        secs_left = (candle_start_utc - utc_now()).total_seconds()
+    cancel_after = CANCEL_AFTER_SEC[interval]
 
-        # ── Cancel window ──
-        if secs_left <= CANCEL_BEFORE_SEC:
+    while running:
+        now_utc = utc_now()
+        secs_after_start = (now_utc - candle_start_utc).total_seconds()
+
+        # ── Cancel window: N minutes after candle starts ──
+        if secs_after_start >= cancel_after:
             if cur_oid:
                 if is_filled(client, cur_oid):
                     filled_ = True
-                    print(f"[{tag}] Filled just before candle start!")
+                    print(f"[{tag}] Filled at cancel deadline!")
                 else:
                     cancel_order(client, cur_oid, tag)
             break
@@ -305,6 +310,7 @@ def trade_candle(interval: str, candle_start_utc: datetime,
     })
 
     if filled_:
+        filled_candles.add((interval, str(candle_start_utc), side))
         send(f"Candle FILLED: {tag} {interval} {side} @ {cur_price:.2f} ({market['question']})")
 
 
@@ -320,10 +326,13 @@ def get_schedule():
     for days in range(2):
         base = now.replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(days=days)
         for entry in EDGE_CANDLES:
-            _, hour_utc, *_ = entry
+            interval, hour_utc, asset_1h, asset_4h, side, edge = entry
             candle = base.replace(hour=hour_utc)
-            if now < candle - timedelta(seconds=CANCEL_BEFORE_SEC):
-                grouped.setdefault(candle, []).append(entry)
+            post_cancel = CANCEL_AFTER_SEC.get(interval, 120)
+            if now < candle + timedelta(seconds=post_cancel):
+                key = (interval, str(candle), side)
+                if key not in filled_candles:
+                    grouped.setdefault(candle, []).append(entry)
     return sorted(grouped.items())
 
 

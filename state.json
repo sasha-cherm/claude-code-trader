@@ -288,6 +288,40 @@
       "research_note": "Manual near-res: St. Louis jumped +0.450 from pre-game 0.430. NCAAB game nearing end.",
       "status": "won",
       "exit_price": 1.0
+    },
+    {
+      "token_id": "101958465723685744167137796657899098904530951998538288108427147101804003806944",
+      "market_id": "near-res-mar20-tyloo2",
+      "question": "Counter-Strike: FaZe vs TYLOO (BO3) - BLAST Open Rotterdam Group A",
+      "side": "YES",
+      "entry_price": 0.85,
+      "fair_price": 0.9299999999999999,
+      "edge": 0.51,
+      "size_usdc": 16.93268832,
+      "shares": 19.920809788235296,
+      "end_date": "2026-03-20T16:30:00Z",
+      "days_left_at_entry": 0.0008546915625,
+      "opened_at": "2026-03-20 16:28:46.154649+00:00",
+      "research_note": "Mar20 near-res: TYLOO2 jumped +0.510, 1 min left.",
+      "status": "won",
+      "exit_price": 1.0
+    },
+    {
+      "token_id": "btc-1h-up-17utc-mar20",
+      "market_id": "btc-candle-1h-up-17utc",
+      "question": "Bitcoin Up or Down - March 20, 1PM ET",
+      "side": "YES",
+      "entry_price": 0.5,
+      "fair_price": 0.564,
+      "edge": 0.064,
+      "size_usdc": 7.5,
+      "shares": 15.0,
+      "end_date": "2026-03-20T18:00:00Z",
+      "days_left_at_entry": 0,
+      "opened_at": "2026-03-20 16:50:50+00:00",
+      "research_note": "BTC 1H UP at 17:00 UTC. Bonferroni survivor 56.4%. 3 fills at 0.50.",
+      "status": "won",
+      "exit_price": 1.0
     }
   ],
   "trades": [
