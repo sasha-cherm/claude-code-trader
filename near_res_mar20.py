@@ -278,15 +278,15 @@ ALL_GAMES = [
      "question": "Raptors vs. Nuggets"},
 ]
 
-# Tightened params — 13W/0L streak, slightly more aggressive sizing
+# Tightened params — 17W/0L streak, compound aggressively
 MIN_NEAR_RES_PRICE = 0.85
-MAX_NEAR_RES_PRICE = 0.94
-MIN_PRICE_JUMP = 0.20       # Big jump = decisive lead
+MAX_NEAR_RES_PRICE = 0.96    # Raised: 0.95+ entries are safest
+MIN_PRICE_JUMP = 0.20        # Big jump = decisive lead
 MAX_SPREAD = 0.04
-MAX_MINS_TO_END = 20         # Basketball: last 20 min buffer
-MAX_SPEND_PER_TRADE = 15.0   # Increased from $9 — compound harder
-MIN_SPEND = 1.0              # Lowered from $2 — trade even with small balance
-PCT_OF_BALANCE = 0.28        # Increased from 0.22 — 13W/0L justifies it
+MAX_MINS_TO_END = 20          # Basketball: last 20 min buffer
+MAX_SPEND_PER_TRADE = 20.0    # Up from $15 — need to compound faster
+MIN_SPEND = 1.0               # Trade even with small balance
+PCT_OF_BALANCE = 0.32         # Up from 0.28 — 17W/0L, near half-Kelly
 BOUGHT = set()               # Dedup: prevent buying same token twice
 
 
