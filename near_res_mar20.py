@@ -1,15 +1,13 @@
 #!/usr/bin/env python3
 """
 Near-resolution monitor for March 20, 2026.
-NCAAB March Madness First Round Day 2 + NBA (6 games each).
-Run from ~15:00 UTC, covers games through ~04:00 UTC March 21.
+EXPANDED: Serie A + Ligue 1 + EPL + Bundesliga + LaLiga + Championship + Eredivisie
+        + CS2 BLAST Group A + NCAAB Day 2 (14 games incl. 8 competitive) + NBA (6 games)
+Run from ~13:00 UTC, covers games through ~04:00 UTC March 21.
 
-NOTE: Only 6 NCAAB Day 2 games found so far (all heavy favorites).
-      More competitive matchups (8v9, 5v12 seeds) may appear later.
-      CHECK AND ADD THEM at start of each session.
-
-NCAAB games: heavily favored (0.90+), near-res less useful.
-NBA games: competitive spreads, near-res more likely to trigger.
+NCAAB competitive: 8v9, 7v10, 5v12 matchups — BEST near-res targets.
+Soccer: Serie A, EPL, Bundesliga, La Liga, Ligue 1 — top-tier leagues.
+CS2: BLAST Group A — 4 BO3 matches (3 TBD, add day-of).
 """
 import json
 import os
@@ -64,9 +62,108 @@ ALL_GAMES = [
      "end_date": "2026-03-20T20:30:00Z", "pre_game_price": 0.0,
      "question": "Will SBV Excelsior win on 2026-03-20?"},
 
+    # === Serie A (kick ~17:15-19:45 UTC, near-res 18:45-21:30 UTC) ===
+    {"name": "Genoa", "token_id": "109449337086001813543963624714260398139334305727435367796881107750365357197119",
+     "end_date": "2026-03-20T19:00:00Z", "pre_game_price": 0.0,
+     "question": "Will Genoa CFC win on 2026-03-20?"},
+    {"name": "Udinese", "token_id": "49610883427367438379871940341137602043247541682069120304826309204072444518555",
+     "end_date": "2026-03-20T19:00:00Z", "pre_game_price": 0.0,
+     "question": "Will Udinese Calcio win on 2026-03-20?"},
+    {"name": "Cagliari", "token_id": "631067645917645733576734953473678417197484965991133416795132285046058769684",
+     "end_date": "2026-03-20T21:30:00Z", "pre_game_price": 0.0,
+     "question": "Will Cagliari Calcio win on 2026-03-20?"},
+    {"name": "Napoli", "token_id": "54158700672872219112871718858549321613267600884863626262598540285458984427472",
+     "end_date": "2026-03-20T21:30:00Z", "pre_game_price": 0.0,
+     "question": "Will SSC Napoli win on 2026-03-20?"},
+
+    # === Ligue 1 (kick ~20:00 UTC, near-res 21:30 UTC) ===
+    {"name": "Lens", "token_id": "89357329183233463774063585623000167942149902301568370168595065758196369862753",
+     "end_date": "2026-03-20T21:45:00Z", "pre_game_price": 0.0,
+     "question": "Will Racing Club de Lens win on 2026-03-20?"},
+    {"name": "Angers", "token_id": "75694647142238548853204117146588022158898238255421659639653891662893324438259",
+     "end_date": "2026-03-20T21:45:00Z", "pre_game_price": 0.0,
+     "question": "Will Angers SCO win on 2026-03-20?"},
+
+    # === CS2 BLAST Open Rotterdam Group A (BO3, all day) ===
+    # 11:00 UTC: B8 vs NRG (Lower Bracket QF)
+    {"name": "B8", "token_id": "60461136925574005720979682704317637014243056248909969910607176696890869710227",
+     "end_date": "2026-03-20T14:00:00Z", "pre_game_price": 0.0,
+     "question": "Counter-Strike: B8 vs NRG (BO3) - BLAST Open Rotterdam Group A"},
+    {"name": "NRG", "token_id": "96691142177800687361923505332919663251911149848546155747520516122525298525706",
+     "end_date": "2026-03-20T14:00:00Z", "pre_game_price": 0.0,
+     "question": "Counter-Strike: B8 vs NRG (BO3) - BLAST Open Rotterdam Group A"},
+    # NOTE: TYLOO-FaZe (13:30 UTC), NAVI-Falcons (16:00 UTC), FURIA-Aurora (18:30 UTC)
+    # — markets not yet created. Add token IDs when found by day-of session.
+
     # === NCAAB March Madness First Round Day 2 ===
-    # These are mostly blowout matchups — near-res less likely
+    # COMPETITIVE matchups (8v9, 7v10, 5v12) — BEST near-res targets
     # End times generous: tipoff + 2.5h
+
+    # (8) Villanova vs (9) Utah State — VERY competitive
+    {"name": "Utah State", "token_id": "106391806073421269485399607017664717821798955311962642998032514744839702135961",
+     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "question": "Utah State Aggies vs. Villanova Wildcats"},
+    {"name": "Villanova", "token_id": "46384102915573339305724199265524140011696420022552417964812284208185711469680",
+     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "question": "Utah State Aggies vs. Villanova Wildcats"},
+
+    # (8) Clemson vs (9) Iowa — VERY competitive
+    {"name": "Iowa", "token_id": "88019718517198041112185994197211713400925479368660214430030324078219596742767",
+     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "question": "Iowa Hawkeyes vs. Clemson Tigers"},
+    {"name": "Clemson", "token_id": "32146107534054651254521208750298898199286769571146548559273896548639204207770",
+     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "question": "Iowa Hawkeyes vs. Clemson Tigers"},
+
+    # (7) UCLA vs (10) UCF
+    {"name": "UCF", "token_id": "44175692827423386018808759351831397402512273431986287466254929610176446350297",
+     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "question": "UCF Knights vs. UCLA Bruins"},
+    {"name": "UCLA", "token_id": "36778846944862813523381910724027804421084710594560204076855462226610146346771",
+     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "question": "UCF Knights vs. UCLA Bruins"},
+
+    # (7) Miami vs (10) Missouri
+    {"name": "Missouri", "token_id": "5533407621462204419366790705917923676675270766779491181055620828944815843041",
+     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "question": "Missouri Tigers vs. Miami Hurricanes"},
+    {"name": "Miami", "token_id": "20405373265263690273095397068448682914028493604888619902586392206352942539171",
+     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "question": "Missouri Tigers vs. Miami Hurricanes"},
+
+    # (7) Kentucky vs (10) Santa Clara
+    {"name": "Santa Clara", "token_id": "7209208853410266549175490708044855137325697203910236238375646804764733435388",
+     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "question": "Santa Clara Broncos vs. Kentucky Wildcats"},
+    {"name": "Kentucky", "token_id": "96201733608502458627905480167652884986457888149548653845440039271543270786117",
+     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "question": "Santa Clara Broncos vs. Kentucky Wildcats"},
+
+    # (5) Texas Tech vs (12) Akron
+    {"name": "Akron", "token_id": "105015751806411093867366456953350999512252519399462229009921348002493556208921",
+     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "question": "Akron Zips vs. Texas Tech Red Raiders"},
+    {"name": "Texas Tech", "token_id": "79308286211285981481697518081271815960844799414039636458581868757032388361925",
+     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "question": "Akron Zips vs. Texas Tech Red Raiders"},
+
+    # (5) St. John's vs (12) Northern Iowa
+    {"name": "N. Iowa", "token_id": "55801363062437471428303088900148458552848867285220568959087703537314018520002",
+     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "question": "Northern Iowa Panthers vs. St. John's Red Storm"},
+    {"name": "St. John's", "token_id": "28882775410265555682378301862169900393141889664473253758091424010365598882358",
+     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "question": "Northern Iowa Panthers vs. St. John's Red Storm"},
+
+    # (4) Alabama vs (13) Hofstra
+    {"name": "Hofstra", "token_id": "29049461839578908236523492739355178159371369103001808454443054866483894885322",
+     "end_date": "2026-03-20T22:45:00Z", "pre_game_price": 0.0,
+     "question": "Hofstra Pride vs. Alabama Crimson Tide"},
+    {"name": "Alabama2", "token_id": "76341225335584030858099123253090069370153706642291968639596138457391093565914",
+     "end_date": "2026-03-20T22:45:00Z", "pre_game_price": 0.0,
+     "question": "Hofstra Pride vs. Alabama Crimson Tide"},
+
+    # --- Below: Blowout matchups (kept for completeness) ---
 
     # Wright State vs Virginia (Virginia heavy fav 0.93)
     {"name": "Wright State", "token_id": "14228842199791161545109993213205762244864508348204445269335981533440328077735",
