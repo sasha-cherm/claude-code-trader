@@ -254,6 +254,40 @@
       "research_note": "Manual near-res: Lech Poznan from 0.28 pre-game to 0.91. 20min left in UEL match.",
       "status": "won",
       "exit_price": 1.0
+    },
+    {
+      "token_id": "73817802175806263509294714745469099323845088470847881404901729210013533741039",
+      "market_id": "near-res-bball-jazz",
+      "question": "Bucks vs. Jazz",
+      "side": "YES",
+      "entry_price": 0.88,
+      "fair_price": 0.96,
+      "edge": 0.08,
+      "size_usdc": 9.0,
+      "shares": 10.227272727272727,
+      "end_date": "",
+      "days_left_at_entry": 0,
+      "opened_at": "2026-03-20 02:42:13.696377+00:00",
+      "research_note": "Basketball near-res: Jazz jumped +0.560 from pre-game 0.320.",
+      "status": "won",
+      "exit_price": 1.0
+    },
+    {
+      "token_id": "32383763199294923318526347312242993888949003428719061559136080445195605493642",
+      "market_id": "near-res-bball-st-louis",
+      "question": "Saint Louis Billikens vs. Georgia Bulldogs",
+      "side": "YES",
+      "entry_price": 0.88,
+      "fair_price": 0.96,
+      "edge": 0.45,
+      "size_usdc": 10.0,
+      "shares": 11.363636363636363,
+      "end_date": "2026-03-20T04:00:00Z",
+      "days_left_at_entry": 0,
+      "opened_at": "2026-03-20 03:05:27.460708+00:00",
+      "research_note": "Manual near-res: St. Louis jumped +0.450 from pre-game 0.430. NCAAB game nearing end.",
+      "status": "won",
+      "exit_price": 1.0
     }
   ],
   "trades": [

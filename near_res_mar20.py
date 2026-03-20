@@ -120,133 +120,133 @@ ALL_GAMES = [
 
     # (8) Villanova vs (9) Utah State — VERY competitive
     {"name": "Utah State", "token_id": "106391806073421269485399607017664717821798955311962642998032514744839702135961",
-     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-20T22:25:00Z", "pre_game_price": 0.0,
      "question": "Utah State Aggies vs. Villanova Wildcats"},
     {"name": "Villanova", "token_id": "46384102915573339305724199265524140011696420022552417964812284208185711469680",
-     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-20T22:25:00Z", "pre_game_price": 0.0,
      "question": "Utah State Aggies vs. Villanova Wildcats"},
 
     # (8) Clemson vs (9) Iowa — VERY competitive
     {"name": "Iowa", "token_id": "88019718517198041112185994197211713400925479368660214430030324078219596742767",
-     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-21T01:05:00Z", "pre_game_price": 0.0,
      "question": "Iowa Hawkeyes vs. Clemson Tigers"},
     {"name": "Clemson", "token_id": "32146107534054651254521208750298898199286769571146548559273896548639204207770",
-     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-21T01:05:00Z", "pre_game_price": 0.0,
      "question": "Iowa Hawkeyes vs. Clemson Tigers"},
 
     # (7) UCLA vs (10) UCF
     {"name": "UCF", "token_id": "44175692827423386018808759351831397402512273431986287466254929610176446350297",
-     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-21T01:40:00Z", "pre_game_price": 0.0,
      "question": "UCF Knights vs. UCLA Bruins"},
     {"name": "UCLA", "token_id": "36778846944862813523381910724027804421084710594560204076855462226610146346771",
-     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-21T01:40:00Z", "pre_game_price": 0.0,
      "question": "UCF Knights vs. UCLA Bruins"},
 
     # (7) Miami vs (10) Missouri
     {"name": "Missouri", "token_id": "5533407621462204419366790705917923676675270766779491181055620828944815843041",
-     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-21T04:25:00Z", "pre_game_price": 0.0,
      "question": "Missouri Tigers vs. Miami Hurricanes"},
     {"name": "Miami", "token_id": "20405373265263690273095397068448682914028493604888619902586392206352942539171",
-     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-21T04:25:00Z", "pre_game_price": 0.0,
      "question": "Missouri Tigers vs. Miami Hurricanes"},
 
     # (7) Kentucky vs (10) Santa Clara
     {"name": "Santa Clara", "token_id": "7209208853410266549175490708044855137325697203910236238375646804764733435388",
-     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-20T18:30:00Z", "pre_game_price": 0.0,
      "question": "Santa Clara Broncos vs. Kentucky Wildcats"},
     {"name": "Kentucky", "token_id": "96201733608502458627905480167652884986457888149548653845440039271543270786117",
-     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-20T18:30:00Z", "pre_game_price": 0.0,
      "question": "Santa Clara Broncos vs. Kentucky Wildcats"},
 
     # (5) Texas Tech vs (12) Akron
     {"name": "Akron", "token_id": "105015751806411093867366456953350999512252519399462229009921348002493556208921",
-     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-20T18:55:00Z", "pre_game_price": 0.0,
      "question": "Akron Zips vs. Texas Tech Red Raiders"},
     {"name": "Texas Tech", "token_id": "79308286211285981481697518081271815960844799414039636458581868757032388361925",
-     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-20T18:55:00Z", "pre_game_price": 0.0,
      "question": "Akron Zips vs. Texas Tech Red Raiders"},
 
     # (5) St. John's vs (12) Northern Iowa
     {"name": "N. Iowa", "token_id": "55801363062437471428303088900148458552848867285220568959087703537314018520002",
-     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-21T01:25:00Z", "pre_game_price": 0.0,
      "question": "Northern Iowa Panthers vs. St. John's Red Storm"},
     {"name": "St. John's", "token_id": "28882775410265555682378301862169900393141889664473253758091424010365598882358",
-     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-21T01:25:00Z", "pre_game_price": 0.0,
      "question": "Northern Iowa Panthers vs. St. John's Red Storm"},
 
     # (4) Alabama vs (13) Hofstra
     {"name": "Hofstra", "token_id": "29049461839578908236523492739355178159371369103001808454443054866483894885322",
-     "end_date": "2026-03-20T22:45:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-20T21:30:00Z", "pre_game_price": 0.0,
      "question": "Hofstra Pride vs. Alabama Crimson Tide"},
     {"name": "Alabama2", "token_id": "76341225335584030858099123253090069370153706642291968639596138457391093565914",
-     "end_date": "2026-03-20T22:45:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-20T21:30:00Z", "pre_game_price": 0.0,
      "question": "Hofstra Pride vs. Alabama Crimson Tide"},
 
     # --- Below: Blowout matchups (kept for completeness) ---
 
     # Wright State vs Virginia (Virginia heavy fav 0.93)
     {"name": "Wright State", "token_id": "14228842199791161545109993213205762244864508348204445269335981533440328077735",
-     "end_date": "2026-03-20T18:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-20T20:05:00Z", "pre_game_price": 0.0,
      "question": "Wright State Raiders vs. Virginia Cavaliers"},
     {"name": "Virginia", "token_id": "81904137712942224530925718360218200018428287086310004986895274303589259848112",
-     "end_date": "2026-03-20T18:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-20T20:05:00Z", "pre_game_price": 0.0,
      "question": "Wright State Raiders vs. Virginia Cavaliers"},
 
     # Tennessee State vs Iowa State (Iowa State heavy fav 0.97)
     {"name": "Tennessee St", "token_id": "106379933779189809997557022850346241785693092980229872748435283820869564326293",
-     "end_date": "2026-03-20T18:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-20T21:05:00Z", "pre_game_price": 0.0,
      "question": "Tennessee State Tigers vs. Iowa State Cyclones"},
     {"name": "Iowa State", "token_id": "15361374646856139721451799607802854417212524597994881086242204503144690018491",
-     "end_date": "2026-03-20T18:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-20T21:05:00Z", "pre_game_price": 0.0,
      "question": "Tennessee State Tigers vs. Iowa State Cyclones"},
 
     # LIU vs Arizona (Arizona heavy fav 0.98)
     {"name": "LIU", "token_id": "4913730361920920558781272693126281406435302316350570006478823349891310491549",
-     "end_date": "2026-03-20T21:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-20T19:50:00Z", "pre_game_price": 0.0,
      "question": "LIU Sharks vs. Arizona Wildcats"},
     {"name": "Arizona", "token_id": "9409490930224923614822487614966291700996606300666789458000739662899013820681",
-     "end_date": "2026-03-20T21:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-20T19:50:00Z", "pre_game_price": 0.0,
      "question": "LIU Sharks vs. Arizona Wildcats"},
 
     # Queens NC vs Purdue (Purdue heavy fav 0.97)
     {"name": "Queens NC", "token_id": "108608431028516805322910059035854453364954187404710588904556256395227379154690",
-     "end_date": "2026-03-20T21:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-21T01:50:00Z", "pre_game_price": 0.0,
      "question": "Queens (NC) Royals vs. Purdue Boilermakers"},
     {"name": "Purdue", "token_id": "94825023307695897341413564197216476268630722522032138668056667049777676974099",
-     "end_date": "2026-03-20T21:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-21T01:50:00Z", "pre_game_price": 0.0,
      "question": "Queens (NC) Royals vs. Purdue Boilermakers"},
 
     # Cal Baptist vs Kansas (Kansas fav 0.90 — most competitive!)
     {"name": "Cal Baptist", "token_id": "55204324117415704168078913327623215628887924189767611245475223031027952461194",
-     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-21T04:00:00Z", "pre_game_price": 0.0,
      "question": "California Baptist Lancers vs. Kansas Jayhawks"},
     {"name": "Kansas", "token_id": "86216391130601990922184673346889196651962583362510043343400869228681856704674",
-     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-21T04:00:00Z", "pre_game_price": 0.0,
      "question": "California Baptist Lancers vs. Kansas Jayhawks"},
 
     # Furman vs UConn (UConn fav 0.95)
     {"name": "Furman", "token_id": "115197014545790711455252704048542820163808143402660557569124115092108053667594",
-     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-21T04:15:00Z", "pre_game_price": 0.0,
      "question": "Furman Paladins vs. Connecticut Huskies"},
     {"name": "UConn", "token_id": "89108373864437510966053279018117953216832793306244932425971907442192231322683",
-     "end_date": "2026-03-21T01:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-21T04:15:00Z", "pre_game_price": 0.0,
      "question": "Furman Paladins vs. Connecticut Huskies"},
 
     # === NBA March 20 (tipoffs ~23:00-01:00 UTC) ===
     # These are more competitive and better for near-res
 
     {"name": "Knicks", "token_id": "90013344906622884074919259875357815246922506157228429697636130329655770569480",
-     "end_date": "2026-03-20T23:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-21T02:00:00Z", "pre_game_price": 0.0,
      "question": "Knicks vs. Nets"},
     {"name": "Nets", "token_id": "19201563645879300050010438705019362911261217005907737525341626515108972783414",
-     "end_date": "2026-03-20T23:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-21T02:00:00Z", "pre_game_price": 0.0,
      "question": "Knicks vs. Nets"},
 
     {"name": "Warriors", "token_id": "86693799037126067240158438250389017274371045614187364356341461502182630203746",
-     "end_date": "2026-03-21T01:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-21T02:00:00Z", "pre_game_price": 0.0,
      "question": "Warriors vs. Pistons"},
     {"name": "Pistons", "token_id": "17003939380315524877653810261277105538708212000227633990046601909027777919476",
-     "end_date": "2026-03-21T01:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-21T02:00:00Z", "pre_game_price": 0.0,
      "question": "Warriors vs. Pistons"},
 
     {"name": "Hawks", "token_id": "54606307018656942720550200753027815667372018473623036094729426326643631855412",
