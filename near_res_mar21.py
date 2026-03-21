@@ -73,6 +73,13 @@ ALL_GAMES = [
      "end_date": "2026-03-21T16:15:00Z", "pre_game_price": 0.0,
      "question": "VfL Wolfsburg vs. SV Werder Bremen"},
 
+    {"name": "Cologne", "token_id": "102299088679352054417736559867455924360388544782091043921390037034349668411627",
+     "end_date": "2026-03-21T16:15:00Z", "pre_game_price": 0.0,
+     "question": "1. FC Köln vs. Borussia Mönchengladbach"},
+    {"name": "Gladbach", "token_id": "48879164904929398817341221432144137544626011479377909046565667403976318180164",
+     "end_date": "2026-03-21T16:15:00Z", "pre_game_price": 0.0,
+     "question": "1. FC Köln vs. Borussia Mönchengladbach"},
+
     {"name": "Heidenheim", "token_id": "81618470378539016004084304569271130489919761679979279838229928389812463145047",
      "end_date": "2026-03-21T16:15:00Z", "pre_game_price": 0.0,
      "question": "1. FC Heidenheim 1846 vs. Bayer 04 Leverkusen"},
