@@ -46,6 +46,31 @@ ALL_GAMES = [
      "end_date": "2026-03-22T21:45:00Z", "pre_game_price": 0.0,
      "question": "Real Madrid vs. Atletico Madrid"},
 
+    # === EPL ===
+    # Newcastle vs Sunderland — 12:00 UTC kick (end ~13:45)
+    {"name": "Newcastle", "token_id": "10885467299441552228788850101470585456308768964919166322786491251099537441146",
+     "end_date": "2026-03-22T13:45:00Z", "pre_game_price": 0.0,
+     "question": "Newcastle vs. Sunderland"},
+    {"name": "Sunderland", "token_id": "108584090264102648962644744492897955588592661017273351760471080706733288752999",
+     "end_date": "2026-03-22T13:45:00Z", "pre_game_price": 0.0,
+     "question": "Newcastle vs. Sunderland"},
+
+    # Aston Villa vs West Ham — 14:15 UTC kick (end ~16:00)
+    {"name": "Aston Villa", "token_id": "73363858982080595126758051311635899502779080022252508727124659435716051517465",
+     "end_date": "2026-03-22T16:00:00Z", "pre_game_price": 0.0,
+     "question": "Aston Villa vs. West Ham"},
+    {"name": "West Ham", "token_id": "34128608760733939864054955741468108858310437205139212516744437521944240103548",
+     "end_date": "2026-03-22T16:00:00Z", "pre_game_price": 0.0,
+     "question": "Aston Villa vs. West Ham"},
+
+    # Tottenham vs Nott Forest — 14:15 UTC kick (end ~16:00)
+    {"name": "Tottenham", "token_id": "66114996526440122956547433274930944365558758157855960717083628458982934849357",
+     "end_date": "2026-03-22T16:00:00Z", "pre_game_price": 0.0,
+     "question": "Tottenham vs. Nott Forest"},
+    {"name": "Nott Forest", "token_id": "90224464741112154651869318509933458753500483779981642128226272021696408171979",
+     "end_date": "2026-03-22T16:00:00Z", "pre_game_price": 0.0,
+     "question": "Tottenham vs. Nott Forest"},
+
     # === EFL Cup Final (SPECIAL: extra time + pens if drawn) ===
     # Arsenal vs Man City — 16:30 UTC kick (end ~18:15 if decided in 90 min, ~19:00+ if ET)
     # NOTE: Near-res ONLY if one team is clearly ahead (2+ goal lead or 1-0 at 88+ min)
