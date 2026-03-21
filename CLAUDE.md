@@ -261,3 +261,17 @@ nohup python3 -u near_res_nba_mar18.py > logs/nba_mar18_$(date -u +%Y%m%d_%H%M).
 - **Basketball scripts MUST have end_dates + time filter** — without these, mid-game temporary leads trigger buys. NBA comebacks are common.
 - **Lower-tier leagues are draw traps**: 4 of 12 losses were draws. Stick to top leagues.
 - **GIS trade was phantom** — token ID didn't exist, buy never executed. Always verify with get_price after buy.
+
+### March 22 Schedule (PLAN FOR NEXT SESSION)
+- **09:00 UTC**: Check NCAAB 2nd Round market creation. CDU election monitoring.
+- **13:00 UTC**: Barca vs Rayo Vallecano kick ($188K vol). Near-res ~14:30.
+- **13:30 UTC**: Feyenoord vs Ajax kick. Near-res ~15:00.
+- **16:30 UTC**: **Arsenal vs Man City EFL Cup Final** kick. Near-res ~18:00-18:15. NOTE: Cup final has extra time/penalties if drawn.
+- **17:30 UTC**: Athletic Club vs Real Betis ($82K vol). Near-res ~19:00.
+- **20:00 UTC**: **Real Madrid vs Atletico Madrid** La Liga derby ($237K vol). Near-res ~21:30.
+- **21:00-01:00 UTC**: NBA 5 games + MLS 5 + Brazilian/Argentine/Mexican leagues.
+- **CDU Rhineland election**: Results expected evening CET (~18:00 UTC). We hold 12.69sh @ 0.63.
+- **NCAAB 2nd Round**: Markets may appear day-of. 8 games per day, March 22-23.
+
+### User input
+I have a data that there is a statistically proven data about hour candles for BTC. Time in UTC: 17:00 56.3% UP, 21:00 54.9% UP, 22:00 54% UP, 23:00 54.1% DOWN, 13:00 53.8% DOWN. Use this information and place LIMIT orders for BTC UP/DOWN hourly. You need to build a script which will subscribe to orderbook for BTC hourly thingy and place the limit order in top of order book, if the top price is better at least 2 points. For example, it is 20:30 UTC now (be aware that the local time on machine is UTC+3), you see that premarket for 21:00 hour in polymarket (I am not sure about what timezone Polymarket uses, be very careful with that. Basically at 20:30 UTC you can just take the next available market) has the best limit order UP price is 51. You can add your order to 51. If the orderbook moves up and it is now 52, you can move the order up (cancel previous order, if success, place the new one). If it is moves to 53 and your order still not feel, you can move it to 53 because 54.9-53=1.9 which is almost 2. But if it moves to 54 you should remain it at 53. If order not filled, cancel it in 5 seconds before the market starts. Track the deals in separate log. In this log you need to track the actual deals and the cases when the order was not filled. BE VERY CAREFUL WITH TIMEZONES. The script should run on background, you need to check logs and trades to be sure that it works correctly. Start with minimal order size to be sure that your script is working good. 
