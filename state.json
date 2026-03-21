@@ -458,6 +458,23 @@
       "research_note": "Mar20 near-res: Miami jumped +0.360, 17 min left.",
       "status": "won",
       "exit_price": 1.0
+    },
+    {
+      "token_id": "92803500333515603450565694022329549227574169789724694620293888801103052240816",
+      "market_id": "near-res-mar21-derby",
+      "question": "Derby County FC vs. Birmingham City FC",
+      "side": "YES",
+      "entry_price": 0.85,
+      "fair_price": 0.9299999999999999,
+      "edge": 0.52,
+      "size_usdc": 17.76860428,
+      "shares": 20.904240329411767,
+      "end_date": "2026-03-21T14:15:00Z",
+      "days_left_at_entry": 0.0033911773495370373,
+      "opened_at": "2026-03-21 14:10:07.002277+00:00",
+      "research_note": "Mar21 near-res: Derby jumped +0.520, 5 min left.",
+      "status": "won",
+      "exit_price": 1.0
     }
   ],
   "trades": [
