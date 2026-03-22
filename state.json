@@ -91,21 +91,6 @@
       "research_note": "Mar22 near-res: Groningen jumped +0.550, 20 min left."
     },
     {
-      "token_id": "39147685252596069414924309105945797200863237124840032169852363609513598005965",
-      "market_id": "near-res-mar22-tromso",
-      "question": "Will SK Brann win on 2026-03-22?",
-      "side": "YES",
-      "entry_price": 0.91,
-      "fair_price": 0.99,
-      "edge": 0.4,
-      "size_usdc": 1.3880162800000002,
-      "shares": 1.5252926153846156,
-      "end_date": "2026-03-22T17:45:00Z",
-      "days_left_at_entry": 0.013096903912037036,
-      "opened_at": "2026-03-22 17:26:08.427502+00:00",
-      "research_note": "Mar22 near-res: Tromso jumped +0.400, 19 min left."
-    },
-    {
       "token_id": "3162840407770355422122075470621583907987236640624455679850910874253365191824",
       "market_id": "near-res-mar22-roma",
       "question": "AS Roma vs. US Lecce",
@@ -2035,6 +2020,26 @@
       "pnl_usdc": 0.9473684210526336,
       "closed_at": "2026-03-22T21:00:00+00:00",
       "close_reason": "Settlement (WON)"
+    },
+    {
+      "token_id": "39147685252596069414924309105945797200863237124840032169852363609513598005965",
+      "market_id": "near-res-mar22-tromso",
+      "question": "Will SK Brann win on 2026-03-22?",
+      "side": "YES",
+      "entry_price": 0.91,
+      "fair_price": 0.99,
+      "edge": 0.4,
+      "size_usdc": 1.3880162800000002,
+      "shares": 1.5252926153846156,
+      "end_date": "2026-03-22T17:45:00Z",
+      "days_left_at_entry": 0.013096903912037036,
+      "opened_at": "2026-03-22 17:26:08.427502+00:00",
+      "research_note": "Mar22 near-res: Tromso jumped +0.400, 19 min left.",
+      "exit_price": 0.0,
+      "pnl_pct": -1.0,
+      "pnl_usdc": -1.3880162800000002,
+      "closed_at": "2026-03-22T23:00:00+00:00",
+      "close_reason": "LOST \u2014 Brann did not win"
     }
   ],
   "sessions": 72,

@@ -126,62 +126,62 @@ ALL_GAMES = [
 
     # === ARGENTINE (2 games) ===
     # Estudiantes vs Central Cordoba — 20:00 UTC kick, end ~22:00
-    {"name": "Estudiantes", "token_id": "51403185076985700498498759637649982076461987268561561247854001755949424576314",
-     "end_date": "2026-03-23T23:45:00Z", "pre_game_price": 0.0,
-     "question": "Estudiantes de La Plata vs CA Central Córdoba"},
-    {"name": "Central Cordoba", "token_id": "26543773765107263649810419327655948862539773524498574757282505774814221637282",
-     "end_date": "2026-03-23T23:45:00Z", "pre_game_price": 0.0,
-     "question": "Estudiantes de La Plata vs CA Central Córdoba"},
+    {"name": "Estudiantes", "token_id": "51403185299506367907606481788667849354333208144961127882949060811146032576314",
+     "end_date": "2026-03-23T22:00:00Z", "pre_game_price": 0.0,
+     "question": "Will Estudiantes de La Plata win on 2026-03-23?"},
+    {"name": "Central Cordoba", "token_id": "61220251651857371973763705046777519402639358798325553056275592779543656184862",
+     "end_date": "2026-03-23T22:00:00Z", "pre_game_price": 0.0,
+     "question": "Will CA Central Córdoba win on 2026-03-23?"},
 
     # Huracan vs Barracas Central — 22:15 UTC kick, end ~00:15 Mar 24
-    {"name": "Huracan", "token_id": "33262570367403499113403613498133770178001483281254651651044506693474099451342",
-     "end_date": "2026-03-24T02:00:00Z", "pre_game_price": 0.0,
-     "question": "CA Huracán vs CA Barracas Central"},
-    {"name": "Barracas", "token_id": "22622704430048263766816193759780757539263398261100605908023457107207263544900",
-     "end_date": "2026-03-24T02:00:00Z", "pre_game_price": 0.0,
-     "question": "CA Huracán vs CA Barracas Central"},
+    {"name": "Huracan", "token_id": "18030369057516754742482344582929420914257245404683306029993036149342355296883",
+     "end_date": "2026-03-24T00:15:00Z", "pre_game_price": 0.0,
+     "question": "Will CA Huracán win on 2026-03-23?"},
+    {"name": "Barracas", "token_id": "62790555644996246135729586616153891835946361265973671463703870783110031468492",
+     "end_date": "2026-03-24T00:15:00Z", "pre_game_price": 0.0,
+     "question": "Will CA Barracas Central win on 2026-03-23?"},
 
     # === COLOMBIAN (4 games) ===
     # Boyaca Chico vs Tolima — 17:00 UTC kick, end ~19:00
-    {"name": "Tolima", "token_id": "21476233729284427375254296478283316440696671395561665693771461476654974887952",
-     "end_date": "2026-03-23T20:45:00Z", "pre_game_price": 0.0,
-     "question": "Boyacá Chicó FC vs CD Tolima"},
-    {"name": "Boyaca Chico", "token_id": "11509796200963539908771773613040174424432655143929131804025735093610299936583",
-     "end_date": "2026-03-23T20:45:00Z", "pre_game_price": 0.0,
-     "question": "Boyacá Chicó FC vs CD Tolima"},
+    {"name": "Tolima", "token_id": "98793672620282741077770631136899283554382246118248442199276862701268528153740",
+     "end_date": "2026-03-23T19:00:00Z", "pre_game_price": 0.0,
+     "question": "Will CD Tolima win on 2026-03-23?"},
+    {"name": "Boyaca Chico", "token_id": "115097963429597223020521282985280875745641836632755050240794591049140912936583",
+     "end_date": "2026-03-23T19:00:00Z", "pre_game_price": 0.0,
+     "question": "Will Boyacá Chicó FC win on 2026-03-23?"},
 
     # Santa Fe vs Ind Medellin — 19:10 UTC kick, end ~21:10
-    {"name": "Santa Fe", "token_id": "37025085703432519879741826714098746299826099975804116655870050174561456126114",
-     "end_date": "2026-03-23T22:55:00Z", "pre_game_price": 0.0,
-     "question": "Independiente Santa Fe vs Independiente Medellín"},
-    {"name": "Ind Medellin", "token_id": "24716743139508620668803023987771135291455498485773756024373389281929853980612",
-     "end_date": "2026-03-23T22:55:00Z", "pre_game_price": 0.0,
-     "question": "Independiente Santa Fe vs Independiente Medellín"},
+    {"name": "Santa Fe", "token_id": "37025085440733720834568200885336785418340192812213379025622510246040497126114",
+     "end_date": "2026-03-23T21:10:00Z", "pre_game_price": 0.0,
+     "question": "Will Independiente Santa Fe win on 2026-03-23?"},
+    {"name": "Ind Medellin", "token_id": "81322135088796349471354734772046470888133345667606746447645936324786775669226",
+     "end_date": "2026-03-23T21:10:00Z", "pre_game_price": 0.0,
+     "question": "Will Independiente Medellín win on 2026-03-23?"},
 
     # Jaguares vs Aguilas Doradas — 21:20 UTC kick, end ~23:20
-    {"name": "Jaguares", "token_id": "87735068093107285413011789019100285116803752652571539316165393949437012573057",
-     "end_date": "2026-03-24T01:05:00Z", "pre_game_price": 0.0,
-     "question": "Jaguares de Córdoba FC vs Águilas Doradas Rionegro"},
-    {"name": "Aguilas", "token_id": "55393905093530703316825505419025843765773696455428135862866654889625987739397",
-     "end_date": "2026-03-24T01:05:00Z", "pre_game_price": 0.0,
-     "question": "Jaguares de Córdoba FC vs Águilas Doradas Rionegro"},
+    {"name": "Jaguares", "token_id": "8773506897055003838039498468150103969168167273765293025898663284597257573057",
+     "end_date": "2026-03-23T23:20:00Z", "pre_game_price": 0.0,
+     "question": "Will Jaguares de Córdoba FC win on 2026-03-23?"},
+    {"name": "Aguilas", "token_id": "110899969008377345956258644944043021214306044823901005762268509775375145893232",
+     "end_date": "2026-03-23T23:20:00Z", "pre_game_price": 0.0,
+     "question": "Will Águilas Doradas Rionegro win on 2026-03-23?"},
 
     # Junior FC vs Bucaramanga — 23:30 UTC kick, end ~01:30 Mar 24
-    {"name": "Junior FC", "token_id": "39477338932908397653093020792069693556037427098395561613399668620826093373805",
-     "end_date": "2026-03-24T03:15:00Z", "pre_game_price": 0.0,
-     "question": "CDP Junior FC vs CA Bucaramanga"},
-    {"name": "Bucaramanga", "token_id": "13767568746534291662757048834997419153458497478193741270523429746296862921823",
-     "end_date": "2026-03-24T03:15:00Z", "pre_game_price": 0.0,
-     "question": "CDP Junior FC vs CA Bucaramanga"},
+    {"name": "Junior FC", "token_id": "39477338986002316231105373290594225572950675050113017902753712666213779373805",
+     "end_date": "2026-03-24T01:30:00Z", "pre_game_price": 0.0,
+     "question": "Will CDP Junior FC win on 2026-03-23?"},
+    {"name": "Bucaramanga", "token_id": "96382499371976631216048940703794888073544619863149928082136063770217297601986",
+     "end_date": "2026-03-24T01:30:00Z", "pre_game_price": 0.0,
+     "question": "Will CA Bucaramanga win on 2026-03-23?"},
 
     # === SPANISH 2ND DIVISION ===
     # Castellon vs Leonesa — 17:30 UTC kick, end ~19:30
-    {"name": "Castellon", "token_id": "41871872508261671684282853430037972019618020363558756753003744696107927295671",
-     "end_date": "2026-03-23T21:15:00Z", "pre_game_price": 0.0,
-     "question": "CD Castellón vs Cultural y Deportiva Leonesa"},
-    {"name": "Leonesa", "token_id": "10816067775116254988247662484027752478093277780459283668710653131020099495097",
-     "end_date": "2026-03-23T21:15:00Z", "pre_game_price": 0.0,
-     "question": "CD Castellón vs Cultural y Deportiva Leonesa"},
+    {"name": "Castellon", "token_id": "41871872001670317897641252355347827008460650306311045032037006871954691295671",
+     "end_date": "2026-03-23T19:30:00Z", "pre_game_price": 0.0,
+     "question": "Will CD Castellón win on 2026-03-23?"},
+    {"name": "Leonesa", "token_id": "109031625264428736552408890378058743209466154691129025849972222302298768287031",
+     "end_date": "2026-03-23T19:30:00Z", "pre_game_price": 0.0,
+     "question": "Will Cultural y Deportiva Leonesa win on 2026-03-23?"},
 ]
 
 # === Params (same as validated Mar 22) ===
