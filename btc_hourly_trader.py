@@ -56,7 +56,7 @@ EDGE_CANDLES = [
     ("4H", 20, "xrp",      "xrp",  "DOWN", 0.560),  # XRP 4H 20-24 DOWN 56.0%
 ]
 
-ORDER_SIZE_SHARES = 5.0       # CLOB minimum; start small
+ORDER_SIZE_SHARES = 10.0      # Increased: 13W/1L track record, half-Kelly at ~56% WR
 POLL_INTERVAL_SEC = 5         # orderbook poll frequency
 PRE_MARKET_MINUTES = 30       # start monitoring N min before candle
 # Cancel unfilled orders N seconds AFTER candle starts
