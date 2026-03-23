@@ -29,6 +29,21 @@
       "days_left_at_entry": 1.5,
       "opened_at": "2026-03-23 09:13:57.244707+00:00",
       "research_note": "LA 10.7% polls, consistently 3rd. SF 13% = 2nd. PM price ~0.45 vs true ~0.52. Edge +7%"
+    },
+    {
+      "token_id": "98793672620282741077770631136899283554382246118248442199276862701268528153740",
+      "market_id": "colombia-boyaca-tolima",
+      "question": "Will CD Tolima win on 2026-03-23?",
+      "side": "YES",
+      "entry_price": 0.47,
+      "fair_price": 0.57,
+      "edge": 0.1,
+      "size_usdc": 5.0,
+      "shares": 10.638297872340425,
+      "end_date": "2026-03-23T19:00:00Z",
+      "days_left_at_entry": 0.15,
+      "opened_at": "2026-03-23 15:12:25.083459+00:00",
+      "research_note": "Bookmaker 1.72-1.82 (55-58%) vs PM 47%. Edge +8-11%. Tolima 8th, Boyaca 19th."
     }
   ],
   "trades": [
