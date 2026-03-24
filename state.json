@@ -38,12 +38,27 @@
       "entry_price": 0.12,
       "fair_price": 0.3,
       "edge": 0.18,
-      "size_usdc": 2.76,
-      "shares": 22.98,
+      "size_usdc": 4.0,
+      "shares": 33.33,
       "end_date": "2026-03-26T00:00:00Z",
       "days_left_at_entry": 1,
       "opened_at": "2026-03-24 23:25:00+00:00",
       "research_note": "Polls: People's Party 29% (down from 37%), rivals at 20%/19%/18%. 7-party PR system. PM price 88% vs est 60-75%."
+    },
+    {
+      "token_id": "65905320059186458589848438543999649961119846467035512721377597726352824316292",
+      "market_id": "chwy-quarterly-earnings",
+      "question": "Will Chewy (CHWY) beat quarterly earnings (non-GAAP $0.28)?",
+      "side": "NO",
+      "entry_price": 0.09,
+      "fair_price": 0.3,
+      "edge": 0.21,
+      "size_usdc": 0.99,
+      "shares": 11.0,
+      "end_date": "2026-03-25T13:00:00Z",
+      "days_left_at_entry": 0.5,
+      "opened_at": "2026-03-24 23:35:00+00:00",
+      "research_note": "Management guided Q4 adj EPS $0.24-$0.27, BELOW $0.28 hurdle. PM prices YES at 92% but guidance says NO. Potential 20-30% edge."
     }
   ],
   "trades": [
