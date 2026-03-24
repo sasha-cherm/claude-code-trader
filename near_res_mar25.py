@@ -126,6 +126,14 @@ ALL_GAMES = [
      "end_date": "2026-03-26T02:30:00Z", "pre_game_price": 0.0,
      "question": "Raptors vs. Clippers"},
 
+    # Mavericks vs Nuggets — Nuggets heavy fav (0.87)
+    {"name": "Mavericks", "token_id": "20922232650376756003161875689296660358662743194658994892319178428143934706670",
+     "end_date": "2026-03-26T02:00:00Z", "pre_game_price": 0.0,
+     "question": "Mavericks vs. Nuggets"},
+    {"name": "Nuggets", "token_id": "43403740338966946480122866016569684130438243069023216173919933608376541967800",
+     "end_date": "2026-03-26T02:00:00Z", "pre_game_price": 0.0,
+     "question": "Mavericks vs. Nuggets"},
+
     # === NCAAB NIT ===
 
     # Illinois State vs Dayton — Dayton fav (0.74)

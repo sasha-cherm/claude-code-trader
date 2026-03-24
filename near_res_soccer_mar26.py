@@ -34,82 +34,82 @@ ALL_GAMES = [
     # === Moldova vs Lithuania (15:00 kickoff, end ~16:45 UTC) ===
     {"name": "Moldova", "token_id": "97923693840687332618768980374722674984095037764542129826388616920329629619603",
      "end_date": "2026-03-26T16:45:00Z", "pre_game_price": 0.0,
-     "question": "Will Moldova win on 2026-03-26?"},
+     "question": "Moldova vs. Lithuania"},
     {"name": "Lithuania", "token_id": "43640547800419938437530103292956751016903022960841899659932683568902626453785",
      "end_date": "2026-03-26T16:45:00Z", "pre_game_price": 0.0,
-     "question": "Will Lithuania win on 2026-03-26?"},
+     "question": "Moldova vs. Lithuania"},
 
     # === Turkey vs Romania (17:00 kickoff, end ~18:45 UTC) ===
     {"name": "Turkey", "token_id": "22018366048679221312689532353132141774118368618367535314505237811618661972779",
      "end_date": "2026-03-26T18:45:00Z", "pre_game_price": 0.0,
-     "question": "Will Türkiye win on 2026-03-26?"},
+     "question": "Türkiye vs. Romania"},
     {"name": "Romania", "token_id": "112841215548972398611357923888853394218118688455951191579296347809654429568932",
      "end_date": "2026-03-26T18:45:00Z", "pre_game_price": 0.0,
-     "question": "Will Romania win on 2026-03-26?"},
+     "question": "Türkiye vs. Romania"},
 
     # === Ukraine vs Sweden (19:45 kickoff, end ~21:30 UTC) — CLOSE GAME ===
     {"name": "Ukraine", "token_id": "51648038919441832529767363491921234172552410621403267516309722559126850802839",
      "end_date": "2026-03-26T21:30:00Z", "pre_game_price": 0.0,
-     "question": "Will Ukraine win on 2026-03-26?"},
+     "question": "Ukraine vs. Sweden"},
     {"name": "Sweden", "token_id": "91235421853549505515313154705985380922640511088664179396630749866887540062735",
      "end_date": "2026-03-26T21:30:00Z", "pre_game_price": 0.0,
-     "question": "Will Sweden win on 2026-03-26?"},
+     "question": "Ukraine vs. Sweden"},
 
     # === Italy vs Northern Ireland (19:45 kickoff, end ~21:30 UTC) ===
     {"name": "Italy", "token_id": "105764838635404823518886560080395040173288676199569528025006252582264669638501",
      "end_date": "2026-03-26T21:30:00Z", "pre_game_price": 0.0,
-     "question": "Will Italy win on 2026-03-26?"},
+     "question": "Italy vs. Northern Ireland"},
     {"name": "Northern Ireland", "token_id": "86865219119205591935046652686750535286163296689324951188204675998940511533059",
      "end_date": "2026-03-26T21:30:00Z", "pre_game_price": 0.0,
-     "question": "Will Northern Ireland win on 2026-03-26?"},
+     "question": "Italy vs. Northern Ireland"},
 
     # === Poland vs Albania (19:45 kickoff, end ~21:30 UTC) ===
     {"name": "Poland", "token_id": "92350971869097216188980840054804294078808667119845664642645117979344941426493",
      "end_date": "2026-03-26T21:30:00Z", "pre_game_price": 0.0,
-     "question": "Will Poland win on 2026-03-26?"},
+     "question": "Poland vs. Albania"},
     {"name": "Albania", "token_id": "21370087395289801498845097052682634535911452421455768891296390588065769889508",
      "end_date": "2026-03-26T21:30:00Z", "pre_game_price": 0.0,
-     "question": "Will Albania win on 2026-03-26?"},
+     "question": "Poland vs. Albania"},
 
     # === Czechia vs Republic of Ireland (19:45 kickoff, end ~21:30 UTC) — CLOSE GAME ===
     {"name": "Czechia", "token_id": "61292659578181055317206462427958034339347491683383916001306068674350366048035",
      "end_date": "2026-03-26T21:30:00Z", "pre_game_price": 0.0,
-     "question": "Will Czechia win on 2026-03-26?"},
+     "question": "Czechia vs. Republic of Ireland"},
     {"name": "Ireland", "token_id": "88445244396746222292585832805917431793669619605684458646566525986127500541066",
      "end_date": "2026-03-26T21:30:00Z", "pre_game_price": 0.0,
-     "question": "Will Republic of Ireland win on 2026-03-26?"},
+     "question": "Czechia vs. Republic of Ireland"},
 
     # === Denmark vs North Macedonia (19:45 kickoff, end ~21:30 UTC) ===
     {"name": "Denmark", "token_id": "60359916902742682612811897544650888470638554127994153972571059108626286184241",
      "end_date": "2026-03-26T21:30:00Z", "pre_game_price": 0.0,
-     "question": "Will Denmark win on 2026-03-26?"},
+     "question": "Denmark vs. North Macedonia"},
     {"name": "North Macedonia", "token_id": "49145734146103688552738301242696470794530826061954905356986171041067056277211",
      "end_date": "2026-03-26T21:30:00Z", "pre_game_price": 0.0,
-     "question": "Will North Macedonia win on 2026-03-26?"},
+     "question": "Denmark vs. North Macedonia"},
 
     # === Wales vs Bosnia (19:45 kickoff, end ~21:30 UTC) — CLOSE GAME ===
     {"name": "Wales", "token_id": "38760949771854125427344891367777438346074995373259956605705707351231748622719",
      "end_date": "2026-03-26T21:30:00Z", "pre_game_price": 0.0,
-     "question": "Will Wales win on 2026-03-26?"},
+     "question": "Wales vs. Bosnia and Herzegovina"},
     {"name": "Bosnia", "token_id": "6164834498480963192821301915693516689313399156949918681842273458894100734604",
      "end_date": "2026-03-26T21:30:00Z", "pre_game_price": 0.0,
-     "question": "Will Bosnia and Herzegovina win on 2026-03-26?"},
+     "question": "Wales vs. Bosnia and Herzegovina"},
 
     # === Slovakia vs Kosovo (19:45 kickoff, end ~21:30 UTC) — CLOSE GAME ===
     {"name": "Slovakia", "token_id": "60603129014209495902707159565432220297300635654774091902224685404406941533459",
      "end_date": "2026-03-26T21:30:00Z", "pre_game_price": 0.0,
-     "question": "Will Slovakia win on 2026-03-26?"},
+     "question": "Slovakia vs. Kosovo"},
     {"name": "Kosovo", "token_id": "104036489249777635343653471029324236801463443770741059544435504560233091847745",
      "end_date": "2026-03-26T21:30:00Z", "pre_game_price": 0.0,
-     "question": "Will Kosovo win on 2026-03-26?"},
+     "question": "Slovakia vs. Kosovo"},
 
     # === Brazil vs France (20:00 kickoff, end ~21:45 UTC) — CLOSE GAME ===
     {"name": "Brazil", "token_id": "32956184720124463143248771917745518153762307040959896122703544754439210490550",
      "end_date": "2026-03-26T21:45:00Z", "pre_game_price": 0.0,
-     "question": "Will Brazil win on 2026-03-26?"},
+     "question": "Brazil vs. France"},
     {"name": "France", "token_id": "38298499234039796229938627084804138568691180585799099121025016397786519172841",
      "end_date": "2026-03-26T21:45:00Z", "pre_game_price": 0.0,
-     "question": "Will France win on 2026-03-26?"},
+     "question": "Brazil vs. France"},
 ]
 
 # === Params (validated Mar 22: 8/8 wins) ===
