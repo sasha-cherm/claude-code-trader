@@ -29,6 +29,21 @@
       "days_left_at_entry": 3,
       "opened_at": "2026-03-24 18:10:00+00:00",
       "research_note": "Investec expects 25bp cut. CPI fell to 3.0%. SARB's own QPM projects cuts. 2 MPC dissenters wanted cut in Jan. PM pricing only 10% vs analyst consensus ~50%+."
+    },
+    {
+      "token_id": "58734460241479568888724948914418313747015696369303018476146571085541435875688",
+      "market_id": "faroe-islands-election-winner",
+      "question": "Will People's Party win the most seats in the Faroe Islands 2026 election?",
+      "side": "NO",
+      "entry_price": 0.12,
+      "fair_price": 0.3,
+      "edge": 0.18,
+      "size_usdc": 2.76,
+      "shares": 22.98,
+      "end_date": "2026-03-26T00:00:00Z",
+      "days_left_at_entry": 1,
+      "opened_at": "2026-03-24 23:25:00+00:00",
+      "research_note": "Polls: People's Party 29% (down from 37%), rivals at 20%/19%/18%. 7-party PR system. PM price 88% vs est 60-75%."
     }
   ],
   "trades": [
