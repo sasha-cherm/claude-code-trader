@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Near-resolution monitor for March 25, 2026 — 9 NBA + 4 NCAAB games.
+Near-resolution monitor for March 25, 2026 — 11 NBA + 4 NCAAB games.
 
 NBA Games (end times UTC):
 - Hawks vs Pistons: end 23:00 (tipoff ~20:30)
@@ -109,6 +109,22 @@ ALL_GAMES = [
     {"name": "Trail Blazers", "token_id": "10116089711001117841135224750826069324066461435046964233291014901378997900491",
      "end_date": "2026-03-26T02:00:00Z", "pre_game_price": 0.0,
      "question": "Bucks vs. Trail Blazers"},
+
+    # Wizards vs Jazz — Jazz favored (0.63)
+    {"name": "Wizards", "token_id": "62221675027285730323772047312176523219159899833963007822052605755843635311576",
+     "end_date": "2026-03-26T01:00:00Z", "pre_game_price": 0.0,
+     "question": "Wizards vs. Jazz"},
+    {"name": "Jazz", "token_id": "107202767399186069294944974241034452406798583186929225424182362073950877567232",
+     "end_date": "2026-03-26T01:00:00Z", "pre_game_price": 0.0,
+     "question": "Wizards vs. Jazz"},
+
+    # Raptors vs Clippers — Clippers favored (0.59)
+    {"name": "Raptors", "token_id": "104750558455342899598943060530064380790815094510981313121419519554249163923974",
+     "end_date": "2026-03-26T02:30:00Z", "pre_game_price": 0.0,
+     "question": "Raptors vs. Clippers"},
+    {"name": "Clippers", "token_id": "12333070480341614122618762158154035726831021854006502312831723071427076934870",
+     "end_date": "2026-03-26T02:30:00Z", "pre_game_price": 0.0,
+     "question": "Raptors vs. Clippers"},
 
     # === NCAAB NIT ===
 
