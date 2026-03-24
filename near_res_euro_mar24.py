@@ -2,23 +2,23 @@
 """
 Near-resolution monitor for March 24, 2026 — Euroleague Basketball + CS2.
 
-Euroleague games (end times UTC):
-- Maccabi Tel Aviv vs Fenerbahce: end 17:30
-- Monaco vs Olimpia Milano: end 18:00
-- Zalgiris Kaunas vs Bayern Munich: end 18:00
-- BC Dubai vs Panathinaikos: end 18:30
-- Barcelona vs Anadolu Efes: end 19:30
-- Valencia vs Olympiacos: end 19:30
-- Partizan vs ASVEL: end 19:45
-- Real Madrid vs Hapoel Tel Aviv: end 20:00
+Euroleague games (KICKOFF → actual END times UTC):
+- Maccabi Tel Aviv vs Fenerbahce: kick 17:30 → end 19:15
+- Monaco vs Olimpia Milano: kick 18:00 → end 19:45
+- Zalgiris Kaunas vs Bayern Munich: kick 18:00 → end 19:45
+- BC Dubai vs Panathinaikos: kick 18:30 → end 20:15
+- Barcelona vs Anadolu Efes: kick 19:30 → end 21:15
+- Valencia vs Olympiacos: kick 19:30 → end 21:15
+- Real Madrid vs Hapoel Tel Aviv: kick 20:00 → end 21:45
+
+Women's soccer (UWCL):
+- Arsenal WFC vs Chelsea FC: kick 20:00 → end 21:45
 
 CS2:
-- Inner Circle vs OG (BO1): end 18:25
+- Inner Circle vs OG (BO1): resolved (ICE won)
 
-Near-res windows: 17:00-20:00 UTC.
-Launch at ~13:00 UTC to snapshot pre-game prices.
-
-NOTE: First time testing Euroleague near-res. MMs show 1-2 cent spreads, dynamic pricing confirmed.
+IMPORTANT: Gamma API end_date = KICKOFF time. Added +1:45 for basketball, +1:45 for soccer.
+Near-res windows: 18:55-21:45 UTC.
 Using same validated params as NBA: MIN_PRICE=0.85, JUMP=0.20, SPREAD=0.04, MAX_MINS=20.
 """
 import json
@@ -34,68 +34,85 @@ from trader.notify import send
 
 ALL_GAMES = [
     # Maccabi Tel Aviv vs Fenerbahce — Fener favorite (0.58)
+    # Kickoff 17:30 UTC → actual end ~19:15 UTC
     {"name": "Maccabi", "token_id": "66560916628049162020950736438975876094112150861375654180592586120188265935849",
-     "end_date": "2026-03-24T17:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-24T19:15:00Z", "pre_game_price": 0.41,
      "question": "Maccabi Tel Aviv vs. Fenerbahce"},
     {"name": "Fenerbahce", "token_id": "84730326742994565233869126028249225312001361005388617858732802388027225543063",
-     "end_date": "2026-03-24T17:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-24T19:15:00Z", "pre_game_price": 0.58,
      "question": "Maccabi Tel Aviv vs. Fenerbahce"},
 
     # Monaco vs Olimpia Milano — Monaco favorite (0.55)
+    # Kickoff 18:00 UTC → actual end ~19:45 UTC
     {"name": "Monaco", "token_id": "30298161304759783693103337098095553451761279166113626932172745399638532125471",
-     "end_date": "2026-03-24T18:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-24T19:45:00Z", "pre_game_price": 0.55,
      "question": "Monaco vs. Olimpia Milano"},
     {"name": "Olimpia Milano", "token_id": "66469208982472331191711089111748396019855262500009128666670954075651009316134",
-     "end_date": "2026-03-24T18:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-24T19:45:00Z", "pre_game_price": 0.43,
      "question": "Monaco vs. Olimpia Milano"},
 
-    # Zalgiris Kaunas vs Bayern Munich — close matchup
+    # Zalgiris Kaunas vs Bayern Munich — Zalgiris favorite (0.73)
+    # Kickoff 18:00 UTC → actual end ~19:45 UTC
     {"name": "Zalgiris", "token_id": "36124922780474066360665905012926429094758523207451909996623869440967050893378",
-     "end_date": "2026-03-24T18:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-24T19:45:00Z", "pre_game_price": 0.73,
      "question": "Zalgiris Kaunas vs. FC Bayern Munchen"},
     {"name": "Bayern", "token_id": "74445622413742581969428964195329871390934829876986732369770021587825867611492",
-     "end_date": "2026-03-24T18:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-24T19:45:00Z", "pre_game_price": 0.26,
      "question": "Zalgiris Kaunas vs. FC Bayern Munchen"},
 
     # BC Dubai vs Panathinaikos — Pana favorite (0.56)
+    # Kickoff 18:30 UTC → actual end ~20:15 UTC
     {"name": "BC Dubai", "token_id": "107455021965223360644100804313718509332337703482630332517229329011362399365420",
-     "end_date": "2026-03-24T18:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-24T20:15:00Z", "pre_game_price": 0.43,
      "question": "BC Dubai vs. Panathinaikos"},
     {"name": "Panathinaikos", "token_id": "33207116919083067040742241430677074294332312913056390797621317028767729393820",
-     "end_date": "2026-03-24T18:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-24T20:15:00Z", "pre_game_price": 0.56,
      "question": "BC Dubai vs. Panathinaikos"},
 
-    # Barcelona vs Anadolu Efes
+    # Barcelona vs Anadolu Efes — Barca favorite (0.73)
+    # Kickoff 19:30 UTC → actual end ~21:15 UTC
     {"name": "Barcelona", "token_id": "92274938411304302907734089612428099971561293009462721176734437256926060335128",
-     "end_date": "2026-03-24T19:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-24T21:15:00Z", "pre_game_price": 0.73,
      "question": "Barcelona vs. Anadolu Efes"},
     {"name": "Efes", "token_id": "96540571109717054415566876539900569029829371283066213732513373636001380979343",
-     "end_date": "2026-03-24T19:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-24T21:15:00Z", "pre_game_price": 0.25,
      "question": "Barcelona vs. Anadolu Efes"},
 
     # Valencia vs Olympiacos
+    # Kickoff 19:30 UTC → actual end ~21:15 UTC
     {"name": "Valencia", "token_id": "105803612063809081140324915530991937648734644420885636977309413408788806497681",
-     "end_date": "2026-03-24T19:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-24T21:15:00Z", "pre_game_price": 0.47,
      "question": "Valencia vs. Olympiacos B.C."},
     {"name": "Olympiacos", "token_id": "87743347261924572332968469068155353695008448678629377452881575667419014290109",
-     "end_date": "2026-03-24T19:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-24T21:15:00Z", "pre_game_price": 0.52,
      "question": "Valencia vs. Olympiacos B.C."},
 
     # Real Madrid vs Hapoel Tel Aviv — Real Madrid heavy favorite (0.68)
+    # Kickoff 20:00 UTC → actual end ~21:45 UTC
     {"name": "Real Madrid", "token_id": "6218780877953177616942422798198498551299930240078304019474854403882155884876",
-     "end_date": "2026-03-24T20:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-24T21:45:00Z", "pre_game_price": 0.68,
      "question": "Real Madrid vs. Hapoel Tel Aviv"},
     {"name": "Hapoel", "token_id": "22179804346307810434690366756559148424865944156210301054282845434104616395197",
-     "end_date": "2026-03-24T20:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-24T21:45:00Z", "pre_game_price": 0.31,
      "question": "Real Madrid vs. Hapoel Tel Aviv"},
 
-    # CS2: Inner Circle vs OG (BO1)
-    {"name": "Inner Circle", "token_id": "23420991761065174174440794028605009491352053798436507346862758157494247080948",
-     "end_date": "2026-03-24T18:25:00Z", "pre_game_price": 0.0,
-     "question": "CS2: Inner Circle Esports vs OG"},
-    {"name": "OG", "token_id": "798993980367537181663866480716114563986408407679771780440479499171444004704",
-     "end_date": "2026-03-24T18:25:00Z", "pre_game_price": 0.0,
-     "question": "CS2: Inner Circle Esports vs OG"},
+    # Women's UWCL: Wolfsburg vs Lyon
+    # Kickoff 17:45 UTC → actual end ~19:30 UTC
+    {"name": "Wolfsburg", "token_id": "106618152048464176937334207165727237109929328102665496604269274644283156535077",
+     "end_date": "2026-03-24T19:30:00Z", "pre_game_price": 0.11,
+     "question": "Will VfL Wolfsburg win on 2026-03-24?"},
+    {"name": "OL Lyon", "token_id": "107795523387106099619493906679674670112922723590094187118357034148433865151845",
+     "end_date": "2026-03-24T19:30:00Z", "pre_game_price": 0.71,
+     "question": "Will OL Lyonnes win on 2026-03-24?"},
+
+    # Women's UWCL: Arsenal WFC vs Chelsea FC
+    # Kickoff 20:00 UTC → actual end ~21:45 UTC
+    {"name": "Arsenal WFC", "token_id": "39388498378303498227495163234545085115485930150243668222870888402102004091165",
+     "end_date": "2026-03-24T21:45:00Z", "pre_game_price": 0.465,
+     "question": "Will Arsenal WFC win on 2026-03-24?"},
+    {"name": "Chelsea FC", "token_id": "83964524542461270991348658810341387581028300718607666127490744814539360451605",
+     "end_date": "2026-03-24T21:45:00Z", "pre_game_price": 0.285,
+     "question": "Will Chelsea FC win on 2026-03-24?"},
 ]
 
 # === Params (validated Mar 22: 8/8 wins on NBA/soccer) ===
@@ -230,8 +247,8 @@ def main():
     print("\nSnapshotting pre-game prices...")
     snapshot_pre_game_prices(client, ALL_GAMES)
 
-    # Monitor loop — run until 20:30 UTC (after last Euroleague game ends)
-    end_time = datetime(2026, 3, 24, 20, 30, tzinfo=timezone.utc)
+    # Monitor loop — run until 22:00 UTC (after last game ends ~21:45)
+    end_time = datetime(2026, 3, 24, 22, 0, tzinfo=timezone.utc)
     while datetime.now(timezone.utc) < end_time:
         try:
             check_and_buy(client, ALL_GAMES)
