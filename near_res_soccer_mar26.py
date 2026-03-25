@@ -4,7 +4,10 @@ Near-resolution monitor for March 26, 2026 — UEFA WCQ + FIFA Friendlies.
 
 Matches (kickoff UTC → game end ~kickoff+1:45):
 - Moldova vs Lithuania: 15:00 → end ~16:45
+- Saudi Arabia vs Egypt: 15:00 → end ~16:45
 - Turkey vs Romania: 17:00 → end ~18:45
+- Cyprus vs Belarus: 17:00 → end ~18:45
+- Georgia vs Israel: 17:00 → end ~18:45
 - Ukraine vs Sweden: 19:45 → end ~21:30  ← CLOSE GAME
 - Italy vs N. Ireland: 19:45 → end ~21:30
 - Poland vs Albania: 19:45 → end ~21:30
@@ -16,6 +19,7 @@ Matches (kickoff UTC → game end ~kickoff+1:45):
 - Colombia vs Croatia: 23:30 → end ~01:15  ← CLOSE GAME
 
 Near-res windows: 16:25-16:45, 18:25-18:45, 21:10-21:45, 00:55-01:15 UTC.
+Added 3 matches (Saudi-Egypt, Cyprus-Belarus, Georgia-Israel) in Session 155.
 Launch at ~13:00-15:00 UTC to snapshot pre-game prices.
 
 Validated params from March 22: MIN_PRICE=0.85, JUMP=0.20, SPREAD=0.04, MAX_MINS=20.
@@ -40,6 +44,14 @@ ALL_GAMES = [
      "end_date": "2026-03-26T16:45:00Z", "pre_game_price": 0.0,
      "question": "Moldova vs. Lithuania"},
 
+    # === Saudi Arabia vs Egypt (15:00 kickoff, end ~16:45 UTC) ===
+    {"name": "Saudi Arabia", "token_id": "3673005396182249376252008312353704991355624930036776232304622915141292141633",
+     "end_date": "2026-03-26T16:45:00Z", "pre_game_price": 0.0,
+     "question": "Saudi Arabia vs. Egypt"},
+    {"name": "Egypt", "token_id": "104206482752880744920352744720953698621835712324827664247952197403065555924709",
+     "end_date": "2026-03-26T16:45:00Z", "pre_game_price": 0.0,
+     "question": "Saudi Arabia vs. Egypt"},
+
     # === Turkey vs Romania (17:00 kickoff, end ~18:45 UTC) ===
     {"name": "Turkey", "token_id": "22018366048679221312689532353132141774118368618367535314505237811618661972779",
      "end_date": "2026-03-26T18:45:00Z", "pre_game_price": 0.0,
@@ -47,6 +59,22 @@ ALL_GAMES = [
     {"name": "Romania", "token_id": "112841215548972398611357923888853394218118688455951191579296347809654429568932",
      "end_date": "2026-03-26T18:45:00Z", "pre_game_price": 0.0,
      "question": "Türkiye vs. Romania"},
+
+    # === Cyprus vs Belarus (17:00 kickoff, end ~18:45 UTC) ===
+    {"name": "Cyprus", "token_id": "1983618678071456654935580184984177991836995643616974928651932610244122468613",
+     "end_date": "2026-03-26T18:45:00Z", "pre_game_price": 0.0,
+     "question": "Cyprus vs. Belarus"},
+    {"name": "Belarus", "token_id": "6054180815081288874892653342465237805242554068304157912373783887265988262241",
+     "end_date": "2026-03-26T18:45:00Z", "pre_game_price": 0.0,
+     "question": "Cyprus vs. Belarus"},
+
+    # === Georgia vs Israel (17:00 kickoff, end ~18:45 UTC) ===
+    {"name": "Georgia", "token_id": "100725630283584068801463995550049427611837834355913487706366204730179916820378",
+     "end_date": "2026-03-26T18:45:00Z", "pre_game_price": 0.0,
+     "question": "Georgia vs. Israel"},
+    {"name": "Israel", "token_id": "36102050505748819580002519316221954422194321142303094612952455106360471640255",
+     "end_date": "2026-03-26T18:45:00Z", "pre_game_price": 0.0,
+     "question": "Georgia vs. Israel"},
 
     # === Ukraine vs Sweden (19:45 kickoff, end ~21:30 UTC) — CLOSE GAME ===
     {"name": "Ukraine", "token_id": "51648038919441832529767363491921234172552410621403267516309722559126850802839",
