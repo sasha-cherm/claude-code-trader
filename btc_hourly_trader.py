@@ -1,23 +1,25 @@
 #!/usr/bin/env python3
 """
-Crypto Candle Trader — 8 Bonferroni Survivors.
+Crypto Candle Trader — All Crypto Limit Order Sniper
 
-Trades limit orders on Polymarket Up/Down markets (1H and 4H) using only
-statistically significant signals that survived Bonferroni correction.
+Combines user-provided BTC hourly data with Bonferroni survivors across
+BTC/ETH/SOL/XRP/BNB. Places limit orders at best bid, follows book up
+while edge remains >= 1.9 cents. Cancels unfilled orders 5 seconds
+BEFORE candle starts.
 
-8 survivors:
-  XRP  1H 23:00 UTC DOWN  57.2%  (p=0.0001***)
-  BNB  1H 21:00 UTC UP    56.8%  (p=0.0002***)
-  ETH  1H 23:00 UTC DOWN  56.5%  (p=0.0005***)
-  BTC  1H 17:00 UTC UP    56.4%  (p=0.0006***)
-  BNB  1H 22:00 UTC UP    56.0%  (p=0.0013***)
-  SOL  4H 12-16 UTC DOWN  56.0%  (p=0.0013***)
-  XRP  4H 20-24 UTC DOWN  56.0%  (p=0.0013***)
-  SOL  1H 23:00 UTC DOWN  55.8%
-
-Market slugs:
-  1H: {asset_long}-up-or-down-{month}-{day}-{year}-{hour12}{am/pm}-et
-  4H: {asset_short}-updown-4h-{unix_timestamp_of_window_start_utc}
+12 signals:
+  BTC  1H 13:00 UTC DOWN  53.8%  (user data)
+  BTC  1H 17:00 UTC UP    56.3%  (user data + Bonferroni)
+  BTC  1H 21:00 UTC UP    54.9%  (user data)
+  BTC  1H 22:00 UTC UP    54.0%  (user data)
+  BTC  1H 23:00 UTC DOWN  54.1%  (user data)
+  BNB  1H 21:00 UTC UP    56.8%  (Bonferroni p=0.0002)
+  BNB  1H 22:00 UTC UP    56.0%  (Bonferroni p=0.0013)
+  XRP  1H 23:00 UTC DOWN  57.2%  (Bonferroni p=0.0001)
+  ETH  1H 23:00 UTC DOWN  56.5%  (Bonferroni p=0.0005)
+  SOL  1H 23:00 UTC DOWN  55.8%  (Bonferroni)
+  SOL  4H 12-16 UTC DOWN  56.0%  (Bonferroni p=0.0013)
+  XRP  4H 20-24 UTC DOWN  56.0%  (Bonferroni p=0.0013)
 
 Usage:
   nohup python3 -u btc_hourly_trader.py > logs/candle_$(date -u +%Y%m%d_%H%M).log 2>&1 &
@@ -46,9 +48,15 @@ from py_clob_client.order_builder.constants import BUY
 # 1H slug:  {asset_1h}-up-or-down-{month}-{day}-{year}-{h12}{ampm}-et
 # 4H slug:  {asset_4h}-updown-4h-{unix_ts_of_window_start}
 EDGE_CANDLES = [
-    ("1H", 17, "bitcoin",  "btc",  "UP",   0.564),  # BTC 1H 17:00 UP  56.4%
-    ("1H", 21, "bnb",      "bnb",  "UP",   0.568),  # BNB 1H 21:00 UP  56.8%
-    ("1H", 22, "bnb",      "bnb",  "UP",   0.560),  # BNB 1H 22:00 UP  56.0%
+    # User-provided BTC hourly data
+    ("1H", 13, "bitcoin",  "btc",  "DOWN", 0.538),  # BTC 1H 13:00 DOWN 53.8%
+    ("1H", 17, "bitcoin",  "btc",  "UP",   0.563),  # BTC 1H 17:00 UP   56.3%
+    ("1H", 21, "bitcoin",  "btc",  "UP",   0.549),  # BTC 1H 21:00 UP   54.9%
+    ("1H", 22, "bitcoin",  "btc",  "UP",   0.540),  # BTC 1H 22:00 UP   54.0%
+    ("1H", 23, "bitcoin",  "btc",  "DOWN", 0.541),  # BTC 1H 23:00 DOWN 54.1%
+    # Bonferroni survivors (non-BTC)
+    ("1H", 21, "bnb",      "bnb",  "UP",   0.568),  # BNB 1H 21:00 UP   56.8%
+    ("1H", 22, "bnb",      "bnb",  "UP",   0.560),  # BNB 1H 22:00 UP   56.0%
     ("1H", 23, "xrp",      "xrp",  "DOWN", 0.572),  # XRP 1H 23:00 DOWN 57.2%
     ("1H", 23, "ethereum", "eth",  "DOWN", 0.565),  # ETH 1H 23:00 DOWN 56.5%
     ("1H", 23, "solana",   "sol",  "DOWN", 0.558),  # SOL 1H 23:00 DOWN 55.8%
@@ -56,12 +64,11 @@ EDGE_CANDLES = [
     ("4H", 20, "xrp",      "xrp",  "DOWN", 0.560),  # XRP 4H 20-24 DOWN 56.0%
 ]
 
-ORDER_SIZE_SHARES = 10.0      # Increased: 13W/1L track record, half-Kelly at ~56% WR
+ORDER_SIZE_SHARES = 5.0       # Minimal size — validating multi-crypto setup
 POLL_INTERVAL_SEC = 5         # orderbook poll frequency
 PRE_MARKET_MINUTES = 30       # start monitoring N min before candle
-# Cancel unfilled orders N seconds AFTER candle starts
-CANCEL_AFTER_SEC  = {"1H": 120, "4H": 600}   # 2 min for 1H, 10 min for 4H
-MIN_EDGE_CENTS     = 1.0      # min (edge% - price%) in cents to place/keep order
+CANCEL_BEFORE_SEC = 5         # Cancel unfilled orders N sec BEFORE candle starts
+MIN_EDGE_CENTS     = 1.9      # min (edge% - price%) in cents to place/keep order (user: "at least 2 points")
 
 TRADE_LOG_FILE = "logs/candle_trades.jsonl"
 GAMMA_HOST     = "https://gamma-api.polymarket.com"
@@ -226,29 +233,31 @@ def trade_candle(interval: str, candle_start_utc: datetime,
         return
 
     token_id  = market["up_token"] if side == "UP" else market["down_token"]
-    max_price = math.floor((edge - 0.01) * 100) / 100.0
 
     print(f"[{tag}] === {market['question']} ===")
-    print(f"[{tag}] Side={side}  Edge={edge*100:.1f}%  MaxPrice={max_price:.2f}")
+    print(f"[{tag}] Side={side}  Edge={edge*100:.1f}%")
 
     cur_oid   = None
     cur_price = None
     filled_   = False
-
-    cancel_after = CANCEL_AFTER_SEC[interval]
+    order_moves = 0
+    cancel_deadline = candle_start_utc - timedelta(seconds=CANCEL_BEFORE_SEC)
 
     while running:
         now_utc = utc_now()
-        secs_after_start = (now_utc - candle_start_utc).total_seconds()
 
-        # ── Cancel window: N minutes after candle starts ──
-        if secs_after_start >= cancel_after:
+        # ── Cancel window: 5 seconds BEFORE candle starts ──
+        if now_utc >= cancel_deadline:
             if cur_oid:
-                if is_filled(client, cur_oid):
+                st = is_filled(client, cur_oid)
+                if st is True:
                     filled_ = True
-                    print(f"[{tag}] Filled at cancel deadline!")
+                    print(f"[{tag}] Filled at deadline! price={cur_price:.2f}")
                 else:
                     cancel_order(client, cur_oid, tag)
+                    print(f"[{tag}] Cancelled 5s before candle start")
+            else:
+                print(f"[{tag}] No order placed — edge never sufficient")
             break
 
         # ── Poll orderbook ──
@@ -257,38 +266,45 @@ def trade_candle(interval: str, candle_start_utc: datetime,
             time.sleep(POLL_INTERVAL_SEC)
             continue
 
-        target     = min(bb, max_price)
-        edge_cents = edge * 100 - target * 100
+        edge_cents = edge * 100 - bb * 100
 
-        if edge_cents < MIN_EDGE_CENTS:
-            # Market priced too tight — keep existing order if any, just wait
-            time.sleep(POLL_INTERVAL_SEC)
-            continue
-
-        # ── Place or adjust ──
         if cur_oid is None:
-            cur_oid   = place_buy(client, token_id, target, ORDER_SIZE_SHARES, tag)
-            cur_price = target
-
-        elif target > cur_price:
-            # Book moved up — check fill, then follow
-            if is_filled(client, cur_oid):
-                filled_ = True
-                print(f"[{tag}] Filled at {cur_price:.2f}!")
-                break
-            if cancel_order(client, cur_oid, tag):
-                cur_oid   = place_buy(client, token_id, target, ORDER_SIZE_SHARES, tag)
-                cur_price = target if cur_oid else cur_price
+            # ── No order yet: place if edge sufficient ──
+            if edge_cents >= MIN_EDGE_CENTS:
+                cur_oid   = place_buy(client, token_id, bb, ORDER_SIZE_SHARES, tag)
+                cur_price = bb
+                print(f"[{tag}] Placed at {bb:.2f}  edge={edge_cents:.1f}c")
             else:
-                if is_filled(client, cur_oid):
-                    filled_ = True
-                    break
+                secs_left = (cancel_deadline - now_utc).total_seconds()
+                if int(secs_left) % 60 < POLL_INTERVAL_SEC:
+                    print(f"[{tag}] bid={bb:.2f} edge={edge_cents:.1f}c < {MIN_EDGE_CENTS:.1f}c — waiting ({secs_left:.0f}s)")
         else:
-            # Price same or lower — just check for fill
-            if cur_oid and is_filled(client, cur_oid):
+            # ── Have an order: check fill, follow book ──
+            st = is_filled(client, cur_oid)
+            if st is True:
                 filled_ = True
                 print(f"[{tag}] Filled at {cur_price:.2f}!")
                 break
+
+            if bb > cur_price:
+                # Book moved up — should we follow?
+                if edge_cents >= MIN_EDGE_CENTS:
+                    if cancel_order(client, cur_oid, tag):
+                        new_oid = place_buy(client, token_id, bb, ORDER_SIZE_SHARES, tag)
+                        if new_oid:
+                            cur_oid   = new_oid
+                            cur_price = bb
+                            order_moves += 1
+                            print(f"[{tag}] Moved to {bb:.2f}  edge={edge_cents:.1f}c  (move #{order_moves})")
+                        else:
+                            cur_oid = None
+                    else:
+                        if is_filled(client, cur_oid) is True:
+                            filled_ = True
+                            print(f"[{tag}] Filled during move at {cur_price:.2f}!")
+                            break
+                else:
+                    print(f"[{tag}] Book at {bb:.2f} but edge only {edge_cents:.1f}c — holding at {cur_price:.2f}")
 
         time.sleep(POLL_INTERVAL_SEC)
 
@@ -306,11 +322,11 @@ def trade_candle(interval: str, candle_start_utc: datetime,
         "last_price": cur_price,
         "shares":     ORDER_SIZE_SHARES if filled_ else 0,
         "cost_usdc":  cost,
-        "max_price":  max_price,
+        "order_moves": order_moves,
     })
 
     if filled_:
-        filled_candles.add((interval, str(candle_start_utc), side))
+        filled_candles.add((interval, str(candle_start_utc), side, asset_4h))
         send(f"Candle FILLED: {tag} {interval} {side} @ {cur_price:.2f} ({market['question']})")
 
 
@@ -328,9 +344,9 @@ def get_schedule():
         for entry in EDGE_CANDLES:
             interval, hour_utc, asset_1h, asset_4h, side, edge = entry
             candle = base.replace(hour=hour_utc)
-            post_cancel = CANCEL_AFTER_SEC.get(interval, 120)
-            if now < candle + timedelta(seconds=post_cancel):
-                key = (interval, str(candle), side)
+            # Cancel is BEFORE start, so skip candles that already started
+            if now < candle - timedelta(seconds=CANCEL_BEFORE_SEC):
+                key = (interval, str(candle), side, asset_4h)
                 if key not in filled_candles:
                     grouped.setdefault(candle, []).append(entry)
     return sorted(grouped.items())
@@ -341,10 +357,12 @@ def get_schedule():
 def main():
     global running
 
-    print(f"[CANDLE] ═══ Crypto Candle Trader — 8 Bonferroni Survivors ═══")
+    print(f"[CANDLE] ═══ Crypto Candle Trader — All Crypto Limit Sniper ═══")
     print(f"[CANDLE] UTC now: {utc_now()}")
     print(f"[CANDLE] Signals: {len(EDGE_CANDLES)} across BTC/ETH/SOL/XRP/BNB (1H+4H)")
     print(f"[CANDLE] Order size: {ORDER_SIZE_SHARES} shares per trade")
+    print(f"[CANDLE] Cancel: {CANCEL_BEFORE_SEC}s before candle start")
+    print(f"[CANDLE] Min edge: {MIN_EDGE_CENTS:.1f} cents")
 
     client = get_client()
     print(f"[CANDLE] Balance: ${get_usdc_balance(client):.2f}")
