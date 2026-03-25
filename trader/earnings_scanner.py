@@ -139,33 +139,47 @@ def _parse_hurdle(question: str, description: str = "") -> Optional[float]:
 
 
 def _get_consensus_eps(ticker: str) -> Optional[float]:
-    """Fetch analyst consensus EPS estimate via yfinance."""
+    """
+    Fetch analyst consensus quarterly EPS estimate via yfinance.
+    Uses eps_trend '0q' (current quarter) — the right unit for PM earnings markets
+    which ask about a specific quarter, not the full year.
+    Falls back to epsForward/4 if eps_trend is unavailable.
+    """
     try:
         import yfinance as yf
-        info = yf.Ticker(ticker).info
-        # Try various fields
-        for field in ("epsCurrentYear", "epsFoward", "epsForward",
-                      "epsTrailingTwelveMonths", "trailingEps"):
-            val = info.get(field)
-            if val is not None:
-                return float(val)
+        t = yf.Ticker(ticker)
+        trend = t.eps_trend
+        if trend is not None and "0q" in trend.index:
+            return float(trend.loc["0q", "current"])
+        # Fallback: annualized forward EPS / 4
+        info = t.info
+        annual = info.get("epsForward") or info.get("epsCurrentYear")
+        if annual:
+            return float(annual) / 4.0
         return None
     except Exception as e:
-        print(f"[EARNINGS] yfinance error for {ticker}: {e}")
+        print(f"[EARNINGS] yfinance EPS error for {ticker}: {e}")
         return None
 
 
 def _get_consensus_revenue(ticker: str) -> Optional[float]:
-    """Fetch analyst consensus revenue estimate via yfinance."""
+    """
+    Fetch analyst consensus quarterly revenue estimate via yfinance.
+    Uses earnings_estimate '0q' avg if available, else totalRevenue/4.
+    """
     try:
         import yfinance as yf
-        info = yf.Ticker(ticker).info
-        for field in ("revenueEstimate", "totalRevenue", "revenuePerShare"):
-            val = info.get(field)
-            if val is not None:
-                return float(val)
+        t = yf.Ticker(ticker)
+        est = t.earnings_estimate
+        if est is not None and "0q" in est.index:
+            return float(est.loc["0q", "avg"])
+        info = t.info
+        annual = info.get("totalRevenue")
+        if annual:
+            return float(annual) / 4.0
         return None
-    except Exception:
+    except Exception as e:
+        print(f"[EARNINGS] yfinance revenue error for {ticker}: {e}")
         return None
 
 
