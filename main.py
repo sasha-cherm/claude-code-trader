@@ -11,6 +11,7 @@ from trader.client import get_client, get_usdc_balance
 from trader.config import TARGET_BALANCE_USDC
 from trader.notify import send, send_session_summary, check_user_commands
 from trader.strategy import run_session, load_state
+from trader.earnings_scanner import scan_earnings_opportunities, format_earnings_report, trade_earnings_opportunities
 
 
 def handle_user_commands(client, state):
@@ -72,6 +73,32 @@ def main():
         send(f"GOAL REACHED! Balance: ${balance:.2f} USDC >= ${TARGET_BALANCE_USDC:.2f}")
         print("[MAIN] Target reached!")
         return
+
+    # Scan for earnings opportunities every session and auto-trade when edge found
+    try:
+        earnings_opps = scan_earnings_opportunities()
+        edged = [o for o in earnings_opps if o.get("edge", 0) >= 0.05]
+        if edged:
+            report = format_earnings_report(earnings_opps)
+            send(report)
+            # Auto-trade: place limit orders for edged markets
+            trades = trade_earnings_opportunities(client, edged, balance)
+            if trades:
+                state = load_state()
+                for t in trades:
+                    state.setdefault("positions", []).append(t)
+                    send(
+                        f"EARNINGS BUY: {t['question'][:60]}\n"
+                        f"  {t['side']} @ {t['entry_price']:.3f} | ${t['size_usdc']:.2f} "
+                        f"({t['shares']:.2f}sh) | edge={t['edge']*100:.0f}%\n"
+                        f"  {t['earnings_note']}"
+                    )
+                from trader.strategy import save_state
+                save_state(state)
+        else:
+            print("[MAIN] Earnings scan: no edge found.")
+    except Exception as e:
+        print(f"[MAIN] Earnings scan error: {e}")
 
     try:
         run_session(client, balance)
