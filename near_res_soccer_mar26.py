@@ -13,8 +13,9 @@ Matches (kickoff UTC → game end ~kickoff+1:45):
 - Wales vs Bosnia: 19:45 → end ~21:30  ← CLOSE GAME
 - Slovakia vs Kosovo: 19:45 → end ~21:30  ← CLOSE GAME
 - Brazil vs France: 20:00 → end ~21:45  ← CLOSE GAME
+- Colombia vs Croatia: 23:30 → end ~01:15  ← CLOSE GAME
 
-Near-res windows: 16:25-16:45, 18:25-18:45, 21:10-21:45 UTC.
+Near-res windows: 16:25-16:45, 18:25-18:45, 21:10-21:45, 00:55-01:15 UTC.
 Launch at ~13:00-15:00 UTC to snapshot pre-game prices.
 
 Validated params from March 22: MIN_PRICE=0.85, JUMP=0.20, SPREAD=0.04, MAX_MINS=20.
@@ -110,6 +111,14 @@ ALL_GAMES = [
     {"name": "France", "token_id": "38298499234039796229938627084804138568691180585799099121025016397786519172841",
      "end_date": "2026-03-26T21:45:00Z", "pre_game_price": 0.0,
      "question": "Brazil vs. France"},
+
+    # === Colombia vs Croatia (23:30 kickoff, end ~01:15 UTC Mar 27) — CLOSE GAME ===
+    {"name": "Colombia", "token_id": "33109009791798382791678550068937797578076238604746177356644515500652524284803",
+     "end_date": "2026-03-27T01:15:00Z", "pre_game_price": 0.0,
+     "question": "Colombia vs. Croatia"},
+    {"name": "Croatia", "token_id": "5594925124432097740818088576442258374054869833427729304267329125109725550475",
+     "end_date": "2026-03-27T01:15:00Z", "pre_game_price": 0.0,
+     "question": "Colombia vs. Croatia"},
 ]
 
 # === Params (validated Mar 22: 8/8 wins) ===
@@ -247,8 +256,8 @@ def main():
     print("\nSnapshotting pre-game prices...")
     snapshot_pre_game_prices(client, ALL_GAMES)
 
-    # Monitor loop — run until 22:30 UTC Mar 26
-    end_time = datetime(2026, 3, 26, 22, 30, tzinfo=timezone.utc)
+    # Monitor loop — run until 01:30 UTC Mar 27 (for Colombia-Croatia at 23:30 kickoff)
+    end_time = datetime(2026, 3, 27, 1, 30, tzinfo=timezone.utc)
     while datetime.now(timezone.utc) < end_time:
         try:
             check_and_buy(client, ALL_GAMES)
