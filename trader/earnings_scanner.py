@@ -279,7 +279,7 @@ def trade_earnings_opportunities(client, opportunities: list[dict], balance: flo
     Places limit buy orders (maker) at best bid to avoid commissions.
     Returns list of trades placed.
     """
-    from trader.strategy import place_limit_buy, get_actual_shares
+    from trader.strategy import place_market_buy, get_actual_shares
     from datetime import datetime, timezone
 
     placed = []
@@ -296,18 +296,19 @@ def trade_earnings_opportunities(client, opportunities: list[dict], balance: flo
             continue
 
         print(f"[EARNINGS] Trading {side} on {opp['question'][:60]} | size=${size:.2f}")
-        result = place_limit_buy(client, token_id, size, max_wait_sec=60,
-                                 tag=f"EARN-{opp['ticker']}")
-        if result and result.get("filled"):
+        result = place_market_buy(client, token_id, size)
+        if result:
+            import time; time.sleep(1)
             shares = get_actual_shares(client, token_id)
+            entry_price = opp["yes_price"] if side == "YES" else opp["no_price"]
             trade = {
                 "token_id": token_id,
                 "market_id": opp.get("market_id", ""),
                 "question": opp["question"],
                 "side": side,
-                "entry_price": result["price"],
+                "entry_price": entry_price or 0,
                 "size_usdc": size,
-                "shares": shares or result.get("shares", 0),
+                "shares": shares,
                 "end_date": opp.get("end_date", ""),
                 "edge": opp["edge"],
                 "earnings_note": opp["note"],
@@ -316,7 +317,7 @@ def trade_earnings_opportunities(client, opportunities: list[dict], balance: flo
             placed.append(trade)
             balance -= size
         else:
-            print(f"[EARNINGS] Order not filled for {opp['question'][:50]}")
+            print(f"[EARNINGS] Market order failed for {opp['question'][:50]}")
 
     return placed
 
