@@ -111,32 +111,119 @@ def estimate_edge(opportunity: dict, orderbook: Optional[dict]) -> tuple[float, 
     return 0.0, "YES", yes_price
 
 
+def place_limit_buy(client: ClobClient, token_id: str, amount_usdc: float,
+                    max_wait_sec: int = 30, tag: str = "") -> Optional[dict]:
+    """
+    Place a MAKER BUY limit order at best bid price. Avoids taker commissions.
+    Waits up to max_wait_sec for fill, cancels if not filled.
+    Returns {'orderID': ..., 'filled': True/False, 'price': ..., 'shares': ...}
+    """
+    import time
+    from math import floor
+    from py_clob_client.clob_types import OrderArgs, OrderType
+    from trader.client import orderbook_to_dict
+
+    try:
+        raw_book = client.get_order_book(token_id)
+        book = orderbook_to_dict(raw_book)
+        bids = book.get("bids", [])
+        if bids:
+            bid_price = float(bids[0]["price"])
+        else:
+            # No resting bids — use get_price as fallback
+            price_info = client.get_price(token_id, "buy")
+            bid_price = float(price_info.get("price", 0))
+            if bid_price <= 0.01:
+                raise ValueError("No bid liquidity")
+
+        if not (0.01 <= bid_price <= 0.99):
+            raise ValueError(f"Invalid bid price {bid_price}")
+
+        shares = floor((amount_usdc / bid_price) * 100) / 100.0
+        if shares < 0.01:
+            raise ValueError(f"Too few shares at price {bid_price}")
+
+        args = OrderArgs(
+            token_id=token_id,
+            price=bid_price,
+            size=shares,
+            side=BUY,
+        )
+        signed = client.create_order(args)
+        resp = client.post_order(signed, orderType=OrderType.GTC)
+        oid = resp.get("orderID") or resp.get("id") or resp.get("order_id")
+        prefix = f"[{tag}] " if tag else "[ORDER] "
+        print(f"{prefix}LIMIT BUY {shares:.2f}sh @ {bid_price:.2f}  oid={oid}")
+
+        # Wait for fill
+        filled = False
+        for _ in range(max_wait_sec // 3):
+            time.sleep(3)
+            try:
+                o = client.get_order(oid)
+                st = (o.get("status") or "").upper() if isinstance(o, dict) else ""
+                if st in ("FILLED", "MATCHED"):
+                    filled = True
+                    print(f"{prefix}Filled! {shares:.2f}sh @ {bid_price:.2f}")
+                    break
+            except Exception:
+                pass
+
+        if not filled:
+            try:
+                client.cancel(oid)
+                print(f"{prefix}Not filled in {max_wait_sec}s, cancelled")
+            except Exception:
+                # May have filled between check and cancel
+                try:
+                    o = client.get_order(oid)
+                    if (o.get("status") or "").upper() in ("FILLED", "MATCHED"):
+                        filled = True
+                        print(f"{prefix}Filled during cancel attempt!")
+                except Exception:
+                    pass
+
+        return {"orderID": oid, "filled": filled, "price": bid_price, "shares": shares}
+    except Exception as e:
+        print(f"[ORDER] LIMIT BUY failed: {e}")
+        return None
+
+
 def place_market_buy(client: ClobClient, token_id: str, amount_usdc: float) -> Optional[dict]:
     """
     Place a BUY order spending ~amount_usdc USDC.
-    Uses a limit order at best ask so shares (takerAmount) can be rounded to 2 decimal
-    places — the CLOB rejects market orders whose takerAmount exceeds 2 decimal places.
+    Now uses limit order at best bid (maker) to avoid taker commissions.
+    Falls back to best ask if bid is too far from ask.
     """
     from math import floor
     from py_clob_client.clob_types import OrderArgs
+    from trader.client import orderbook_to_dict
 
     try:
-        # Get best ask price from order book
         raw_book = client.get_order_book(token_id)
-        from trader.client import orderbook_to_dict
         book = orderbook_to_dict(raw_book)
+
+        # Try best bid first (maker order, no commission)
+        bids = book.get("bids", [])
         asks = book.get("asks", [])
-        if asks:
+
+        if bids:
+            bid_price = float(bids[0]["price"])
+            ask_price = float(asks[0]["price"]) if asks else bid_price + 0.05
+            spread = ask_price - bid_price
+
+            # Use bid price (maker) if spread is reasonable
+            if spread <= 0.05 and bid_price >= 0.01:
+                fill_price = bid_price
+            elif asks:
+                fill_price = float(asks[0]["price"])
+            else:
+                fill_price = bid_price + 0.01
+        elif asks:
             fill_price = float(asks[0]["price"])
         else:
-            # Fallback: try last trade price
-            bids = book.get("bids", [])
-            if bids:
-                fill_price = float(bids[0]["price"]) + 0.01
-            else:
-                raise ValueError("No orderbook liquidity")
+            raise ValueError("No orderbook liquidity")
 
-        # Round shares to 2 decimal places (CLOB taker amount max 2 decimals)
         shares = floor((amount_usdc / fill_price) * 100) / 100.0
         if shares < 0.01:
             raise ValueError(f"Too few shares at price {fill_price}")

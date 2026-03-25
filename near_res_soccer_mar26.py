@@ -27,7 +27,7 @@ from datetime import datetime, timezone
 
 sys.path.insert(0, os.path.dirname(__file__))
 from trader.client import get_client, get_usdc_balance
-from trader.strategy import place_market_buy, get_actual_shares, load_state, save_state
+from trader.strategy import place_market_buy, place_limit_buy, get_actual_shares, load_state, save_state
 from trader.notify import send
 
 ALL_GAMES = [
@@ -189,9 +189,11 @@ def check_and_buy(client, watch_list):
                 spend = min(MAX_SPEND_PER_TRADE, balance * PCT_OF_BALANCE)
                 if spend < MIN_SPEND:
                     continue
-                print(f"\n  *** BUYING {w['name']} YES @ {buy_price:.3f} for ${spend:.2f} ***")
-                result = place_market_buy(client, w["token_id"], spend)
-                if result:
+                print(f"\n  *** LIMIT BUY {w['name']} YES @ bid ~{sell_price:.3f} for ${spend:.2f} ***")
+                result = place_limit_buy(client, w["token_id"], spend,
+                                         max_wait_sec=30, tag=w['name'])
+                if result and result.get("filled"):
+                    fill_price = result["price"]
                     time.sleep(2)
                     shares = get_actual_shares(client, w["token_id"])
                     state = load_state()
@@ -200,26 +202,27 @@ def check_and_buy(client, watch_list):
                         "market_id": f"near-res-uefa-mar26-{w['name'].lower().replace(' ', '-')}",
                         "question": w["question"],
                         "side": "YES",
-                        "entry_price": buy_price,
-                        "fair_price": min(buy_price + 0.08, 0.99),
+                        "entry_price": fill_price,
+                        "fair_price": min(fill_price + 0.08, 0.99),
                         "edge": jump,
                         "size_usdc": spend,
-                        "shares": shares if shares > 0 else spend / buy_price,
+                        "shares": shares if shares > 0 else spend / fill_price,
                         "end_date": w["end_date"],
                         "days_left_at_entry": mins_left / 1440,
                         "opened_at": str(now),
-                        "research_note": f"UEFA Mar26 near-res: {w['name']} jumped {jump:+.3f}, {mins_left:.0f} min left.",
+                        "research_note": f"UEFA Mar26 near-res LIMIT: {w['name']} jumped {jump:+.3f}, {mins_left:.0f} min left.",
                     })
                     save_state(state)
                     BOUGHT.add(w["token_id"])
-                    # Block other side of same game
                     for other in watch_list:
                         if other["question"] == w["question"] and other["token_id"] != w["token_id"]:
                             BOUGHT.add(other["token_id"])
                     balance = get_usdc_balance(client)
-                    send(f"UEFA MAR26 NEAR-RES BUY: {w['name']} YES @ {buy_price:.3f}\n"
+                    send(f"UEFA MAR26 NEAR-RES LIMIT BUY: {w['name']} YES @ {fill_price:.3f}\n"
                          f"${spend:.2f} ({shares:.2f} sh)\n"
                          f"Jump: {jump:+.3f}, {mins_left:.0f} min left")
+                elif result and not result.get("filled"):
+                    print(f"  LIMIT order not filled for {w['name']} — bid was {result['price']:.3f}")
                 else:
                     print(f"  BUY FAILED for {w['name']}")
         except Exception as e:
