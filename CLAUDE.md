@@ -273,17 +273,28 @@ nohup python3 -u near_res_nba_mar18.py > logs/nba_mar18_$(date -u +%Y%m%d_%H%M).
 - **20:30-02:30 UTC**: NBA + NCAAB near-res windows
 - **22:00-04:00 UTC**: NCAAB Sweet 16 (Illinois-Houston, Nebraska-Iowa, Arkansas-Arizona)
 
-### March 26 Schedule
-- **~12:00-13:00 UTC**: **LAUNCH near_res_soccer_mar26.py** — 10 UEFA/FIFA matches
+### March 26 Schedule — ACTIVE PLAN
+- **~12:00-13:00 UTC**: **LAUNCH near_res_soccer_mar26.py** — 14 UEFA/FIFA matches (38 tokens)
   ```bash
   cd /home/cctrd/cc-trader-agent
   nohup python3 -u near_res_soccer_mar26.py > logs/soccer_mar26_$(date -u +%Y%m%d_%H%M).log 2>&1 &
   ```
 - **~13:00 UTC**: SARB announcement (our DECREASE position likely loses)
-- **14:15-14:45 UTC**: Moldova vs Lithuania near-res window
-- **16:15-16:45 UTC**: Turkey vs Romania near-res window
-- **~19:00 UTC**: Banxico announcement (edge for our HOLD position)
+- **14:15-14:45 UTC**: Moldova-Lithuania + Saudi Arabia-Egypt near-res window
+- **16:15-16:45 UTC**: Turkey-Romania + Cyprus-Belarus + Georgia-Israel near-res window
+- **~19:00 UTC**: Banxico announcement (**KEY**: +$14 if hold, -$12 if cut)
+- **19:45 UTC**: Slovakia vs Kosovo kickoff (our YES at 0.47)
 - **19:15-19:45 UTC**: 7 UEFA matches + Brazil-France near-res window
+- **~21:00 UTC**: **LAUNCH near_res_bball_mar26.py** — 3 NBA + 1 NCAAB (8 tokens)
+  ```bash
+  cd /home/cctrd/cc-trader-agent
+  nohup python3 -u near_res_bball_mar26.py > logs/bball_mar26_$(date -u +%Y%m%d_%H%M).log 2>&1 &
+  ```
+- **23:00 UTC**: NBA tipoff (Knicks-Hornets, Pelicans-Pistons, Kings-Magic)
+- **01:00-01:30 UTC Mar 27**: NBA near-res window
+- **00:55-01:15 UTC Mar 27**: Colombia-Croatia near-res (soccer monitor)
+- **~04:00 UTC**: NCAAB Sweet 16: Tennessee-Iowa State tipoff
+- **05:30-06:00 UTC Mar 27**: NCAAB near-res window
 
 ### Denmark Election: BOTH LOST (Session 142)
 - Margin 5-10% YES: -$18.00, LA 3rd YES: -$14.00 = -$32.00 total
