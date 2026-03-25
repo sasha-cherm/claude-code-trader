@@ -44,6 +44,21 @@
       "days_left_at_entry": 1,
       "opened_at": "2026-03-24 23:25:00+00:00",
       "research_note": "Polls: People's Party 29% (down from 37%), rivals at 20%/19%/18%. 7-party PR system. PM price 88% vs est 60-75%."
+    },
+    {
+      "token_id": "60603129014209495902707159565432220297300635654774091902224685404406941533459",
+      "market_id": "wcq-slovakia-kosovo",
+      "question": "Will Slovakia win vs Kosovo? (WCQ Playoff)",
+      "side": "YES",
+      "entry_price": 0.47,
+      "fair_price": 0.53,
+      "edge": 0.06,
+      "size_usdc": 7.0,
+      "shares": 14.89,
+      "end_date": "2026-03-26T21:30:00Z",
+      "days_left_at_entry": 1,
+      "opened_at": "2026-03-25 16:15:00+00:00",
+      "research_note": "Sportsbook: Slovakia ~53% vs PM 46%. ~7% edge. Home in Bratislava. WCQ Playoff."
     }
   ],
   "trades": [
