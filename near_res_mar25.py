@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Near-resolution monitor for March 25, 2026 — 11 NBA + 4 NCAAB games.
+Near-resolution monitor for March 25, 2026 — 12 NBA + 5 NCAAB games.
 
 NBA Games (end times UTC):
 - Hawks vs Pistons: end 23:00 (tipoff ~20:30)
@@ -169,6 +169,14 @@ ALL_GAMES = [
     {"name": "Arizona", "token_id": "82191725722679457478728557018601391881404208647693525967471584875912376235549",
      "end_date": "2026-03-26T04:00:00Z", "pre_game_price": 0.0,
      "question": "Arkansas vs. Arizona"},
+
+    # Texas vs Purdue — Purdue heavy fav (0.74)
+    {"name": "Texas", "token_id": "39223504527462038575405867651841624516940270580793639574399176355422116610922",
+     "end_date": "2026-03-26T04:00:00Z", "pre_game_price": 0.0,
+     "question": "Texas vs. Purdue"},
+    {"name": "Purdue", "token_id": "107907338415976933532550388925205335990876677187021977689507641894936360729790",
+     "end_date": "2026-03-26T04:00:00Z", "pre_game_price": 0.0,
+     "question": "Texas vs. Purdue"},
 ]
 
 # === Params (validated Mar 22: 8/8 wins) ===
