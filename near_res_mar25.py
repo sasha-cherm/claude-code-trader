@@ -19,8 +19,13 @@ NCAAB Sweet 16 / NIT (end times UTC):
 - Nebraska vs Iowa: end 04:00 Mar 26
 - Arkansas vs Arizona: end 04:00 Mar 26
 
-Near-res windows: 22:30-04:00 UTC.
-Launch at ~18:00-20:00 UTC to snapshot pre-game prices.
+Soccer:
+- UWCL Real Madrid Fem vs Barcelona: kickoff 17:45 UTC, near-res ~19:10-19:30
+- UWCL Man Utd WFC vs Bayern Munich: kickoff 20:00 UTC, near-res ~21:25-21:45
+- Argentine Riestra vs San Lorenzo: kickoff 22:00 UTC, near-res ~23:25-23:45
+
+Near-res windows: 19:00-04:00 UTC.
+Launch at ~16:00 UTC to catch UWCL pre-game + all NBA/NCAAB.
 
 Validated params from March 22: MIN_PRICE=0.85, JUMP=0.20, SPREAD=0.04, MAX_MINS=20.
 """
@@ -133,6 +138,35 @@ ALL_GAMES = [
     {"name": "Nuggets", "token_id": "43403740338966946480122866016569684130438243069023216173919933608376541967800",
      "end_date": "2026-03-26T02:00:00Z", "pre_game_price": 0.0,
      "question": "Mavericks vs. Nuggets"},
+
+    # === SOCCER (end_date = kickoff + 105min for actual game end) ===
+
+    # UWCL: Real Madrid Fem vs Barcelona — Barca heavy fav (0.77)
+    # Kickoff 17:45 UTC → game end ~19:30 UTC
+    {"name": "RM Fem", "token_id": "11826143872088739580158177267190470326214851012779219815762540361195206739048",
+     "end_date": "2026-03-25T19:30:00Z", "pre_game_price": 0.0,
+     "question": "RM Fem vs. Barcelona UWCL"},
+    {"name": "Barcelona W", "token_id": "80870004363502250258573422997567538727860553884846771803694940375847004123249",
+     "end_date": "2026-03-25T19:30:00Z", "pre_game_price": 0.0,
+     "question": "RM Fem vs. Barcelona UWCL"},
+
+    # UWCL: Man Utd WFC vs Bayern Munich — Bayern slight fav (0.44)
+    # Kickoff 20:00 UTC → game end ~21:45 UTC
+    {"name": "ManU WFC", "token_id": "16524059063622991321604091220921123543004597224305591698343954530716638591526",
+     "end_date": "2026-03-25T21:45:00Z", "pre_game_price": 0.0,
+     "question": "ManU WFC vs. Bayern UWCL"},
+    {"name": "Bayern W", "token_id": "71498419258395109939148043204088004008281266076447059857977621178164559260442",
+     "end_date": "2026-03-25T21:45:00Z", "pre_game_price": 0.0,
+     "question": "ManU WFC vs. Bayern UWCL"},
+
+    # Argentine: Riestra vs San Lorenzo — Riestra home (0.37)
+    # Kickoff 22:00 UTC → game end ~23:45 UTC
+    {"name": "Riestra", "token_id": "74577689037205812729010880220398340494588324177290579151816333852160655856754",
+     "end_date": "2026-03-25T23:45:00Z", "pre_game_price": 0.0,
+     "question": "Riestra vs. San Lorenzo ARG"},
+    {"name": "San Lorenzo", "token_id": "47735556377698811657802038595299214256400532238852114993223869054713788087113",
+     "end_date": "2026-03-25T23:45:00Z", "pre_game_price": 0.0,
+     "question": "Riestra vs. San Lorenzo ARG"},
 
     # === NCAAB NIT ===
 
