@@ -289,10 +289,40 @@ nohup python3 -u near_res_nba_mar18.py > logs/nba_mar18_$(date -u +%Y%m%d_%H%M).
 - **~04:00 UTC Mar 27**: NCAAB Sweet 16: Tennessee-Iowa State tipoff
 - **03:45-06:00 UTC Mar 27**: NCAAB near-res windows
 
-### March 27 Prep (next sessions)
-- Find NCAAB Sweet 16 Friday games: Duke-St.John's, Michigan-Alabama token IDs (if on PM)
-- Check NBA March 27 schedule
-- Elite 8 Saturday March 28: prepare scripts
+### March 27 Schedule — PREPARED
+- **~13:00 UTC (16:00 GMT+3)**: **LAUNCH near_res_soccer_mar27.py** — 11 FIFA friendlies (22 tokens)
+  ```bash
+  cd /home/cctrd/cc-trader-agent
+  nohup python3 -u near_res_soccer_mar27.py > logs/soccer_mar27_$(date -u +%Y%m%d_%H%M).log 2>&1 &
+  ```
+- **16:30-17:00 UTC**: Early kickoffs: Russia-Nicaragua, S.Africa-Panama, Austria-Ghana, Montenegro-Andorra
+- **17:55-18:45 UTC**: Early near-res window (4 games)
+- **19:00-19:45 UTC**: Big game kickoffs: Greece-Paraguay, Algeria-Guatemala, England-Uruguay, Switzerland-Germany, Netherlands-Norway
+- **20:25-22:00 UTC**: Main near-res window (6 games)
+- **~21:00 UTC (00:00 GMT+3)**: **LAUNCH near_res_bball_mar27.py** — 10 NBA + 2 NCAAB Sweet 16 (24 tokens)
+  ```bash
+  cd /home/cctrd/cc-trader-agent
+  nohup python3 -u near_res_bball_mar27.py > logs/bball_mar27_$(date -u +%Y%m%d_%H%M).log 2>&1 &
+  ```
+- **23:00-23:35 UTC**: NBA early + Alabama-Michigan tipoff
+- **00:00-01:00 UTC Mar 28**: NBA mid tipoffs
+- **01:00-02:00 UTC**: NBA early near-res + Alabama-Michigan near-res
+- **01:45 UTC**: MSU vs UConn tipoff (COIN FLIP — best target, $422K vol)
+- **02:00-02:30 UTC**: NBA late tipoffs (Warriors, Blazers, Lakers)
+- **02:30-03:00 UTC**: NBA mid near-res
+- **03:30-04:00 UTC**: MSU-UConn near-res (KEY WINDOW)
+- **04:30-05:00 UTC**: NBA late near-res
+
+#### Key March 27 Targets:
+- **MSU vs UConn** — 47/53, $422K vol. Near coin flip. Best near-res target.
+- **Heat vs Cavaliers** — 37/63. Closest NBA game.
+- **Switzerland vs Germany** — 30/44. Close friendly, high interest.
+- **Morocco vs Ecuador** — 35/31. Very close friendly.
+- Duke vs St. John's — NOT on PM yet (check day-of)
+
+### March 28 Prep (next sessions)
+- NCAAB Elite 8 Saturday: check if markets created
+- Check NBA March 28 schedule
 
 ### Denmark Election: BOTH LOST (Session 142)
 - Margin 5-10% YES: -$18.00, LA 3rd YES: -$14.00 = -$32.00 total
