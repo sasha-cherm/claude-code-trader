@@ -76,6 +76,7 @@ ET_TZ          = ZoneInfo("America/New_York")
 
 running = True
 filled_candles: set[tuple] = set()   # (interval, candle_start_str, side)
+failed_candles: set[tuple] = set()   # candles where market was not found
 
 
 def _sighandler(sig, _frame):
@@ -230,6 +231,7 @@ def trade_candle(interval: str, candle_start_utc: datetime,
     if market is None:
         log_trade({"candle_utc": str(candle_start_utc), "interval": interval,
                    "asset": tag, "side": side, "status": "MARKET_NOT_FOUND"})
+        failed_candles.add((interval, str(candle_start_utc), side, asset_4h))
         return
 
     token_id  = market["up_token"] if side == "UP" else market["down_token"]
@@ -347,7 +349,7 @@ def get_schedule():
             # Cancel is BEFORE start, so skip candles that already started
             if now < candle - timedelta(seconds=CANCEL_BEFORE_SEC):
                 key = (interval, str(candle), side, asset_4h)
-                if key not in filled_candles:
+                if key not in filled_candles and key not in failed_candles:
                     grouped.setdefault(candle, []).append(entry)
     return sorted(grouped.items())
 
