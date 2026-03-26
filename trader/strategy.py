@@ -189,6 +189,44 @@ def place_limit_buy(client: ClobClient, token_id: str, amount_usdc: float,
         return None
 
 
+def place_near_res_buy(client: ClobClient, token_id: str, amount_usdc: float,
+                       tag: str = "") -> Optional[dict]:
+    """
+    Place a BUY order at the ASK price for instant fill (taker).
+    Use for near-resolution trades where speed > commission savings.
+    Commissions start March 30; free taker fills until then.
+    """
+    from math import floor
+    from py_clob_client.clob_types import OrderArgs
+
+    try:
+        # Get ask/sell price — this is what it actually costs to buy
+        price_info = client.get_price(token_id, "sell")
+        ask_price = float(price_info.get("price", 0))
+        if ask_price <= 0.01 or ask_price > 0.99:
+            raise ValueError(f"Bad ask price {ask_price}")
+
+        shares = floor((amount_usdc / ask_price) * 100) / 100.0
+        if shares < 0.01:
+            raise ValueError(f"Too few shares at price {ask_price}")
+
+        args = OrderArgs(
+            token_id=token_id,
+            price=ask_price,
+            size=shares,
+            side=BUY,
+        )
+        signed = client.create_order(args)
+        resp = client.post_order(signed)
+        prefix = f"[{tag}] " if tag else "[ORDER] "
+        print(f"{prefix}NEAR-RES BUY {shares:.2f}sh @ {ask_price:.3f} (taker at ask)")
+        return {"orderID": resp.get("orderID", ""), "filled": True,
+                "price": ask_price, "shares": shares}
+    except Exception as e:
+        print(f"[ORDER] NEAR-RES BUY failed: {e}")
+        return None
+
+
 def place_market_buy(client: ClobClient, token_id: str, amount_usdc: float) -> Optional[dict]:
     """
     Place a BUY order spending ~amount_usdc USDC.

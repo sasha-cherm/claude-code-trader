@@ -32,7 +32,7 @@ from datetime import datetime, timezone
 
 sys.path.insert(0, os.path.dirname(__file__))
 from trader.client import get_client, get_usdc_balance
-from trader.strategy import place_market_buy, place_limit_buy, get_actual_shares, load_state, save_state
+from trader.strategy import place_market_buy, place_limit_buy, place_near_res_buy, get_actual_shares, load_state, save_state
 from trader.notify import send
 
 ALL_GAMES = [
@@ -226,9 +226,9 @@ def check_and_buy(client, watch_list):
                 spend = min(MAX_SPEND_PER_TRADE, balance * PCT_OF_BALANCE)
                 if spend < MIN_SPEND:
                     continue
-                print(f"\n  *** LIMIT BUY {w['name']} YES @ bid ~{sell_price:.3f} for ${spend:.2f} ***")
-                result = place_limit_buy(client, w["token_id"], spend,
-                                         max_wait_sec=30, tag=w['name'])
+                print(f"\n  *** NEAR-RES BUY {w['name']} YES @ ask ~{sell_price:.3f} for ${spend:.2f} ***")
+                result = place_near_res_buy(client, w["token_id"], spend,
+                                            tag=w['name'])
                 if result and result.get("filled"):
                     fill_price = result["price"]
                     time.sleep(2)
@@ -255,7 +255,7 @@ def check_and_buy(client, watch_list):
                         if other["question"] == w["question"] and other["token_id"] != w["token_id"]:
                             BOUGHT.add(other["token_id"])
                     balance = get_usdc_balance(client)
-                    send(f"UEFA MAR26 NEAR-RES LIMIT BUY: {w['name']} YES @ {fill_price:.3f}\n"
+                    send(f"UEFA MAR26 NEAR-RES NEAR-RES BUY: {w['name']} YES @ {fill_price:.3f}\n"
                          f"${spend:.2f} ({shares:.2f} sh)\n"
                          f"Jump: {jump:+.3f}, {mins_left:.0f} min left")
                 elif result and not result.get("filled"):
