@@ -16,21 +16,6 @@
       "research_note": "Reuters poll: 57% expect hold, 39% cut. Inflation accelerated to 4.63%. BBVA expects hold. Edge ~11%."
     },
     {
-      "token_id": "21528693895122681640990264520485565333495540185668081094890510562878930832829",
-      "market_id": "sarb-decision-march",
-      "question": "Will the South African Reserve Bank decrease the repo rate after the March meeting?",
-      "side": "YES",
-      "entry_price": 0.1,
-      "fair_price": 0.5,
-      "edge": 0.4,
-      "size_usdc": 3.74,
-      "shares": 37.43,
-      "end_date": "2026-03-27T00:00:00Z",
-      "days_left_at_entry": 3,
-      "opened_at": "2026-03-24 18:10:00+00:00",
-      "research_note": "Investec expects 25bp cut. CPI fell to 3.0%. SARB's own QPM projects cuts. 2 MPC dissenters wanted cut in Jan. PM pricing only 10% vs analyst consensus ~50%+."
-    },
-    {
       "token_id": "58734460241479568888724948914418313747015696369303018476146571085541435875688",
       "market_id": "faroe-islands-election-winner",
       "question": "Will People's Party win the most seats in the Faroe Islands 2026 election?",
@@ -59,6 +44,36 @@
       "days_left_at_entry": 1,
       "opened_at": "2026-03-25 16:15:00+00:00",
       "research_note": "Sportsbook: Slovakia ~53% vs PM 46%. ~7% edge. Home in Bratislava. WCQ Playoff."
+    },
+    {
+      "token_id": "22018366048679221312689532353132141774118368618367535314505237811618661972779",
+      "market_id": "near-res-uefa-mar26-turkey",
+      "question": "T\u00fcrkiye vs. Romania",
+      "side": "YES",
+      "entry_price": 0.91,
+      "fair_price": 0.99,
+      "edge": 0.20999999999999996,
+      "size_usdc": 5.829605880000001,
+      "shares": 6.406160307692308,
+      "end_date": "2026-03-26T18:45:00Z",
+      "days_left_at_entry": 0.001243167662037037,
+      "opened_at": "2026-03-26 18:43:12.590314+00:00",
+      "research_note": "UEFA Mar26 near-res LIMIT: Turkey jumped +0.210, 2 min left."
+    },
+    {
+      "token_id": "91235421853549505515313154705985380922640511088664179396630749866887540062735",
+      "market_id": "near-res-uefa-mar26-sweden",
+      "question": "Ukraine vs. Sweden",
+      "side": "YES",
+      "entry_price": 0.95,
+      "fair_price": 0.99,
+      "edge": 0.53,
+      "size_usdc": 4.8372858800000005,
+      "shares": 5.091879873684212,
+      "end_date": "2026-03-26T21:30:00Z",
+      "days_left_at_entry": 0.013791400590277779,
+      "opened_at": "2026-03-26 21:10:08.422989+00:00",
+      "research_note": "UEFA Mar26 near-res LIMIT: Sweden jumped +0.530, 20 min left."
     }
   ],
   "trades": [
@@ -2265,8 +2280,48 @@
       "pnl_usdc": -13.996599999999999,
       "closed_at": "2026-03-24 21:30:00+00:00",
       "close_reason": "Settlement - LOST"
+    },
+    {
+      "token_id": "21528693895122681640990264520485565333495540185668081094890510562878930832829",
+      "market_id": "sarb-decision-march",
+      "question": "Will the South African Reserve Bank decrease the repo rate after the March meeting?",
+      "side": "YES",
+      "entry_price": 0.1,
+      "fair_price": 0.5,
+      "edge": 0.4,
+      "size_usdc": 3.74,
+      "shares": 37.43,
+      "end_date": "2026-03-27T00:00:00Z",
+      "days_left_at_entry": 3,
+      "opened_at": "2026-03-24 18:10:00+00:00",
+      "research_note": "Investec expects 25bp cut. CPI fell to 3.0%. SARB's own QPM projects cuts. 2 MPC dissenters wanted cut in Jan. PM pricing only 10% vs analyst consensus ~50%+.",
+      "exit_price": 0.0,
+      "pnl_pct": -1.0,
+      "pnl_usdc": -3.74,
+      "closed_at": "2026-03-26T14:00:00+00:00",
+      "close_reason": "LOST - SARB held rates"
+    },
+    {
+      "token_id": "43640547800419938437530103292956751016903022960841899659932683568902626453785",
+      "market_id": "near-res-uefa-mar26-lithuania",
+      "question": "Moldova vs. Lithuania",
+      "side": "YES",
+      "entry_price": 0.98,
+      "fair_price": 0.99,
+      "edge": 0.61,
+      "size_usdc": 7.827517880000001,
+      "shares": 7.987263142857144,
+      "end_date": "2026-03-26T16:45:00Z",
+      "days_left_at_entry": 0.010104333020833332,
+      "opened_at": "2026-03-26 16:30:26.985627+00:00",
+      "research_note": "UEFA Mar26 near-res LIMIT: Lithuania jumped +0.610, 15 min left.",
+      "exit_price": 1.0,
+      "pnl_pct": 0.02040816326530614,
+      "pnl_usdc": 0.1597452628571432,
+      "closed_at": "2026-03-26T20:00:00+00:00",
+      "close_reason": "WON - Lithuania settled"
     }
   ],
-  "sessions": 74,
+  "sessions": 76,
   "mm_orders": []
 }
