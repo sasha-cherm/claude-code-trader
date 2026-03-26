@@ -10,7 +10,10 @@ NBA (tipoff 23:00 UTC / 7PM ET, end ~01:30 UTC Mar 27):
 NCAAB Sweet 16 (tipoff ~04:00 UTC Mar 27, end ~06:00 UTC):
 - Tennessee vs Iowa State (36/63)
 
-Near-res windows: 01:00-01:30 UTC (NBA), 05:30-06:00 UTC (NCAAB).
+NCAAB Sweet 16 (tipoff ~02:05 UTC Mar 27, end ~04:15 UTC):
+- Illinois vs Houston (41/58)
+
+Near-res windows: 01:00-01:30 UTC (NBA), 03:45-04:15 UTC (Illinois-Houston), 05:30-06:00 UTC (Tennessee-ISU).
 Launch at ~21:00-23:00 UTC Mar 26.
 
 Validated params: MIN_PRICE=0.85, JUMP=0.20, SPREAD=0.04, MAX_MINS=20.
@@ -50,6 +53,14 @@ ALL_GAMES = [
     {"name": "Magic", "token_id": "42681689509474313921994466296825751144460520075266714195393481209429064869806",
      "end_date": "2026-03-27T01:30:00Z", "pre_game_price": 0.0,
      "question": "Kings vs. Magic"},
+
+    # === Illinois vs Houston — NCAAB Sweet 16 (tipoff ~02:05 UTC Mar 27, end ~04:15 UTC) ===
+    {"name": "Illinois", "token_id": "32808458875366467745777044160603661512817861173859925631005519080722962618453",
+     "end_date": "2026-03-27T04:15:00Z", "pre_game_price": 0.0,
+     "question": "Illinois vs. Houston"},
+    {"name": "Houston", "token_id": "59202108327135535421172568160321982683582378216670455227255549883175903089000",
+     "end_date": "2026-03-27T04:15:00Z", "pre_game_price": 0.0,
+     "question": "Illinois vs. Houston"},
 
     # === Tennessee vs Iowa State — NCAAB Sweet 16 (tipoff ~04:00 UTC, end ~06:00 UTC) ===
     {"name": "Tennessee", "token_id": "81438783150792244592328715427303188623453352675284541060677928493725012936568",
