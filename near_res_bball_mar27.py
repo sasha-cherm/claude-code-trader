@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Near-resolution monitor for March 27, 2026 — 10 NBA + 2 NCAAB Sweet 16.
+Near-resolution monitor for March 27, 2026 — 10 NBA + 3 NCAAB Sweet 16.
 
 NCAAB Sweet 16 (tipoff ~23:35 UTC Mar 27 / 7:35PM ET):
 - Alabama vs Michigan (18/81) — $137K vol
@@ -46,6 +46,14 @@ from trader.strategy import place_near_res_buy, get_actual_shares, load_state, s
 from trader.notify import send
 
 ALL_GAMES = [
+    # === St. John's vs Duke — NCAAB Sweet 16 (tipoff ~23:10 UTC, end ~01:10 UTC Mar 28) ===
+    {"name": "St. John's", "token_id": "14199212569863976541165240497836603109354451747519471965245480949207679185215",
+     "end_date": "2026-03-28T01:10:00Z", "pre_game_price": 0.0,
+     "question": "St. John's vs. Duke"},
+    {"name": "Duke", "token_id": "65503641970158136703516259292243467669354193972901151416267326116001014725196",
+     "end_date": "2026-03-28T01:10:00Z", "pre_game_price": 0.0,
+     "question": "St. John's vs. Duke"},
+
     # === Alabama vs Michigan — NCAAB Sweet 16 (tipoff ~23:35 UTC, end ~01:35 UTC Mar 28) ===
     {"name": "Alabama", "token_id": "31058028660405173173651315689025730539994483848792849474560279252203011850319",
      "end_date": "2026-03-28T01:35:00Z", "pre_game_price": 0.0,
