@@ -15,8 +15,11 @@ Matches (kickoff → end = kickoff+1:45):
 - Morocco vs Ecuador: 20:15 → 22:00 UTC  ← CLOSE GAME
 - Haiti vs Tunisia: 00:00 → 01:45 UTC Mar 28  ← LATE
 
+Draw markets added: GRE-PAR, ENG-URU, SUI-GER, NED-NOR, MOR-ECU (YES only).
+If game tied at 80th+ min, draw YES jumps to 0.85+ → near-res buy signal.
+
 Near-res windows: 17:55-18:45, 20:25-20:45, 21:00-22:00, 01:25-01:45 UTC.
-Launch at ~15:00-16:00 UTC Mar 27.
+Launch at ~13:00-15:00 UTC Mar 27.
 
 Validated params: MIN_PRICE=0.85, JUMP=0.20, SPREAD=0.04, MAX_MINS=20.
 """
@@ -119,6 +122,34 @@ ALL_GAMES = [
     {"name": "Tunisia", "token_id": "23511830895608046506815830191266833883248965695593004600706650689648936762941",
      "end_date": "2026-03-28T01:45:00Z", "pre_game_price": 0.0,
      "question": "Haiti vs. Tunisia"},
+
+    # === DRAW MARKETS (YES only — triggers when game tied at 80th+ minute) ===
+    # If game is 0-0 or tied late, draw YES jumps to 0.85+ → near-res buy signal
+
+    # Greece-Paraguay draw (kickoff 19:00, end ~20:45 UTC) — 29.5% pre-game
+    {"name": "GRE-PAR Draw YES", "token_id": "84731395200470886643248891935838237741475713652743068875925169567395351142979",
+     "end_date": "2026-03-27T20:45:00Z", "pre_game_price": 0.0,
+     "question": "Greece vs. Paraguay draw"},
+
+    # England-Uruguay draw (kickoff 19:45, end ~21:30 UTC) — 22.5% pre-game
+    {"name": "ENG-URU Draw YES", "token_id": "111552417545911698827661214654623573151317290018294447868462539966891867094245",
+     "end_date": "2026-03-27T21:30:00Z", "pre_game_price": 0.0,
+     "question": "England vs. Uruguay draw"},
+
+    # Switzerland-Germany draw (kickoff 19:45, end ~21:30 UTC) — 26.5% pre-game
+    {"name": "SUI-GER Draw YES", "token_id": "66719983600850239396655516420152317427653109211084997582628627364823929743130",
+     "end_date": "2026-03-27T21:30:00Z", "pre_game_price": 0.0,
+     "question": "Switzerland vs. Germany draw"},
+
+    # Netherlands-Norway draw (kickoff 19:45, end ~21:30 UTC) — 23.5% pre-game
+    {"name": "NED-NOR Draw YES", "token_id": "14788755366359767274691811621738048867771369511884589224327519595997163406054",
+     "end_date": "2026-03-27T21:30:00Z", "pre_game_price": 0.0,
+     "question": "Netherlands vs. Norway draw"},
+
+    # Morocco-Ecuador draw (kickoff 20:15, end ~22:00 UTC) — 33.5% pre-game, CLOSEST
+    {"name": "MOR-ECU Draw YES", "token_id": "46034780032529612926045946307343366431092406436093394190316253751073041707395",
+     "end_date": "2026-03-27T22:00:00Z", "pre_game_price": 0.0,
+     "question": "Morocco vs. Ecuador draw"},
 ]
 
 # === Params (validated Mar 22: 8/8 wins) ===
