@@ -320,9 +320,38 @@ nohup python3 -u near_res_nba_mar18.py > logs/nba_mar18_$(date -u +%Y%m%d_%H%M).
 - **Morocco vs Ecuador** — 35/31. Very close friendly.
 - Duke vs St. John's — NOT on PM yet (check day-of)
 
-### March 28 Prep (next sessions)
-- NCAAB Elite 8 Saturday: check if markets created
-- Check NBA March 28 schedule
+### March 28 Schedule — ACTIVE PLAN
+- **~13:00 UTC (16:00 GMT+3)**: **LAUNCH near_res_soccer_mar28.py** — 7 friendlies (19 tokens)
+  ```bash
+  cd /home/cctrd/cc-trader-agent
+  nohup python3 -u near_res_soccer_mar28.py > logs/soccer_mar28_$(date -u +%Y%m%d_%H%M).log 2>&1 &
+  ```
+- **~16:00 UTC (19:00 GMT+3)**: **LAUNCH near_res_bball_mar28.py** — 6 NBA (12 tokens)
+  ```bash
+  cd /home/cctrd/cc-trader-agent
+  nohup python3 -u near_res_bball_mar28.py > logs/bball_mar28_$(date -u +%Y%m%d_%H%M).log 2>&1 &
+  ```
+- **Check for NCAAB Elite 8 markets** (not created yet as of 21:00 Mar 27)
+- **Check for CS2 BLAST Rotterdam semi match markets** (tournament winner exists, individual match TBD)
+
+#### Near-res windows (UTC):
+- 15:25-15:50: CIV-KOR
+- 17:25-17:50: SEN-PER
+- 18:25-18:50: CAN-ISL, HUN-SVN, SCO-JPN (3 games simultaneous)
+- 20:55-21:20: USA-BEL
+- 21:10-21:30: Spurs-Bucks
+- **23:40-00:00: Pistons-TWolves (COIN FLIP $287K vol — BEST TARGET)**
+- 00:10-00:30 Mar 29: 76ers-Hornets
+- 01:40-02:00: Kings-Hawks
+- 02:10-02:30: Bulls-Grizzlies
+- 02:25-02:50: MEX-POR
+- 04:10-04:30: Jazz-Suns
+
+#### Key March 28 Targets:
+- **Pistons vs Timberwolves** — 51/48, $287K vol. COIN FLIP. Best near-res target.
+- **Mexico vs Portugal** — 22/51, $88K vol. Late night friendly.
+- **76ers vs Hornets** — 31/68, $61K vol.
+- **Spurs vs Bucks** — 91/8, $31K vol. Heavy favorite.
 
 ### Denmark Election: BOTH LOST (Session 142)
 - Margin 5-10% YES: -$18.00, LA 3rd YES: -$14.00 = -$32.00 total
