@@ -150,6 +150,15 @@ ALL_GAMES = [
     {"name": "Lakers", "token_id": "53814578390846706799335334420276388082271504502099011987284093586299619386518",
      "end_date": "2026-03-28T05:00:00Z", "pre_game_price": 0.0,
      "question": "Nets vs. Lakers"},
+
+    # === CS2: Falcons vs PARIVISION BO3 — BLAST Open Rotterdam Playoffs ($571K vol) ===
+    # CS2 near-res signal: price jump when team wins map 1 + leading map 2
+    {"name": "Falcons", "token_id": "18674171076645744264289472009914069334445011122730553878524297886960872500598",
+     "end_date": "2026-03-28T02:30:00Z", "pre_game_price": 0.0,
+     "question": "CS2: Falcons vs PARIVISION"},
+    {"name": "PARIVISION", "token_id": "25254000843041544215218449322786367088736866571913407084866890000639628082600",
+     "end_date": "2026-03-28T02:30:00Z", "pre_game_price": 0.0,
+     "question": "CS2: Falcons vs PARIVISION"},
 ]
 
 # === Params (validated Mar 22: 8/8 wins) ===
