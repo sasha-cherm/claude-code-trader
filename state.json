@@ -2284,6 +2284,26 @@
       "pnl_usdc": -6.98511,
       "closed_at": "2026-03-26T23:05:32.143468+00:00",
       "close_reason": "LOST - Kosovo won"
+    },
+    {
+      "token_id": "6662931739968395106647433937346568296609228021621026345970130532190231925050",
+      "market_id": "near-res-soccer-mar27-netherlands",
+      "question": "Netherlands vs. Norway",
+      "side": "YES",
+      "entry_price": 0.86,
+      "fair_price": 0.94,
+      "edge": 0.2899999999999999,
+      "size_usdc": 3.8730498800000004,
+      "shares": 4.503546372093024,
+      "end_date": "2026-03-27T21:30:00Z",
+      "days_left_at_entry": 0.004648468819444445,
+      "opened_at": "2026-03-27 21:23:18.372294+00:00",
+      "research_note": "Near-res: price jumped +0.29 from 0.56",
+      "exit_price": 1.0,
+      "pnl_pct": 0.1628,
+      "pnl_usdc": 0.6305,
+      "closed_at": "2026-03-27 22:00:00+00:00",
+      "close_reason": "Won (settlement pending)"
     }
   ],
   "sessions": 76,

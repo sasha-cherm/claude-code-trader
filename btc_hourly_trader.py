@@ -69,6 +69,8 @@ POLL_INTERVAL_SEC = 5         # orderbook poll frequency
 PRE_MARKET_MINUTES = 30       # start monitoring N min before candle
 CANCEL_BEFORE_SEC = 5         # Cancel unfilled orders N sec BEFORE candle starts
 MIN_EDGE_CENTS     = 1.9      # min (edge% - price%) in cents to place/keep order (user: "at least 2 points")
+MIN_BALANCE_USDC   = 5.0      # Reserve capital for near-res — skip candle if balance below this
+MAX_BATCH_COST     = 5.0      # Max USDC to deploy per batch (limits concurrent trades)
 
 TRADE_LOG_FILE = "logs/candle_trades.jsonl"
 GAMMA_HOST     = "https://gamma-api.polymarket.com"
@@ -394,11 +396,23 @@ def main():
         if not running:
             break
 
-        # Launch all candles at this time as concurrent threads
+        # Launch candles — but check balance first and limit batch spend
+        bal = get_usdc_balance(client)
         print(f"\n[CANDLE] ── {next_start.strftime('%Y-%m-%d %H:%M')} UTC batch "
-              f"({len(next_candles)} signals) ──")
+              f"({len(next_candles)} signals) ── Balance: ${bal:.2f}")
+        if bal < MIN_BALANCE_USDC:
+            print(f"[CANDLE] Balance ${bal:.2f} < ${MIN_BALANCE_USDC:.2f} minimum — SKIPPING batch")
+            time.sleep(10)
+            continue
+
+        # Limit batch to MAX_BATCH_COST worth of trades
+        max_trades = max(1, int(MAX_BATCH_COST / (ORDER_SIZE_SHARES * 0.55)))
+        to_launch = next_candles[:max_trades]
+        if len(to_launch) < len(next_candles):
+            print(f"[CANDLE] Capped to {max_trades} trades (${MAX_BATCH_COST:.0f} budget)")
+
         threads = []
-        for entry in next_candles:
+        for entry in to_launch:
             interval, hour_utc, asset_1h, asset_4h, side, edge = entry
             t = threading.Thread(
                 target=trade_candle,
