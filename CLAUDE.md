@@ -320,39 +320,37 @@ nohup python3 -u near_res_nba_mar18.py > logs/nba_mar18_$(date -u +%Y%m%d_%H%M).
 - **Morocco vs Ecuador** — 35/31. Very close friendly.
 - Duke vs St. John's — NOT on PM yet (check day-of)
 
-### March 28 — MONITORS RUNNING (Session 184)
-All monitors launched. Balance: $9.56.
+### March 28 — Session 188 Results
+- Soccer near-res: Hungary ✅, Japan ✅, Belgium ✅ (all won)
+- CS2: NAVI semi ✅ (won)
+- Settlements: Japan redeemed, Hungary/NAVI/Belgium pending (~$4.72 incoming)
+- Balance: $2.64 cash + $4.72 pending = ~$7.36 expected
+
+#### STILL RUNNING (as of 23:10 UTC Mar 28):
 | Monitor | PID | Status |
 |---------|-----|--------|
-| near_res_soccer_mar28.py | 1042604 | Running — Granada near-res ~16:45 UTC |
-| near_res_cs2_mar28.py | 1042612 | Running — NAVI vs Parivision |
-| btc_hourly_trader.py | 1050502 | Running — next: 17:00 UTC BTC UP |
-| near_res_bball_mar28.py | 1054295 | Running — all pre-game captured |
+| near_res_bball_mar28.py | 1081403 | Relaunched — Pistons 0.85, near-res window 23:40+ |
+| btc_hourly_trader.py | 1050502 | Skipping (balance < $5) |
 
-#### Remaining near-res windows (UTC):
-- **16:45-17:05**: Granada-Huesca (buy=0.92)
-- 17:25-17:50: SEN-PER
-- ~18:15-19:30: CS2 NAVI vs Parivision
-- 18:25-18:50: CAN-ISL, HUN-SVN, SCO-JPN
-- 18:55-19:20: Malaga-Leganes
-- 20:55-21:20: USA-BEL
-- 21:10-21:30: Spurs-Bucks
-- 21:25-21:50: Sporting-Deportivo
-- **23:40-00:09: Pistons-TWolves + Illinois-Iowa E8 — BEST TARGETS**
+Remaining Mar 28 near-res windows:
+- **23:40-00:09: Pistons-TWolves + Illinois-Iowa E8**
 - 00:10-00:30: 76ers-Hornets
-- 01:40-02:00: Kings-Hawks + MEX-POR
+- 01:40-02:00: Kings-Hawks
 - 02:10-02:30: Bulls-Grizzlies
 - 04:10-04:30: Jazz-Suns
 
-**Check logs, DO NOT relaunch monitors.**
+**Monitor handles these automatically. Check logs, DO NOT relaunch.**
 
-### March 29 Schedule — PREPARED (Session 184)
-- **~09:00 UTC (12:00 GMT+3)**: **LAUNCH near_res_soccer_mar29.py** — Colombia-France + Lithuania-Georgia (6 tokens)
+### March 29 Schedule — READY
+**NCAAB Elite 8**: NO game-winner markets on PM (only tournament finals).
+**Position sizing**: Updated to 45% of balance, $0.50 min spend (compound faster).
+**Commissions**: Start March 30. March 29 orders still free (taker).
+
+- **~09:00 UTC (12:00 GMT+3)**: **LAUNCH near_res_soccer_mar29.py** — 8 soccer + BLAST GF (23 tokens)
   ```bash
   cd /home/cctrd/cc-trader-agent
   nohup python3 -u near_res_soccer_mar29.py > logs/soccer_mar29_$(date -u +%Y%m%d_%H%M).log 2>&1 &
   ```
-- **~09:00 UTC**: Check for NCAAB Elite 8 markets (Purdue-Arizona, Duke-Houston, Auburn-MSU, Florida-St.Johns)
 - **~18:00 UTC (21:00 GMT+3)**: **LAUNCH near_res_bball_mar29.py** — 9 NBA games (18 tokens)
   ```bash
   cd /home/cctrd/cc-trader-agent
@@ -360,8 +358,12 @@ All monitors launched. Balance: $9.56.
   ```
 
 #### March 29 Near-res windows (UTC):
+- 11:40-12:00: Eibar-Las Palmas (Spanish 2nd)
 - 12:40-13:00: Lithuania-Georgia
-- 18:40-19:00: Colombia-France ← BEST soccer target
+- 13:40-14:00: Armenia-Belarus
+- ~14:00-19:00: BLAST GF (CS2 BO3, Vitality 80% vs NAVI 15%)
+- 16:10-16:30: Zaragoza-Racing
+- **18:40-19:00: Colombia-France ← BEST soccer target ($61K vol)**
 - 21:40-22:00: Clippers-Bucks
 - 23:10-23:30: Heat-Pacers
 - **00:10-00:30 Mar 30: Kings-Nets + Celtics-Hornets + Magic-Raptors (4 overlap!) ← BEST**
@@ -370,8 +372,8 @@ All monitors launched. Balance: $9.56.
 - 04:10-04:30: Warriors-Nuggets
 
 #### Key March 29 Targets:
-- **Kings vs Nets** — 51.5/48.5, $28K vol. True coin flip.
-- **Celtics vs Hornets** — 52.5/47.5, $58K vol. Near coin flip.
+- **Kings vs Nets** — 49/50 coin flip, $28K vol.
+- **Celtics vs Hornets** — 47/52 coin flip, $58K vol.
 - **Colombia vs France** — France 57.5%, $61K vol.
 
 ### Denmark Election: BOTH LOST (Session 142)
