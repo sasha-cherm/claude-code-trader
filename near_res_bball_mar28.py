@@ -1,20 +1,21 @@
 #!/usr/bin/env python3
 """
-Near-resolution monitor for March 28, 2026 — 6 NBA games.
+Near-resolution monitor for March 28, 2026 — 6 NBA games + 1 NCAAB Elite 8.
 
-Gamma end_date = tipoff. Actual end = tipoff + ~2:30.
+Gamma end_date = tipoff. Actual end = tipoff + ~2:30 (NBA), ~2:00 (NCAAB).
 
-NBA Games (by tipoff UTC):
+Games (by tipoff UTC):
 - Spurs vs Bucks (19:00 UTC tipoff, end ~21:30) — Spurs 91% fav
-- Pistons vs Timberwolves (21:30 UTC, end ~00:00) — COIN FLIP, $287K vol ← BEST TARGET
+- Pistons vs Timberwolves (21:30 UTC, end ~00:00) — COIN FLIP, $567K vol ← BEST TARGET
 - 76ers vs Hornets (22:00 UTC, end ~00:30) — Hornets 68% fav
+- **Illinois vs Iowa (NCAAB Elite 8)** (22:09 UTC tipoff, end ~00:09) — Illinois 73%, $760K vol
 - Kings vs Hawks (23:30 UTC, end ~02:00) — Hawks 87% fav
 - Bulls vs Grizzlies (00:00 Mar 29, end ~02:30) — Bulls 61%
 - Jazz vs Suns (02:00 Mar 29, end ~04:30) — Suns 90%
 
 Near-res windows (last 20 mins of game):
 - 21:10-21:30 UTC: Spurs-Bucks
-- 23:40-00:00 UTC: Pistons-TWolves
+- 23:40-00:00 UTC: Pistons-TWolves + Illinois-Iowa (OVERLAPPING!)
 - 00:10-00:30 UTC: 76ers-Hornets
 - 01:40-02:00 UTC: Kings-Hawks
 - 02:10-02:30 UTC: Bulls-Grizzlies
@@ -83,6 +84,14 @@ ALL_GAMES = [
     {"name": "Suns", "token_id": "96664996099704822974415975516126061506215054046704379673445993793396400000228",
      "end_date": "2026-03-29T04:30:00Z", "pre_game_price": 0.0,
      "question": "Jazz vs Suns"},
+
+    # === NCAAB Elite 8: Illinois vs Iowa (tipoff 22:09 UTC, end ~00:09 Mar 29) — $760K vol ===
+    {"name": "Illinois", "token_id": "51016507619180924665597559307500966371300359990730628147295374239685630001225",
+     "end_date": "2026-03-29T00:09:00Z", "pre_game_price": 0.0,
+     "question": "Illinois vs Iowa"},
+    {"name": "Iowa", "token_id": "94447182302194482310220356455575365299769150002438081485821221492788471804424",
+     "end_date": "2026-03-29T00:09:00Z", "pre_game_price": 0.0,
+     "question": "Illinois vs Iowa"},
 ]
 
 # === Params (validated Mar 22: 8/8 wins) ===

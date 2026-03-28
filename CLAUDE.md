@@ -320,38 +320,47 @@ nohup python3 -u near_res_nba_mar18.py > logs/nba_mar18_$(date -u +%Y%m%d_%H%M).
 - **Morocco vs Ecuador** — 35/31. Very close friendly.
 - Duke vs St. John's — NOT on PM yet (check day-of)
 
-### March 28 Schedule — ACTIVE PLAN
-- **~13:00 UTC (16:00 GMT+3)**: **LAUNCH near_res_soccer_mar28.py** — 7 friendlies (19 tokens)
+### March 28 Schedule — ACTIVE PLAN (updated Session 179)
+- **~13:00 UTC (16:00 GMT+3)**: **LAUNCH near_res_soccer_mar28.py** — 7 friendlies + 4 Spanish 2nd (27 tokens)
   ```bash
   cd /home/cctrd/cc-trader-agent
   nohup python3 -u near_res_soccer_mar28.py > logs/soccer_mar28_$(date -u +%Y%m%d_%H%M).log 2>&1 &
   ```
-- **~16:00 UTC (19:00 GMT+3)**: **LAUNCH near_res_bball_mar28.py** — 6 NBA (12 tokens)
+- **~13:00 UTC**: **LAUNCH near_res_cs2_mar28.py** — BLAST semi: NAVI vs Parivision
+  ```bash
+  cd /home/cctrd/cc-trader-agent
+  nohup python3 -u near_res_cs2_mar28.py > logs/cs2_mar28_$(date -u +%Y%m%d_%H%M).log 2>&1 &
+  ```
+- **~18:00 UTC (21:00 GMT+3)**: **LAUNCH near_res_bball_mar28.py** — 6 NBA + NCAAB Illinois-Iowa (14 tokens)
   ```bash
   cd /home/cctrd/cc-trader-agent
   nohup python3 -u near_res_bball_mar28.py > logs/bball_mar28_$(date -u +%Y%m%d_%H%M).log 2>&1 &
   ```
-- **Check for NCAAB Elite 8 markets** (not created yet as of 21:00 Mar 27)
-- **Check for CS2 BLAST Rotterdam semi match markets** (tournament winner exists, individual match TBD)
+- **Check for Purdue-Arizona NCAAB E8 market** (not created as of 05:00 Mar 28)
 
 #### Near-res windows (UTC):
 - 15:25-15:50: CIV-KOR
+- 16:40-17:05: Granada-Huesca, Valladolid-Burgos (Spanish 2nd)
 - 17:25-17:50: SEN-PER
-- 18:25-18:50: CAN-ISL, HUN-SVN, SCO-JPN (3 games simultaneous)
+- ~18:15-19:30: CS2 NAVI vs Parivision semi (map 1-2)
+- 18:25-18:50: CAN-ISL, HUN-SVN, SCO-JPN (3 simultaneous)
+- 18:55-19:20: Malaga-Leganes (Spanish 2nd)
 - 20:55-21:20: USA-BEL
 - 21:10-21:30: Spurs-Bucks
-- **23:40-00:00: Pistons-TWolves (COIN FLIP $287K vol — BEST TARGET)**
+- 21:25-21:50: Sporting-Deportivo (Spanish 2nd)
+- **23:40-00:09: Pistons-TWolves + Illinois-Iowa NCAAB E8 — BEST TARGETS**
 - 00:10-00:30 Mar 29: 76ers-Hornets
 - 01:40-02:00: Kings-Hawks
 - 02:10-02:30: Bulls-Grizzlies
-- 02:25-02:50: MEX-POR
+- 02:25-02:50: MEX-POR ($157K)
 - 04:10-04:30: Jazz-Suns
 
 #### Key March 28 Targets:
-- **Pistons vs Timberwolves** — 51/48, $287K vol. COIN FLIP. Best near-res target.
-- **Mexico vs Portugal** — 22/51, $88K vol. Late night friendly.
-- **76ers vs Hornets** — 31/68, $61K vol.
-- **Spurs vs Bucks** — 91/8, $31K vol. Heavy favorite.
+- **Illinois vs Iowa (NCAAB E8)** — ILL 73/IOWA 27, $760K vol. HIGH LIQUIDITY.
+- **Pistons vs Timberwolves** — 45/55, $567K vol. COIN FLIP.
+- **NAVI vs Parivision CS2** — 55/45, $50K vol. COIN FLIP.
+- **Mexico vs Portugal** — 22/51, $157K vol. Late night friendly.
+- **Purdue vs Arizona (NCAAB E8)** — ~01:00 UTC Mar 29. Check if market created.
 
 ### Denmark Election: BOTH LOST (Session 142)
 - Margin 5-10% YES: -$18.00, LA 3rd YES: -$14.00 = -$32.00 total
