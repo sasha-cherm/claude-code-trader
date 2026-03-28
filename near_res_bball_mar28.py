@@ -39,58 +39,58 @@ from trader.notify import send
 ALL_GAMES = [
     # === Spurs vs Bucks (tipoff 19:00 UTC, end ~21:30) ===
     {"name": "Spurs", "token_id": "29950489035650776944637857495608923659285559520543605944359984119443817993935",
-     "end_date": "2026-03-28T21:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-28T21:30:00Z", "pre_game_price": 0.930,
      "question": "Spurs vs Bucks"},
     {"name": "Bucks", "token_id": "51467971543044391490562153161794632172931862580956295609766286623443587927797",
-     "end_date": "2026-03-28T21:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-28T21:30:00Z", "pre_game_price": 0.060,
      "question": "Spurs vs Bucks"},
 
     # === Pistons vs Timberwolves (tipoff 21:30, end ~00:00 Mar 29) — COIN FLIP ===
     {"name": "Pistons", "token_id": "95411093744734370915792410998151956108686985086137534199369379281549794538611",
-     "end_date": "2026-03-29T00:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-29T00:00:00Z", "pre_game_price": 0.530,
      "question": "Pistons vs Timberwolves"},
     {"name": "Timberwolves", "token_id": "49164064820177403051176734322968533773346472121558748796183619121394153010608",
-     "end_date": "2026-03-29T00:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-29T00:00:00Z", "pre_game_price": 0.460,
      "question": "Pistons vs Timberwolves"},
 
     # === 76ers vs Hornets (tipoff 22:00, end ~00:30 Mar 29) ===
     {"name": "76ers", "token_id": "31032354366533293355668238476117231416828391966974430070047166314019592915724",
-     "end_date": "2026-03-29T00:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-29T00:30:00Z", "pre_game_price": 0.310,
      "question": "76ers vs Hornets"},
     {"name": "Hornets", "token_id": "101775132695058782295092513974354689556361470165033001112394714177373535106738",
-     "end_date": "2026-03-29T00:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-29T00:30:00Z", "pre_game_price": 0.680,
      "question": "76ers vs Hornets"},
 
     # === Kings vs Hawks (tipoff 23:30, end ~02:00 Mar 29) ===
     {"name": "Kings", "token_id": "21150148414312899009913397598767905385126229079397555468537126424075956087411",
-     "end_date": "2026-03-29T02:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-29T02:00:00Z", "pre_game_price": 0.110,
      "question": "Kings vs Hawks"},
     {"name": "Hawks", "token_id": "59659558999551574376327890231148977468461925241962629072949038607122208133954",
-     "end_date": "2026-03-29T02:00:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-29T02:00:00Z", "pre_game_price": 0.880,
      "question": "Kings vs Hawks"},
 
     # === Bulls vs Grizzlies (tipoff 00:00 Mar 29, end ~02:30) ===
     {"name": "Bulls", "token_id": "49675008083918171505137582837949064531166050861222917473777213367353739315061",
-     "end_date": "2026-03-29T02:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-29T02:30:00Z", "pre_game_price": 0.620,
      "question": "Bulls vs Grizzlies"},
     {"name": "Grizzlies", "token_id": "78146383566212769129869114601977346963972569693982905884008997406170312559153",
-     "end_date": "2026-03-29T02:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-29T02:30:00Z", "pre_game_price": 0.370,
      "question": "Bulls vs Grizzlies"},
 
     # === Jazz vs Suns (tipoff 02:00 Mar 29, end ~04:30) ===
     {"name": "Jazz", "token_id": "55011611825902966608881846768720360730743421878581112757231431155715068566038",
-     "end_date": "2026-03-29T04:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-29T04:30:00Z", "pre_game_price": 0.070,
      "question": "Jazz vs Suns"},
     {"name": "Suns", "token_id": "96664996099704822974415975516126061506215054046704379673445993793396400000228",
-     "end_date": "2026-03-29T04:30:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-29T04:30:00Z", "pre_game_price": 0.920,
      "question": "Jazz vs Suns"},
 
     # === NCAAB Elite 8: Illinois vs Iowa (tipoff 22:09 UTC, end ~00:09 Mar 29) — $760K vol ===
     {"name": "Illinois", "token_id": "51016507619180924665597559307500966371300359990730628147295374239685630001225",
-     "end_date": "2026-03-29T00:09:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-29T00:09:00Z", "pre_game_price": 0.730,
      "question": "Illinois vs Iowa"},
     {"name": "Iowa", "token_id": "94447182302194482310220356455575365299769150002438081485821221492788471804424",
-     "end_date": "2026-03-29T00:09:00Z", "pre_game_price": 0.0,
+     "end_date": "2026-03-29T00:09:00Z", "pre_game_price": 0.260,
      "question": "Illinois vs Iowa"},
 ]
 
@@ -101,8 +101,8 @@ MIN_PRICE_JUMP = 0.20
 MAX_SPREAD = 0.04
 MAX_MINS_TO_END = 20
 MAX_SPEND_PER_TRADE = 15.0
-MIN_SPEND = 1.0
-PCT_OF_BALANCE = 0.28
+MIN_SPEND = 0.50
+PCT_OF_BALANCE = 0.45
 BOUGHT = set()
 
 
