@@ -64,7 +64,7 @@ EDGE_CANDLES = [
     ("4H", 20, "xrp",      "xrp",  "DOWN", 0.560),  # XRP 4H 20-24 DOWN 56.0%
 ]
 
-ORDER_SIZE_SHARES = 5.0       # Minimal size — validating multi-crypto setup
+ORDER_SIZE_SHARES = 2.0       # Reduced from 5.0 — preserve capital for near-res
 POLL_INTERVAL_SEC = 5         # orderbook poll frequency
 PRE_MARKET_MINUTES = 30       # start monitoring N min before candle
 CANCEL_BEFORE_SEC = 5         # Cancel unfilled orders N sec BEFORE candle starts
