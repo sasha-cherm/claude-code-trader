@@ -1,20 +1,25 @@
 #!/usr/bin/env python3
 """
-Near-resolution monitor for March 29, 2026 — Soccer friendlies + Spanish 2nd.
+Near-resolution monitor for March 29, 2026 — Soccer + CS2 BLAST GF.
 
-Games (by kickoff UTC → estimated end):
-- SD Eibar vs UD Las Palmas (Spanish 2nd, ~10:15 kickoff, end ~12:00) — $4K vol
-- Cultural y Deportiva vs FC Andorra (Spanish 2nd, ~12:30, end ~14:15) — $11K vol
-- Lithuania vs Georgia (friendly, ~11:15, end ~13:00) — $5K vol
-- Real Zaragoza vs Racing Club (Spanish 2nd, ~14:45, end ~16:30) — $8K vol
-- Colombia vs France (friendly, ~17:15, end ~19:00) — $61K vol ← BEST TARGET
+Games (by end time UTC):
+- SD Eibar vs UD Las Palmas (Spanish 2nd, end ~12:00) — $4K vol
+- Lithuania vs Georgia (friendly, end ~13:00) — $5K vol
+- Armenia vs Belarus (friendly, end ~14:00) — $9K vol
+- Cultural y Deportiva vs FC Andorra (Spanish 2nd, end ~14:15) — $11K vol
+- Real Zaragoza vs Racing Club (Spanish 2nd, end ~16:30) — $8K vol
+- Colombia vs France (friendly, end ~19:00) — $61K vol ← BEST TARGET
+- UD Almeria vs Real Sociedad B (Spanish 2nd, end ~19:00) — $1K vol
+- BLAST GF: Vitality vs NAVI (CS2, ~13:00-19:00 UTC) — $570K vol
 
 Near-res windows (last 20 mins):
 - 11:40-12:00: Eibar-Las Palmas
 - 12:40-13:00: Lithuania-Georgia
+- 13:40-14:00: Armenia-Belarus
 - 13:55-14:15: Cultural-Andorra
+- ~14:00-19:00: BLAST GF (CS2 BO3, exact time TBD)
 - 16:10-16:30: Zaragoza-Racing
-- 18:40-19:00: Colombia-France ← BEST WINDOW
+- 18:40-19:00: Colombia-France + Almeria-RealSocB ← BEST WINDOW
 
 Launch at ~09:00 UTC. Runs until ~20:00 UTC.
 
@@ -32,7 +37,18 @@ from trader.strategy import place_near_res_buy, get_actual_shares, load_state, s
 from trader.notify import send
 
 ALL_GAMES = [
-    # === Lithuania vs Georgia (kickoff ~11:15, end ~13:00) ===
+    # === SD Eibar vs UD Las Palmas (end ~12:00 UTC) ===
+    {"name": "Eibar", "token_id": "68762722591172991206046512394676445779604336679450860867593660185637879491952",
+     "end_date": "2026-03-29T12:00:00Z", "pre_game_price": 0.0,
+     "question": "Eibar vs Las Palmas"},
+    {"name": "Las Palmas", "token_id": "47141765084953985001640885638672381703979210095645744645687269120363080884722",
+     "end_date": "2026-03-29T12:00:00Z", "pre_game_price": 0.0,
+     "question": "Eibar vs Las Palmas"},
+    {"name": "EIB-LPA Draw", "token_id": "89668883415490784687645738610624910558344263016568448872025630899321899104030",
+     "end_date": "2026-03-29T12:00:00Z", "pre_game_price": 0.0,
+     "question": "Eibar vs Las Palmas Draw"},
+
+    # === Lithuania vs Georgia (end ~13:00 UTC) ===
     {"name": "Lithuania", "token_id": "108571577093718516308956694727543833748558467283945806936098252944305582594974",
      "end_date": "2026-03-29T13:00:00Z", "pre_game_price": 0.0,
      "question": "Lithuania vs Georgia"},
@@ -43,7 +59,40 @@ ALL_GAMES = [
      "end_date": "2026-03-29T13:00:00Z", "pre_game_price": 0.0,
      "question": "Lithuania vs Georgia Draw"},
 
-    # === Colombia vs France (kickoff ~17:15, end ~19:00) — BEST TARGET $61K vol ===
+    # === Armenia vs Belarus (end ~14:00 UTC) ===
+    {"name": "Armenia", "token_id": "30268077721690329119827743599846097412280599680055961962311940037950423418594",
+     "end_date": "2026-03-29T14:00:00Z", "pre_game_price": 0.0,
+     "question": "Armenia vs Belarus"},
+    {"name": "Belarus", "token_id": "39134165241669911923869547845147864236150330636495662840163254793535744137130",
+     "end_date": "2026-03-29T14:00:00Z", "pre_game_price": 0.0,
+     "question": "Armenia vs Belarus"},
+    {"name": "ARM-BLR Draw", "token_id": "66237460029993106450561906144839146385337770121108642297069635414710223843267",
+     "end_date": "2026-03-29T14:00:00Z", "pre_game_price": 0.0,
+     "question": "Armenia vs Belarus Draw"},
+
+    # === Cultural y Deportiva vs FC Andorra (end ~14:15 UTC) ===
+    {"name": "Cultural", "token_id": "106371234962445721533321761764812675499130095251773881349537114057906266793786",
+     "end_date": "2026-03-29T14:15:00Z", "pre_game_price": 0.0,
+     "question": "Cultural vs Andorra"},
+    {"name": "FC Andorra", "token_id": "59358649539628888041638925840373982823052039497972750016911743698611476923414",
+     "end_date": "2026-03-29T14:15:00Z", "pre_game_price": 0.0,
+     "question": "Cultural vs Andorra"},
+    {"name": "CUL-AND Draw", "token_id": "53202315487177751165846947811122643982384833872242811745484123860978147913447",
+     "end_date": "2026-03-29T14:15:00Z", "pre_game_price": 0.0,
+     "question": "Cultural vs Andorra Draw"},
+
+    # === Real Zaragoza vs Racing Club (end ~16:30 UTC) ===
+    {"name": "Zaragoza", "token_id": "44285126467327989157734581973383059343274081871536453272497996872477108878076",
+     "end_date": "2026-03-29T16:30:00Z", "pre_game_price": 0.0,
+     "question": "Zaragoza vs Racing"},
+    {"name": "Racing Club", "token_id": "109830381824389899020307164061642529329087959461018760468652176764629831287886",
+     "end_date": "2026-03-29T16:30:00Z", "pre_game_price": 0.0,
+     "question": "Zaragoza vs Racing"},
+    {"name": "ZAR-RAC Draw", "token_id": "33295850888327353348791133989746948922407770910324841079569145267556118717054",
+     "end_date": "2026-03-29T16:30:00Z", "pre_game_price": 0.0,
+     "question": "Zaragoza vs Racing Draw"},
+
+    # === Colombia vs France (end ~19:00 UTC) — BEST TARGET $61K vol ===
     {"name": "Colombia", "token_id": "63705066878473381708886310664344760277086378408052366453830365010659106869730",
      "end_date": "2026-03-29T19:00:00Z", "pre_game_price": 0.0,
      "question": "Colombia vs France"},
@@ -53,9 +102,28 @@ ALL_GAMES = [
     {"name": "COL-FRA Draw", "token_id": "106108897987077250431468910088138744658849410518689443679498345659874193607064",
      "end_date": "2026-03-29T19:00:00Z", "pre_game_price": 0.0,
      "question": "Colombia vs France Draw"},
+
+    # === UD Almeria vs Real Sociedad B (end ~19:00 UTC) ===
+    {"name": "Almeria", "token_id": "80165845981455315141250300901532898863205531044260735194124953221978833421493",
+     "end_date": "2026-03-29T19:00:00Z", "pre_game_price": 0.0,
+     "question": "Almeria vs Real Sociedad B"},
+    {"name": "Real Sociedad B", "token_id": "19442331551480395096279692439052012992730522937829829455827519830883616003459",
+     "end_date": "2026-03-29T19:00:00Z", "pre_game_price": 0.0,
+     "question": "Almeria vs Real Sociedad B"},
+    {"name": "ALM-RSB Draw", "token_id": "41183121026181992677790226382065596184493142462935871073432684897740008866407",
+     "end_date": "2026-03-29T19:00:00Z", "pre_game_price": 0.0,
+     "question": "Almeria vs Real Sociedad B Draw"},
+
+    # === BLAST Grand Final: Vitality vs NAVI (CS2, ~13:00-19:00 UTC) ===
+    # Tournament winner market — price jumps during BO3 map wins
+    # ignore_time=True: CS2 match end time is uncertain, use price-only trigger
+    {"name": "NAVI", "token_id": "7724239947521822594769246725350104009898547047884445820111414756634807644574",
+     "end_date": "2026-03-29T19:00:00Z", "pre_game_price": 0.0,
+     "question": "BLAST Rotterdam Winner", "ignore_time": True},
+    {"name": "Vitality", "token_id": "37400974445783407156263131418945076585532261052460573266566618336769893971281",
+     "end_date": "2026-03-29T19:00:00Z", "pre_game_price": 0.0,
+     "question": "BLAST Rotterdam Winner", "ignore_time": True},
 ]
-# NOTE: Spanish 2nd division games (Eibar-Las Palmas, Cultural-Andorra, Zaragoza-Racing)
-# need token IDs verified at launch. Add them in the 09:00 UTC session if volumes are decent.
 
 # === Params (validated Mar 22: 8/8 wins) ===
 MIN_NEAR_RES_PRICE = 0.85
@@ -113,13 +181,13 @@ def check_and_buy(client, watch_list):
             else:
                 mins_left = 999
 
+            skip_time = w.get("ignore_time", False)
             trigger = (
                 buy_price >= MIN_NEAR_RES_PRICE and
                 buy_price <= MAX_NEAR_RES_PRICE and
                 jump >= MIN_PRICE_JUMP and
                 abs(spread) < MAX_SPREAD and
-                mins_left <= MAX_MINS_TO_END and
-                mins_left > 0 and
+                (skip_time or (mins_left <= MAX_MINS_TO_END and mins_left > 0)) and
                 balance >= MIN_SPEND
             )
 
