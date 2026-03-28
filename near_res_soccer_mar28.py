@@ -1,22 +1,28 @@
 #!/usr/bin/env python3
 """
-Near-resolution monitor for March 28, 2026 — International Friendlies.
+Near-resolution monitor for March 28, 2026 — Friendlies + Spanish 2nd Division.
 
-7 friendlies + draw markets for close games.
+7 friendlies + 4 Spanish 2nd division games (27 tokens total).
 Gamma end_date = kickoff. Actual end = kickoff + ~1:50.
 
 Kickoff schedule (UTC):
-- 14:00: Cote d'Ivoire vs Korea Republic ($8K)
-- 16:00: Senegal vs Peru ($31K)
-- 17:00: Canada vs Iceland ($10K), Hungary vs Slovenia ($10K), Scotland vs Japan ($16K)
-- 19:30: USA vs Belgium ($11K)
-- 01:00 Mar 29: Mexico vs Portugal ($88K) ← biggest target
+- 14:00: Cote d'Ivoire vs Korea Republic ($27K)
+- 15:15: Granada vs Huesca, Valladolid vs Burgos (Spanish 2nd)
+- 16:00: Senegal vs Peru ($44K)
+- 17:00: Canada vs Iceland ($15K), Hungary vs Slovenia ($12K), Scotland vs Japan ($50K)
+- 17:30: Malaga vs Leganes (Spanish 2nd)
+- 19:30: USA vs Belgium ($17K)
+- 20:00: Sporting Gijon vs Deportivo (Spanish 2nd, $16K)
+- 01:00 Mar 29: Mexico vs Portugal ($157K) ← biggest target
 
 Near-res windows (80th+ min):
 - 15:25-15:50: CIV-KOR
+- 16:40-17:05: Granada-Huesca, Valladolid-Burgos
 - 17:25-17:50: SEN-PER
 - 18:25-18:50: CAN-ISL, HUN-SVN, SCO-JPN
+- 18:55-19:20: Malaga-Leganes
 - 20:55-21:20: USA-BEL
+- 21:25-21:50: Sporting-Deportivo
 - 02:25-02:50: MEX-POR
 
 Launch at ~13:00 UTC. Runs until ~03:00 UTC Mar 29.
@@ -102,6 +108,39 @@ ALL_GAMES = [
     {"name": "MEX-POR Draw", "token_id": "56776089786663037707522459361946706065792612605711925301372807976002063599341",
      "end_date": "2026-03-29T02:50:00Z", "pre_game_price": 0.0,
      "question": "Mexico vs Portugal Draw"},
+
+    # === Spanish 2nd Division ===
+    # Granada vs Huesca (KO 15:15, end ~17:05) — Granada fav 53%
+    {"name": "Granada CF", "token_id": "32953875517817048152460658328623214411874356321779938873345536703236290035036",
+     "end_date": "2026-03-28T17:05:00Z", "pre_game_price": 0.0,
+     "question": "Granada vs Huesca"},
+    {"name": "SD Huesca", "token_id": "99940884599222408410155395918613668220185555587677572113541423550380625036110",
+     "end_date": "2026-03-28T17:05:00Z", "pre_game_price": 0.0,
+     "question": "Granada vs Huesca"},
+
+    # Valladolid vs Burgos (KO 15:15, end ~17:05) — Valladolid fav 42%
+    {"name": "Valladolid", "token_id": "107902397884955073861104082216255201118279890645561372896968197377358098482663",
+     "end_date": "2026-03-28T17:05:00Z", "pre_game_price": 0.0,
+     "question": "Valladolid vs Burgos"},
+    {"name": "Burgos CF", "token_id": "61718838253236872749464171248019570509400261617551292655229721432983650563928",
+     "end_date": "2026-03-28T17:05:00Z", "pre_game_price": 0.0,
+     "question": "Valladolid vs Burgos"},
+
+    # Malaga vs Leganes (KO 17:30, end ~19:20) — Malaga fav 47%
+    {"name": "Malaga CF", "token_id": "19575423301041179851211666991300665563428237334975831342344881258942075146020",
+     "end_date": "2026-03-28T19:20:00Z", "pre_game_price": 0.0,
+     "question": "Malaga vs Leganes"},
+    {"name": "CD Leganes", "token_id": "58018168314630193223980615201033923812200448243493927141705260662759493046201",
+     "end_date": "2026-03-28T19:20:00Z", "pre_game_price": 0.0,
+     "question": "Malaga vs Leganes"},
+
+    # Sporting Gijon vs Deportivo (KO 20:00, end ~21:50) — close game
+    {"name": "Sporting Gijon", "token_id": "81015766621528470392794741748917912168037695013774862367200410365096632854453",
+     "end_date": "2026-03-28T21:50:00Z", "pre_game_price": 0.0,
+     "question": "Sporting vs Deportivo"},
+    {"name": "Deportivo", "token_id": "110985956712102330400908732764529719418108528284863696074449056594655825598825",
+     "end_date": "2026-03-28T21:50:00Z", "pre_game_price": 0.0,
+     "question": "Sporting vs Deportivo"},
 ]
 
 # === Params (validated Mar 22: 8/8 wins) ===
