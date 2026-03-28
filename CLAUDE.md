@@ -320,47 +320,59 @@ nohup python3 -u near_res_nba_mar18.py > logs/nba_mar18_$(date -u +%Y%m%d_%H%M).
 - **Morocco vs Ecuador** — 35/31. Very close friendly.
 - Duke vs St. John's — NOT on PM yet (check day-of)
 
-### March 28 Schedule — ACTIVE PLAN (updated Session 179)
-- **~13:00 UTC (16:00 GMT+3)**: **LAUNCH near_res_soccer_mar28.py** — 7 friendlies + 4 Spanish 2nd (27 tokens)
-  ```bash
-  cd /home/cctrd/cc-trader-agent
-  nohup python3 -u near_res_soccer_mar28.py > logs/soccer_mar28_$(date -u +%Y%m%d_%H%M).log 2>&1 &
-  ```
-- **~13:00 UTC**: **LAUNCH near_res_cs2_mar28.py** — BLAST semi: NAVI vs Parivision
-  ```bash
-  cd /home/cctrd/cc-trader-agent
-  nohup python3 -u near_res_cs2_mar28.py > logs/cs2_mar28_$(date -u +%Y%m%d_%H%M).log 2>&1 &
-  ```
-- **~18:00 UTC (21:00 GMT+3)**: **LAUNCH near_res_bball_mar28.py** — 6 NBA + NCAAB Illinois-Iowa (14 tokens)
-  ```bash
-  cd /home/cctrd/cc-trader-agent
-  nohup python3 -u near_res_bball_mar28.py > logs/bball_mar28_$(date -u +%Y%m%d_%H%M).log 2>&1 &
-  ```
-- **Check for Purdue-Arizona NCAAB E8 market** (not created as of 05:00 Mar 28)
+### March 28 — MONITORS RUNNING (Session 184)
+All monitors launched. Balance: $9.56.
+| Monitor | PID | Status |
+|---------|-----|--------|
+| near_res_soccer_mar28.py | 1042604 | Running — Granada near-res ~16:45 UTC |
+| near_res_cs2_mar28.py | 1042612 | Running — NAVI vs Parivision |
+| btc_hourly_trader.py | 1050502 | Running — next: 17:00 UTC BTC UP |
+| near_res_bball_mar28.py | 1054295 | Running — all pre-game captured |
 
-#### Near-res windows (UTC):
-- 15:25-15:50: CIV-KOR
-- 16:40-17:05: Granada-Huesca, Valladolid-Burgos (Spanish 2nd)
+#### Remaining near-res windows (UTC):
+- **16:45-17:05**: Granada-Huesca (buy=0.92)
 - 17:25-17:50: SEN-PER
-- ~18:15-19:30: CS2 NAVI vs Parivision semi (map 1-2)
-- 18:25-18:50: CAN-ISL, HUN-SVN, SCO-JPN (3 simultaneous)
-- 18:55-19:20: Malaga-Leganes (Spanish 2nd)
+- ~18:15-19:30: CS2 NAVI vs Parivision
+- 18:25-18:50: CAN-ISL, HUN-SVN, SCO-JPN
+- 18:55-19:20: Malaga-Leganes
 - 20:55-21:20: USA-BEL
 - 21:10-21:30: Spurs-Bucks
-- 21:25-21:50: Sporting-Deportivo (Spanish 2nd)
-- **23:40-00:09: Pistons-TWolves + Illinois-Iowa NCAAB E8 — BEST TARGETS**
-- 00:10-00:30 Mar 29: 76ers-Hornets
-- 01:40-02:00: Kings-Hawks
+- 21:25-21:50: Sporting-Deportivo
+- **23:40-00:09: Pistons-TWolves + Illinois-Iowa E8 — BEST TARGETS**
+- 00:10-00:30: 76ers-Hornets
+- 01:40-02:00: Kings-Hawks + MEX-POR
 - 02:10-02:30: Bulls-Grizzlies
-- 02:25-02:50: MEX-POR ($157K)
 - 04:10-04:30: Jazz-Suns
 
-#### Key March 28 Targets:
-- **Illinois vs Iowa (NCAAB E8)** — ILL 73/IOWA 27, $760K vol. HIGH LIQUIDITY.
-- **Pistons vs Timberwolves** — 45/55, $567K vol. COIN FLIP.
-- **NAVI vs Parivision CS2** — 55/45, $50K vol. COIN FLIP.
-- **Mexico vs Portugal** — 22/51, $157K vol. Late night friendly.
-- **Purdue vs Arizona (NCAAB E8)** — ~01:00 UTC Mar 29. Check if market created.
+**Check logs, DO NOT relaunch monitors.**
+
+### March 29 Schedule — PREPARED (Session 184)
+- **~09:00 UTC (12:00 GMT+3)**: **LAUNCH near_res_soccer_mar29.py** — Colombia-France + Lithuania-Georgia (6 tokens)
+  ```bash
+  cd /home/cctrd/cc-trader-agent
+  nohup python3 -u near_res_soccer_mar29.py > logs/soccer_mar29_$(date -u +%Y%m%d_%H%M).log 2>&1 &
+  ```
+- **~09:00 UTC**: Check for NCAAB Elite 8 markets (Purdue-Arizona, Duke-Houston, Auburn-MSU, Florida-St.Johns)
+- **~18:00 UTC (21:00 GMT+3)**: **LAUNCH near_res_bball_mar29.py** — 9 NBA games (18 tokens)
+  ```bash
+  cd /home/cctrd/cc-trader-agent
+  nohup python3 -u near_res_bball_mar29.py > logs/bball_mar29_$(date -u +%Y%m%d_%H%M).log 2>&1 &
+  ```
+
+#### March 29 Near-res windows (UTC):
+- 12:40-13:00: Lithuania-Georgia
+- 18:40-19:00: Colombia-France ← BEST soccer target
+- 21:40-22:00: Clippers-Bucks
+- 23:10-23:30: Heat-Pacers
+- **00:10-00:30 Mar 30: Kings-Nets + Celtics-Hornets + Magic-Raptors (4 overlap!) ← BEST**
+- 01:10-01:30: Rockets-Pelicans
+- 01:40-02:00: Knicks-Thunder
+- 04:10-04:30: Warriors-Nuggets
+
+#### Key March 29 Targets:
+- **Kings vs Nets** — 51.5/48.5, $28K vol. True coin flip.
+- **Celtics vs Hornets** — 52.5/47.5, $58K vol. Near coin flip.
+- **Colombia vs France** — France 57.5%, $61K vol.
 
 ### Denmark Election: BOTH LOST (Session 142)
 - Margin 5-10% YES: -$18.00, LA 3rd YES: -$14.00 = -$32.00 total
