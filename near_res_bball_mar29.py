@@ -33,7 +33,7 @@ from datetime import datetime, timezone
 
 sys.path.insert(0, os.path.dirname(__file__))
 from trader.client import get_client, get_usdc_balance
-from trader.strategy import place_near_res_buy, get_actual_shares, load_state, save_state
+from trader.strategy import place_limit_buy, place_near_res_buy, get_actual_shares, load_state, save_state
 from trader.notify import send
 
 ALL_GAMES = [
@@ -196,9 +196,16 @@ def check_and_buy(client, watch_list):
                 spend = min(MAX_SPEND_PER_TRADE, balance * PCT_OF_BALANCE)
                 if spend < MIN_SPEND:
                     continue
-                print(f"\n  *** NEAR-RES BUY {w['name']} YES @ ask ~{sell_price:.3f} for ${spend:.2f} ***")
-                result = place_near_res_buy(client, w["token_id"], spend,
-                                            tag=w['name'])
+                # Use limit orders after midnight UTC (March 30 = commissions)
+                use_limit = now.day >= 30
+                order_type = "LIMIT" if use_limit else "TAKER"
+                print(f"\n  *** NEAR-RES BUY ({order_type}) {w['name']} YES @ ~{sell_price:.3f} for ${spend:.2f} ***")
+                if use_limit:
+                    result = place_limit_buy(client, w["token_id"], spend,
+                                             max_wait_sec=30, tag=w['name'])
+                else:
+                    result = place_near_res_buy(client, w["token_id"], spend,
+                                                tag=w['name'])
                 if result and result.get("filled"):
                     fill_price = result["price"]
                     time.sleep(2)
