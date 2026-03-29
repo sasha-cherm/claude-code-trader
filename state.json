@@ -2306,7 +2306,7 @@
       "close_reason": "Won (settlement pending)"
     }
   ],
-  "sessions": 76,
+  "sessions": 77,
   "mm_orders": [],
   "trades_closed": [
     {
@@ -2422,6 +2422,80 @@
       "closed_at": "2026-03-27T01:04:12.104851+00:00",
       "close_note": "Game ended, team won. Shares pending settlement.",
       "pnl": 0.22346683910112364
+    }
+  ],
+  "trade_history": [
+    {
+      "token_id": "69696033813375010805903629975930960965789635095727426854537893493138146593260",
+      "market_id": "near-res-soccer-mar28-hungary",
+      "question": "Hungary vs Slovenia",
+      "side": "YES",
+      "entry_price": 0.89,
+      "fair_price": 0.97,
+      "edge": 0.33999999999999997,
+      "size_usdc": 1.9774498800000002,
+      "shares": 2.221853797752809,
+      "end_date": "2026-03-28T18:50:00Z",
+      "days_left_at_entry": 0.0048154007407407405,
+      "opened_at": "2026-03-28 18:43:03.949376+00:00",
+      "research_note": "Near-res: price jumped +0.34 from 0.54",
+      "settled": true,
+      "result": "WIN",
+      "pnl_usdc": 0.2444
+    },
+    {
+      "token_id": "98302330125097149258564365194582176135599083081003966907414565174115233275968",
+      "market_id": "near-res-soccer-mar28-japan",
+      "question": "Scotland vs Japan",
+      "side": "YES",
+      "entry_price": 0.87,
+      "fair_price": 0.95,
+      "edge": 0.44,
+      "size_usdc": 1.4242258800000003,
+      "shares": 1.6370412413793107,
+      "end_date": "2026-03-28T18:50:00Z",
+      "days_left_at_entry": 0.0028721635069444444,
+      "opened_at": "2026-03-28 18:45:51.845073+00:00",
+      "research_note": "Near-res: price jumped +0.44 from 0.42",
+      "settled": true,
+      "result": "WIN",
+      "pnl_usdc": 0.2128
+    },
+    {
+      "token_id": "87229934369506113492248930745163521097189042764140382556059868275243336164685",
+      "market_id": "cs2-blast-semi-navi-gf",
+      "question": "BLAST Semi NAVI vs Parivision",
+      "side": "YES",
+      "entry_price": 0.99,
+      "fair_price": 0.99,
+      "edge": 0.39,
+      "size_usdc": 1.4242258800000003,
+      "shares": 1.4386120000000002,
+      "end_date": "2026-03-29T00:00:00Z",
+      "days_left_at_entry": 0.01,
+      "opened_at": "2026-03-28 19:37:38.811861+00:00",
+      "research_note": "CS2 near-res: price jumped +0.39 from 0.57",
+      "settled": true,
+      "result": "WIN",
+      "pnl_usdc": 0.0144
+    },
+    {
+      "token_id": "100360230966133567318764890267706600115508557485401066724878343158031914205923",
+      "market_id": "near-res-soccer-mar28-belgium",
+      "question": "USA vs Belgium",
+      "side": "YES",
+      "entry_price": 0.96,
+      "fair_price": 0.99,
+      "edge": 0.52,
+      "size_usdc": 1.02782988,
+      "shares": 1.0706561250000002,
+      "end_date": "2026-03-28T21:20:00Z",
+      "days_left_at_entry": 0.013777461608796298,
+      "opened_at": "2026-03-28 21:00:09.627317+00:00",
+      "research_note": "Near-res: price jumped +0.52 from 0.41",
+      "settled": true,
+      "result": "WIN",
+      "pnl_usdc": 0.0428
     }
   ]
 }
