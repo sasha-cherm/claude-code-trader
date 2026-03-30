@@ -10,17 +10,19 @@ Soccer:
 - Germany vs Ghana (18:45 → ~20:30) — $12.3K vol
 
 NBA (tipoff → estimated end):
-- 76ers vs Heat (23:00 → ~01:30 Mar 31) — $5.5K vol
-- Celtics vs Hawks (23:30 → ~02:00 Mar 31) — $9.4K vol
+- 76ers vs Heat (23:00 → ~01:30 Mar 31) — $273K vol
+- Celtics vs Hawks (23:30 → ~02:00 Mar 31) — $158K vol ← COIN FLIP best target
+- Mavericks vs Bucks (00:00 Mar 31 → ~02:30) — $2.4M vol
 
 Near-res windows (last 20 mins):
 - 15:25-15:45: Saudi Arabia-Serbia
 - 17:25-17:45: Cyprus-Moldova + Egypt-Spain (overlap!)
 - 20:10-20:30: Germany-Ghana
 - 01:10-01:30 Mar 31: 76ers-Heat
-- 01:40-02:00 Mar 31: Celtics-Hawks
+- 01:40-02:00 Mar 31: Celtics-Hawks ← BEST target (coin flip)
+- 02:10-02:30 Mar 31: Mavericks-Bucks
 
-Launch at ~12:00 UTC. Runs until ~03:00 UTC Mar 31.
+Launch at ~12:00 UTC. Runs until ~03:30 UTC Mar 31.
 
 **COMMISSIONS ACTIVE** — uses place_limit_buy() (maker, no commission).
 Validated params: MIN_PRICE=0.85, JUMP=0.20, SPREAD=0.04, MAX_MINS=20.
@@ -96,6 +98,30 @@ ALL_GAMES = [
     {"name": "Hawks", "token_id": "55134433887169069709945058526508421213292037713447935974851019578290288712696",
      "end_date": "2026-03-31T02:00:00Z", "pre_game_price": 0.0,
      "question": "Celtics vs Hawks"},
+
+    # === Mavericks vs Bucks (tipoff ~00:00 Mar 31, end ~02:30 Mar 31) ===
+    {"name": "Mavericks", "token_id": "50131916083478714089157285423693376797182456085548292513709998194690842470740",
+     "end_date": "2026-03-31T02:30:00Z", "pre_game_price": 0.0,
+     "question": "Mavericks vs Bucks"},
+    {"name": "Bucks", "token_id": "96683032224604836029172601859566946636160305460570852527789623822324107002992",
+     "end_date": "2026-03-31T02:30:00Z", "pre_game_price": 0.0,
+     "question": "Mavericks vs Bucks"},
+
+    # === LoL: AL vs TES (BO3, start 17:00 UTC, end ~19:30) ===
+    {"name": "AL (LoL)", "token_id": "1865429348916734759218507591352601113998807583254785071819661788655191186631",
+     "end_date": "2026-03-30T19:30:00Z", "pre_game_price": 0.0,
+     "question": "LoL AL vs TES"},
+    {"name": "TES", "token_id": "66896829922764835710904702147264528708415351187748439964794820784010016594623",
+     "end_date": "2026-03-30T19:30:00Z", "pre_game_price": 0.0,
+     "question": "LoL AL vs TES"},
+
+    # === LoL: NAVI vs SK Gaming (BO3, start 21:00 UTC, end ~23:30) ===
+    {"name": "NAVI (LoL)", "token_id": "13359436583581556269349338421304213770941716977392109781993731240500114225792",
+     "end_date": "2026-03-30T23:30:00Z", "pre_game_price": 0.0,
+     "question": "LoL NAVI vs SK"},
+    {"name": "SK Gaming", "token_id": "110807212466400540019176694601393576452708079199264124259993147178138401929714",
+     "end_date": "2026-03-30T23:30:00Z", "pre_game_price": 0.0,
+     "question": "LoL NAVI vs SK"},
 ]
 
 # === Params (validated Mar 22: 8/8 wins) ===
@@ -229,8 +255,8 @@ def main():
     print("Snapshotting pre-game prices...")
     snapshot_pre_game_prices(client, ALL_GAMES)
 
-    # Run until 03:00 UTC Mar 31 (after Celtics-Hawks ends)
-    end_time = datetime(2026, 3, 31, 3, 0, tzinfo=timezone.utc)
+    # Run until 03:30 UTC Mar 31 (after Mavericks-Bucks ends)
+    end_time = datetime(2026, 3, 31, 3, 30, tzinfo=timezone.utc)
     while datetime.now(timezone.utc) < end_time:
         try:
             check_and_buy(client, ALL_GAMES)
