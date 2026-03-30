@@ -50,7 +50,9 @@ TRADE_LOG = "logs/btc_15m_mm_trades.jsonl"
 MIN_SIZE = 5.0
 TICK = 0.01
 MIN_BALANCE = 3.0         # only need one leg
-SELL_DEADLINE = 15         # seconds after candle starts — more time for limit sell to fill
+SELL_DEADLINE = 0          # close at candle start if SELL not filled
+ENTER_NORMAL = 600         # 10 min before start (no streak)
+ENTER_STREAK = 300         # 5 min before start (streak detected)
 
 running = True
 traded_candles: set[int] = set()
@@ -110,6 +112,45 @@ def find_next_candle():
         except Exception as e:
             print(f"[MM] discovery {slug}: {e}")
     return None
+
+
+def get_streak():
+    """Check last resolved 15-min candles. Returns (count, color) e.g. (4, 'UP')."""
+    now_ts = int(utcnow().timestamp())
+    current_boundary = (now_ts // 900) * 900
+
+    streak = 0
+    last_color = None
+
+    for i in range(1, 8):  # check up to 7 past candles
+        ts = current_boundary - i * 900
+        slug = f"btc-updown-15m-{ts}"
+        try:
+            r = requests.get(f"{GAMMA}/events/slug/{slug}", timeout=10)
+            if r.status_code != 200:
+                break
+            mkt = r.json().get("markets", [None])[0]
+            if not mkt or not mkt.get("closed"):
+                break
+            outcomes = json.loads(mkt.get("outcomes", "[]"))
+            prices = json.loads(mkt.get("outcomePrices", "[]"))
+            if len(outcomes) < 2 or len(prices) < 2:
+                break
+            up_idx = next((j for j, o in enumerate(outcomes) if o.lower() == "up"), 0)
+            color = "UP" if float(prices[up_idx]) > 0.5 else "DN"
+
+            if last_color is None:
+                last_color = color
+                streak = 1
+            elif color == last_color:
+                streak += 1
+            else:
+                break  # streak broken
+        except Exception as e:
+            print(f"[MM] streak {slug}: {e}")
+            break
+
+    return streak, last_color or "NONE"
 
 
 # ─── CLOB helpers ─────────────────────────────────────────────────────────────
@@ -394,10 +435,9 @@ def run_candle(candle):
                             "buy": buy_fill_px, "sell": sell_px, "profit": profit})
                         sold = True
                         break
-                # DON'T force market sell — holding through resolution is EV-neutral (50/50),
-                # which is better than guaranteed loss from selling at resting bid (0.01-0.44).
-                print(f"[MM] HOLDING through resolution (bought @ {buy_fill_px:.2f}) — better than forced sell loss")
-                result["events"].append({"a": "HOLD_THROUGH", "buy": buy_fill_px, "sz": sell_size})
+                print(f"[MM] Market selling to close (bought @ {buy_fill_px:.2f})")
+                resp = market_sell(client, token, sell_size, "CLOSE")
+                result["events"].append({"a": "MKT_SELL", "buy": buy_fill_px, "resp": str(resp)})
                 break
 
             book = get_book(client, token)
@@ -478,13 +518,27 @@ def run_candle(candle):
             break
 
     # ────────────────────────────────────────────────────────────────────
-    # NO CLEANUP: Let positions resolve naturally. Winning shares auto-redeem.
-    # Forced market sells at resting bids are guaranteed losses.
+    # CLEANUP: at candle start, close any leftover positions
     # ────────────────────────────────────────────────────────────────────
+    cleanup_deadline = start + timedelta(seconds=60)
     for tok_id, label in [(up_token, "UP"), (dn_token, "DN")]:
-        tb = get_token_balance(client, tok_id)
-        if tb >= 1.0:
-            print(f"[MM] Holding {label}: {tb:.2f}sh through resolution (auto-redeems if wins)")
+        while running and utcnow() < cleanup_deadline:
+            tb = get_token_balance(client, tok_id)
+            if tb < 1.0:
+                break
+            book = get_book(client, tok_id)
+            best_bid = float(book["bids"][0]["price"]) if book and book.get("bids") else 0
+            value = tb * best_bid
+            if value < 1.0:
+                print(f"[MM] CLEANUP {label}: {tb:.2f}sh worth ${value:.2f} < $1, skipping")
+                break
+            print(f"[MM] CLEANUP {label}: {tb:.2f}sh worth ${value:.2f}, market selling...")
+            sell_sz = math.floor(tb * 100) / 100
+            resp = market_sell(client, tok_id, sell_sz, f"CLEANUP-{label}")
+            if resp and resp.get("success"):
+                result["events"].append({"a": f"CLEANUP_{label}", "sz": sell_sz})
+                break
+            time.sleep(3)
 
     log_trade(result)
     return result
@@ -516,18 +570,23 @@ def main():
         now = utcnow()
         secs = (candle["candle_start"] - now).total_seconds()
 
-        if secs > 900:
-            wait = secs - 900
-            print(f"[MM] next: {candle['question']} in {secs:.0f}s, sleeping {wait:.0f}s")
-            while wait > 0 and running:
-                time.sleep(min(wait, 30))
-                wait -= 30
-            continue
-
         if secs <= 0:
             print(f"[MM] {candle['slug']} already started, skipping")
             traded_candles.add(int(candle["candle_start"].timestamp()))
             time.sleep(2)
+            continue
+
+        # Decide entry timing based on streak
+        streak_count, streak_color = get_streak()
+        enter_before = ENTER_STREAK if streak_count > 2 else ENTER_NORMAL
+        print(f"[MM] Streak: {streak_count}x {streak_color} → enter {enter_before}s before start")
+
+        if secs > enter_before:
+            wait = secs - enter_before
+            print(f"[MM] next: {candle['question']} in {secs:.0f}s, waiting {wait:.0f}s")
+            while wait > 0 and running:
+                time.sleep(min(wait, 30))
+                wait -= 30
             continue
 
         bal = get_usdc_balance(client)
