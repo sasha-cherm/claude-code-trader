@@ -1,0 +1,13 @@
+Session 109 complete.
+
+**Status**: $11.11 cash + ~$37 pending settlements = ~$68 effective portfolio (day 10/30).
+
+**Running**:
+- `near_res_mar22.py` — 76 tokens / 38 games, covers tonight's late games AND all of tomorrow's European football
+- `btc_hourly_trader.py` — 3 candle trades pending (ETH/SOL/XRP DOWN), next signal 12:00 UTC
+
+**Issue**: Monitor started at 21:23 UTC — too late for today's European games. The daytime sessions (12:00-19:00 GMT+3) didn't launch it. Tomorrow's European games ARE covered since the monitor runs 24 hours.
+
+**Tonight's near-res windows**: NBA (TWolves-Celtics 00:30, Raptors-Suns 01:00), South American (Boca, Corinthians-Flamengo), Mexican (Pachuca, Juarez-Tigres).
+
+**Next session (01:00 UTC)**: Check candle results, settlement arrivals, and monitor trades.

@@ -1,0 +1,50 @@
+[MM] Killing old instance PID 209117
+[MM] Cancelling 1 stale orders from previous instance
+[MM] === BTC 15-min Fair-Value Market Maker ===
+[MM] UTC: 2026-03-31 09:23:27.109026+00:00
+[MM] size=6.0  poll=1.0s
+[MM] Balance: $13.26
+
+[MM] --- main loop #1 @ 09:23:28 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Streak (resolved): 5x DN
+[MM] Fair value: UP=0.635  DN=0.365  RSI=22.54 curUP=0.04
+
+[MM] =======================================================
+[MM] Bitcoin Up or Down - March 31, 5:30AM-5:45AM ET
+[MM] start=2026-03-31T09:30:00+00:00
+[MM] streak=5xDN RSI=22.54
+[MM] fair: UP=0.635 DN=0.365
+[MM] max:  UP=0.62  DN=0.36  (both fill → 2c+ profit/sh)
+[MM] Balance: $13.26
+[MM] Existing position DN:6sh — holding through resolution
+
+[MM] --- main loop #2 @ 09:23:49 UTC ---
+[MM] Streak (resolved): 5x DN
+[MM] Fair value: UP=0.634  DN=0.366  RSI=22.64 curUP=0.04
+[MM] next: Bitcoin Up or Down - March 31, 5:45AM-6:00AM ET in 1270s, fair UP=0.634 DN=0.366, waiting 430s
+
+[MM] --- main loop #3 @ 09:31:03 UTC ---
+[MM] Streak (resolved): 0x NONE
+[MM] Fair value: UP=0.517  DN=0.483  RSI=22.67 curUP=0.64
+
+[MM] =======================================================
+[MM] Bitcoin Up or Down - March 31, 5:45AM-6:00AM ET
+[MM] start=2026-03-31T09:45:00+00:00
+[MM] streak=0xNONE RSI=22.67
+[MM] fair: UP=0.517 DN=0.483
+[MM] max:  UP=0.51  DN=0.47  (both fill → 2c+ profit/sh)
+[MM] Balance: $13.26
+[UP] BUY 6sh @ 0.51  oid=0x8ee8a25c52fae54ac06c0faa53fa7c2256312797fadf7dc8b985b31969370726
+[DN] BUY 6sh @ 0.46  oid=0x160676be668704f016c913a5d8091626d4e50d41ddad37f23dfc8f30c2ab3977
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 813s to start
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 794s to start
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 776s to start
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 757s to start
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 738s to start
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 719s to start
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 700s to start
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[DN] cancelled 0x160676be668704...
+[DN] BUY 6sh @ 0.45  oid=0x26631f8f0bed9c77c2ce9985f0072a910f9cc48c3f05cbb01f2714f8f348ef4f
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.45(max=0.47) | 669s to start

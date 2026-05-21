@@ -1,0 +1,22 @@
+Session 161 complete. Here's the summary:
+
+**Current state at 15:00 UTC March 26:**
+- Cash: $27.96
+- **Faroe PP NO: LIKELY WIN** — Social Democrats won 45% vs People's Party 15%. Settlement pending → +$57.50
+- **Banxico Hold YES**: 46.59sh, decision at 19:00 UTC. Bloomberg survey now 52/48 — coin flip. Still positive EV, holding.
+- **Slovakia YES**: 14.89sh, game at 19:45 UTC. Efficiently priced, near-res only.
+- **SARB Cut YES**: Dead. -$3.74.
+
+**Best case today**: Faroe settles + Banxico holds = **$132.05 cash**. That would be a massive recovery from $28 → $132.
+
+**Running monitors:**
+- Soccer near-res (PID 865812) — 14 WC qualifier matches
+- BTC candle trader (PID 852962) — next signal 17:00 UTC
+- Bball monitor ready — launch at 21:00 UTC
+
+**Key upcoming events:**
+- 16:15 UTC: Turkey/Cyprus/Georgia near-res window
+- 19:00 UTC: **BANXICO** ← biggest swing of the day
+- 19:45 UTC: Slovakia + 7 more WCQ matches
+- 21:00 UTC: Launch bball monitor
+- 23:00 UTC: NBA tipoff

@@ -1,0 +1,14 @@
+Session 122 complete. Here's the summary:
+
+**Balance**: $0.54 — settlement of ~$74 from 9 winning March 22 positions is delayed 33+ hours. Markets are resolved on Gamma but USDC hasn't been credited to CLOB. This is a Polymarket backend issue.
+
+**Running monitors**:
+- `near_res_mar23.py` (PID 587911) — watching 40 tokens (NBA, CS2, Colombian, Argentine, Spanish 2nd). All token IDs verified valid.
+- `btc_hourly_trader.py` (PID 601907) — next trade: SOL 4H at 12:00 UTC
+
+**Research findings**:
+- NBA pre-game odds: All 10 games efficiently priced vs DraftKings (max 4.2% gap, below 5% threshold). No pre-game edge.
+- NCAAB 2nd Round game markets: still not created
+- CS2 BLAST: NAVI 0.60, Falcons 0.61, Vitality 0.83
+
+**Key blocker**: Everything depends on settlement clearing. Once ~$74 hits the CLOB balance, both monitors will auto-trade. The near-res monitor checks balance every 60s and will buy opportunities as they appear.

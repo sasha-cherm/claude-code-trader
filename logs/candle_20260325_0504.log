@@ -1,0 +1,2625 @@
+[CANDLE] ═══ Crypto Candle Trader — All Crypto Limit Sniper ═══
+[CANDLE] UTC now: 2026-03-25 05:04:55.894406+00:00
+[CANDLE] Signals: 12 across BTC/ETH/SOL/XRP/BNB (1H+4H)
+[CANDLE] Order size: 5.0 shares per trade
+[CANDLE] Cancel: 5s before candle start
+[CANDLE] Min edge: 1.9 cents
+[CANDLE] Balance: $17.90
+[CANDLE] Next: 12:00 UTC — SOL 4H DOWN.  Monitor in 385 min.
+
+[CANDLE] ── 2026-03-25 12:00 UTC batch (1 signals) ──
+[SOL] Looking up: sol-updown-4h-1774440000
+[SOL] === Solana Up or Down - March 25, 8:00AM-12:00PM ET ===
+[SOL] Side=DOWN  Edge=56.0%
+[SOL] BUY 5sh @ 0.40  oid=0x71709696bcf89892da4f50ec0d963ba5f38354bbd2291cb405c0f7f04be7c51e
+[SOL] Placed at 0.40  edge=16.0c
+[SOL] Cancelled 0x71709696bcf89892da4f50ec0d963ba5f38354bbd2291cb405c0f7f04be7c51e
+[SOL] Cancelled 5s before candle start
+[TRADE-SOL] 2026-03-25 12:00:00+00:00 4H DOWN → NOT_FILLED price=0.4
+[CANDLE] Next: 13:00 UTC — BTC 1H DOWN.  Monitor in 30 min.
+
+[CANDLE] ── 2026-03-25 13:00 UTC batch (1 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-9am-et
+[BTC] === Bitcoin Up or Down - March 25, 9AM ET ===
+[BTC] Side=DOWN  Edge=53.8%
+[BTC] BUY 5sh @ 0.49  oid=0x84a922b9d54debdeebc765936781d72f80a342b8c3fd0f92fb63fabf50512fc1
+[BTC] Placed at 0.49  edge=4.8c
+[BTC] Cancelled 0x84a922b9d54debdeebc765936781d72f80a342b8c3fd0f92fb63fabf50512fc1
+[BTC] BUY 5sh @ 0.50  oid=0x033461e24e59d6390fe102c81c02f8016dc64aab4ec904b6f649c72511e9e70f
+[BTC] Moved to 0.50  edge=3.8c  (move #1)
+[BTC] Filled at 0.50!
+[TRADE-BTC] 2026-03-25 13:00:00+00:00 1H DOWN → FILLED price=0.5
+[CANDLE] Next: 17:00 UTC — BTC 1H UP.  Monitor in 225 min.
+
+[CANDLE] ── 2026-03-25 17:00 UTC batch (1 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-1pm-et
+[BTC] === Bitcoin Up or Down - March 25, 1PM ET ===
+[BTC] Side=UP  Edge=56.3%
+[BTC] BUY 5sh @ 0.50  oid=0x239e79cc36409719bc82af28adc363191bd6a0d99e22d5c9ea54b678030e5926
+[BTC] Placed at 0.50  edge=6.3c
+[BTC] Filled at 0.50!
+[TRADE-BTC] 2026-03-25 17:00:00+00:00 1H UP → FILLED price=0.5
+[CANDLE] Next: 20:00 UTC — XRP 4H DOWN.  Monitor in 165 min.
+
+[CANDLE] ── 2026-03-25 20:00 UTC batch (1 signals) ──
+[XRP] Looking up: xrp-updown-4h-1774468800
+[XRP] === XRP Up or Down - March 25, 4:00PM-8:00PM ET ===
+[XRP] Side=DOWN  Edge=56.0%
+[XRP] BUY 5sh @ 0.40  oid=0x09fd5cce4500a6abdf6c944c7c791f8c273537adf59e8321f3b77171f78fbd03
+[XRP] Placed at 0.40  edge=16.0c
+[XRP] Cancelled 0x09fd5cce4500a6abdf6c944c7c791f8c273537adf59e8321f3b77171f78fbd03
+[XRP] Cancelled 5s before candle start
+[TRADE-XRP] 2026-03-25 20:00:00+00:00 4H DOWN → NOT_FILLED price=0.4
+[CANDLE] Next: 21:00 UTC — BTC 1H UP, BNB 1H UP.  Monitor in 30 min.
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found[BNB] HTTP 404 — market not found
+
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found[BNB] HTTP 404 — market not found
+
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found[BNB] HTTP 404 — market not found
+
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found[BNB] HTTP 404 — market not found
+
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found[BNB] HTTP 404 — market not found
+
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—[BNB] HTTP 404 — market not found
+
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+
+[BTC] HTTP 404 — market not found[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found[BNB] HTTP 404 — market not found
+
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found[BNB] HTTP 404 — market not found
+
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 21:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-5pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-5pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 21:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[CANDLE] Next: 22:00 UTC — BTC 1H UP, BNB 1H UP.  Monitor in 30 min.
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found[BNB] HTTP 404 — market not found
+
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found[BTC] HTTP 404 — market not found
+
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found[BNB] HTTP 404 — market not found
+
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—[BNB] HTTP 404 — market not found
+
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—[BNB] HTTP 404 — market not found
+
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found[BTC] HTTP 404 — market not found
+
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found[BNB] HTTP 404 — market not found
+
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found[BNB] HTTP 404 — market not found
+
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found[BNB] HTTP 404 — market not found
+
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+
+[BNB] HTTP 404 — market not found
+[BTC] HTTP 404 — market not found[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+
+[CANDLE] ── 2026-03-25 22:00 UTC batch (2 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-25-2026-6pm-et
+[BTC] Looking up: bitcoin-up-or-down-march-25-2026-6pm-et
+[BTC] HTTP 404 — market not found
+[TRADE-BTC] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[BNB] HTTP 404 — market not found
+[TRADE-BNB] 2026-03-25 22:00:00+00:00 1H UP → MARKET_NOT_FOUND price=—
+[CANDLE] Next: 23:00 UTC — BTC 1H DOWN, XRP 1H DOWN, ETH 1H DOWN, SOL 1H DOWN.  Monitor in 30 min.
+
+[CANDLE] ── 2026-03-25 23:00 UTC batch (4 signals) ──
+[XRP] Looking up: xrp-up-or-down-march-25-2026-7pm-et
+[ETH] Looking up: ethereum-up-or-down-march-25-2026-7pm-et[BTC] Looking up: bitcoin-up-or-down-march-25-2026-7pm-et
+
+[SOL] Looking up: solana-up-or-down-march-25-2026-7pm-et
+[XRP] === XRP Up or Down - March 25, 7PM ET ===
+[XRP] Side=DOWN  Edge=57.2%
+[BTC] === Bitcoin Up or Down - March 25, 7PM ET ===
+[BTC] Side=DOWN  Edge=54.1%
+[SOL] === Solana Up or Down - March 25, 7PM ET ===
+[SOL] Side=DOWN  Edge=55.8%
+[ETH] === Ethereum Up or Down - March 25, 7PM ET ===
+[ETH] Side=DOWN  Edge=56.5%
+[BTC] BUY 5sh @ 0.49  oid=0x0b95efa4073948d635d7b40a38397ec6354ed4dd4d39daebe0b70b5d7f4b288d
+[BTC] Placed at 0.49  edge=5.1c
+[XRP] BUY 5sh @ 0.47  oid=0xbd238de0ecf603f293abd2a0949a85c27bdec60e033c4e4c783c4e57c0503e13
+[SOL] BUY 5sh @ 0.47  oid=0x7ce4db196895de6bde18678e080622485fefa2f1504589a49eb371d14188b43a
+[SOL] Placed at 0.47  edge=8.8c[XRP] Placed at 0.47  edge=10.2c
+
+[ETH] BUY 5sh @ 0.48  oid=0xa7d23b40444d6d0357d9b661927cad853f55fcffd0046614c2d37d2de3cb8933
+[ETH] Placed at 0.48  edge=8.5c
+[SOL] Filled at 0.47!
+[TRADE-SOL] 2026-03-25 23:00:00+00:00 1H DOWN → FILLED price=0.47
+[BTC] Filled at 0.49!
+[TRADE-BTC] 2026-03-25 23:00:00+00:00 1H DOWN → FILLED price=0.49
+[XRP] Filled at 0.47!
+[TRADE-XRP] 2026-03-25 23:00:00+00:00 1H DOWN → FILLED price=0.47
+[ETH] Filled at 0.48!
+[TRADE-ETH] 2026-03-25 23:00:00+00:00 1H DOWN → FILLED price=0.48
+[CANDLE] Next: 12:00 UTC — SOL 4H DOWN.  Monitor in 778 min.
+
+[CANDLE] Signal 15, shutting down...
+[CANDLE] Shutdown complete.

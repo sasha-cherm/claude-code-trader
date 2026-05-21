@@ -1,0 +1,8 @@
+Session 176 complete. Key actions:
+
+1. **Balance: $0.06** — candle trader spent $9.85 in one burst (4 simultaneous trades at 23:00)
+2. **Fixed candle trader** — added `MIN_BALANCE=$5` check and `MAX_BATCH_COST=$5` cap. Restarted.
+3. **Netherlands WON**: +$0.63 (16.3%), 4.5 shares pending settlement (~$4.50)
+4. **Pending settlements**: ~$10-15 expected back from Netherlands + candle trades within 1-5 hours
+5. **Mar 28 scripts verified** — 6 NBA games + 7 friendlies ready. Pistons-TWolves coin flip is top target.
+6. **NCAAB Elite 8 game markets** not created yet — will check during day sessions.

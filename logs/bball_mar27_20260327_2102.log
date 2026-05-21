@@ -1,0 +1,2068 @@
+=== NBA+NCAAB Mar 27 Near-Res Monitor ===
+Started at 2026-03-27 21:02:02 UTC
+Monitoring 28 tokens (14 games)
+Params: MIN_PRICE=0.85, JUMP=0.2, SPREAD=0.04, MAX_MINS=20
+Balance: $13.83
+
+Snapshotting pre-game prices...
+  Pre-game St. John's: 0.280
+  Pre-game Duke: 0.710
+  Pre-game Alabama: 0.190
+  Pre-game Michigan: 0.800
+  Pre-game Clippers: 0.780
+  Pre-game Pacers: 0.210
+  Pre-game Hawks: 0.320
+  Pre-game Celtics: 0.670
+  Pre-game Heat: 0.330
+  Pre-game Cavaliers: 0.660
+  Pre-game Rockets: 0.880
+  Pre-game Grizzlies: 0.110
+  Pre-game Bulls: 0.060
+  Pre-game Thunder: 0.930
+  Pre-game Pelicans: 0.250
+  Pre-game Raptors: 0.740
+  Pre-game Michigan St: 0.450
+  Pre-game UConn: 0.540
+  Pre-game Jazz: 0.050
+  Pre-game Nuggets: 0.940
+  Pre-game Wizards: 0.120
+  Pre-game Warriors: 0.870
+  Pre-game Mavericks: 0.190
+  Pre-game Trail Blazers: 0.800
+  Pre-game Nets: 0.070
+  Pre-game Lakers: 0.920
+  Pre-game PARIVISION: 0.999
+
+--- Check #0 at 21:02:06 UTC ---
+  Balance: $13.83
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=328 
+  Thunder        buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=328 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=388 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=448 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=478 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=328 
+
+--- Check #1 at 21:03:29 UTC ---
+  Balance: $13.83
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=327 
+  Thunder        buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=327 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=387 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=447 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=477 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=327 
+
+--- Check #2 at 21:04:51 UTC ---
+  Balance: $13.83
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=325 
+  Thunder        buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=325 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=385 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=445 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=475 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=325 
+
+--- Check #3 at 21:06:15 UTC ---
+  Balance: $13.83
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=324 
+  Thunder        buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=324 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=384 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=444 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=474 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=324 
+
+--- Check #4 at 21:07:41 UTC ---
+  Balance: $13.83
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=322 
+  Thunder        buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=322 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=382 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=442 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=472 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=322 
+
+--- Check #5 at 21:09:08 UTC ---
+  Balance: $13.83
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=321 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=321 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=381 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=441 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=471 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=321 
+
+--- Check #6 at 21:10:33 UTC ---
+  Balance: $13.83
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=319 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=319 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=379 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=439 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=469 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=319 
+
+--- Check #7 at 21:11:57 UTC ---
+  Balance: $13.83
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=318 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=318 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=378 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=438 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=468 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=318 
+
+--- Check #8 at 21:13:22 UTC ---
+  Balance: $13.83
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=317 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=317 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=377 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=437 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=467 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=317 
+
+--- Check #9 at 21:14:49 UTC ---
+  Balance: $13.83
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=315 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=315 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=375 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=435 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=465 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=315 
+
+--- Check #10 at 21:16:14 UTC ---
+  Balance: $13.83
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=314 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=314 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=374 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=434 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=464 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=314 
+
+--- Check #11 at 21:17:38 UTC ---
+  Balance: $13.83
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=312 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=312 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=372 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=432 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=462 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=312 
+
+--- Check #12 at 21:19:01 UTC ---
+  Balance: $13.83
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=311 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=311 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=371 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=431 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=461 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=311 
+
+--- Check #13 at 21:20:24 UTC ---
+  Balance: $13.83
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=310 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=310 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=370 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=430 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=460 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=310 
+
+--- Check #14 at 21:21:47 UTC ---
+  Balance: $13.83
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=308 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=308 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=368 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=428 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=458 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=308 
+
+--- Check #15 at 21:23:10 UTC ---
+  Balance: $13.83
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=307 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=307 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=367 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=427 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=457 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=307 
+
+--- Check #16 at 21:24:33 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=305 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=305 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=365 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=425 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=455 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=305 
+
+--- Check #17 at 21:25:56 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=304 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=304 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=364 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=424 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=454 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=304 
+
+--- Check #18 at 21:27:18 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=303 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=303 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=363 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=423 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=453 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=303 
+
+--- Check #19 at 21:28:42 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=301 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=301 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=361 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=421 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=451 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=301 
+
+--- Check #20 at 21:30:05 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=300 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=300 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=360 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=420 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=450 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=300 
+
+--- Check #21 at 21:31:28 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=299 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=299 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=359 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=419 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=449 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=299 
+
+--- Check #22 at 21:32:51 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=297 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=297 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=357 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=417 
+  Lakers         buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=447 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=297 
+
+--- Check #23 at 21:34:13 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=296 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=296 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=356 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=416 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=446 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=296 
+
+--- Check #24 at 21:35:36 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=294 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=294 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=354 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=414 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=444 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=294 
+
+--- Check #25 at 21:36:59 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=293 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=293 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=353 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=413 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=443 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=293 
+
+--- Check #26 at 21:38:22 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=292 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=292 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=352 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=412 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=442 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=292 
+
+--- Check #27 at 21:39:45 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=290 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=290 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=350 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=410 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=440 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=290 
+
+--- Check #28 at 21:41:08 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=289 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=289 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=349 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=409 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=439 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=289 
+
+--- Check #29 at 21:42:30 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=287 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=287 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=347 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=407 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=437 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=287 
+
+--- Check #30 at 21:43:53 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=286 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=286 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=346 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=406 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=436 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=286 
+
+--- Check #31 at 21:45:16 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=285 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=285 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=345 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=405 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=435 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=285 
+
+--- Check #32 at 21:46:38 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=283 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=283 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=343 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=403 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=433 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=283 
+
+--- Check #33 at 21:48:01 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=282 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=282 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=342 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=402 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=432 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=282 
+
+--- Check #34 at 21:49:23 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=281 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=281 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=341 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=401 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=431 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=281 
+
+--- Check #35 at 21:50:46 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=279 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=279 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=339 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=399 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=429 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=279 
+
+--- Check #36 at 21:52:09 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=278 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=278 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=338 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=398 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=428 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=278 
+
+--- Check #37 at 21:53:32 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=276 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=276 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=336 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=396 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=426 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=276 
+
+--- Check #38 at 21:54:55 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=275 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=275 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=335 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=395 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=425 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=275 
+
+--- Check #39 at 21:56:18 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=274 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=274 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=334 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=394 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=424 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=274 
+
+--- Check #40 at 21:57:40 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=272 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=272 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=332 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=392 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=422 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=272 
+
+--- Check #41 at 21:59:03 UTC ---
+  Balance: $9.96
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=271 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=271 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=331 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=391 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=421 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=271 
+
+--- Check #42 at 22:00:25 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=270 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=270 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=330 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=390 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=420 
+  PARIVISION     buy=0.999 sell=1.000 spread=-0.001 jump=+0.000 mins=270 
+
+--- Check #43 at 22:01:48 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=268 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=268 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=328 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=388 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=418 
+
+--- Check #44 at 22:03:11 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=267 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=267 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=327 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=387 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=417 
+
+--- Check #45 at 22:04:34 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=265 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=265 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=325 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=385 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=415 
+
+--- Check #46 at 22:05:56 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=264 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=264 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=324 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=384 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=414 
+
+--- Check #47 at 22:07:19 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=263 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=263 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=323 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=383 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=413 
+
+--- Check #48 at 22:08:44 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=261 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=261 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=321 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=381 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=411 
+
+--- Check #49 at 22:10:06 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=260 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=260 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=320 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=380 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=410 
+
+--- Check #50 at 22:11:29 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=259 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=259 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=319 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=379 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=409 
+
+--- Check #51 at 22:12:52 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=257 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=257 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=317 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=377 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=407 
+
+--- Check #52 at 22:14:15 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=256 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=256 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=316 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=376 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=406 
+
+--- Check #53 at 22:15:37 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=254 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=254 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=314 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=374 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=404 
+
+--- Check #54 at 22:17:00 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=253 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=253 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=313 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=373 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=403 
+
+--- Check #55 at 22:18:23 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=252 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=252 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=312 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=372 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=402 
+
+--- Check #56 at 22:19:46 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=250 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=250 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=310 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=370 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=400 
+
+--- Check #57 at 22:21:09 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=249 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=249 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=309 
+  Warriors       buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=369 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=399 
+
+--- Check #58 at 22:22:32 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=247 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=247 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=307 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=367 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=397 
+
+--- Check #59 at 22:23:55 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=246 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=246 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=306 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=366 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=396 
+
+--- Check #60 at 22:25:17 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=245 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=245 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=305 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=365 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=395 
+
+--- Check #61 at 22:26:40 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=243 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=243 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=303 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=363 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=393 
+
+--- Check #62 at 22:28:03 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=242 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=242 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=302 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=362 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=392 
+
+--- Check #63 at 22:29:25 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=241 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=241 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=301 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=361 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=391 
+
+--- Check #64 at 22:30:48 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=239 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=239 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=299 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=359 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=389 
+
+--- Check #65 at 22:32:11 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=238 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=238 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=298 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=358 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=388 
+
+--- Check #66 at 22:33:34 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=236 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=236 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=296 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=356 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=386 
+
+--- Check #67 at 22:34:56 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=235 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=235 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=295 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=355 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=385 
+
+--- Check #68 at 22:36:19 UTC ---
+  Balance: $7.41
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=234 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=234 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=294 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=354 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=384 
+
+--- Check #69 at 22:37:42 UTC ---
+  Balance: $5.59
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=232 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=232 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=292 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=352 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=382 
+
+--- Check #70 at 22:39:04 UTC ---
+  Balance: $5.59
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=231 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=231 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=291 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=351 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=381 
+
+--- Check #71 at 22:40:27 UTC ---
+  Balance: $5.59
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=230 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=230 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=290 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=350 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=380 
+
+--- Check #72 at 22:41:50 UTC ---
+  Balance: $5.59
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=228 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=228 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=288 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=348 
+  Lakers         buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=378 
+
+--- Check #73 at 22:43:12 UTC ---
+  Balance: $5.59
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=227 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=227 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=287 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=347 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=377 
+
+--- Check #74 at 22:44:36 UTC ---
+  Balance: $5.59
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=225 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=225 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=285 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=345 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=375 
+
+--- Check #75 at 22:45:58 UTC ---
+  Balance: $5.01
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=224 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=224 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=284 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=344 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=374 
+
+--- Check #76 at 22:47:21 UTC ---
+  Balance: $5.01
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=223 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=223 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=283 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=343 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=373 
+
+--- Check #77 at 22:48:43 UTC ---
+  Balance: $5.01
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=221 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=221 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=281 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=341 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=371 
+
+--- Check #78 at 22:50:06 UTC ---
+  Balance: $5.01
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=220 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=220 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=280 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=340 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=370 
+
+--- Check #79 at 22:51:28 UTC ---
+  Balance: $5.01
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=219 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=219 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=279 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=339 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=369 
+
+--- Check #80 at 22:52:51 UTC ---
+  Balance: $5.01
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=217 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=217 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=277 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=337 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=367 
+
+--- Check #81 at 22:54:13 UTC ---
+  Balance: $5.01
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=216 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=216 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=276 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=336 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=366 
+
+--- Check #82 at 22:55:36 UTC ---
+  Balance: $5.01
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=214 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=214 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=274 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=334 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=364 
+
+--- Check #83 at 22:56:59 UTC ---
+  Balance: $2.51
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=213 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=213 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=273 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=333 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=363 
+
+--- Check #84 at 22:58:21 UTC ---
+  Balance: $2.51
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=212 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=212 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=272 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=332 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=362 
+
+--- Check #85 at 22:59:44 UTC ---
+  Balance: $2.51
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=210 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=210 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=270 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=330 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=360 
+
+--- Check #86 at 23:01:07 UTC ---
+  Balance: $0.06
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=209 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=209 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=269 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=329 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=359 
+
+--- Check #87 at 23:02:29 UTC ---
+  Balance: $0.06
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=208 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=208 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=268 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=328 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=358 
+
+--- Check #88 at 23:03:52 UTC ---
+  Balance: $0.06
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=206 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=206 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=266 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=326 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=356 
+
+--- Check #89 at 23:05:14 UTC ---
+  Balance: $0.06
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=205 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=205 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=265 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=325 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=355 
+
+--- Check #90 at 23:06:37 UTC ---
+  Balance: $0.06
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=203 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=203 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=263 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=323 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=353 
+
+--- Check #91 at 23:07:59 UTC ---
+  Balance: $0.06
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=202 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=202 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=262 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=322 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=352 
+
+--- Check #92 at 23:09:22 UTC ---
+  Balance: $0.06
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=201 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=201 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=261 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=321 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=351 
+
+--- Check #93 at 23:10:45 UTC ---
+  Balance: $0.06
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=199 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=199 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=259 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=319 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=349 
+
+--- Check #94 at 23:12:08 UTC ---
+  Balance: $0.06
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=198 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=198 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=258 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=318 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=348 
+
+--- Check #95 at 23:13:31 UTC ---
+  Balance: $0.06
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=196 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=196 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=256 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=316 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=346 
+
+--- Check #96 at 23:14:53 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.230 sell=0.240 spread=-0.010 jump=-0.050 mins=115 
+  Duke           buy=0.760 sell=0.770 spread=-0.010 jump=+0.050 mins=115 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=195 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=195 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=255 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=315 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=345 
+
+--- Check #97 at 23:16:16 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.220 sell=0.230 spread=-0.010 jump=-0.060 mins=114 
+  Duke           buy=0.770 sell=0.780 spread=-0.010 jump=+0.060 mins=114 
+  Clippers       buy=0.720 sell=0.730 spread=-0.010 jump=-0.060 mins=134 
+  Pacers         buy=0.270 sell=0.280 spread=-0.010 jump=+0.060 mins=134 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=194 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=194 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=254 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=314 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=344 
+
+--- Check #98 at 23:17:38 UTC ---
+  Balance: $0.06
+  Clippers       buy=0.700 sell=0.710 spread=-0.010 jump=-0.080 mins=132 
+  Pacers         buy=0.290 sell=0.300 spread=-0.010 jump=+0.080 mins=132 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=192 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=192 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=252 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=312 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=342 
+
+--- Check #99 at 23:19:01 UTC ---
+  Balance: $0.06
+  Clippers       buy=0.690 sell=0.700 spread=-0.010 jump=-0.090 mins=131 
+  Pacers         buy=0.300 sell=0.310 spread=-0.010 jump=+0.090 mins=131 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=191 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=191 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=251 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=311 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=341 
+
+--- Check #100 at 23:20:24 UTC ---
+  Balance: $0.06
+  Clippers       buy=0.690 sell=0.700 spread=-0.010 jump=-0.090 mins=130 
+  Pacers         buy=0.300 sell=0.310 spread=-0.010 jump=+0.090 mins=130 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=190 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=190 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=250 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=310 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=340 
+
+--- Check #101 at 23:21:46 UTC ---
+  Balance: $0.06
+  Clippers       buy=0.690 sell=0.700 spread=-0.010 jump=-0.090 mins=128 
+  Pacers         buy=0.300 sell=0.310 spread=-0.010 jump=+0.090 mins=128 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=188 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=188 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=248 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=308 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=338 
+
+--- Check #102 at 23:23:09 UTC ---
+  Balance: $0.06
+  Clippers       buy=0.680 sell=0.690 spread=-0.010 jump=-0.100 mins=127 
+  Pacers         buy=0.310 sell=0.320 spread=-0.010 jump=+0.100 mins=127 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=187 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=187 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=247 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=307 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=337 
+
+--- Check #103 at 23:24:31 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.340 sell=0.350 spread=-0.010 jump=+0.060 mins=105 
+  Duke           buy=0.650 sell=0.660 spread=-0.010 jump=-0.060 mins=105 
+  Clippers       buy=0.620 sell=0.640 spread=-0.020 jump=-0.160 mins=125 
+  Pacers         buy=0.360 sell=0.380 spread=-0.020 jump=+0.150 mins=125 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=185 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=185 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=245 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=305 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=335 
+
+--- Check #104 at 23:25:54 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.370 sell=0.380 spread=-0.010 jump=+0.090 mins=104 
+  Duke           buy=0.620 sell=0.630 spread=-0.010 jump=-0.090 mins=104 
+  Clippers       buy=0.620 sell=0.630 spread=-0.010 jump=-0.160 mins=124 
+  Pacers         buy=0.370 sell=0.380 spread=-0.010 jump=+0.160 mins=124 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=184 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=184 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=244 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=304 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=334 
+
+--- Check #105 at 23:27:16 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.360 sell=0.370 spread=-0.010 jump=+0.080 mins=103 
+  Duke           buy=0.630 sell=0.640 spread=-0.010 jump=-0.080 mins=103 
+  Clippers       buy=0.540 sell=0.550 spread=-0.010 jump=-0.240 mins=123 
+  Pacers         buy=0.450 sell=0.480 spread=-0.030 jump=+0.240 mins=123 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=183 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=183 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=243 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=303 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=333 
+
+--- Check #106 at 23:28:39 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.360 sell=0.370 spread=-0.010 jump=+0.080 mins=101 
+  Duke           buy=0.630 sell=0.640 spread=-0.010 jump=-0.080 mins=101 
+  Clippers       buy=0.520 sell=0.530 spread=-0.010 jump=-0.260 mins=121 
+  Pacers         buy=0.470 sell=0.480 spread=-0.010 jump=+0.260 mins=121 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=181 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=181 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=241 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=301 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=331 
+
+--- Check #107 at 23:30:02 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.390 sell=0.400 spread=-0.010 jump=+0.110 mins=100 
+  Duke           buy=0.600 sell=0.610 spread=-0.010 jump=-0.110 mins=100 
+  Clippers       buy=0.520 sell=0.530 spread=-0.010 jump=-0.260 mins=120 
+  Pacers         buy=0.470 sell=0.480 spread=-0.010 jump=+0.260 mins=120 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=180 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=180 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=240 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=300 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=330 
+
+--- Check #108 at 23:31:25 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.380 sell=0.400 spread=-0.020 jump=+0.100 mins=99 
+  Duke           buy=0.600 sell=0.620 spread=-0.020 jump=-0.110 mins=99 
+  Clippers       buy=0.500 sell=0.510 spread=-0.010 jump=-0.280 mins=119 
+  Pacers         buy=0.490 sell=0.500 spread=-0.010 jump=+0.280 mins=119 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=179 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=179 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=239 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=299 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=329 
+
+--- Check #109 at 23:32:47 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.390 sell=0.400 spread=-0.010 jump=+0.110 mins=97 
+  Duke           buy=0.600 sell=0.610 spread=-0.010 jump=-0.110 mins=97 
+  Clippers       buy=0.540 sell=0.550 spread=-0.010 jump=-0.240 mins=117 
+  Pacers         buy=0.450 sell=0.460 spread=-0.010 jump=+0.240 mins=117 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=177 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=177 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=237 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=297 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=327 
+
+--- Check #110 at 23:34:10 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.380 sell=0.390 spread=-0.010 jump=+0.100 mins=96 
+  Duke           buy=0.610 sell=0.620 spread=-0.010 jump=-0.100 mins=96 
+  Clippers       buy=0.400 sell=0.410 spread=-0.010 jump=-0.380 mins=116 
+  Pacers         buy=0.590 sell=0.600 spread=-0.010 jump=+0.380 mins=116 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=176 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=176 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=236 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=296 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=326 
+
+--- Check #111 at 23:35:32 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.340 sell=0.350 spread=-0.010 jump=+0.060 mins=94 
+  Duke           buy=0.650 sell=0.660 spread=-0.010 jump=-0.060 mins=94 
+  Clippers       buy=0.340 sell=0.350 spread=-0.010 jump=-0.440 mins=114 
+  Pacers         buy=0.650 sell=0.660 spread=-0.010 jump=+0.440 mins=114 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=174 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=174 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=234 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=294 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=324 
+
+--- Check #112 at 23:36:55 UTC ---
+  Balance: $0.06
+  Clippers       buy=0.320 sell=0.330 spread=-0.010 jump=-0.460 mins=113 
+  Pacers         buy=0.670 sell=0.680 spread=-0.010 jump=+0.460 mins=113 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=173 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=173 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=233 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=293 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=323 
+
+--- Check #113 at 23:38:17 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.350 sell=0.360 spread=-0.010 jump=+0.070 mins=92 
+  Duke           buy=0.640 sell=0.650 spread=-0.010 jump=-0.070 mins=92 
+  Clippers       buy=0.320 sell=0.330 spread=-0.010 jump=-0.460 mins=112 
+  Pacers         buy=0.670 sell=0.680 spread=-0.010 jump=+0.460 mins=112 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=172 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=172 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=232 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=292 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=322 
+
+--- Check #114 at 23:39:40 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.350 sell=0.360 spread=-0.010 jump=+0.070 mins=90 
+  Duke           buy=0.640 sell=0.650 spread=-0.010 jump=-0.070 mins=90 
+  Clippers       buy=0.320 sell=0.330 spread=-0.010 jump=-0.460 mins=110 
+  Pacers         buy=0.670 sell=0.680 spread=-0.010 jump=+0.460 mins=110 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=170 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=170 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=230 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=290 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=320 
+
+--- Check #115 at 23:41:02 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.350 sell=0.360 spread=-0.010 jump=+0.070 mins=89 
+  Duke           buy=0.640 sell=0.650 spread=-0.010 jump=-0.070 mins=89 
+  Clippers       buy=0.270 sell=0.280 spread=-0.010 jump=-0.510 mins=109 
+  Pacers         buy=0.720 sell=0.730 spread=-0.010 jump=+0.510 mins=109 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=169 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=169 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=229 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=289 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=319 
+
+--- Check #116 at 23:42:25 UTC ---
+  Balance: $0.06
+  Clippers       buy=0.260 sell=0.270 spread=-0.010 jump=-0.520 mins=108 
+  Pacers         buy=0.730 sell=0.740 spread=-0.010 jump=+0.520 mins=108 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=168 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=168 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=228 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=288 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=318 
+
+--- Check #117 at 23:43:47 UTC ---
+  Balance: $0.06
+  Clippers       buy=0.320 sell=0.330 spread=-0.010 jump=-0.460 mins=106 
+  Pacers         buy=0.670 sell=0.680 spread=-0.010 jump=+0.460 mins=106 
+  Celtics        buy=0.620 sell=0.630 spread=-0.010 jump=-0.050 mins=136 
+  Heat           buy=0.250 sell=0.260 spread=-0.010 jump=-0.080 mins=136 
+  Cavaliers      buy=0.740 sell=0.750 spread=-0.010 jump=+0.080 mins=136 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=166 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=166 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=226 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=286 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=316 
+
+--- Check #118 at 23:45:10 UTC ---
+  Balance: $0.06
+  Clippers       buy=0.370 sell=0.380 spread=-0.010 jump=-0.410 mins=105 
+  Pacers         buy=0.620 sell=0.630 spread=-0.010 jump=+0.410 mins=105 
+  Hawks          buy=0.400 sell=0.410 spread=-0.010 jump=+0.080 mins=135 
+  Celtics        buy=0.590 sell=0.600 spread=-0.010 jump=-0.080 mins=135 
+  Heat           buy=0.200 sell=0.220 spread=-0.020 jump=-0.130 mins=135 
+  Cavaliers      buy=0.780 sell=0.800 spread=-0.020 jump=+0.120 mins=135 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=165 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=165 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=225 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=285 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=315 
+
+--- Check #119 at 23:46:33 UTC ---
+  Balance: $0.06
+  Clippers       buy=0.270 sell=0.280 spread=-0.010 jump=-0.510 mins=103 
+  Pacers         buy=0.720 sell=0.730 spread=-0.010 jump=+0.510 mins=103 
+  Hawks          buy=0.450 sell=0.460 spread=-0.010 jump=+0.130 mins=133 
+  Celtics        buy=0.540 sell=0.550 spread=-0.010 jump=-0.130 mins=133 
+  Heat           buy=0.190 sell=0.200 spread=-0.010 jump=-0.140 mins=133 
+  Cavaliers      buy=0.800 sell=0.810 spread=-0.010 jump=+0.140 mins=133 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=163 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=163 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=223 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=283 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=313 
+
+--- Check #120 at 23:47:56 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.180 sell=0.190 spread=-0.010 jump=-0.100 mins=82 
+  Duke           buy=0.810 sell=0.820 spread=-0.010 jump=+0.100 mins=82 
+  Clippers       buy=0.280 sell=0.290 spread=-0.010 jump=-0.500 mins=102 
+  Pacers         buy=0.710 sell=0.720 spread=-0.010 jump=+0.500 mins=102 
+  Hawks          buy=0.470 sell=0.480 spread=-0.010 jump=+0.150 mins=132 
+  Celtics        buy=0.520 sell=0.530 spread=-0.010 jump=-0.150 mins=132 
+  Heat           buy=0.190 sell=0.200 spread=-0.010 jump=-0.140 mins=132 
+  Cavaliers      buy=0.800 sell=0.810 spread=-0.010 jump=+0.140 mins=132 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=162 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=162 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=222 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=282 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=312 
+
+--- Check #121 at 23:49:18 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.170 sell=0.180 spread=-0.010 jump=-0.110 mins=81 
+  Duke           buy=0.820 sell=0.830 spread=-0.010 jump=+0.110 mins=81 
+  Clippers       buy=0.290 sell=0.300 spread=-0.010 jump=-0.490 mins=101 
+  Pacers         buy=0.700 sell=0.710 spread=-0.010 jump=+0.490 mins=101 
+  Hawks          buy=0.470 sell=0.480 spread=-0.010 jump=+0.150 mins=131 
+  Celtics        buy=0.520 sell=0.530 spread=-0.010 jump=-0.150 mins=131 
+  Heat           buy=0.200 sell=0.210 spread=-0.010 jump=-0.130 mins=131 
+  Cavaliers      buy=0.790 sell=0.800 spread=-0.010 jump=+0.130 mins=131 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=161 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=161 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=221 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=281 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=311 
+
+--- Check #122 at 23:50:41 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.170 sell=0.180 spread=-0.010 jump=-0.110 mins=79 
+  Duke           buy=0.820 sell=0.830 spread=-0.010 jump=+0.110 mins=79 
+  Clippers       buy=0.320 sell=0.330 spread=-0.010 jump=-0.460 mins=99 
+  Pacers         buy=0.670 sell=0.680 spread=-0.010 jump=+0.460 mins=99 
+  Hawks          buy=0.480 sell=0.490 spread=-0.010 jump=+0.160 mins=129 
+  Celtics        buy=0.510 sell=0.520 spread=-0.010 jump=-0.160 mins=129 
+  Heat           buy=0.210 sell=0.220 spread=-0.010 jump=-0.120 mins=129 
+  Cavaliers      buy=0.780 sell=0.790 spread=-0.010 jump=+0.120 mins=129 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=159 
+  Thunder        buy=0.950 sell=0.960 spread=-0.010 jump=+0.020 mins=159 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=219 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=279 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=309 
+
+--- Check #123 at 23:52:04 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.170 sell=0.180 spread=-0.010 jump=-0.110 mins=78 
+  Duke           buy=0.820 sell=0.830 spread=-0.010 jump=+0.110 mins=78 
+  Clippers       buy=0.300 sell=0.310 spread=-0.010 jump=-0.480 mins=98 
+  Pacers         buy=0.690 sell=0.700 spread=-0.010 jump=+0.480 mins=98 
+  Hawks          buy=0.470 sell=0.480 spread=-0.010 jump=+0.150 mins=128 
+  Celtics        buy=0.520 sell=0.530 spread=-0.010 jump=-0.150 mins=128 
+  Heat           buy=0.190 sell=0.200 spread=-0.010 jump=-0.140 mins=128 
+  Cavaliers      buy=0.800 sell=0.810 spread=-0.010 jump=+0.140 mins=128 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=158 
+  Thunder        buy=0.940 sell=0.960 spread=-0.020 jump=+0.010 mins=158 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=218 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=278 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=308 
+
+--- Check #124 at 23:53:26 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.170 sell=0.180 spread=-0.010 jump=-0.110 mins=77 
+  Duke           buy=0.820 sell=0.830 spread=-0.010 jump=+0.110 mins=77 
+  Clippers       buy=0.280 sell=0.290 spread=-0.010 jump=-0.500 mins=97 
+  Pacers         buy=0.710 sell=0.720 spread=-0.010 jump=+0.500 mins=97 
+  Hawks          buy=0.500 sell=0.510 spread=-0.010 jump=+0.180 mins=127 
+  Celtics        buy=0.480 sell=0.500 spread=-0.020 jump=-0.190 mins=127 
+  Heat           buy=0.200 sell=0.210 spread=-0.010 jump=-0.130 mins=127 
+  Cavaliers      buy=0.790 sell=0.800 spread=-0.010 jump=+0.130 mins=127 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=157 
+  Thunder        buy=0.950 sell=0.960 spread=-0.010 jump=+0.020 mins=157 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=217 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=277 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=307 
+
+--- Check #125 at 23:54:49 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.200 sell=0.210 spread=-0.010 jump=-0.080 mins=75 
+  Duke           buy=0.790 sell=0.800 spread=-0.010 jump=+0.080 mins=75 
+  Clippers       buy=0.340 sell=0.350 spread=-0.010 jump=-0.440 mins=95 
+  Pacers         buy=0.650 sell=0.660 spread=-0.010 jump=+0.440 mins=95 
+  Hawks          buy=0.560 sell=0.570 spread=-0.010 jump=+0.240 mins=125 
+  Celtics        buy=0.430 sell=0.440 spread=-0.010 jump=-0.240 mins=125 
+  Heat           buy=0.200 sell=0.210 spread=-0.010 jump=-0.130 mins=125 
+  Cavaliers      buy=0.790 sell=0.800 spread=-0.010 jump=+0.130 mins=125 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=155 
+  Thunder        buy=0.950 sell=0.960 spread=-0.010 jump=+0.020 mins=155 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=215 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=275 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=305 
+
+--- Check #126 at 23:56:11 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.220 sell=0.230 spread=-0.010 jump=-0.060 mins=74 
+  Duke           buy=0.770 sell=0.780 spread=-0.010 jump=+0.060 mins=74 
+  Clippers       buy=0.350 sell=0.370 spread=-0.020 jump=-0.430 mins=94 
+  Pacers         buy=0.630 sell=0.650 spread=-0.020 jump=+0.420 mins=94 
+  Hawks          buy=0.630 sell=0.640 spread=-0.010 jump=+0.310 mins=124 
+  Celtics        buy=0.360 sell=0.370 spread=-0.010 jump=-0.310 mins=124 
+  Heat           buy=0.200 sell=0.210 spread=-0.010 jump=-0.130 mins=124 
+  Cavaliers      buy=0.790 sell=0.800 spread=-0.010 jump=+0.130 mins=124 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=154 
+  Thunder        buy=0.950 sell=0.960 spread=-0.010 jump=+0.020 mins=154 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=214 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=274 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=304 
+
+--- Check #127 at 23:57:34 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.210 sell=0.220 spread=-0.010 jump=-0.070 mins=72 
+  Duke           buy=0.780 sell=0.790 spread=-0.010 jump=+0.070 mins=72 
+  Alabama        buy=0.280 sell=0.290 spread=-0.010 jump=+0.090 mins=97 
+  Michigan       buy=0.710 sell=0.720 spread=-0.010 jump=-0.090 mins=97 
+  Clippers       buy=0.360 sell=0.370 spread=-0.010 jump=-0.420 mins=92 
+  Pacers         buy=0.630 sell=0.640 spread=-0.010 jump=+0.420 mins=92 
+  Hawks          buy=0.630 sell=0.640 spread=-0.010 jump=+0.310 mins=122 
+  Celtics        buy=0.360 sell=0.370 spread=-0.010 jump=-0.310 mins=122 
+  Heat           buy=0.200 sell=0.210 spread=-0.010 jump=-0.130 mins=122 
+  Cavaliers      buy=0.790 sell=0.800 spread=-0.010 jump=+0.130 mins=122 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=152 
+  Thunder        buy=0.940 sell=0.960 spread=-0.020 jump=+0.010 mins=152 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=212 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=272 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=302 
+
+--- Check #128 at 23:58:56 UTC ---
+  Balance: $0.06
+  Alabama        buy=0.300 sell=0.310 spread=-0.010 jump=+0.110 mins=96 
+  Michigan       buy=0.690 sell=0.700 spread=-0.010 jump=-0.110 mins=96 
+  Clippers       buy=0.380 sell=0.390 spread=-0.010 jump=-0.400 mins=91 
+  Pacers         buy=0.610 sell=0.620 spread=-0.010 jump=+0.400 mins=91 
+  Hawks          buy=0.630 sell=0.640 spread=-0.010 jump=+0.310 mins=121 
+  Celtics        buy=0.360 sell=0.370 spread=-0.010 jump=-0.310 mins=121 
+  Heat           buy=0.230 sell=0.240 spread=-0.010 jump=-0.100 mins=121 
+  Cavaliers      buy=0.760 sell=0.770 spread=-0.010 jump=+0.100 mins=121 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=151 
+  Thunder        buy=0.950 sell=0.960 spread=-0.010 jump=+0.020 mins=151 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=211 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=271 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=301 
+
+--- Check #129 at 00:00:19 UTC ---
+  Balance: $0.06
+  Alabama        buy=0.300 sell=0.310 spread=-0.010 jump=+0.110 mins=95 
+  Michigan       buy=0.690 sell=0.700 spread=-0.010 jump=-0.110 mins=95 
+  Clippers       buy=0.400 sell=0.410 spread=-0.010 jump=-0.380 mins=90 
+  Pacers         buy=0.590 sell=0.600 spread=-0.010 jump=+0.380 mins=90 
+  Hawks          buy=0.560 sell=0.570 spread=-0.010 jump=+0.240 mins=120 
+  Celtics        buy=0.430 sell=0.440 spread=-0.010 jump=-0.240 mins=120 
+  Heat           buy=0.180 sell=0.190 spread=-0.010 jump=-0.150 mins=120 
+  Cavaliers      buy=0.810 sell=0.820 spread=-0.010 jump=+0.150 mins=120 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=150 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=150 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=210 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=270 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=300 
+
+--- Check #130 at 00:01:42 UTC ---
+  Balance: $0.06
+  Alabama        buy=0.300 sell=0.310 spread=-0.010 jump=+0.110 mins=93 
+  Michigan       buy=0.690 sell=0.700 spread=-0.010 jump=-0.110 mins=93 
+  Clippers       buy=0.410 sell=0.420 spread=-0.010 jump=-0.370 mins=88 
+  Pacers         buy=0.580 sell=0.620 spread=-0.040 jump=+0.370 mins=88 
+  Hawks          buy=0.540 sell=0.550 spread=-0.010 jump=+0.220 mins=118 
+  Celtics        buy=0.450 sell=0.460 spread=-0.010 jump=-0.220 mins=118 
+  Heat           buy=0.180 sell=0.190 spread=-0.010 jump=-0.150 mins=118 
+  Cavaliers      buy=0.810 sell=0.820 spread=-0.010 jump=+0.150 mins=118 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=148 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=148 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=208 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=268 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=298 
+
+--- Check #131 at 00:03:04 UTC ---
+  Balance: $0.06
+  Michigan       buy=0.750 sell=0.760 spread=-0.010 jump=-0.050 mins=92 
+  Clippers       buy=0.430 sell=0.440 spread=-0.010 jump=-0.350 mins=87 
+  Pacers         buy=0.560 sell=0.570 spread=-0.010 jump=+0.350 mins=87 
+  Hawks          buy=0.460 sell=0.480 spread=-0.020 jump=+0.140 mins=117 
+  Celtics        buy=0.520 sell=0.520 spread=0.000 jump=-0.150 mins=117 
+  Heat           buy=0.180 sell=0.190 spread=-0.010 jump=-0.150 mins=117 
+  Cavaliers      buy=0.810 sell=0.820 spread=-0.010 jump=+0.150 mins=117 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=147 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=147 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=207 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=267 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=297 
+
+--- Check #132 at 00:04:27 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.340 sell=0.350 spread=-0.010 jump=+0.060 mins=66 
+  Duke           buy=0.650 sell=0.660 spread=-0.010 jump=-0.060 mins=66 
+  Clippers       buy=0.390 sell=0.400 spread=-0.010 jump=-0.390 mins=86 
+  Pacers         buy=0.600 sell=0.610 spread=-0.010 jump=+0.390 mins=86 
+  Hawks          buy=0.470 sell=0.480 spread=-0.010 jump=+0.150 mins=116 
+  Celtics        buy=0.520 sell=0.530 spread=-0.010 jump=-0.150 mins=116 
+  Heat           buy=0.130 sell=0.140 spread=-0.010 jump=-0.200 mins=116 
+  Cavaliers      buy=0.860 sell=0.870 spread=-0.010 jump=+0.200 mins=116 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=146 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=146 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=206 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=266 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=296 
+
+--- Check #133 at 00:05:49 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.340 sell=0.350 spread=-0.010 jump=+0.060 mins=64 
+  Duke           buy=0.650 sell=0.660 spread=-0.010 jump=-0.060 mins=64 
+  Clippers       buy=0.340 sell=0.350 spread=-0.010 jump=-0.440 mins=84 
+  Pacers         buy=0.650 sell=0.660 spread=-0.010 jump=+0.440 mins=84 
+  Hawks          buy=0.430 sell=0.440 spread=-0.010 jump=+0.110 mins=114 
+  Celtics        buy=0.560 sell=0.570 spread=-0.010 jump=-0.110 mins=114 
+  Heat           buy=0.150 sell=0.170 spread=-0.020 jump=-0.180 mins=114 
+  Cavaliers      buy=0.830 sell=0.850 spread=-0.020 jump=+0.170 mins=114 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=144 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=144 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=204 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=264 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=294 
+
+--- Check #134 at 00:07:12 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.340 sell=0.350 spread=-0.010 jump=+0.060 mins=63 
+  Duke           buy=0.650 sell=0.660 spread=-0.010 jump=-0.060 mins=63 
+  Clippers       buy=0.330 sell=0.340 spread=-0.010 jump=-0.450 mins=83 
+  Pacers         buy=0.660 sell=0.670 spread=-0.010 jump=+0.450 mins=83 
+  Hawks          buy=0.420 sell=0.430 spread=-0.010 jump=+0.100 mins=113 
+  Celtics        buy=0.570 sell=0.580 spread=-0.010 jump=-0.100 mins=113 
+  Heat           buy=0.150 sell=0.170 spread=-0.020 jump=-0.180 mins=113 
+  Cavaliers      buy=0.830 sell=0.850 spread=-0.020 jump=+0.170 mins=113 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=143 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=143 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=203 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=263 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=293 
+
+--- Check #135 at 00:08:34 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.340 sell=0.350 spread=-0.010 jump=+0.060 mins=61 
+  Duke           buy=0.650 sell=0.660 spread=-0.010 jump=-0.060 mins=61 
+  Clippers       buy=0.330 sell=0.340 spread=-0.010 jump=-0.450 mins=81 
+  Pacers         buy=0.660 sell=0.670 spread=-0.010 jump=+0.450 mins=81 
+  Hawks          buy=0.420 sell=0.430 spread=-0.010 jump=+0.100 mins=111 
+  Celtics        buy=0.570 sell=0.580 spread=-0.010 jump=-0.100 mins=111 
+  Heat           buy=0.160 sell=0.170 spread=-0.010 jump=-0.170 mins=111 
+  Cavaliers      buy=0.830 sell=0.840 spread=-0.010 jump=+0.170 mins=111 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=141 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=141 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=201 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=261 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=291 
+
+--- Check #136 at 00:09:57 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.340 sell=0.350 spread=-0.010 jump=+0.060 mins=60 
+  Duke           buy=0.650 sell=0.660 spread=-0.010 jump=-0.060 mins=60 
+  Clippers       buy=0.350 sell=0.360 spread=-0.010 jump=-0.430 mins=80 
+  Pacers         buy=0.640 sell=0.650 spread=-0.010 jump=+0.430 mins=80 
+  Hawks          buy=0.440 sell=0.460 spread=-0.020 jump=+0.120 mins=110 
+  Celtics        buy=0.540 sell=0.560 spread=-0.020 jump=-0.130 mins=110 
+  Heat           buy=0.190 sell=0.200 spread=-0.010 jump=-0.140 mins=110 
+  Cavaliers      buy=0.800 sell=0.810 spread=-0.010 jump=+0.140 mins=110 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=140 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=140 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=200 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=260 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=290 
+
+--- Check #137 at 00:11:19 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.340 sell=0.350 spread=-0.010 jump=+0.060 mins=59 
+  Duke           buy=0.650 sell=0.660 spread=-0.010 jump=-0.060 mins=59 
+  Michigan       buy=0.750 sell=0.760 spread=-0.010 jump=-0.050 mins=84 
+  Clippers       buy=0.440 sell=0.450 spread=-0.010 jump=-0.340 mins=79 
+  Pacers         buy=0.550 sell=0.560 spread=-0.010 jump=+0.340 mins=79 
+  Hawks          buy=0.430 sell=0.440 spread=-0.010 jump=+0.110 mins=109 
+  Celtics        buy=0.560 sell=0.570 spread=-0.010 jump=-0.110 mins=109 
+  Heat           buy=0.190 sell=0.200 spread=-0.010 jump=-0.140 mins=109 
+  Cavaliers      buy=0.800 sell=0.810 spread=-0.010 jump=+0.140 mins=109 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=139 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=139 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=199 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=259 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=289 
+
+--- Check #138 at 00:12:41 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.340 sell=0.350 spread=-0.010 jump=+0.060 mins=57 
+  Duke           buy=0.650 sell=0.660 spread=-0.010 jump=-0.060 mins=57 
+  Michigan       buy=0.750 sell=0.760 spread=-0.010 jump=-0.050 mins=82 
+  Clippers       buy=0.470 sell=0.480 spread=-0.010 jump=-0.310 mins=77 
+  Pacers         buy=0.520 sell=0.530 spread=-0.010 jump=+0.310 mins=77 
+  Hawks          buy=0.430 sell=0.440 spread=-0.010 jump=+0.110 mins=107 
+  Celtics        buy=0.560 sell=0.570 spread=-0.010 jump=-0.110 mins=107 
+  Heat           buy=0.160 sell=0.170 spread=-0.010 jump=-0.170 mins=107 
+  Cavaliers      buy=0.830 sell=0.840 spread=-0.010 jump=+0.170 mins=107 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=137 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=137 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=197 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=257 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=287 
+
+--- Check #139 at 00:14:04 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.340 sell=0.350 spread=-0.010 jump=+0.060 mins=56 
+  Duke           buy=0.650 sell=0.660 spread=-0.010 jump=-0.060 mins=56 
+  Michigan       buy=0.750 sell=0.760 spread=-0.010 jump=-0.050 mins=81 
+  Clippers       buy=0.470 sell=0.480 spread=-0.010 jump=-0.310 mins=76 
+  Pacers         buy=0.520 sell=0.530 spread=-0.010 jump=+0.310 mins=76 
+  Hawks          buy=0.440 sell=0.450 spread=-0.010 jump=+0.120 mins=106 
+  Celtics        buy=0.550 sell=0.560 spread=-0.010 jump=-0.120 mins=106 
+  Heat           buy=0.120 sell=0.130 spread=-0.010 jump=-0.210 mins=106 
+  Cavaliers      buy=0.870 sell=0.880 spread=-0.010 jump=+0.210 mins=106 
+  Rockets        buy=0.850 sell=0.860 spread=-0.010 jump=-0.030 mins=136 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=136 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=196 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=256 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=286 
+
+--- Check #140 at 00:15:26 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.340 sell=0.350 spread=-0.010 jump=+0.060 mins=55 
+  Duke           buy=0.650 sell=0.660 spread=-0.010 jump=-0.060 mins=55 
+  Alabama        buy=0.260 sell=0.270 spread=-0.010 jump=+0.070 mins=80 
+  Michigan       buy=0.730 sell=0.740 spread=-0.010 jump=-0.070 mins=80 
+  Clippers       buy=0.470 sell=0.480 spread=-0.010 jump=-0.310 mins=75 
+  Pacers         buy=0.520 sell=0.530 spread=-0.010 jump=+0.310 mins=75 
+  Hawks          buy=0.500 sell=0.510 spread=-0.010 jump=+0.180 mins=105 
+  Celtics        buy=0.490 sell=0.500 spread=-0.010 jump=-0.180 mins=105 
+  Heat           buy=0.110 sell=0.120 spread=-0.010 jump=-0.220 mins=105 
+  Cavaliers      buy=0.880 sell=0.890 spread=-0.010 jump=+0.220 mins=105 
+  Rockets        buy=0.850 sell=0.860 spread=-0.010 jump=-0.030 mins=135 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=135 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=195 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=255 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=285 
+
+--- Check #141 at 00:16:48 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.340 sell=0.350 spread=-0.010 jump=+0.060 mins=53 
+  Duke           buy=0.650 sell=0.660 spread=-0.010 jump=-0.060 mins=53 
+  Alabama        buy=0.260 sell=0.270 spread=-0.010 jump=+0.070 mins=78 
+  Michigan       buy=0.730 sell=0.740 spread=-0.010 jump=-0.070 mins=78 
+  Clippers       buy=0.470 sell=0.480 spread=-0.010 jump=-0.310 mins=73 
+  Pacers         buy=0.520 sell=0.530 spread=-0.010 jump=+0.310 mins=73 
+  Hawks          buy=0.500 sell=0.510 spread=-0.010 jump=+0.180 mins=103 
+  Celtics        buy=0.490 sell=0.500 spread=-0.010 jump=-0.180 mins=103 
+  Heat           buy=0.120 sell=0.130 spread=-0.010 jump=-0.210 mins=103 
+  Cavaliers      buy=0.870 sell=0.880 spread=-0.010 jump=+0.210 mins=103 
+  Rockets        buy=0.850 sell=0.860 spread=-0.010 jump=-0.030 mins=133 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=133 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=193 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=253 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=283 
+
+--- Check #142 at 00:18:11 UTC ---
+  Balance: $0.06
+  Alabama        buy=0.300 sell=0.310 spread=-0.010 jump=+0.110 mins=77 
+  Michigan       buy=0.690 sell=0.700 spread=-0.010 jump=-0.110 mins=77 
+  Clippers       buy=0.470 sell=0.480 spread=-0.010 jump=-0.310 mins=72 
+  Pacers         buy=0.520 sell=0.530 spread=-0.010 jump=+0.310 mins=72 
+  Hawks          buy=0.440 sell=0.460 spread=-0.020 jump=+0.120 mins=102 
+  Celtics        buy=0.540 sell=0.560 spread=-0.020 jump=-0.130 mins=102 
+  Heat           buy=0.070 sell=0.080 spread=-0.010 jump=-0.260 mins=102 
+  Cavaliers      buy=0.920 sell=0.930 spread=-0.010 jump=+0.260 mins=102 
+  Rockets        buy=0.820 sell=0.830 spread=-0.010 jump=-0.060 mins=132 
+  Grizzlies      buy=0.170 sell=0.180 spread=-0.010 jump=+0.060 mins=132 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=132 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=192 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=252 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=282 
+
+--- Check #143 at 00:19:34 UTC ---
+  Balance: $0.06
+  Alabama        buy=0.290 sell=0.300 spread=-0.010 jump=+0.100 mins=75 
+  Michigan       buy=0.700 sell=0.710 spread=-0.010 jump=-0.100 mins=75 
+  Clippers       buy=0.470 sell=0.480 spread=-0.010 jump=-0.310 mins=70 
+  Pacers         buy=0.520 sell=0.530 spread=-0.010 jump=+0.310 mins=70 
+  Hawks          buy=0.450 sell=0.460 spread=-0.010 jump=+0.130 mins=100 
+  Celtics        buy=0.540 sell=0.550 spread=-0.010 jump=-0.130 mins=100 
+  Heat           buy=0.060 sell=0.070 spread=-0.010 jump=-0.270 mins=100 
+  Cavaliers      buy=0.930 sell=0.940 spread=-0.010 jump=+0.270 mins=100 
+  Rockets        buy=0.830 sell=0.840 spread=-0.010 jump=-0.050 mins=130 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=130 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=190 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=250 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=280 
+
+--- Check #144 at 00:20:56 UTC ---
+  Balance: $0.06
+  Alabama        buy=0.310 sell=0.320 spread=-0.010 jump=+0.120 mins=74 
+  Michigan       buy=0.680 sell=0.690 spread=-0.010 jump=-0.120 mins=74 
+  Clippers       buy=0.470 sell=0.480 spread=-0.010 jump=-0.310 mins=69 
+  Pacers         buy=0.520 sell=0.530 spread=-0.010 jump=+0.310 mins=69 
+  Hawks          buy=0.420 sell=0.430 spread=-0.010 jump=+0.100 mins=99 
+  Celtics        buy=0.570 sell=0.580 spread=-0.010 jump=-0.100 mins=99 
+  Heat           buy=0.060 sell=0.070 spread=-0.010 jump=-0.270 mins=99 
+  Cavaliers      buy=0.930 sell=0.940 spread=-0.010 jump=+0.270 mins=99 
+  Rockets        buy=0.830 sell=0.840 spread=-0.010 jump=-0.050 mins=129 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=129 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=189 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=249 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=279 
+
+--- Check #145 at 00:22:19 UTC ---
+  Balance: $0.06
+  Alabama        buy=0.320 sell=0.330 spread=-0.010 jump=+0.130 mins=73 
+  Michigan       buy=0.670 sell=0.680 spread=-0.010 jump=-0.130 mins=73 
+  Clippers       buy=0.470 sell=0.480 spread=-0.010 jump=-0.310 mins=68 
+  Pacers         buy=0.520 sell=0.530 spread=-0.010 jump=+0.310 mins=68 
+  Hawks          buy=0.390 sell=0.400 spread=-0.010 jump=+0.070 mins=98 
+  Celtics        buy=0.600 sell=0.610 spread=-0.010 jump=-0.070 mins=98 
+  Heat           buy=0.060 sell=0.070 spread=-0.010 jump=-0.270 mins=98 
+  Cavaliers      buy=0.930 sell=0.940 spread=-0.010 jump=+0.270 mins=98 
+  Rockets        buy=0.800 sell=0.810 spread=-0.010 jump=-0.080 mins=128 
+  Grizzlies      buy=0.190 sell=0.200 spread=-0.010 jump=+0.080 mins=128 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=128 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=188 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=248 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=278 
+
+--- Check #146 at 00:23:41 UTC ---
+  Balance: $0.06
+  Alabama        buy=0.330 sell=0.340 spread=-0.010 jump=+0.140 mins=71 
+  Michigan       buy=0.660 sell=0.670 spread=-0.010 jump=-0.140 mins=71 
+  Clippers       buy=0.480 sell=0.490 spread=-0.010 jump=-0.300 mins=66 
+  Pacers         buy=0.510 sell=0.520 spread=-0.010 jump=+0.300 mins=66 
+  Heat           buy=0.050 sell=0.060 spread=-0.010 jump=-0.280 mins=96 
+  Cavaliers      buy=0.940 sell=0.950 spread=-0.010 jump=+0.280 mins=96 
+  Rockets        buy=0.850 sell=0.860 spread=-0.010 jump=-0.030 mins=126 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=126 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=186 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=246 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=276 
+
+--- Check #147 at 00:25:04 UTC ---
+  Balance: $0.06
+  Alabama        buy=0.330 sell=0.340 spread=-0.010 jump=+0.140 mins=70 
+  Michigan       buy=0.660 sell=0.670 spread=-0.010 jump=-0.140 mins=70 
+  Clippers       buy=0.480 sell=0.490 spread=-0.010 jump=-0.300 mins=65 
+  Pacers         buy=0.510 sell=0.520 spread=-0.010 jump=+0.300 mins=65 
+  Heat           buy=0.040 sell=0.050 spread=-0.010 jump=-0.290 mins=95 
+  Cavaliers      buy=0.950 sell=0.960 spread=-0.010 jump=+0.290 mins=95 
+  Rockets        buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=125 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=125 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=185 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=245 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=275 
+
+--- Check #148 at 00:26:26 UTC ---
+  Balance: $0.06
+  Alabama        buy=0.330 sell=0.340 spread=-0.010 jump=+0.140 mins=69 
+  Michigan       buy=0.660 sell=0.670 spread=-0.010 jump=-0.140 mins=69 
+  Clippers       buy=0.480 sell=0.490 spread=-0.010 jump=-0.300 mins=64 
+  Pacers         buy=0.510 sell=0.520 spread=-0.010 jump=+0.300 mins=64 
+  Heat           buy=0.020 sell=0.030 spread=-0.010 jump=-0.310 mins=94 
+  Cavaliers      buy=0.970 sell=0.980 spread=-0.010 jump=+0.310 mins=94 
+  Rockets        buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=124 
+  Thunder        buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=124 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=184 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=244 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=274 
+
+--- Check #149 at 00:27:49 UTC ---
+  Balance: $0.06
+  Alabama        buy=0.270 sell=0.280 spread=-0.010 jump=+0.080 mins=67 
+  Michigan       buy=0.720 sell=0.730 spread=-0.010 jump=-0.080 mins=67 
+  Clippers       buy=0.480 sell=0.490 spread=-0.010 jump=-0.300 mins=62 
+  Pacers         buy=0.510 sell=0.520 spread=-0.010 jump=+0.300 mins=62 
+  Hawks          buy=0.420 sell=0.430 spread=-0.010 jump=+0.100 mins=92 
+  Celtics        buy=0.570 sell=0.580 spread=-0.010 jump=-0.100 mins=92 
+  Heat           buy=0.023 sell=0.028 spread=-0.005 jump=-0.307 mins=92 
+  Cavaliers      buy=0.972 sell=0.977 spread=-0.005 jump=+0.312 mins=92 
+  Rockets        buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=122 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=122 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=182 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=242 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=272 
+
+--- Check #150 at 00:29:11 UTC ---
+  Balance: $0.06
+  Alabama        buy=0.270 sell=0.280 spread=-0.010 jump=+0.080 mins=66 
+  Michigan       buy=0.720 sell=0.730 spread=-0.010 jump=-0.080 mins=66 
+  Clippers       buy=0.610 sell=0.620 spread=-0.010 jump=-0.170 mins=61 
+  Pacers         buy=0.380 sell=0.390 spread=-0.010 jump=+0.170 mins=61 
+  Hawks          buy=0.430 sell=0.440 spread=-0.010 jump=+0.110 mins=91 
+  Celtics        buy=0.560 sell=0.570 spread=-0.010 jump=-0.110 mins=91 
+  Heat           buy=0.021 sell=0.025 spread=-0.004 jump=-0.309 mins=91 
+  Cavaliers      buy=0.975 sell=0.979 spread=-0.004 jump=+0.315 mins=91 
+  Rockets        buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=121 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=121 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=181 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=241 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=271 
+
+--- Check #151 at 00:30:34 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.430 sell=0.440 spread=-0.010 jump=+0.150 mins=39 
+  Duke           buy=0.560 sell=0.570 spread=-0.010 jump=-0.150 mins=39 
+  Alabama        buy=0.270 sell=0.280 spread=-0.010 jump=+0.080 mins=64 
+  Michigan       buy=0.720 sell=0.730 spread=-0.010 jump=-0.080 mins=64 
+  Clippers       buy=0.610 sell=0.620 spread=-0.010 jump=-0.170 mins=59 
+  Pacers         buy=0.380 sell=0.390 spread=-0.010 jump=+0.170 mins=59 
+  Hawks          buy=0.490 sell=0.500 spread=-0.010 jump=+0.170 mins=89 
+  Celtics        buy=0.500 sell=0.510 spread=-0.010 jump=-0.170 mins=89 
+  Heat           buy=0.010 sell=0.019 spread=-0.009 jump=-0.320 mins=89 
+  Cavaliers      buy=0.981 sell=0.990 spread=-0.009 jump=+0.321 mins=89 
+  Rockets        buy=0.910 sell=0.920 spread=-0.010 jump=+0.030 mins=119 
+  Thunder        buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=119 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=179 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=239 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=269 
+
+--- Check #152 at 00:31:57 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.420 sell=0.430 spread=-0.010 jump=+0.140 mins=38 
+  Duke           buy=0.570 sell=0.580 spread=-0.010 jump=-0.140 mins=38 
+  Clippers       buy=0.640 sell=0.650 spread=-0.010 jump=-0.140 mins=58 
+  Pacers         buy=0.350 sell=0.360 spread=-0.010 jump=+0.140 mins=58 
+  Hawks          buy=0.450 sell=0.460 spread=-0.010 jump=+0.130 mins=88 
+  Celtics        buy=0.540 sell=0.550 spread=-0.010 jump=-0.130 mins=88 
+  Heat           buy=0.010 sell=0.015 spread=-0.005 jump=-0.320 mins=88 
+  Cavaliers      buy=0.985 sell=0.990 spread=-0.005 jump=+0.325 mins=88 
+  Rockets        buy=0.900 sell=0.920 spread=-0.020 jump=+0.020 mins=118 
+  Thunder        buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=118 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=178 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=238 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=268 
+
+--- Check #153 at 00:33:19 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.420 sell=0.430 spread=-0.010 jump=+0.140 mins=37 
+  Duke           buy=0.570 sell=0.580 spread=-0.010 jump=-0.140 mins=37 
+  Alabama        buy=0.130 sell=0.140 spread=-0.010 jump=-0.060 mins=62 
+  Michigan       buy=0.860 sell=0.870 spread=-0.010 jump=+0.060 mins=62 
+  Clippers       buy=0.620 sell=0.630 spread=-0.010 jump=-0.160 mins=57 
+  Pacers         buy=0.370 sell=0.380 spread=-0.010 jump=+0.160 mins=57 
+  Hawks          buy=0.460 sell=0.470 spread=-0.010 jump=+0.140 mins=87 
+  Celtics        buy=0.530 sell=0.540 spread=-0.010 jump=-0.140 mins=87 
+  Heat           buy=0.011 sell=0.015 spread=-0.004 jump=-0.319 mins=87 
+  Cavaliers      buy=0.985 sell=0.989 spread=-0.004 jump=+0.325 mins=87 
+  Rockets        buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=117 
+  Thunder        buy=0.910 sell=0.920 spread=-0.010 jump=-0.020 mins=117 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=177 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=237 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=267 
+
+--- Check #154 at 00:34:42 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.500 sell=0.510 spread=-0.010 jump=+0.220 mins=35 
+  Duke           buy=0.490 sell=0.500 spread=-0.010 jump=-0.220 mins=35 
+  Michigan       buy=0.850 sell=0.860 spread=-0.010 jump=+0.050 mins=60 
+  Clippers       buy=0.610 sell=0.620 spread=-0.010 jump=-0.170 mins=55 
+  Pacers         buy=0.380 sell=0.390 spread=-0.010 jump=+0.170 mins=55 
+  Hawks          buy=0.470 sell=0.490 spread=-0.020 jump=+0.150 mins=85 
+  Celtics        buy=0.510 sell=0.530 spread=-0.020 jump=-0.160 mins=85 
+  Heat           buy=0.010 sell=0.014 spread=-0.004 jump=-0.320 mins=85 
+  Cavaliers      buy=0.986 sell=0.990 spread=-0.004 jump=+0.326 mins=85 
+  Rockets        buy=0.880 sell=0.900 spread=-0.020 jump=+0.000 mins=115 
+  Thunder        buy=0.910 sell=0.920 spread=-0.010 jump=-0.020 mins=115 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=175 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=235 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=265 
+
+--- Check #155 at 00:36:04 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.500 sell=0.510 spread=-0.010 jump=+0.220 mins=34 
+  Duke           buy=0.490 sell=0.500 spread=-0.010 jump=-0.220 mins=34 
+  Clippers       buy=0.620 sell=0.630 spread=-0.010 jump=-0.160 mins=54 
+  Pacers         buy=0.370 sell=0.380 spread=-0.010 jump=+0.160 mins=54 
+  Hawks          buy=0.500 sell=0.510 spread=-0.010 jump=+0.180 mins=84 
+  Celtics        buy=0.490 sell=0.500 spread=-0.010 jump=-0.180 mins=84 
+  Heat           buy=0.012 sell=0.014 spread=-0.002 jump=-0.318 mins=84 
+  Cavaliers      buy=0.986 sell=0.988 spread=-0.002 jump=+0.326 mins=84 
+  Rockets        buy=0.880 sell=0.900 spread=-0.020 jump=+0.000 mins=114 
+  Thunder        buy=0.900 sell=0.910 spread=-0.010 jump=-0.030 mins=114 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=174 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=234 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=264 
+
+--- Check #156 at 00:37:27 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.600 sell=0.610 spread=-0.010 jump=+0.320 mins=33 
+  Duke           buy=0.390 sell=0.400 spread=-0.010 jump=-0.320 mins=33 
+  Clippers       buy=0.590 sell=0.600 spread=-0.010 jump=-0.190 mins=53 
+  Pacers         buy=0.400 sell=0.410 spread=-0.010 jump=+0.190 mins=53 
+  Hawks          buy=0.490 sell=0.500 spread=-0.010 jump=+0.170 mins=83 
+  Celtics        buy=0.500 sell=0.510 spread=-0.010 jump=-0.170 mins=83 
+  Heat           buy=0.012 sell=0.016 spread=-0.004 jump=-0.318 mins=83 
+  Cavaliers      buy=0.984 sell=0.988 spread=-0.004 jump=+0.324 mins=83 
+  Rockets        buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=113 
+  Thunder        buy=0.900 sell=0.910 spread=-0.010 jump=-0.030 mins=113 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=173 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=233 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=263 
+
+--- Check #157 at 00:38:49 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.610 sell=0.620 spread=-0.010 jump=+0.330 mins=31 
+  Duke           buy=0.380 sell=0.390 spread=-0.010 jump=-0.330 mins=31 
+  Michigan       buy=0.750 sell=0.760 spread=-0.010 jump=-0.050 mins=56 
+  Clippers       buy=0.590 sell=0.600 spread=-0.010 jump=-0.190 mins=51 
+  Pacers         buy=0.400 sell=0.410 spread=-0.010 jump=+0.190 mins=51 
+  Hawks          buy=0.490 sell=0.500 spread=-0.010 jump=+0.170 mins=81 
+  Celtics        buy=0.500 sell=0.510 spread=-0.010 jump=-0.170 mins=81 
+  Heat           buy=0.014 sell=0.015 spread=-0.001 jump=-0.316 mins=81 
+  Cavaliers      buy=0.985 sell=0.986 spread=-0.001 jump=+0.325 mins=81 
+  Rockets        buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=111 
+  Thunder        buy=0.880 sell=0.890 spread=-0.010 jump=-0.050 mins=111 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=171 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=231 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=261 
+
+--- Check #158 at 00:40:12 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.600 sell=0.610 spread=-0.010 jump=+0.320 mins=30 
+  Duke           buy=0.390 sell=0.400 spread=-0.010 jump=-0.320 mins=30 
+  Michigan       buy=0.750 sell=0.760 spread=-0.010 jump=-0.050 mins=55 
+  Clippers       buy=0.600 sell=0.610 spread=-0.010 jump=-0.180 mins=50 
+  Pacers         buy=0.390 sell=0.400 spread=-0.010 jump=+0.180 mins=50 
+  Hawks          buy=0.490 sell=0.500 spread=-0.010 jump=+0.170 mins=80 
+  Celtics        buy=0.500 sell=0.510 spread=-0.010 jump=-0.170 mins=80 
+  Heat           buy=0.008 sell=0.010 spread=-0.002 jump=-0.322 mins=80 
+  Cavaliers      buy=0.990 sell=0.992 spread=-0.002 jump=+0.330 mins=80 
+  Rockets        buy=0.910 sell=0.920 spread=-0.010 jump=+0.030 mins=110 
+  Thunder        buy=0.890 sell=0.900 spread=-0.010 jump=-0.040 mins=110 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=170 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=230 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=260 
+
+--- Check #159 at 00:41:35 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.620 sell=0.630 spread=-0.010 jump=+0.340 mins=28 
+  Duke           buy=0.370 sell=0.370 spread=0.000 jump=-0.340 mins=28 
+  Alabama        buy=0.270 sell=0.280 spread=-0.010 jump=+0.080 mins=53 
+  Michigan       buy=0.720 sell=0.730 spread=-0.010 jump=-0.080 mins=53 
+  Clippers       buy=0.680 sell=0.690 spread=-0.010 jump=-0.100 mins=48 
+  Pacers         buy=0.310 sell=0.320 spread=-0.010 jump=+0.100 mins=48 
+  Hawks          buy=0.490 sell=0.500 spread=-0.010 jump=+0.170 mins=78 
+  Celtics        buy=0.500 sell=0.510 spread=-0.010 jump=-0.170 mins=78 
+  Heat           buy=0.007 sell=0.008 spread=-0.001 jump=-0.323 mins=78 
+  Cavaliers      buy=0.992 sell=0.993 spread=-0.001 jump=+0.332 mins=78 
+  Rockets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.040 mins=108 
+  Thunder        buy=0.890 sell=0.900 spread=-0.010 jump=-0.040 mins=108 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=168 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=228 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=258 
+
+--- Check #160 at 00:42:57 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.610 sell=0.620 spread=-0.010 jump=+0.330 mins=27 
+  Duke           buy=0.380 sell=0.390 spread=-0.010 jump=-0.330 mins=27 
+  Alabama        buy=0.300 sell=0.310 spread=-0.010 jump=+0.110 mins=52 
+  Michigan       buy=0.690 sell=0.700 spread=-0.010 jump=-0.110 mins=52 
+  Clippers       buy=0.670 sell=0.680 spread=-0.010 jump=-0.110 mins=47 
+  Pacers         buy=0.320 sell=0.330 spread=-0.010 jump=+0.110 mins=47 
+  Hawks          buy=0.490 sell=0.500 spread=-0.010 jump=+0.170 mins=77 
+  Celtics        buy=0.500 sell=0.510 spread=-0.010 jump=-0.170 mins=77 
+  Heat           buy=0.007 sell=0.010 spread=-0.003 jump=-0.323 mins=77 
+  Cavaliers      buy=0.990 sell=0.993 spread=-0.003 jump=+0.330 mins=77 
+  Rockets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.050 mins=107 
+  Thunder        buy=0.910 sell=0.920 spread=-0.010 jump=-0.020 mins=107 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=167 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=227 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=257 
+
+--- Check #161 at 00:44:20 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.570 sell=0.580 spread=-0.010 jump=+0.290 mins=26 
+  Duke           buy=0.420 sell=0.430 spread=-0.010 jump=-0.290 mins=26 
+  Alabama        buy=0.290 sell=0.300 spread=-0.010 jump=+0.100 mins=51 
+  Michigan       buy=0.700 sell=0.710 spread=-0.010 jump=-0.100 mins=51 
+  Clippers       buy=0.600 sell=0.610 spread=-0.010 jump=-0.180 mins=46 
+  Pacers         buy=0.390 sell=0.400 spread=-0.010 jump=+0.180 mins=46 
+  Hawks          buy=0.490 sell=0.500 spread=-0.010 jump=+0.170 mins=76 
+  Celtics        buy=0.500 sell=0.510 spread=-0.010 jump=-0.170 mins=76 
+  Heat           buy=0.008 sell=0.009 spread=-0.001 jump=-0.322 mins=76 
+  Cavaliers      buy=0.991 sell=0.992 spread=-0.001 jump=+0.331 mins=76 
+  Rockets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.040 mins=106 
+  Thunder        buy=0.890 sell=0.900 spread=-0.010 jump=-0.040 mins=106 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=166 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=226 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=256 
+
+--- Check #162 at 00:45:42 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.550 sell=0.560 spread=-0.010 jump=+0.270 mins=24 
+  Duke           buy=0.440 sell=0.450 spread=-0.010 jump=-0.270 mins=24 
+  Alabama        buy=0.300 sell=0.310 spread=-0.010 jump=+0.110 mins=49 
+  Michigan       buy=0.690 sell=0.700 spread=-0.010 jump=-0.110 mins=49 
+  Clippers       buy=0.590 sell=0.600 spread=-0.010 jump=-0.190 mins=44 
+  Pacers         buy=0.400 sell=0.410 spread=-0.010 jump=+0.190 mins=44 
+  Hawks          buy=0.490 sell=0.500 spread=-0.010 jump=+0.170 mins=74 
+  Celtics        buy=0.500 sell=0.510 spread=-0.010 jump=-0.170 mins=74 
+  Heat           buy=0.008 sell=0.009 spread=-0.001 jump=-0.322 mins=74 
+  Cavaliers      buy=0.991 sell=0.992 spread=-0.001 jump=+0.331 mins=74 
+  Rockets        buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=104 
+  Thunder        buy=0.890 sell=0.900 spread=-0.010 jump=-0.040 mins=104 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=164 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=224 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=254 
+
+--- Check #163 at 00:47:05 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.470 sell=0.480 spread=-0.010 jump=+0.190 mins=23 
+  Duke           buy=0.520 sell=0.530 spread=-0.010 jump=-0.190 mins=23 
+  Alabama        buy=0.300 sell=0.310 spread=-0.010 jump=+0.110 mins=48 
+  Michigan       buy=0.690 sell=0.700 spread=-0.010 jump=-0.110 mins=48 
+  Clippers       buy=0.470 sell=0.480 spread=-0.010 jump=-0.310 mins=43 
+  Pacers         buy=0.520 sell=0.530 spread=-0.010 jump=+0.310 mins=43 
+  Hawks          buy=0.490 sell=0.500 spread=-0.010 jump=+0.170 mins=73 
+  Celtics        buy=0.500 sell=0.510 spread=-0.010 jump=-0.170 mins=73 
+  Heat           buy=0.009 sell=0.010 spread=-0.001 jump=-0.321 mins=73 
+  Cavaliers      buy=0.990 sell=0.991 spread=-0.001 jump=+0.330 mins=73 
+  Rockets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=103 
+  Thunder        buy=0.880 sell=0.890 spread=-0.010 jump=-0.050 mins=103 
+  Raptors        buy=0.790 sell=0.800 spread=-0.010 jump=+0.050 mins=133 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=163 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=223 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=253 
+
+--- Check #164 at 00:48:27 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.470 sell=0.480 spread=-0.010 jump=+0.190 mins=22 
+  Duke           buy=0.520 sell=0.530 spread=-0.010 jump=-0.190 mins=22 
+  Alabama        buy=0.300 sell=0.310 spread=-0.010 jump=+0.110 mins=47 
+  Michigan       buy=0.690 sell=0.700 spread=-0.010 jump=-0.110 mins=47 
+  Clippers       buy=0.540 sell=0.550 spread=-0.010 jump=-0.240 mins=42 
+  Pacers         buy=0.450 sell=0.460 spread=-0.010 jump=+0.240 mins=42 
+  Hawks          buy=0.500 sell=0.510 spread=-0.010 jump=+0.180 mins=72 
+  Celtics        buy=0.490 sell=0.500 spread=-0.010 jump=-0.180 mins=72 
+  Heat           buy=0.008 sell=0.009 spread=-0.001 jump=-0.322 mins=72 
+  Cavaliers      buy=0.991 sell=0.992 spread=-0.001 jump=+0.331 mins=72 
+  Rockets        buy=0.910 sell=0.920 spread=-0.010 jump=+0.030 mins=102 
+  Bulls          buy=0.160 sell=0.170 spread=-0.010 jump=+0.100 mins=102 
+  Thunder        buy=0.830 sell=0.840 spread=-0.010 jump=-0.100 mins=102 
+  Pelicans       buy=0.190 sell=0.200 spread=-0.010 jump=-0.060 mins=132 
+  Raptors        buy=0.800 sell=0.810 spread=-0.010 jump=+0.060 mins=132 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=162 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=222 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=252 
+
+--- Check #165 at 00:49:50 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.470 sell=0.480 spread=-0.010 jump=+0.190 mins=20 
+  Duke           buy=0.520 sell=0.530 spread=-0.010 jump=-0.190 mins=20 
+  Alabama        buy=0.300 sell=0.310 spread=-0.010 jump=+0.110 mins=45 
+  Michigan       buy=0.690 sell=0.700 spread=-0.010 jump=-0.110 mins=45 
+  Clippers       buy=0.590 sell=0.600 spread=-0.010 jump=-0.190 mins=40 
+  Pacers         buy=0.400 sell=0.410 spread=-0.010 jump=+0.190 mins=40 
+  Hawks          buy=0.500 sell=0.510 spread=-0.010 jump=+0.180 mins=70 
+  Celtics        buy=0.490 sell=0.500 spread=-0.010 jump=-0.180 mins=70 
+  Heat           buy=0.007 sell=0.009 spread=-0.002 jump=-0.323 mins=70 
+  Cavaliers      buy=0.991 sell=0.993 spread=-0.002 jump=+0.331 mins=70 
+  Rockets        buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=100 
+  Bulls          buy=0.140 sell=0.150 spread=-0.010 jump=+0.080 mins=100 
+  Thunder        buy=0.850 sell=0.860 spread=-0.010 jump=-0.080 mins=100 
+  Pelicans       buy=0.190 sell=0.200 spread=-0.010 jump=-0.060 mins=130 
+  Raptors        buy=0.800 sell=0.810 spread=-0.010 jump=+0.060 mins=130 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=160 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=220 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=250 
+
+--- Check #166 at 00:51:12 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.520 sell=0.530 spread=-0.010 jump=+0.240 mins=19 
+  Duke           buy=0.470 sell=0.480 spread=-0.010 jump=-0.240 mins=19 
+  Alabama        buy=0.300 sell=0.310 spread=-0.010 jump=+0.110 mins=44 
+  Michigan       buy=0.690 sell=0.700 spread=-0.010 jump=-0.110 mins=44 
+  Clippers       buy=0.700 sell=0.720 spread=-0.020 jump=-0.080 mins=39 
+  Pacers         buy=0.280 sell=0.300 spread=-0.020 jump=+0.070 mins=39 
+  Hawks          buy=0.500 sell=0.510 spread=-0.010 jump=+0.180 mins=69 
+  Celtics        buy=0.490 sell=0.500 spread=-0.010 jump=-0.180 mins=69 
+  Heat           buy=0.007 sell=0.008 spread=-0.001 jump=-0.323 mins=69 
+  Cavaliers      buy=0.992 sell=0.993 spread=-0.001 jump=+0.332 mins=69 
+  Rockets        buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=99 
+  Bulls          buy=0.150 sell=0.160 spread=-0.010 jump=+0.090 mins=99 
+  Thunder        buy=0.840 sell=0.850 spread=-0.010 jump=-0.090 mins=99 
+  Raptors        buy=0.790 sell=0.800 spread=-0.010 jump=+0.050 mins=129 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=159 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=219 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=249 
+
+--- Check #167 at 00:52:35 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.420 sell=0.430 spread=-0.010 jump=+0.140 mins=17 
+  Duke           buy=0.570 sell=0.580 spread=-0.010 jump=-0.140 mins=17 
+  Alabama        buy=0.300 sell=0.310 spread=-0.010 jump=+0.110 mins=42 
+  Michigan       buy=0.690 sell=0.700 spread=-0.010 jump=-0.110 mins=42 
+  Clippers       buy=0.600 sell=0.610 spread=-0.010 jump=-0.180 mins=37 
+  Pacers         buy=0.390 sell=0.400 spread=-0.010 jump=+0.180 mins=37 
+  Hawks          buy=0.410 sell=0.420 spread=-0.010 jump=+0.090 mins=67 
+  Celtics        buy=0.580 sell=0.590 spread=-0.010 jump=-0.090 mins=67 
+  Heat           buy=0.009 sell=0.010 spread=-0.001 jump=-0.321 mins=67 
+  Cavaliers      buy=0.990 sell=0.991 spread=-0.001 jump=+0.330 mins=67 
+  Rockets        buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=97 
+  Bulls          buy=0.160 sell=0.170 spread=-0.010 jump=+0.100 mins=97 
+  Thunder        buy=0.830 sell=0.840 spread=-0.010 jump=-0.100 mins=97 
+  Pelicans       buy=0.190 sell=0.200 spread=-0.010 jump=-0.060 mins=127 
+  Raptors        buy=0.800 sell=0.810 spread=-0.010 jump=+0.060 mins=127 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=157 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=217 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=247 
+
+--- Check #168 at 00:53:57 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.540 sell=0.550 spread=-0.010 jump=+0.260 mins=16 
+  Duke           buy=0.450 sell=0.460 spread=-0.010 jump=-0.260 mins=16 
+  Alabama        buy=0.300 sell=0.310 spread=-0.010 jump=+0.110 mins=41 
+  Michigan       buy=0.690 sell=0.700 spread=-0.010 jump=-0.110 mins=41 
+  Clippers       buy=0.630 sell=0.640 spread=-0.010 jump=-0.150 mins=36 
+  Pacers         buy=0.360 sell=0.370 spread=-0.010 jump=+0.150 mins=36 
+  Hawks          buy=0.510 sell=0.520 spread=-0.010 jump=+0.190 mins=66 
+  Celtics        buy=0.480 sell=0.490 spread=-0.010 jump=-0.190 mins=66 
+  Heat           buy=0.005 sell=0.009 spread=-0.004 jump=-0.325 mins=66 
+  Cavaliers      buy=0.991 sell=0.995 spread=-0.004 jump=+0.331 mins=66 
+  Rockets        buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=96 
+  Bulls          buy=0.150 sell=0.160 spread=-0.010 jump=+0.090 mins=96 
+  Thunder        buy=0.840 sell=0.850 spread=-0.010 jump=-0.090 mins=96 
+  Pelicans       buy=0.170 sell=0.180 spread=-0.010 jump=-0.080 mins=126 
+  Raptors        buy=0.820 sell=0.830 spread=-0.010 jump=+0.080 mins=126 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=156 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=216 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=246 
+
+--- Check #169 at 00:55:19 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.460 sell=0.470 spread=-0.010 jump=+0.180 mins=15 
+  Duke           buy=0.530 sell=0.540 spread=-0.010 jump=-0.180 mins=15 
+  Alabama        buy=0.300 sell=0.310 spread=-0.010 jump=+0.110 mins=40 
+  Michigan       buy=0.690 sell=0.700 spread=-0.010 jump=-0.110 mins=40 
+  Clippers       buy=0.660 sell=0.670 spread=-0.010 jump=-0.120 mins=35 
+  Pacers         buy=0.330 sell=0.340 spread=-0.010 jump=+0.120 mins=35 
+  Hawks          buy=0.510 sell=0.520 spread=-0.010 jump=+0.190 mins=65 
+  Celtics        buy=0.480 sell=0.490 spread=-0.010 jump=-0.190 mins=65 
+  Heat           buy=0.005 sell=0.009 spread=-0.004 jump=-0.325 mins=65 
+  Cavaliers      buy=0.991 sell=0.995 spread=-0.004 jump=+0.331 mins=65 
+  Rockets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.040 mins=95 
+  Bulls          buy=0.170 sell=0.180 spread=-0.010 jump=+0.110 mins=95 
+  Thunder        buy=0.820 sell=0.830 spread=-0.010 jump=-0.110 mins=95 
+  Pelicans       buy=0.160 sell=0.170 spread=-0.010 jump=-0.090 mins=125 
+  Raptors        buy=0.830 sell=0.840 spread=-0.010 jump=+0.090 mins=125 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=155 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=215 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=245 
+
+--- Check #170 at 00:56:42 UTC ---
+  Balance: $0.06
+  St. John's     buy=0.420 sell=0.430 spread=-0.010 jump=+0.140 mins=13 
+  Duke           buy=0.570 sell=0.580 spread=-0.010 jump=-0.140 mins=13 
+  Alabama        buy=0.300 sell=0.310 spread=-0.010 jump=+0.110 mins=38 
+  Michigan       buy=0.690 sell=0.700 spread=-0.010 jump=-0.110 mins=38 
+  Clippers       buy=0.690 sell=0.700 spread=-0.010 jump=-0.090 mins=33 
+  Pacers         buy=0.300 sell=0.310 spread=-0.010 jump=+0.090 mins=33 
+  Hawks          buy=0.570 sell=0.580 spread=-0.010 jump=+0.250 mins=63 
+  Celtics        buy=0.420 sell=0.430 spread=-0.010 jump=-0.250 mins=63 
+  Heat           buy=0.006 sell=0.009 spread=-0.003 jump=-0.324 mins=63 
+  Cavaliers      buy=0.991 sell=0.994 spread=-0.003 jump=+0.331 mins=63 
+  Rockets        buy=0.910 sell=0.920 spread=-0.010 jump=+0.030 mins=93 
+  Bulls          buy=0.190 sell=0.200 spread=-0.010 jump=+0.130 mins=93 
+  Thunder        buy=0.800 sell=0.810 spread=-0.010 jump=-0.130 mins=93 
+  Pelicans       buy=0.170 sell=0.180 spread=-0.010 jump=-0.080 mins=123 
+  Raptors        buy=0.820 sell=0.830 spread=-0.010 jump=+0.080 mins=123 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=153 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=213 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=243 
+
+--- Check #171 at 00:58:04 UTC ---
+  Balance: $0.06
+  Alabama        buy=0.300 sell=0.310 spread=-0.010 jump=+0.110 mins=37 
+  Michigan       buy=0.690 sell=0.700 spread=-0.010 jump=-0.110 mins=37 
+  Clippers       buy=0.690 sell=0.700 spread=-0.010 jump=-0.090 mins=32 
+  Pacers         buy=0.300 sell=0.310 spread=-0.010 jump=+0.090 mins=32 
+  Hawks          buy=0.570 sell=0.580 spread=-0.010 jump=+0.250 mins=62 
+  Celtics        buy=0.420 sell=0.430 spread=-0.010 jump=-0.250 mins=62 
+  Heat           buy=0.005 sell=0.007 spread=-0.002 jump=-0.325 mins=62 
+  Cavaliers      buy=0.993 sell=0.995 spread=-0.002 jump=+0.333 mins=62 
+  Rockets        buy=0.910 sell=0.920 spread=-0.010 jump=+0.030 mins=92 
+  Bulls          buy=0.200 sell=0.220 spread=-0.020 jump=+0.140 mins=92 
+  Thunder        buy=0.780 sell=0.800 spread=-0.020 jump=-0.150 mins=92 
+  Pelicans       buy=0.140 sell=0.150 spread=-0.010 jump=-0.110 mins=122 
+  Raptors        buy=0.850 sell=0.860 spread=-0.010 jump=+0.110 mins=122 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=152 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=212 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=242 
+
+--- Check #172 at 00:59:27 UTC ---
+  Balance: $0.06
+  Alabama        buy=0.300 sell=0.310 spread=-0.010 jump=+0.110 mins=36 
+  Michigan       buy=0.690 sell=0.700 spread=-0.010 jump=-0.110 mins=36 
+  Clippers       buy=0.660 sell=0.670 spread=-0.010 jump=-0.120 mins=31 
+  Pacers         buy=0.330 sell=0.340 spread=-0.010 jump=+0.120 mins=31 
+  Hawks          buy=0.430 sell=0.440 spread=-0.010 jump=+0.110 mins=61 
+  Celtics        buy=0.560 sell=0.580 spread=-0.020 jump=-0.110 mins=61 
+  Heat           buy=0.005 sell=0.007 spread=-0.002 jump=-0.325 mins=61 
+  Cavaliers      buy=0.993 sell=0.995 spread=-0.002 jump=+0.333 mins=61 
+  Rockets        buy=0.910 sell=0.920 spread=-0.010 jump=+0.030 mins=91 
+  Bulls          buy=0.210 sell=0.220 spread=-0.010 jump=+0.150 mins=91 
+  Thunder        buy=0.780 sell=0.790 spread=-0.010 jump=-0.150 mins=91 
+  Pelicans       buy=0.140 sell=0.150 spread=-0.010 jump=-0.110 mins=121 
+  Raptors        buy=0.850 sell=0.860 spread=-0.010 jump=+0.110 mins=121 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=151 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=211 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=241 
+
+--- Check #173 at 01:00:50 UTC ---
+  Balance: $0.06
+  Alabama        buy=0.300 sell=0.310 spread=-0.010 jump=+0.110 mins=34 
+  Michigan       buy=0.690 sell=0.700 spread=-0.010 jump=-0.110 mins=34 
+  Clippers       buy=0.600 sell=0.610 spread=-0.010 jump=-0.180 mins=29 
+  Pacers         buy=0.390 sell=0.400 spread=-0.010 jump=+0.180 mins=29 
+  Celtics        buy=0.620 sell=0.630 spread=-0.010 jump=-0.050 mins=59 
+  Heat           buy=0.003 sell=0.006 spread=-0.003 jump=-0.327 mins=59 
+  Cavaliers      buy=0.994 sell=0.997 spread=-0.003 jump=+0.334 mins=59 
+  Rockets        buy=0.910 sell=0.920 spread=-0.010 jump=+0.030 mins=89 
+  Bulls          buy=0.210 sell=0.220 spread=-0.010 jump=+0.150 mins=89 
+  Thunder        buy=0.780 sell=0.790 spread=-0.010 jump=-0.150 mins=89 
+  Pelicans       buy=0.150 sell=0.160 spread=-0.010 jump=-0.100 mins=119 
+  Raptors        buy=0.840 sell=0.850 spread=-0.010 jump=+0.100 mins=119 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=149 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=209 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=239 
+
+--- Check #174 at 01:02:12 UTC ---
+  Balance: $0.06
+  Alabama        buy=0.300 sell=0.310 spread=-0.010 jump=+0.110 mins=33 
+  Michigan       buy=0.690 sell=0.700 spread=-0.010 jump=-0.110 mins=33 
+  Clippers       buy=0.560 sell=0.570 spread=-0.010 jump=-0.220 mins=28 
+  Pacers         buy=0.430 sell=0.440 spread=-0.010 jump=+0.220 mins=28 
+  Celtics        buy=0.620 sell=0.630 spread=-0.010 jump=-0.050 mins=58 
+  Heat           buy=0.003 sell=0.006 spread=-0.003 jump=-0.327 mins=58 
+  Cavaliers      buy=0.994 sell=0.997 spread=-0.003 jump=+0.334 mins=58 
+  Rockets        buy=0.910 sell=0.920 spread=-0.010 jump=+0.030 mins=88 
+  Bulls          buy=0.220 sell=0.230 spread=-0.010 jump=+0.160 mins=88 
+  Thunder        buy=0.770 sell=0.780 spread=-0.010 jump=-0.160 mins=88 
+  Pelicans       buy=0.160 sell=0.170 spread=-0.010 jump=-0.090 mins=118 
+  Raptors        buy=0.830 sell=0.840 spread=-0.010 jump=+0.090 mins=118 
+  Nuggets        buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=148 
+  Warriors       buy=0.860 sell=0.870 spread=-0.010 jump=-0.010 mins=208 
+  Lakers         buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=238 

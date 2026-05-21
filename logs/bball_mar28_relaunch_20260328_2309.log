@@ -1,0 +1,2348 @@
+=== NBA Mar 28 Near-Res Monitor ===
+Started at 2026-03-28 23:09:36 UTC
+Monitoring 14 tokens (7 games)
+Params: MIN_PRICE=0.85, JUMP=0.2, SPREAD=0.04, MAX_MINS=20
+Balance: $2.64
+
+Snapshotting pre-game prices...
+
+--- Check #0 at 23:09:37 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-100 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-100 
+  Pistons        buy=0.870 sell=0.880 spread=-0.010 jump=+0.340 mins=50 
+  Timberwolves   buy=0.120 sell=0.130 spread=-0.010 jump=-0.340 mins=50 
+  76ers          buy=0.230 sell=0.240 spread=-0.010 jump=-0.080 mins=80 
+  Hornets        buy=0.760 sell=0.770 spread=-0.010 jump=+0.080 mins=80 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=170 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=320 
+  Illinois       buy=0.610 sell=0.620 spread=-0.010 jump=-0.120 mins=59 
+  Iowa           buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=59 
+
+--- Check #1 at 23:10:56 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-101 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-101 
+  Pistons        buy=0.850 sell=0.860 spread=-0.010 jump=+0.320 mins=49 
+  Timberwolves   buy=0.140 sell=0.150 spread=-0.010 jump=-0.320 mins=49 
+  76ers          buy=0.230 sell=0.240 spread=-0.010 jump=-0.080 mins=79 
+  Hornets        buy=0.760 sell=0.770 spread=-0.010 jump=+0.080 mins=79 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=169 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=319 
+  Illinois       buy=0.610 sell=0.620 spread=-0.010 jump=-0.120 mins=58 
+  Iowa           buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=58 
+
+--- Check #2 at 23:12:16 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-102 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-102 
+  Pistons        buy=0.820 sell=0.840 spread=-0.020 jump=+0.290 mins=48 
+  Timberwolves   buy=0.160 sell=0.180 spread=-0.020 jump=-0.300 mins=48 
+  76ers          buy=0.230 sell=0.240 spread=-0.010 jump=-0.080 mins=78 
+  Hornets        buy=0.760 sell=0.770 spread=-0.010 jump=+0.080 mins=78 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=168 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=318 
+  Illinois       buy=0.610 sell=0.620 spread=-0.010 jump=-0.120 mins=57 
+  Iowa           buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=57 
+
+--- Check #3 at 23:13:35 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-104 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-104 
+  Pistons        buy=0.870 sell=0.880 spread=-0.010 jump=+0.340 mins=46 
+  Timberwolves   buy=0.120 sell=0.130 spread=-0.010 jump=-0.340 mins=46 
+  76ers          buy=0.230 sell=0.240 spread=-0.010 jump=-0.080 mins=76 
+  Hornets        buy=0.760 sell=0.770 spread=-0.010 jump=+0.080 mins=76 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=166 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=316 
+  Illinois       buy=0.610 sell=0.620 spread=-0.010 jump=-0.120 mins=55 
+  Iowa           buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=55 
+
+--- Check #4 at 23:14:54 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-105 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-105 
+  Pistons        buy=0.880 sell=0.890 spread=-0.010 jump=+0.350 mins=45 
+  Timberwolves   buy=0.110 sell=0.120 spread=-0.010 jump=-0.350 mins=45 
+  76ers          buy=0.230 sell=0.240 spread=-0.010 jump=-0.080 mins=75 
+  Hornets        buy=0.760 sell=0.770 spread=-0.010 jump=+0.080 mins=75 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=165 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=315 
+  Illinois       buy=0.610 sell=0.620 spread=-0.010 jump=-0.120 mins=54 
+  Iowa           buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=54 
+
+--- Check #5 at 23:16:13 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-106 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-106 
+  Pistons        buy=0.870 sell=0.880 spread=-0.010 jump=+0.340 mins=44 
+  Timberwolves   buy=0.120 sell=0.130 spread=-0.010 jump=-0.340 mins=44 
+  76ers          buy=0.240 sell=0.250 spread=-0.010 jump=-0.070 mins=74 
+  Hornets        buy=0.750 sell=0.760 spread=-0.010 jump=+0.070 mins=74 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=164 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=314 
+  Illinois       buy=0.610 sell=0.620 spread=-0.010 jump=-0.120 mins=53 
+  Iowa           buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=53 
+
+--- Check #6 at 23:17:32 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-108 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-108 
+  Pistons        buy=0.880 sell=0.890 spread=-0.010 jump=+0.350 mins=42 
+  Timberwolves   buy=0.110 sell=0.120 spread=-0.010 jump=-0.350 mins=42 
+  76ers          buy=0.240 sell=0.250 spread=-0.010 jump=-0.070 mins=72 
+  Hornets        buy=0.750 sell=0.760 spread=-0.010 jump=+0.070 mins=72 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=162 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=312 
+  Illinois       buy=0.610 sell=0.620 spread=-0.010 jump=-0.120 mins=51 
+  Iowa           buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=51 
+
+--- Check #7 at 23:18:52 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-109 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-109 
+  Pistons        buy=0.880 sell=0.890 spread=-0.010 jump=+0.350 mins=41 
+  Timberwolves   buy=0.110 sell=0.120 spread=-0.010 jump=-0.350 mins=41 
+  76ers          buy=0.240 sell=0.250 spread=-0.010 jump=-0.070 mins=71 
+  Hornets        buy=0.750 sell=0.760 spread=-0.010 jump=+0.070 mins=71 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=161 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=311 
+  Illinois       buy=0.610 sell=0.620 spread=-0.010 jump=-0.120 mins=50 
+  Iowa           buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=50 
+
+--- Check #8 at 23:20:11 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-110 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-110 
+  Pistons        buy=0.880 sell=0.890 spread=-0.010 jump=+0.350 mins=40 
+  Timberwolves   buy=0.110 sell=0.120 spread=-0.010 jump=-0.350 mins=40 
+  76ers          buy=0.240 sell=0.250 spread=-0.010 jump=-0.070 mins=70 
+  Hornets        buy=0.750 sell=0.760 spread=-0.010 jump=+0.070 mins=70 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=160 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=310 
+  Illinois       buy=0.610 sell=0.620 spread=-0.010 jump=-0.120 mins=49 
+  Iowa           buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=49 
+
+--- Check #9 at 23:21:30 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-112 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-112 
+  Pistons        buy=0.900 sell=0.910 spread=-0.010 jump=+0.370 mins=38 
+  Timberwolves   buy=0.090 sell=0.100 spread=-0.010 jump=-0.370 mins=38 
+  76ers          buy=0.240 sell=0.250 spread=-0.010 jump=-0.070 mins=68 
+  Hornets        buy=0.750 sell=0.760 spread=-0.010 jump=+0.070 mins=68 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=158 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=308 
+  Illinois       buy=0.610 sell=0.620 spread=-0.010 jump=-0.120 mins=47 
+  Iowa           buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=47 
+
+--- Check #10 at 23:22:50 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-113 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-113 
+  Pistons        buy=0.910 sell=0.920 spread=-0.010 jump=+0.380 mins=37 
+  Timberwolves   buy=0.080 sell=0.090 spread=-0.010 jump=-0.380 mins=37 
+  76ers          buy=0.240 sell=0.250 spread=-0.010 jump=-0.070 mins=67 
+  Hornets        buy=0.750 sell=0.760 spread=-0.010 jump=+0.070 mins=67 
+  Hawks          buy=0.850 sell=0.860 spread=-0.010 jump=-0.030 mins=157 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=307 
+  Illinois       buy=0.610 sell=0.620 spread=-0.010 jump=-0.120 mins=46 
+  Iowa           buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=46 
+
+--- Check #11 at 23:24:09 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-114 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-114 
+  Pistons        buy=0.910 sell=0.920 spread=-0.010 jump=+0.380 mins=36 
+  Timberwolves   buy=0.080 sell=0.090 spread=-0.010 jump=-0.380 mins=36 
+  Hawks          buy=0.850 sell=0.860 spread=-0.010 jump=-0.030 mins=156 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=306 
+  Illinois       buy=0.610 sell=0.620 spread=-0.010 jump=-0.120 mins=45 
+  Iowa           buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=45 
+
+--- Check #12 at 23:25:28 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-115 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-115 
+  Pistons        buy=0.920 sell=0.930 spread=-0.010 jump=+0.390 mins=35 
+  Timberwolves   buy=0.070 sell=0.080 spread=-0.010 jump=-0.390 mins=35 
+  76ers          buy=0.240 sell=0.250 spread=-0.010 jump=-0.070 mins=65 
+  Hornets        buy=0.750 sell=0.760 spread=-0.010 jump=+0.070 mins=65 
+  Hawks          buy=0.850 sell=0.860 spread=-0.010 jump=-0.030 mins=155 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=305 
+  Illinois       buy=0.610 sell=0.620 spread=-0.010 jump=-0.120 mins=44 
+  Iowa           buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=44 
+
+--- Check #13 at 23:26:48 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-117 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-117 
+  Pistons        buy=0.910 sell=0.930 spread=-0.020 jump=+0.380 mins=33 
+  Timberwolves   buy=0.070 sell=0.090 spread=-0.020 jump=-0.390 mins=33 
+  76ers          buy=0.210 sell=0.220 spread=-0.010 jump=-0.100 mins=63 
+  Hornets        buy=0.780 sell=0.790 spread=-0.010 jump=+0.100 mins=63 
+  Hawks          buy=0.850 sell=0.860 spread=-0.010 jump=-0.030 mins=153 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=303 
+  Illinois       buy=0.610 sell=0.620 spread=-0.010 jump=-0.120 mins=42 
+  Iowa           buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=42 
+
+--- Check #14 at 23:28:07 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-118 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-118 
+  Pistons        buy=0.950 sell=0.960 spread=-0.010 jump=+0.420 mins=32 
+  Timberwolves   buy=0.040 sell=0.050 spread=-0.010 jump=-0.420 mins=32 
+  76ers          buy=0.110 sell=0.120 spread=-0.010 jump=-0.200 mins=62 
+  Hornets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.200 mins=62 
+  Hawks          buy=0.850 sell=0.860 spread=-0.010 jump=-0.030 mins=152 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=302 
+  Illinois       buy=0.610 sell=0.620 spread=-0.010 jump=-0.120 mins=41 
+  Iowa           buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=41 
+
+--- Check #15 at 23:29:27 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-119 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-119 
+  Pistons        buy=0.960 sell=0.970 spread=-0.010 jump=+0.430 mins=31 
+  Timberwolves   buy=0.030 sell=0.040 spread=-0.010 jump=-0.430 mins=31 
+  76ers          buy=0.130 sell=0.140 spread=-0.010 jump=-0.180 mins=61 
+  Hornets        buy=0.860 sell=0.870 spread=-0.010 jump=+0.180 mins=61 
+  Hawks          buy=0.850 sell=0.860 spread=-0.010 jump=-0.030 mins=151 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=301 
+  Illinois       buy=0.600 sell=0.620 spread=-0.020 jump=-0.130 mins=40 
+  Iowa           buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=40 
+
+--- Check #16 at 23:30:46 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-121 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-121 
+  Pistons        buy=0.970 sell=0.980 spread=-0.010 jump=+0.440 mins=29 
+  Timberwolves   buy=0.020 sell=0.030 spread=-0.010 jump=-0.440 mins=29 
+  76ers          buy=0.130 sell=0.140 spread=-0.010 jump=-0.180 mins=59 
+  Hornets        buy=0.860 sell=0.870 spread=-0.010 jump=+0.180 mins=59 
+  Hawks          buy=0.850 sell=0.860 spread=-0.010 jump=-0.030 mins=149 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=299 
+  Illinois       buy=0.610 sell=0.620 spread=-0.010 jump=-0.120 mins=38 
+  Iowa           buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=38 
+
+--- Check #17 at 23:32:05 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-122 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-122 
+  Pistons        buy=0.980 sell=0.990 spread=-0.010 jump=+0.450 mins=28 
+  Timberwolves   buy=0.010 sell=0.020 spread=-0.010 jump=-0.450 mins=28 
+  76ers          buy=0.100 sell=0.110 spread=-0.010 jump=-0.210 mins=58 
+  Hornets        buy=0.890 sell=0.900 spread=-0.010 jump=+0.210 mins=58 
+  Hawks          buy=0.850 sell=0.860 spread=-0.010 jump=-0.030 mins=148 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=298 
+
+--- Check #18 at 23:33:25 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-123 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-123 
+  Pistons        buy=0.980 sell=0.990 spread=-0.010 jump=+0.450 mins=27 
+  Timberwolves   buy=0.010 sell=0.020 spread=-0.010 jump=-0.450 mins=27 
+  76ers          buy=0.090 sell=0.100 spread=-0.010 jump=-0.220 mins=57 
+  Hornets        buy=0.900 sell=0.910 spread=-0.010 jump=+0.220 mins=57 
+  Hawks          buy=0.850 sell=0.860 spread=-0.010 jump=-0.030 mins=147 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=297 
+
+--- Check #19 at 23:34:44 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-125 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-125 
+  Pistons        buy=0.990 sell=0.996 spread=-0.006 jump=+0.460 mins=25 
+  Timberwolves   buy=0.004 sell=0.010 spread=-0.006 jump=-0.456 mins=25 
+  76ers          buy=0.060 sell=0.070 spread=-0.010 jump=-0.250 mins=55 
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.250 mins=55 
+  Hawks          buy=0.850 sell=0.860 spread=-0.010 jump=-0.030 mins=145 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=295 
+
+--- Check #20 at 23:36:03 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-126 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-126 
+  Pistons        buy=0.991 sell=0.996 spread=-0.005 jump=+0.461 mins=24 
+  Timberwolves   buy=0.004 sell=0.009 spread=-0.005 jump=-0.456 mins=24 
+  76ers          buy=0.080 sell=0.090 spread=-0.010 jump=-0.230 mins=54 
+  Hornets        buy=0.910 sell=0.920 spread=-0.010 jump=+0.230 mins=54 
+  Hawks          buy=0.850 sell=0.860 spread=-0.010 jump=-0.030 mins=144 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=294 
+
+--- Check #21 at 23:37:22 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-127 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-127 
+  Pistons        buy=0.992 sell=0.994 spread=-0.002 jump=+0.462 mins=23 
+  Timberwolves   buy=0.006 sell=0.008 spread=-0.002 jump=-0.454 mins=23 
+  76ers          buy=0.150 sell=0.160 spread=-0.010 jump=-0.160 mins=53 
+  Hornets        buy=0.840 sell=0.850 spread=-0.010 jump=+0.160 mins=53 
+  Hawks          buy=0.850 sell=0.860 spread=-0.010 jump=-0.030 mins=143 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=293 
+
+--- Check #22 at 23:38:42 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-129 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-129 
+  Pistons        buy=0.997 sell=0.998 spread=-0.001 jump=+0.467 mins=21 
+  Timberwolves   buy=0.002 sell=0.003 spread=-0.001 jump=-0.458 mins=21 
+  76ers          buy=0.150 sell=0.160 spread=-0.010 jump=-0.160 mins=51 
+  Hornets        buy=0.840 sell=0.850 spread=-0.010 jump=+0.160 mins=51 
+  Hawks          buy=0.850 sell=0.860 spread=-0.010 jump=-0.030 mins=141 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=291 
+
+--- Check #23 at 23:40:01 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-130 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-130 
+  Pistons        buy=0.996 sell=0.998 spread=-0.002 jump=+0.466 mins=20 
+  Timberwolves   buy=0.002 sell=0.004 spread=-0.002 jump=-0.458 mins=20 
+  76ers          buy=0.150 sell=0.160 spread=-0.010 jump=-0.160 mins=50 
+  Hornets        buy=0.840 sell=0.850 spread=-0.010 jump=+0.160 mins=50 
+  Hawks          buy=0.850 sell=0.860 spread=-0.010 jump=-0.030 mins=140 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=290 
+
+--- Check #24 at 23:41:21 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-131 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-131 
+  Pistons        buy=0.996 sell=0.998 spread=-0.002 jump=+0.466 mins=19 
+  Timberwolves   buy=0.002 sell=0.004 spread=-0.002 jump=-0.458 mins=19 
+  76ers          buy=0.180 sell=0.190 spread=-0.010 jump=-0.130 mins=49 
+  Hornets        buy=0.810 sell=0.820 spread=-0.010 jump=+0.130 mins=49 
+  Hawks          buy=0.850 sell=0.860 spread=-0.010 jump=-0.030 mins=139 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=289 
+
+--- Check #25 at 23:42:40 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-133 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-133 
+  Pistons        buy=0.997 sell=0.999 spread=-0.002 jump=+0.467 mins=17 
+  Timberwolves   buy=0.001 sell=0.003 spread=-0.002 jump=-0.459 mins=17 
+  76ers          buy=0.150 sell=0.170 spread=-0.020 jump=-0.160 mins=47 
+  Hornets        buy=0.830 sell=0.850 spread=-0.020 jump=+0.150 mins=47 
+  Hawks          buy=0.850 sell=0.860 spread=-0.010 jump=-0.030 mins=137 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=287 
+
+--- Check #26 at 23:43:59 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-134 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-134 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=16 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=16 
+  76ers          buy=0.150 sell=0.160 spread=-0.010 jump=-0.160 mins=46 
+  Hornets        buy=0.840 sell=0.850 spread=-0.010 jump=+0.160 mins=46 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=136 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=286 
+
+--- Check #27 at 23:45:19 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-135 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-135 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=15 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=15 
+  76ers          buy=0.190 sell=0.200 spread=-0.010 jump=-0.120 mins=45 
+  Hornets        buy=0.800 sell=0.810 spread=-0.010 jump=+0.120 mins=45 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=135 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=285 
+
+--- Check #28 at 23:46:38 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-137 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-137 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=13 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=13 
+  76ers          buy=0.210 sell=0.220 spread=-0.010 jump=-0.100 mins=43 
+  Hornets        buy=0.780 sell=0.790 spread=-0.010 jump=+0.100 mins=43 
+  Hawks          buy=0.850 sell=0.860 spread=-0.010 jump=-0.030 mins=133 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=283 
+
+--- Check #29 at 23:47:57 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-138 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-138 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=12 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=12 
+  76ers          buy=0.200 sell=0.210 spread=-0.010 jump=-0.110 mins=42 
+  Hornets        buy=0.790 sell=0.800 spread=-0.010 jump=+0.110 mins=42 
+  Hawks          buy=0.830 sell=0.840 spread=-0.010 jump=-0.050 mins=132 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=282 
+
+--- Check #30 at 23:49:16 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-139 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-139 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=11 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=11 
+  76ers          buy=0.190 sell=0.200 spread=-0.010 jump=-0.120 mins=41 
+  Hornets        buy=0.800 sell=0.810 spread=-0.010 jump=+0.120 mins=41 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=281 
+
+--- Check #31 at 23:50:37 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-141 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-141 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=9 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=9 
+  76ers          buy=0.190 sell=0.200 spread=-0.010 jump=-0.120 mins=39 
+  Hornets        buy=0.800 sell=0.810 spread=-0.010 jump=+0.120 mins=39 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=279 
+
+--- Check #32 at 23:51:56 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-142 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-142 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=8 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=8 
+  76ers          buy=0.190 sell=0.200 spread=-0.010 jump=-0.120 mins=38 
+  Hornets        buy=0.800 sell=0.810 spread=-0.010 jump=+0.120 mins=38 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=278 
+
+--- Check #33 at 23:53:16 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-143 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-143 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=7 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=7 
+  76ers          buy=0.170 sell=0.180 spread=-0.010 jump=-0.140 mins=37 
+  Hornets        buy=0.820 sell=0.830 spread=-0.010 jump=+0.140 mins=37 
+  Hawks          buy=0.850 sell=0.860 spread=-0.010 jump=-0.030 mins=127 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=277 
+
+--- Check #34 at 23:54:35 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-145 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-145 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=5 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=5 
+  76ers          buy=0.180 sell=0.190 spread=-0.010 jump=-0.130 mins=35 
+  Hornets        buy=0.810 sell=0.820 spread=-0.010 jump=+0.130 mins=35 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=125 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=275 
+
+--- Check #35 at 23:55:54 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-146 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-146 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=4 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=4 
+  76ers          buy=0.180 sell=0.190 spread=-0.010 jump=-0.130 mins=34 
+  Hornets        buy=0.810 sell=0.820 spread=-0.010 jump=+0.130 mins=34 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=124 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=274 
+  Illinois       buy=0.660 sell=0.670 spread=-0.010 jump=-0.070 mins=13 
+  Iowa           buy=0.330 sell=0.340 spread=-0.010 jump=+0.070 mins=13 
+
+--- Check #36 at 23:57:14 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-147 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-147 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=3 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=3 
+  76ers          buy=0.180 sell=0.190 spread=-0.010 jump=-0.130 mins=33 
+  Hornets        buy=0.810 sell=0.820 spread=-0.010 jump=+0.130 mins=33 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=123 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=273 
+  Illinois       buy=0.650 sell=0.660 spread=-0.010 jump=-0.080 mins=12 
+  Iowa           buy=0.340 sell=0.350 spread=-0.010 jump=+0.080 mins=12 
+
+--- Check #37 at 23:58:33 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-149 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-149 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=1 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=1 
+  76ers          buy=0.210 sell=0.220 spread=-0.010 jump=-0.100 mins=31 
+  Hornets        buy=0.780 sell=0.790 spread=-0.010 jump=+0.100 mins=31 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=121 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=271 
+  Illinois       buy=0.630 sell=0.640 spread=-0.010 jump=-0.100 mins=10 
+  Iowa           buy=0.360 sell=0.370 spread=-0.010 jump=+0.100 mins=10 
+
+--- Check #38 at 23:59:52 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-150 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-150 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=0 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=0 
+  76ers          buy=0.250 sell=0.260 spread=-0.010 jump=-0.060 mins=30 
+  Hornets        buy=0.740 sell=0.750 spread=-0.010 jump=+0.060 mins=30 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=120 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=270 
+  Illinois       buy=0.660 sell=0.670 spread=-0.010 jump=-0.070 mins=9 
+  Iowa           buy=0.330 sell=0.340 spread=-0.010 jump=+0.070 mins=9 
+
+--- Check #39 at 00:01:12 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-151 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-151 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-1 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-1 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=269 
+  Illinois       buy=0.660 sell=0.670 spread=-0.010 jump=-0.070 mins=8 
+  Iowa           buy=0.330 sell=0.340 spread=-0.010 jump=+0.070 mins=8 
+
+--- Check #40 at 00:02:31 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-153 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-153 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-3 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-3 
+  Kings          buy=0.180 sell=0.200 spread=-0.020 jump=+0.070 mins=117 
+  Hawks          buy=0.800 sell=0.810 spread=-0.010 jump=-0.080 mins=117 
+  Suns           buy=0.910 sell=0.930 spread=-0.020 jump=-0.010 mins=267 
+  Illinois       buy=0.670 sell=0.680 spread=-0.010 jump=-0.060 mins=6 
+  Iowa           buy=0.320 sell=0.330 spread=-0.010 jump=+0.060 mins=6 
+
+--- Check #41 at 00:03:50 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-154 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-154 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-4 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-4 
+  Kings          buy=0.180 sell=0.190 spread=-0.010 jump=+0.070 mins=116 
+  Hawks          buy=0.810 sell=0.820 spread=-0.010 jump=-0.070 mins=116 
+  Suns           buy=0.910 sell=0.930 spread=-0.020 jump=-0.010 mins=266 
+  Illinois       buy=0.640 sell=0.650 spread=-0.010 jump=-0.090 mins=5 
+  Iowa           buy=0.350 sell=0.360 spread=-0.010 jump=+0.090 mins=5 
+
+--- Check #42 at 00:05:10 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-155 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-155 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-5 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-5 
+  Hornets        buy=0.630 sell=0.640 spread=-0.010 jump=-0.050 mins=25 
+  Kings          buy=0.210 sell=0.220 spread=-0.010 jump=+0.100 mins=115 
+  Hawks          buy=0.780 sell=0.790 spread=-0.010 jump=-0.100 mins=115 
+  Suns           buy=0.910 sell=0.930 spread=-0.020 jump=-0.010 mins=265 
+  Iowa           buy=0.210 sell=0.230 spread=-0.020 jump=-0.050 mins=4 
+
+--- Check #43 at 00:06:29 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-156 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-156 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-6 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-6 
+  76ers          buy=0.520 sell=0.530 spread=-0.010 jump=+0.210 mins=24 
+  Hornets        buy=0.470 sell=0.480 spread=-0.010 jump=-0.210 mins=24 
+  Kings          buy=0.210 sell=0.220 spread=-0.010 jump=+0.100 mins=114 
+  Hawks          buy=0.780 sell=0.790 spread=-0.010 jump=-0.100 mins=114 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=264 
+  Illinois       buy=0.850 sell=0.870 spread=-0.020 jump=+0.120 mins=3 
+  Iowa           buy=0.130 sell=0.140 spread=-0.010 jump=-0.130 mins=3 
+
+--- Check #44 at 00:07:48 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-158 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-158 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-8 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-8 
+  76ers          buy=0.440 sell=0.450 spread=-0.010 jump=+0.130 mins=22 
+  Hornets        buy=0.550 sell=0.560 spread=-0.010 jump=-0.130 mins=22 
+  Kings          buy=0.210 sell=0.220 spread=-0.010 jump=+0.100 mins=112 
+  Hawks          buy=0.780 sell=0.790 spread=-0.010 jump=-0.100 mins=112 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=262 
+  Illinois       buy=0.860 sell=0.870 spread=-0.010 jump=+0.130 mins=1 
+  Iowa           buy=0.130 sell=0.140 spread=-0.010 jump=-0.130 mins=1 
+
+--- Check #45 at 00:09:08 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-159 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-159 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-9 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-9 
+  76ers          buy=0.590 sell=0.600 spread=-0.010 jump=+0.280 mins=21 
+  Hornets        buy=0.410 sell=0.420 spread=-0.010 jump=-0.270 mins=21 
+  Kings          buy=0.220 sell=0.230 spread=-0.010 jump=+0.110 mins=111 
+  Hawks          buy=0.770 sell=0.780 spread=-0.010 jump=-0.110 mins=111 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=261 
+  Illinois       buy=0.860 sell=0.870 spread=-0.010 jump=+0.130 mins=-0 
+  Iowa           buy=0.130 sell=0.140 spread=-0.010 jump=-0.130 mins=-0 
+
+--- Check #46 at 00:10:27 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-160 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-160 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-10 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-10 
+  76ers          buy=0.570 sell=0.580 spread=-0.010 jump=+0.260 mins=20 
+  Hornets        buy=0.420 sell=0.430 spread=-0.010 jump=-0.260 mins=20 
+  Kings          buy=0.200 sell=0.220 spread=-0.020 jump=+0.090 mins=110 
+  Hawks          buy=0.780 sell=0.800 spread=-0.020 jump=-0.100 mins=110 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=260 
+  Illinois       buy=0.920 sell=0.930 spread=-0.010 jump=+0.190 mins=-1 
+  Iowa           buy=0.070 sell=0.080 spread=-0.010 jump=-0.190 mins=-1 
+
+--- Check #47 at 00:11:46 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-162 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-162 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-12 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-12 
+  76ers          buy=0.570 sell=0.580 spread=-0.010 jump=+0.260 mins=18 
+  Hornets        buy=0.420 sell=0.430 spread=-0.010 jump=-0.260 mins=18 
+  Kings          buy=0.210 sell=0.220 spread=-0.010 jump=+0.100 mins=108 
+  Hawks          buy=0.780 sell=0.790 spread=-0.010 jump=-0.100 mins=108 
+  Bulls          buy=0.710 sell=0.720 spread=-0.010 jump=+0.090 mins=138 
+  Grizzlies      buy=0.280 sell=0.290 spread=-0.010 jump=-0.090 mins=138 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=258 
+  Illinois       buy=0.950 sell=0.960 spread=-0.010 jump=+0.220 mins=-3 
+  Iowa           buy=0.040 sell=0.050 spread=-0.010 jump=-0.220 mins=-3 
+
+--- Check #48 at 00:13:06 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-163 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-163 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-13 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-13 
+  76ers          buy=0.490 sell=0.500 spread=-0.010 jump=+0.180 mins=17 
+  Hornets        buy=0.500 sell=0.510 spread=-0.010 jump=-0.180 mins=17 
+  Kings          buy=0.280 sell=0.290 spread=-0.010 jump=+0.170 mins=107 
+  Hawks          buy=0.710 sell=0.720 spread=-0.010 jump=-0.170 mins=107 
+  Bulls          buy=0.680 sell=0.690 spread=-0.010 jump=+0.060 mins=137 
+  Grizzlies      buy=0.310 sell=0.320 spread=-0.010 jump=-0.060 mins=137 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=257 
+  Illinois       buy=0.950 sell=0.960 spread=-0.010 jump=+0.220 mins=-4 
+  Iowa           buy=0.040 sell=0.050 spread=-0.010 jump=-0.220 mins=-4 
+
+--- Check #49 at 00:14:25 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-164 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-164 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-14 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-14 
+  76ers          buy=0.400 sell=0.410 spread=-0.010 jump=+0.090 mins=16 
+  Hornets        buy=0.590 sell=0.600 spread=-0.010 jump=-0.090 mins=16 
+  Kings          buy=0.280 sell=0.290 spread=-0.010 jump=+0.170 mins=106 
+  Hawks          buy=0.710 sell=0.720 spread=-0.010 jump=-0.170 mins=106 
+  Bulls          buy=0.700 sell=0.710 spread=-0.010 jump=+0.080 mins=136 
+  Grizzlies      buy=0.290 sell=0.300 spread=-0.010 jump=-0.080 mins=136 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=256 
+  Illinois       buy=0.950 sell=0.960 spread=-0.010 jump=+0.220 mins=-5 
+  Iowa           buy=0.040 sell=0.050 spread=-0.010 jump=-0.220 mins=-5 
+
+--- Check #50 at 00:15:44 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-166 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-166 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-16 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-16 
+  Kings          buy=0.260 sell=0.270 spread=-0.010 jump=+0.150 mins=104 
+  Hawks          buy=0.730 sell=0.740 spread=-0.010 jump=-0.150 mins=104 
+  Bulls          buy=0.670 sell=0.680 spread=-0.010 jump=+0.050 mins=134 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=254 
+  Illinois       buy=0.920 sell=0.930 spread=-0.010 jump=+0.190 mins=-7 
+  Iowa           buy=0.070 sell=0.080 spread=-0.010 jump=-0.190 mins=-7 
+
+--- Check #51 at 00:17:04 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-167 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-167 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-17 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-17 
+  Kings          buy=0.310 sell=0.320 spread=-0.010 jump=+0.200 mins=103 
+  Hawks          buy=0.680 sell=0.690 spread=-0.010 jump=-0.200 mins=103 
+  Bulls          buy=0.680 sell=0.690 spread=-0.010 jump=+0.060 mins=133 
+  Grizzlies      buy=0.310 sell=0.320 spread=-0.010 jump=-0.060 mins=133 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=253 
+  Illinois       buy=0.950 sell=0.960 spread=-0.010 jump=+0.220 mins=-8 
+  Iowa           buy=0.040 sell=0.050 spread=-0.010 jump=-0.220 mins=-8 
+
+--- Check #52 at 00:18:23 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-168 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-168 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-18 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-18 
+  76ers          buy=0.650 sell=0.660 spread=-0.010 jump=+0.340 mins=12 
+  Hornets        buy=0.340 sell=0.350 spread=-0.010 jump=-0.340 mins=12 
+  Kings          buy=0.270 sell=0.280 spread=-0.010 jump=+0.160 mins=102 
+  Hawks          buy=0.720 sell=0.730 spread=-0.010 jump=-0.160 mins=102 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=252 
+  Illinois       buy=0.950 sell=0.960 spread=-0.010 jump=+0.220 mins=-9 
+  Iowa           buy=0.040 sell=0.050 spread=-0.010 jump=-0.220 mins=-9 
+
+--- Check #53 at 00:19:42 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-170 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-170 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-20 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-20 
+  76ers          buy=0.520 sell=0.530 spread=-0.010 jump=+0.210 mins=10 
+  Hornets        buy=0.470 sell=0.480 spread=-0.010 jump=-0.210 mins=10 
+  Kings          buy=0.270 sell=0.280 spread=-0.010 jump=+0.160 mins=100 
+  Hawks          buy=0.720 sell=0.730 spread=-0.010 jump=-0.160 mins=100 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=250 
+  Illinois       buy=0.910 sell=0.920 spread=-0.010 jump=+0.180 mins=-11 
+  Iowa           buy=0.080 sell=0.090 spread=-0.010 jump=-0.180 mins=-11 
+
+--- Check #54 at 00:21:02 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-171 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-171 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-21 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-21 
+  76ers          buy=0.510 sell=0.520 spread=-0.010 jump=+0.200 mins=9 
+  Hornets        buy=0.480 sell=0.490 spread=-0.010 jump=-0.200 mins=9 
+  Kings          buy=0.270 sell=0.280 spread=-0.010 jump=+0.160 mins=99 
+  Hawks          buy=0.720 sell=0.730 spread=-0.010 jump=-0.160 mins=99 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=249 
+  Illinois       buy=0.930 sell=0.940 spread=-0.010 jump=+0.200 mins=-12 
+  Iowa           buy=0.060 sell=0.070 spread=-0.010 jump=-0.200 mins=-12 
+
+--- Check #55 at 00:22:21 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-172 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-172 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-22 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-22 
+  76ers          buy=0.400 sell=0.410 spread=-0.010 jump=+0.090 mins=8 
+  Hornets        buy=0.590 sell=0.600 spread=-0.010 jump=-0.090 mins=8 
+  Kings          buy=0.250 sell=0.260 spread=-0.010 jump=+0.140 mins=98 
+  Hawks          buy=0.740 sell=0.750 spread=-0.010 jump=-0.140 mins=98 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=248 
+  Illinois       buy=0.970 sell=0.980 spread=-0.010 jump=+0.240 mins=-13 
+  Iowa           buy=0.020 sell=0.030 spread=-0.010 jump=-0.240 mins=-13 
+
+--- Check #56 at 00:23:40 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-174 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-174 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-24 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-24 
+  76ers          buy=0.450 sell=0.460 spread=-0.010 jump=+0.140 mins=6 
+  Hornets        buy=0.540 sell=0.550 spread=-0.010 jump=-0.140 mins=6 
+  Kings          buy=0.250 sell=0.260 spread=-0.010 jump=+0.140 mins=96 
+  Hawks          buy=0.740 sell=0.750 spread=-0.010 jump=-0.140 mins=96 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=246 
+  Illinois       buy=0.990 sell=0.994 spread=-0.004 jump=+0.260 mins=-15 
+  Iowa           buy=0.006 sell=0.008 spread=-0.002 jump=-0.254 mins=-15 
+
+--- Check #57 at 00:24:59 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-175 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-175 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-25 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-25 
+  Kings          buy=0.220 sell=0.230 spread=-0.010 jump=+0.110 mins=95 
+  Hawks          buy=0.770 sell=0.780 spread=-0.010 jump=-0.110 mins=95 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=245 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-16 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-16 
+
+--- Check #58 at 00:26:18 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-176 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-176 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-26 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-26 
+  Kings          buy=0.240 sell=0.250 spread=-0.010 jump=+0.130 mins=94 
+  Hawks          buy=0.750 sell=0.760 spread=-0.010 jump=-0.130 mins=94 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=244 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-17 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-17 
+
+--- Check #59 at 00:27:38 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-178 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-178 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-28 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-28 
+  Kings          buy=0.210 sell=0.220 spread=-0.010 jump=+0.100 mins=92 
+  Hawks          buy=0.780 sell=0.790 spread=-0.010 jump=-0.100 mins=92 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=242 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-19 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-19 
+
+--- Check #60 at 00:28:57 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-179 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-179 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-29 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-29 
+  76ers          buy=0.660 sell=0.780 spread=-0.120 jump=+0.350 mins=1 
+  Hornets        buy=0.180 sell=0.260 spread=-0.080 jump=-0.500 mins=1 
+  Kings          buy=0.190 sell=0.200 spread=-0.010 jump=+0.080 mins=91 
+  Hawks          buy=0.800 sell=0.810 spread=-0.010 jump=-0.080 mins=91 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=241 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-20 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-20 
+
+--- Check #61 at 00:30:16 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-180 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-180 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-30 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-30 
+  76ers          buy=0.840 sell=0.850 spread=-0.010 jump=+0.530 mins=-0 
+  Hornets        buy=0.150 sell=0.160 spread=-0.010 jump=-0.530 mins=-0 
+  Kings          buy=0.190 sell=0.200 spread=-0.010 jump=+0.080 mins=90 
+  Hawks          buy=0.800 sell=0.810 spread=-0.010 jump=-0.080 mins=90 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=240 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-21 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-21 
+
+--- Check #62 at 00:31:35 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-182 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-182 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-32 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-32 
+  76ers          buy=0.930 sell=0.940 spread=-0.010 jump=+0.620 mins=-2 
+  Hornets        buy=0.060 sell=0.070 spread=-0.010 jump=-0.620 mins=-2 
+  Bulls          buy=0.550 sell=0.560 spread=-0.010 jump=-0.070 mins=118 
+  Grizzlies      buy=0.440 sell=0.450 spread=-0.010 jump=+0.070 mins=118 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=238 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-23 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-23 
+
+--- Check #63 at 00:32:55 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-183 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-183 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-33 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-33 
+  76ers          buy=0.890 sell=0.900 spread=-0.010 jump=+0.580 mins=-3 
+  Hornets        buy=0.100 sell=0.110 spread=-0.010 jump=-0.580 mins=-3 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=87 
+  Bulls          buy=0.570 sell=0.580 spread=-0.010 jump=-0.050 mins=117 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=237 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-24 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-24 
+
+--- Check #64 at 00:34:14 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-184 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-184 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-34 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-34 
+  76ers          buy=0.990 sell=1.000 spread=-0.010 jump=+0.680 mins=-4 
+  Hornets        buy=0.000 sell=0.010 spread=-0.010 jump=-0.680 mins=-4 
+  Hawks          buy=0.910 sell=0.920 spread=-0.010 jump=+0.030 mins=86 
+  Bulls          buy=0.560 sell=0.570 spread=-0.010 jump=-0.060 mins=116 
+  Grizzlies      buy=0.430 sell=0.440 spread=-0.010 jump=+0.060 mins=116 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=236 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-25 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-25 
+
+--- Check #65 at 00:35:33 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-186 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-186 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-36 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-36 
+  76ers          buy=0.990 sell=1.000 spread=-0.010 jump=+0.680 mins=-6 
+  Hornets        buy=0.000 sell=0.010 spread=-0.010 jump=-0.680 mins=-6 
+  Hawks          buy=0.920 sell=0.930 spread=-0.010 jump=+0.040 mins=84 
+  Bulls          buy=0.540 sell=0.550 spread=-0.010 jump=-0.080 mins=114 
+  Grizzlies      buy=0.450 sell=0.460 spread=-0.010 jump=+0.080 mins=114 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=234 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-27 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-27 
+
+--- Check #66 at 00:36:52 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-187 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-187 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-37 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-37 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-7 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-7 
+  Hawks          buy=0.930 sell=0.940 spread=-0.010 jump=+0.050 mins=83 
+  Bulls          buy=0.570 sell=0.590 spread=-0.020 jump=-0.050 mins=113 
+  Suns           buy=0.910 sell=0.930 spread=-0.020 jump=-0.010 mins=233 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-28 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-28 
+
+--- Check #67 at 00:38:12 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-188 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-188 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-38 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-38 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-8 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-8 
+  Kings          buy=0.050 sell=0.060 spread=-0.010 jump=-0.060 mins=82 
+  Hawks          buy=0.940 sell=0.950 spread=-0.010 jump=+0.060 mins=82 
+  Suns           buy=0.910 sell=0.930 spread=-0.020 jump=-0.010 mins=232 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-29 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-29 
+
+--- Check #68 at 00:39:31 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-190 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-190 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-40 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-40 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-10 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-10 
+  Kings          buy=0.050 sell=0.060 spread=-0.010 jump=-0.060 mins=80 
+  Hawks          buy=0.940 sell=0.950 spread=-0.010 jump=+0.060 mins=80 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=230 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-31 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-31 
+
+--- Check #69 at 00:40:50 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-191 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-191 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-41 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-41 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-11 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-11 
+  Kings          buy=0.050 sell=0.060 spread=-0.010 jump=-0.060 mins=79 
+  Hawks          buy=0.940 sell=0.950 spread=-0.010 jump=+0.060 mins=79 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=229 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-32 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-32 
+
+--- Check #70 at 00:42:09 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-192 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-192 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-42 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-42 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-12 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-12 
+  Kings          buy=0.050 sell=0.060 spread=-0.010 jump=-0.060 mins=78 
+  Hawks          buy=0.940 sell=0.950 spread=-0.010 jump=+0.060 mins=78 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=228 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-33 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-33 
+
+--- Check #71 at 00:43:29 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-193 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-193 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-43 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-43 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-13 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-13 
+  Kings          buy=0.050 sell=0.060 spread=-0.010 jump=-0.060 mins=77 
+  Hawks          buy=0.940 sell=0.950 spread=-0.010 jump=+0.060 mins=77 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=227 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-34 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-34 
+
+--- Check #72 at 00:44:48 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-195 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-195 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-45 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-45 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-15 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-15 
+  Kings          buy=0.050 sell=0.060 spread=-0.010 jump=-0.060 mins=75 
+  Hawks          buy=0.940 sell=0.950 spread=-0.010 jump=+0.060 mins=75 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=225 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-36 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-36 
+
+--- Check #73 at 00:46:07 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-196 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-196 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-46 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-46 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-16 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-16 
+  Kings          buy=0.050 sell=0.060 spread=-0.010 jump=-0.060 mins=74 
+  Hawks          buy=0.940 sell=0.950 spread=-0.010 jump=+0.060 mins=74 
+  Bulls          buy=0.670 sell=0.680 spread=-0.010 jump=+0.050 mins=104 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=224 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-37 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-37 
+
+--- Check #74 at 00:47:27 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-197 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-197 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-47 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-47 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-17 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-17 
+  Kings          buy=0.050 sell=0.060 spread=-0.010 jump=-0.060 mins=73 
+  Hawks          buy=0.940 sell=0.950 spread=-0.010 jump=+0.060 mins=73 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=223 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-38 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-38 
+
+--- Check #75 at 00:48:46 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-199 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-199 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-49 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-49 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-19 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-19 
+  Kings          buy=0.040 sell=0.050 spread=-0.010 jump=-0.070 mins=71 
+  Hawks          buy=0.950 sell=0.960 spread=-0.010 jump=+0.070 mins=71 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=221 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-40 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-40 
+
+--- Check #76 at 00:50:05 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-200 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-200 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-50 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-50 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-20 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-20 
+  Kings          buy=0.040 sell=0.050 spread=-0.010 jump=-0.070 mins=70 
+  Hawks          buy=0.950 sell=0.960 spread=-0.010 jump=+0.070 mins=70 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=220 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-41 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-41 
+
+--- Check #77 at 00:51:24 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-51 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-51 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-21 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-21 
+  Kings          buy=0.040 sell=0.050 spread=-0.010 jump=-0.070 mins=69 
+  Hawks          buy=0.950 sell=0.960 spread=-0.010 jump=+0.070 mins=69 
+  Bulls          buy=0.540 sell=0.550 spread=-0.010 jump=-0.080 mins=99 
+  Grizzlies      buy=0.450 sell=0.460 spread=-0.010 jump=+0.080 mins=99 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=219 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-42 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-42 
+
+--- Check #78 at 00:52:43 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-53 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-53 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-23 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-23 
+  Kings          buy=0.040 sell=0.050 spread=-0.010 jump=-0.070 mins=67 
+  Hawks          buy=0.950 sell=0.960 spread=-0.010 jump=+0.070 mins=67 
+  Bulls          buy=0.540 sell=0.550 spread=-0.010 jump=-0.080 mins=97 
+  Grizzlies      buy=0.450 sell=0.460 spread=-0.010 jump=+0.080 mins=97 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=217 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-44 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-44 
+
+--- Check #79 at 00:54:02 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-54 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-54 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-24 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-24 
+  Kings          buy=0.040 sell=0.050 spread=-0.010 jump=-0.070 mins=66 
+  Hawks          buy=0.950 sell=0.960 spread=-0.010 jump=+0.070 mins=66 
+  Bulls          buy=0.520 sell=0.530 spread=-0.010 jump=-0.100 mins=96 
+  Grizzlies      buy=0.470 sell=0.480 spread=-0.010 jump=+0.100 mins=96 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=216 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-45 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-45 
+
+--- Check #80 at 00:55:21 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-55 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-55 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-25 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-25 
+  Kings          buy=0.040 sell=0.050 spread=-0.010 jump=-0.070 mins=65 
+  Hawks          buy=0.950 sell=0.960 spread=-0.010 jump=+0.070 mins=65 
+  Bulls          buy=0.570 sell=0.580 spread=-0.010 jump=-0.050 mins=95 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=215 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-46 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-46 
+
+--- Check #81 at 00:56:40 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-57 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-57 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-27 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-27 
+  Kings          buy=0.030 sell=0.040 spread=-0.010 jump=-0.080 mins=63 
+  Hawks          buy=0.960 sell=0.970 spread=-0.010 jump=+0.080 mins=63 
+  Bulls          buy=0.550 sell=0.560 spread=-0.010 jump=-0.070 mins=93 
+  Grizzlies      buy=0.440 sell=0.450 spread=-0.010 jump=+0.070 mins=93 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=213 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-48 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-48 
+
+--- Check #82 at 00:58:00 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-58 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-58 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-28 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-28 
+  Kings          buy=0.020 sell=0.030 spread=-0.010 jump=-0.090 mins=62 
+  Hawks          buy=0.970 sell=0.980 spread=-0.010 jump=+0.090 mins=62 
+  Bulls          buy=0.460 sell=0.470 spread=-0.010 jump=-0.160 mins=92 
+  Grizzlies      buy=0.530 sell=0.540 spread=-0.010 jump=+0.160 mins=92 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=212 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-49 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-49 
+
+--- Check #83 at 00:59:19 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-59 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-59 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-29 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-29 
+  Kings          buy=0.020 sell=0.030 spread=-0.010 jump=-0.090 mins=61 
+  Hawks          buy=0.970 sell=0.980 spread=-0.010 jump=+0.090 mins=61 
+  Bulls          buy=0.420 sell=0.430 spread=-0.010 jump=-0.200 mins=91 
+  Grizzlies      buy=0.570 sell=0.580 spread=-0.010 jump=+0.200 mins=91 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=211 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-50 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-50 
+
+--- Check #84 at 01:00:37 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-61 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-61 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-31 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-31 
+  Kings          buy=0.025 sell=0.026 spread=-0.001 jump=-0.085 mins=59 
+  Hawks          buy=0.974 sell=0.975 spread=-0.001 jump=+0.094 mins=59 
+  Bulls          buy=0.420 sell=0.430 spread=-0.010 jump=-0.200 mins=89 
+  Grizzlies      buy=0.570 sell=0.580 spread=-0.010 jump=+0.200 mins=89 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=209 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-52 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-52 
+
+--- Check #85 at 01:01:56 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-62 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-62 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-32 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-32 
+  Kings          buy=0.020 sell=0.024 spread=-0.004 jump=-0.090 mins=58 
+  Hawks          buy=0.976 sell=0.979 spread=-0.003 jump=+0.096 mins=58 
+  Bulls          buy=0.460 sell=0.470 spread=-0.010 jump=-0.160 mins=88 
+  Grizzlies      buy=0.530 sell=0.540 spread=-0.010 jump=+0.160 mins=88 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=208 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-53 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-53 
+
+--- Check #86 at 01:03:15 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-63 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-63 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-33 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-33 
+  Kings          buy=0.040 sell=0.047 spread=-0.007 jump=-0.070 mins=57 
+  Hawks          buy=0.953 sell=0.960 spread=-0.007 jump=+0.073 mins=57 
+  Bulls          buy=0.540 sell=0.550 spread=-0.010 jump=-0.080 mins=87 
+  Grizzlies      buy=0.450 sell=0.460 spread=-0.010 jump=+0.080 mins=87 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=207 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-54 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-54 
+
+--- Check #87 at 01:04:34 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-65 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-65 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-35 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-35 
+  Kings          buy=0.034 sell=0.039 spread=-0.005 jump=-0.076 mins=55 
+  Hawks          buy=0.961 sell=0.966 spread=-0.005 jump=+0.081 mins=55 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=205 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-56 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-56 
+
+--- Check #88 at 01:05:53 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-66 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-66 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-36 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-36 
+  Kings          buy=0.043 sell=0.045 spread=-0.002 jump=-0.067 mins=54 
+  Hawks          buy=0.955 sell=0.957 spread=-0.002 jump=+0.075 mins=54 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=204 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-57 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-57 
+
+--- Check #89 at 01:07:12 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-67 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-67 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-37 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-37 
+  Kings          buy=0.043 sell=0.045 spread=-0.002 jump=-0.067 mins=53 
+  Hawks          buy=0.955 sell=0.957 spread=-0.002 jump=+0.075 mins=53 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=203 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-58 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-58 
+
+--- Check #90 at 01:08:31 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-69 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-69 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-39 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-39 
+  Kings          buy=0.045 sell=0.047 spread=-0.002 jump=-0.065 mins=51 
+  Hawks          buy=0.953 sell=0.955 spread=-0.002 jump=+0.073 mins=51 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=201 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-60 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-60 
+
+--- Check #91 at 01:09:50 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-70 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-70 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-40 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-40 
+  Kings          buy=0.033 sell=0.040 spread=-0.007 jump=-0.077 mins=50 
+  Hawks          buy=0.960 sell=0.967 spread=-0.007 jump=+0.080 mins=50 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=200 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-61 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-61 
+
+--- Check #92 at 01:11:09 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-71 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-71 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-41 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-41 
+  Kings          buy=0.023 sell=0.038 spread=-0.015 jump=-0.087 mins=49 
+  Hawks          buy=0.962 sell=0.970 spread=-0.008 jump=+0.082 mins=49 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=199 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-62 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-62 
+
+--- Check #93 at 01:12:28 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-72 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-72 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-42 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-42 
+  Kings          buy=0.034 sell=0.040 spread=-0.006 jump=-0.076 mins=48 
+  Hawks          buy=0.960 sell=0.966 spread=-0.006 jump=+0.080 mins=48 
+  Bulls          buy=0.670 sell=0.680 spread=-0.010 jump=+0.050 mins=78 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=198 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-63 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-63 
+
+--- Check #94 at 01:13:47 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-74 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-74 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-44 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-44 
+  Kings          buy=0.036 sell=0.040 spread=-0.004 jump=-0.074 mins=46 
+  Hawks          buy=0.960 sell=0.964 spread=-0.004 jump=+0.080 mins=46 
+  Bulls          buy=0.670 sell=0.680 spread=-0.010 jump=+0.050 mins=76 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=196 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-65 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-65 
+
+--- Check #95 at 01:15:06 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-75 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-75 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-45 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-45 
+  Kings          buy=0.036 sell=0.040 spread=-0.004 jump=-0.074 mins=45 
+  Hawks          buy=0.960 sell=0.963 spread=-0.003 jump=+0.080 mins=45 
+  Bulls          buy=0.670 sell=0.680 spread=-0.010 jump=+0.050 mins=75 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=195 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-66 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-66 
+
+--- Check #96 at 01:16:25 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-76 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-76 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-46 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-46 
+  Kings          buy=0.045 sell=0.048 spread=-0.003 jump=-0.065 mins=44 
+  Hawks          buy=0.952 sell=0.955 spread=-0.003 jump=+0.072 mins=44 
+  Bulls          buy=0.680 sell=0.690 spread=-0.010 jump=+0.060 mins=74 
+  Grizzlies      buy=0.310 sell=0.320 spread=-0.010 jump=-0.060 mins=74 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=194 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-67 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-67 
+
+--- Check #97 at 01:17:44 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-78 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-78 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-48 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-48 
+  Kings          buy=0.041 sell=0.046 spread=-0.005 jump=-0.069 mins=42 
+  Hawks          buy=0.954 sell=0.959 spread=-0.005 jump=+0.074 mins=42 
+  Bulls          buy=0.670 sell=0.680 spread=-0.010 jump=+0.050 mins=72 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=192 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-69 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-69 
+
+--- Check #98 at 01:19:03 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-79 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-79 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-49 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-49 
+  Kings          buy=0.045 sell=0.048 spread=-0.003 jump=-0.065 mins=41 
+  Hawks          buy=0.952 sell=0.955 spread=-0.003 jump=+0.072 mins=41 
+  Bulls          buy=0.670 sell=0.680 spread=-0.010 jump=+0.050 mins=71 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=191 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-70 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-70 
+
+--- Check #99 at 01:20:22 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-80 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-80 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-50 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-50 
+  Hawks          buy=0.922 sell=0.930 spread=-0.008 jump=+0.042 mins=40 
+  Bulls          buy=0.670 sell=0.680 spread=-0.010 jump=+0.050 mins=70 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=190 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-71 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-71 
+
+--- Check #100 at 01:21:41 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-82 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-82 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-52 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-52 
+  Hawks          buy=0.913 sell=0.920 spread=-0.007 jump=+0.033 mins=38 
+  Bulls          buy=0.670 sell=0.680 spread=-0.010 jump=+0.050 mins=68 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=188 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-73 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-73 
+
+--- Check #101 at 01:23:00 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-83 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-83 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-53 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-53 
+  Hawks          buy=0.935 sell=0.939 spread=-0.004 jump=+0.055 mins=37 
+  Bulls          buy=0.680 sell=0.690 spread=-0.010 jump=+0.060 mins=67 
+  Grizzlies      buy=0.310 sell=0.320 spread=-0.010 jump=-0.060 mins=67 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=187 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-74 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-74 
+
+--- Check #102 at 01:24:19 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-84 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-84 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-54 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-54 
+  Kings          buy=0.044 sell=0.050 spread=-0.006 jump=-0.066 mins=36 
+  Hawks          buy=0.950 sell=0.956 spread=-0.006 jump=+0.070 mins=36 
+  Bulls          buy=0.680 sell=0.690 spread=-0.010 jump=+0.060 mins=66 
+  Grizzlies      buy=0.310 sell=0.320 spread=-0.010 jump=-0.060 mins=66 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=186 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-75 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-75 
+
+--- Check #103 at 01:25:38 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-86 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-86 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-56 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-56 
+  Kings          buy=0.050 sell=0.053 spread=-0.003 jump=-0.060 mins=34 
+  Hawks          buy=0.947 sell=0.950 spread=-0.003 jump=+0.067 mins=34 
+  Bulls          buy=0.680 sell=0.690 spread=-0.010 jump=+0.060 mins=64 
+  Grizzlies      buy=0.310 sell=0.320 spread=-0.010 jump=-0.060 mins=64 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=184 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-77 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-77 
+
+--- Check #104 at 01:26:57 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-87 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-87 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-57 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-57 
+  Hawks          buy=0.922 sell=0.933 spread=-0.011 jump=+0.042 mins=33 
+  Bulls          buy=0.680 sell=0.690 spread=-0.010 jump=+0.060 mins=63 
+  Grizzlies      buy=0.310 sell=0.320 spread=-0.010 jump=-0.060 mins=63 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=183 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-78 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-78 
+
+--- Check #105 at 01:28:16 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-88 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-88 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-58 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-58 
+  Hawks          buy=0.920 sell=0.927 spread=-0.007 jump=+0.040 mins=32 
+  Bulls          buy=0.680 sell=0.690 spread=-0.010 jump=+0.060 mins=62 
+  Grizzlies      buy=0.310 sell=0.320 spread=-0.010 jump=-0.060 mins=62 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=182 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-79 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-79 
+
+--- Check #106 at 01:29:35 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-90 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-90 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-60 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-60 
+  Hawks          buy=0.921 sell=0.926 spread=-0.005 jump=+0.041 mins=30 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=180 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-81 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-81 
+
+--- Check #107 at 01:30:54 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-91 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-91 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-61 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-61 
+  Hawks          buy=0.921 sell=0.927 spread=-0.006 jump=+0.041 mins=29 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=179 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-82 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-82 
+
+--- Check #108 at 01:32:13 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-92 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-92 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-62 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-62 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=178 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-83 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-83 
+
+--- Check #109 at 01:33:32 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-94 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-94 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-64 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-64 
+  Kings          buy=0.261 sell=0.266 spread=-0.005 jump=+0.151 mins=26 
+  Hawks          buy=0.734 sell=0.740 spread=-0.006 jump=-0.146 mins=26 
+  Bulls          buy=0.560 sell=0.570 spread=-0.010 jump=-0.060 mins=56 
+  Grizzlies      buy=0.430 sell=0.440 spread=-0.010 jump=+0.060 mins=56 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=176 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-85 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-85 
+
+--- Check #110 at 01:34:51 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-95 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-95 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-65 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-65 
+  Kings          buy=0.230 sell=0.240 spread=-0.010 jump=+0.120 mins=25 
+  Hawks          buy=0.760 sell=0.770 spread=-0.010 jump=-0.120 mins=25 
+  Bulls          buy=0.560 sell=0.580 spread=-0.020 jump=-0.060 mins=55 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=175 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-86 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-86 
+
+--- Check #111 at 01:36:10 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-96 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-96 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-66 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-66 
+  Hawks          buy=0.931 sell=0.932 spread=-0.001 jump=+0.051 mins=24 
+  Bulls          buy=0.490 sell=0.500 spread=-0.010 jump=-0.130 mins=54 
+  Grizzlies      buy=0.500 sell=0.510 spread=-0.010 jump=+0.130 mins=54 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=174 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-87 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-87 
+
+--- Check #112 at 01:37:29 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-97 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-97 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-67 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-67 
+  Hawks          buy=0.936 sell=0.937 spread=-0.001 jump=+0.056 mins=23 
+  Bulls          buy=0.550 sell=0.560 spread=-0.010 jump=-0.070 mins=53 
+  Grizzlies      buy=0.440 sell=0.450 spread=-0.010 jump=+0.070 mins=53 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=173 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-88 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-88 
+
+--- Check #113 at 01:38:48 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-99 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-99 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-69 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-69 
+  Kings          buy=0.052 sell=0.053 spread=-0.001 jump=-0.058 mins=21 
+  Hawks          buy=0.947 sell=0.948 spread=-0.001 jump=+0.067 mins=21 
+  Bulls          buy=0.550 sell=0.560 spread=-0.010 jump=-0.070 mins=51 
+  Grizzlies      buy=0.440 sell=0.450 spread=-0.010 jump=+0.070 mins=51 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=171 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-90 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-90 
+
+--- Check #114 at 01:40:07 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-100 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-100 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-70 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-70 
+  Kings          buy=0.020 sell=0.028 spread=-0.008 jump=-0.090 mins=20 
+  Hawks          buy=0.972 sell=0.980 spread=-0.008 jump=+0.092 mins=20 
+  Bulls          buy=0.550 sell=0.560 spread=-0.010 jump=-0.070 mins=50 
+  Grizzlies      buy=0.440 sell=0.450 spread=-0.010 jump=+0.070 mins=50 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=170 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-91 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-91 
+
+--- Check #115 at 01:41:26 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-101 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-101 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-71 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-71 
+  Kings          buy=0.017 sell=0.019 spread=-0.002 jump=-0.093 mins=19 
+  Hawks          buy=0.982 sell=0.983 spread=-0.001 jump=+0.102 mins=19 
+  Bulls          buy=0.550 sell=0.560 spread=-0.010 jump=-0.070 mins=49 
+  Grizzlies      buy=0.440 sell=0.450 spread=-0.010 jump=+0.070 mins=49 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=169 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-92 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-92 
+
+--- Check #116 at 01:42:45 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-103 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-103 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-73 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-73 
+  Kings          buy=0.003 sell=0.006 spread=-0.003 jump=-0.107 mins=17 
+  Hawks          buy=0.994 sell=0.997 spread=-0.003 jump=+0.114 mins=17 
+  Bulls          buy=0.370 sell=0.380 spread=-0.010 jump=-0.250 mins=47 
+  Grizzlies      buy=0.620 sell=0.630 spread=-0.010 jump=+0.250 mins=47 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=167 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-94 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-94 
+
+--- Check #117 at 01:44:04 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-104 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-104 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-74 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-74 
+  Kings          buy=0.003 sell=0.005 spread=-0.002 jump=-0.107 mins=16 
+  Hawks          buy=0.995 sell=0.997 spread=-0.002 jump=+0.115 mins=16 
+  Bulls          buy=0.340 sell=0.350 spread=-0.010 jump=-0.280 mins=46 
+  Grizzlies      buy=0.640 sell=0.650 spread=-0.010 jump=+0.270 mins=46 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=166 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-95 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-95 
+
+--- Check #118 at 01:45:23 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-105 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-105 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-75 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-75 
+  Kings          buy=0.011 sell=0.013 spread=-0.002 jump=-0.099 mins=15 
+  Hawks          buy=0.987 sell=0.989 spread=-0.002 jump=+0.107 mins=15 
+  Bulls          buy=0.380 sell=0.390 spread=-0.010 jump=-0.240 mins=45 
+  Grizzlies      buy=0.610 sell=0.620 spread=-0.010 jump=+0.240 mins=45 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=165 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-96 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-96 
+
+--- Check #119 at 01:46:42 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-107 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-107 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-77 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-77 
+  Kings          buy=0.006 sell=0.008 spread=-0.002 jump=-0.104 mins=13 
+  Hawks          buy=0.992 sell=0.994 spread=-0.002 jump=+0.112 mins=13 
+  Bulls          buy=0.430 sell=0.440 spread=-0.010 jump=-0.190 mins=43 
+  Grizzlies      buy=0.560 sell=0.570 spread=-0.010 jump=+0.190 mins=43 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=163 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-98 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-98 
+
+--- Check #120 at 01:48:01 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-108 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-108 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-78 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-78 
+  Kings          buy=0.001 sell=0.002 spread=-0.001 jump=-0.109 mins=12 
+  Hawks          buy=0.998 sell=0.999 spread=-0.001 jump=+0.118 mins=12 
+  Bulls          buy=0.440 sell=0.450 spread=-0.010 jump=-0.180 mins=42 
+  Grizzlies      buy=0.550 sell=0.560 spread=-0.010 jump=+0.180 mins=42 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=162 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-99 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-99 
+
+--- Check #121 at 01:49:20 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-109 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-109 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-79 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-79 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=11 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=11 
+  Bulls          buy=0.540 sell=0.550 spread=-0.010 jump=-0.080 mins=41 
+  Grizzlies      buy=0.450 sell=0.460 spread=-0.010 jump=+0.080 mins=41 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=161 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-100 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-100 
+
+--- Check #122 at 01:50:39 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-111 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-111 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-81 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-81 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=9 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=9 
+  Bulls          buy=0.420 sell=0.430 spread=-0.010 jump=-0.200 mins=39 
+  Grizzlies      buy=0.570 sell=0.580 spread=-0.010 jump=+0.200 mins=39 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=159 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-102 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-102 
+
+--- Check #123 at 01:51:58 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-112 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-112 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-82 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-82 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=8 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=8 
+  Bulls          buy=0.430 sell=0.440 spread=-0.010 jump=-0.190 mins=38 
+  Grizzlies      buy=0.560 sell=0.570 spread=-0.010 jump=+0.190 mins=38 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=158 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-103 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-103 
+
+--- Check #124 at 01:53:17 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-113 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-113 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-83 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-83 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=7 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=7 
+  Bulls          buy=0.420 sell=0.430 spread=-0.010 jump=-0.200 mins=37 
+  Grizzlies      buy=0.570 sell=0.580 spread=-0.010 jump=+0.200 mins=37 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=157 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-104 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-104 
+
+--- Check #125 at 01:54:36 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-115 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-115 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-85 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-85 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=5 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=5 
+  Bulls          buy=0.440 sell=0.450 spread=-0.010 jump=-0.180 mins=35 
+  Grizzlies      buy=0.550 sell=0.560 spread=-0.010 jump=+0.180 mins=35 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=155 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-106 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-106 
+
+--- Check #126 at 01:55:55 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-116 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-116 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-86 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-86 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=4 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=4 
+  Bulls          buy=0.340 sell=0.350 spread=-0.010 jump=-0.280 mins=34 
+  Grizzlies      buy=0.650 sell=0.660 spread=-0.010 jump=+0.280 mins=34 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=154 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-107 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-107 
+
+--- Check #127 at 01:57:14 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-117 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-117 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-87 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-87 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=3 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=3 
+  Bulls          buy=0.340 sell=0.350 spread=-0.010 jump=-0.280 mins=33 
+  Grizzlies      buy=0.650 sell=0.660 spread=-0.010 jump=+0.280 mins=33 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=153 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-108 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-108 
+
+--- Check #128 at 01:58:33 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-119 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-119 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-89 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-89 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=1 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=1 
+  Bulls          buy=0.320 sell=0.340 spread=-0.020 jump=-0.300 mins=31 
+  Grizzlies      buy=0.660 sell=0.680 spread=-0.020 jump=+0.290 mins=31 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=151 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-110 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-110 
+
+--- Check #129 at 01:59:52 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-120 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-120 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-90 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-90 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=0 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=0 
+  Bulls          buy=0.250 sell=0.260 spread=-0.010 jump=-0.370 mins=30 
+  Grizzlies      buy=0.740 sell=0.750 spread=-0.010 jump=+0.370 mins=30 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=150 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-111 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-111 
+
+--- Check #130 at 02:01:11 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-121 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-121 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-91 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-91 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-1 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-1 
+  Bulls          buy=0.250 sell=0.260 spread=-0.010 jump=-0.370 mins=29 
+  Grizzlies      buy=0.740 sell=0.750 spread=-0.010 jump=+0.370 mins=29 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=149 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-112 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-112 
+
+--- Check #131 at 02:02:31 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-123 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-123 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-93 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-93 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-3 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-3 
+  Bulls          buy=0.280 sell=0.290 spread=-0.010 jump=-0.340 mins=27 
+  Grizzlies      buy=0.700 sell=0.720 spread=-0.020 jump=+0.330 mins=27 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=147 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-114 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-114 
+
+--- Check #132 at 02:03:50 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-124 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-124 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-94 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-94 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-4 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-4 
+  Bulls          buy=0.390 sell=0.420 spread=-0.030 jump=-0.230 mins=26 
+  Grizzlies      buy=0.580 sell=0.610 spread=-0.030 jump=+0.210 mins=26 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=146 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-115 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-115 
+
+--- Check #133 at 02:05:09 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-125 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-125 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-95 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-95 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-5 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-5 
+  Bulls          buy=0.350 sell=0.360 spread=-0.010 jump=-0.270 mins=25 
+  Grizzlies      buy=0.640 sell=0.650 spread=-0.010 jump=+0.270 mins=25 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=145 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-116 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-116 
+
+--- Check #134 at 02:06:28 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-126 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-126 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-96 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-96 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-6 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-6 
+  Bulls          buy=0.340 sell=0.350 spread=-0.010 jump=-0.280 mins=24 
+  Grizzlies      buy=0.650 sell=0.660 spread=-0.010 jump=+0.280 mins=24 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=144 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-117 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-117 
+
+--- Check #135 at 02:07:47 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-128 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-128 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-98 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-98 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-8 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-8 
+  Bulls          buy=0.340 sell=0.350 spread=-0.010 jump=-0.280 mins=22 
+  Grizzlies      buy=0.650 sell=0.660 spread=-0.010 jump=+0.280 mins=22 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=142 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-119 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-119 
+
+--- Check #136 at 02:09:06 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-129 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-129 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-99 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-99 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-9 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-9 
+  Bulls          buy=0.280 sell=0.290 spread=-0.010 jump=-0.340 mins=21 
+  Grizzlies      buy=0.710 sell=0.720 spread=-0.010 jump=+0.340 mins=21 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=141 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-120 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-120 
+
+--- Check #137 at 02:10:25 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-130 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-130 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-100 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-100 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-10 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-10 
+  Bulls          buy=0.430 sell=0.440 spread=-0.010 jump=-0.190 mins=20 
+  Grizzlies      buy=0.560 sell=0.570 spread=-0.010 jump=+0.190 mins=20 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=140 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-121 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-121 
+
+--- Check #138 at 02:11:44 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-132 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-132 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-102 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-102 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-12 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-12 
+  Bulls          buy=0.480 sell=0.500 spread=-0.020 jump=-0.140 mins=18 
+  Grizzlies      buy=0.500 sell=0.510 spread=-0.010 jump=+0.130 mins=18 
+  Suns           buy=0.900 sell=0.910 spread=-0.010 jump=-0.020 mins=138 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-123 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-123 
+
+--- Check #139 at 02:13:03 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-133 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-133 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-103 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-103 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-13 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-13 
+  Bulls          buy=0.470 sell=0.480 spread=-0.010 jump=-0.150 mins=17 
+  Grizzlies      buy=0.520 sell=0.530 spread=-0.010 jump=+0.150 mins=17 
+  Suns           buy=0.900 sell=0.910 spread=-0.010 jump=-0.020 mins=137 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-124 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-124 
+
+--- Check #140 at 02:14:22 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-134 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-134 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-104 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-104 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-14 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-14 
+  Bulls          buy=0.540 sell=0.550 spread=-0.010 jump=-0.080 mins=16 
+  Grizzlies      buy=0.450 sell=0.460 spread=-0.010 jump=+0.080 mins=16 
+  Suns           buy=0.880 sell=0.890 spread=-0.010 jump=-0.040 mins=136 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-125 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-125 
+
+--- Check #141 at 02:15:41 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-136 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-136 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-106 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-106 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-16 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-16 
+  Bulls          buy=0.710 sell=0.720 spread=-0.010 jump=+0.090 mins=14 
+  Grizzlies      buy=0.280 sell=0.290 spread=-0.010 jump=-0.090 mins=14 
+  Suns           buy=0.900 sell=0.910 spread=-0.010 jump=-0.020 mins=134 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-127 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-127 
+
+--- Check #142 at 02:17:00 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-137 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-137 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-107 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-107 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-17 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-17 
+  Bulls          buy=0.730 sell=0.740 spread=-0.010 jump=+0.110 mins=13 
+  Grizzlies      buy=0.260 sell=0.270 spread=-0.010 jump=-0.110 mins=13 
+  Suns           buy=0.890 sell=0.900 spread=-0.010 jump=-0.030 mins=133 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-128 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-128 
+
+--- Check #143 at 02:18:19 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-138 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-138 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-108 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-108 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-18 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-18 
+  Bulls          buy=0.720 sell=0.730 spread=-0.010 jump=+0.100 mins=12 
+  Grizzlies      buy=0.270 sell=0.280 spread=-0.010 jump=-0.100 mins=12 
+  Suns           buy=0.890 sell=0.900 spread=-0.010 jump=-0.030 mins=132 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-129 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-129 
+
+--- Check #144 at 02:19:37 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-140 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-140 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-110 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-110 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-20 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-20 
+  Bulls          buy=0.690 sell=0.700 spread=-0.010 jump=+0.070 mins=10 
+  Grizzlies      buy=0.300 sell=0.310 spread=-0.010 jump=-0.070 mins=10 
+  Suns           buy=0.900 sell=0.910 spread=-0.010 jump=-0.020 mins=130 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-131 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-131 
+
+--- Check #145 at 02:20:56 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-141 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-141 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-111 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-111 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-21 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-21 
+  Bulls          buy=0.570 sell=0.580 spread=-0.010 jump=-0.050 mins=9 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=129 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-132 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-132 
+
+--- Check #146 at 02:22:15 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-142 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-142 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-112 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-112 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-22 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-22 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=128 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-133 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-133 
+
+--- Check #147 at 02:23:34 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-144 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-144 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-114 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-114 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-24 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-24 
+  Bulls          buy=0.570 sell=0.580 spread=-0.010 jump=-0.050 mins=6 
+  Suns           buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=126 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-135 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-135 
+
+--- Check #148 at 02:24:54 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-145 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-145 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-115 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-115 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-25 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-25 
+  Bulls          buy=0.550 sell=0.560 spread=-0.010 jump=-0.070 mins=5 
+  Grizzlies      buy=0.440 sell=0.450 spread=-0.010 jump=+0.070 mins=5 
+  Suns           buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=125 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-136 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-136 
+
+--- Check #149 at 02:26:13 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-146 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-146 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-116 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-116 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-26 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-26 
+  Bulls          buy=0.680 sell=0.690 spread=-0.010 jump=+0.060 mins=4 
+  Grizzlies      buy=0.310 sell=0.320 spread=-0.010 jump=-0.060 mins=4 
+  Suns           buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=124 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-137 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-137 
+
+--- Check #150 at 02:27:32 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-148 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-148 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-118 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-118 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-28 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-28 
+  Suns           buy=0.940 sell=0.950 spread=-0.010 jump=+0.020 mins=122 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-139 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-139 
+
+--- Check #151 at 02:28:51 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-149 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-149 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-119 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-119 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-29 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-29 
+  Bulls          buy=0.680 sell=0.690 spread=-0.010 jump=+0.060 mins=1 
+  Grizzlies      buy=0.300 sell=0.310 spread=-0.010 jump=-0.070 mins=1 
+  Suns           buy=0.950 sell=0.960 spread=-0.010 jump=+0.030 mins=121 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-140 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-140 
+
+--- Check #152 at 02:30:10 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-150 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-150 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-120 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-120 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-30 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-30 
+  Bulls          buy=0.510 sell=0.520 spread=-0.010 jump=-0.110 mins=-0 
+  Grizzlies      buy=0.480 sell=0.490 spread=-0.010 jump=+0.110 mins=-0 
+  Suns           buy=0.950 sell=0.960 spread=-0.010 jump=+0.030 mins=120 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-141 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-141 
+
+--- Check #153 at 02:31:29 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-151 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-151 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-121 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-121 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-31 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-31 
+  Bulls          buy=0.180 sell=0.190 spread=-0.010 jump=-0.440 mins=-1 
+  Grizzlies      buy=0.810 sell=0.820 spread=-0.010 jump=+0.440 mins=-1 
+  Suns           buy=0.960 sell=0.970 spread=-0.010 jump=+0.040 mins=119 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-142 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-142 
+
+--- Check #154 at 02:32:48 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-153 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-153 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-123 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-123 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-33 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-33 
+  Bulls          buy=0.210 sell=0.220 spread=-0.010 jump=-0.410 mins=-3 
+  Grizzlies      buy=0.780 sell=0.790 spread=-0.010 jump=+0.410 mins=-3 
+  Suns           buy=0.970 sell=0.980 spread=-0.010 jump=+0.050 mins=117 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-144 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-144 
+
+--- Check #155 at 02:34:07 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-154 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-154 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-124 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-124 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-34 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-34 
+  Bulls          buy=0.140 sell=0.150 spread=-0.010 jump=-0.480 mins=-4 
+  Grizzlies      buy=0.850 sell=0.860 spread=-0.010 jump=+0.480 mins=-4 
+  Suns           buy=0.972 sell=0.979 spread=-0.007 jump=+0.052 mins=116 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-145 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-145 
+
+--- Check #156 at 02:35:26 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-155 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-155 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-125 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-125 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-35 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-35 
+  Bulls          buy=0.120 sell=0.130 spread=-0.010 jump=-0.500 mins=-5 
+  Grizzlies      buy=0.870 sell=0.880 spread=-0.010 jump=+0.500 mins=-5 
+  Suns           buy=0.973 sell=0.980 spread=-0.007 jump=+0.053 mins=115 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-146 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-146 
+
+--- Check #157 at 02:36:45 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-157 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-157 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-127 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-127 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-37 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-37 
+  Bulls          buy=0.100 sell=0.110 spread=-0.010 jump=-0.520 mins=-7 
+  Grizzlies      buy=0.890 sell=0.900 spread=-0.010 jump=+0.520 mins=-7 
+  Suns           buy=0.973 sell=0.979 spread=-0.006 jump=+0.053 mins=113 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-148 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-148 
+
+--- Check #158 at 02:38:04 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-158 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-158 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-128 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-128 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-38 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-38 
+  Bulls          buy=0.050 sell=0.060 spread=-0.010 jump=-0.570 mins=-8 
+  Grizzlies      buy=0.940 sell=0.950 spread=-0.010 jump=+0.570 mins=-8 
+  Suns           buy=0.972 sell=0.975 spread=-0.003 jump=+0.052 mins=112 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-149 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-149 
+
+--- Check #159 at 02:39:23 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-159 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-159 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-129 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-129 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-39 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-39 
+  Bulls          buy=0.060 sell=0.080 spread=-0.020 jump=-0.560 mins=-9 
+  Grizzlies      buy=0.920 sell=0.940 spread=-0.020 jump=+0.550 mins=-9 
+  Suns           buy=0.972 sell=0.975 spread=-0.003 jump=+0.052 mins=111 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-150 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-150 
+
+--- Check #160 at 02:40:42 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-161 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-161 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-131 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-131 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-41 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-41 
+  Bulls          buy=0.290 sell=0.300 spread=-0.010 jump=-0.330 mins=-11 
+  Grizzlies      buy=0.700 sell=0.710 spread=-0.010 jump=+0.330 mins=-11 
+  Suns           buy=0.972 sell=0.973 spread=-0.001 jump=+0.052 mins=109 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-152 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-152 
+
+--- Check #161 at 02:42:01 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-162 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-162 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-132 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-132 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-42 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-42 
+  Bulls          buy=0.000 sell=0.010 spread=-0.010 jump=-0.620 mins=-12 
+  Grizzlies      buy=0.990 sell=1.000 spread=-0.010 jump=+0.620 mins=-12 
+  Suns           buy=0.970 sell=0.972 spread=-0.002 jump=+0.050 mins=108 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-153 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-153 
+
+--- Check #162 at 02:43:21 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-163 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-163 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-133 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-133 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-43 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-43 
+  Bulls          buy=0.000 sell=0.001 spread=-0.001 jump=-0.620 mins=-13 
+  Grizzlies      buy=0.999 sell=1.000 spread=-0.001 jump=+0.629 mins=-13 
+  Suns           buy=0.951 sell=0.957 spread=-0.006 jump=+0.031 mins=107 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-154 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-154 
+
+--- Check #163 at 02:44:40 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-165 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-165 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-135 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-135 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-45 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-45 
+  Bulls          buy=0.000 sell=0.001 spread=-0.001 jump=-0.620 mins=-15 
+  Grizzlies      buy=0.999 sell=1.000 spread=-0.001 jump=+0.629 mins=-15 
+  Suns           buy=0.950 sell=0.951 spread=-0.001 jump=+0.030 mins=105 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-156 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-156 
+
+--- Check #164 at 02:45:59 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-166 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-166 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-136 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-136 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-46 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-46 
+  Bulls          buy=0.000 sell=0.001 spread=-0.001 jump=-0.620 mins=-16 
+  Grizzlies      buy=0.999 sell=1.000 spread=-0.001 jump=+0.629 mins=-16 
+  Suns           buy=0.965 sell=0.970 spread=-0.005 jump=+0.045 mins=104 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-157 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-157 
+
+--- Check #165 at 02:47:18 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-167 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-167 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-137 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-137 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-47 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-47 
+  Bulls          buy=0.000 sell=0.001 spread=-0.001 jump=-0.620 mins=-17 
+  Grizzlies      buy=0.999 sell=1.000 spread=-0.001 jump=+0.629 mins=-17 
+  Suns           buy=0.971 sell=0.979 spread=-0.008 jump=+0.051 mins=103 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-158 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-158 
+
+--- Check #166 at 02:48:37 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-169 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-169 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-139 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-139 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-49 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-49 
+  Bulls          buy=0.000 sell=0.001 spread=-0.001 jump=-0.620 mins=-19 
+  Grizzlies      buy=0.999 sell=1.000 spread=-0.001 jump=+0.629 mins=-19 
+  Suns           buy=0.977 sell=0.980 spread=-0.003 jump=+0.057 mins=101 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-160 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-160 
+
+--- Check #167 at 02:49:56 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-170 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-170 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-140 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-140 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-50 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-50 
+  Bulls          buy=0.000 sell=0.001 spread=-0.001 jump=-0.620 mins=-20 
+  Grizzlies      buy=0.999 sell=1.000 spread=-0.001 jump=+0.629 mins=-20 
+  Jazz           buy=0.016 sell=0.020 spread=-0.004 jump=-0.054 mins=100 
+  Suns           buy=0.980 sell=0.984 spread=-0.004 jump=+0.060 mins=100 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-161 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-161 
+
+--- Check #168 at 02:51:15 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-171 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-171 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-141 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-141 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-51 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-51 
+  Bulls          buy=0.000 sell=0.001 spread=-0.001 jump=-0.620 mins=-21 
+  Grizzlies      buy=0.999 sell=1.000 spread=-0.001 jump=+0.629 mins=-21 
+  Jazz           buy=0.015 sell=0.019 spread=-0.004 jump=-0.055 mins=99 
+  Suns           buy=0.981 sell=0.985 spread=-0.004 jump=+0.061 mins=99 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-162 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-162 
+
+--- Check #169 at 02:52:34 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-173 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-173 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-143 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-143 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-53 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-53 
+  Bulls          buy=0.000 sell=0.001 spread=-0.001 jump=-0.620 mins=-23 
+  Grizzlies      buy=0.999 sell=1.000 spread=-0.001 jump=+0.629 mins=-23 
+  Jazz           buy=0.016 sell=0.020 spread=-0.004 jump=-0.054 mins=97 
+  Suns           buy=0.980 sell=0.984 spread=-0.004 jump=+0.060 mins=97 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-164 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-164 
+
+--- Check #170 at 02:53:53 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-174 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-174 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-144 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-144 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-54 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-54 
+  Bulls          buy=0.000 sell=0.001 spread=-0.001 jump=-0.620 mins=-24 
+  Grizzlies      buy=0.999 sell=1.000 spread=-0.001 jump=+0.629 mins=-24 
+  Jazz           buy=0.015 sell=0.018 spread=-0.003 jump=-0.055 mins=96 
+  Suns           buy=0.982 sell=0.985 spread=-0.003 jump=+0.062 mins=96 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-165 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-165 
+
+--- Check #171 at 02:55:12 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-175 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-175 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-145 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-145 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-55 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-55 
+  Bulls          buy=0.000 sell=0.001 spread=-0.001 jump=-0.620 mins=-25 
+  Grizzlies      buy=0.999 sell=1.000 spread=-0.001 jump=+0.629 mins=-25 
+  Jazz           buy=0.014 sell=0.017 spread=-0.003 jump=-0.056 mins=95 
+  Suns           buy=0.983 sell=0.986 spread=-0.003 jump=+0.063 mins=95 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-166 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-166 
+
+--- Check #172 at 02:56:31 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-177 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-177 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-147 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-147 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-57 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-57 
+  Bulls          buy=0.000 sell=0.001 spread=-0.001 jump=-0.620 mins=-27 
+  Grizzlies      buy=0.999 sell=1.000 spread=-0.001 jump=+0.629 mins=-27 
+  Jazz           buy=0.014 sell=0.015 spread=-0.001 jump=-0.056 mins=93 
+  Suns           buy=0.985 sell=0.986 spread=-0.001 jump=+0.065 mins=93 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-168 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-168 
+
+--- Check #173 at 02:57:50 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-178 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-178 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-148 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-148 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-58 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-58 
+  Bulls          buy=0.000 sell=0.001 spread=-0.001 jump=-0.620 mins=-28 
+  Grizzlies      buy=0.999 sell=1.000 spread=-0.001 jump=+0.629 mins=-28 
+  Jazz           buy=0.011 sell=0.013 spread=-0.002 jump=-0.059 mins=92 
+  Suns           buy=0.987 sell=0.989 spread=-0.002 jump=+0.067 mins=92 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-169 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-169 
+
+--- Check #174 at 02:59:09 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-179 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-179 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-149 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-149 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-59 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-59 
+  Bulls          buy=0.000 sell=0.001 spread=-0.001 jump=-0.620 mins=-29 
+  Grizzlies      buy=0.999 sell=1.000 spread=-0.001 jump=+0.629 mins=-29 
+  Jazz           buy=0.012 sell=0.013 spread=-0.001 jump=-0.058 mins=91 
+  Suns           buy=0.987 sell=0.988 spread=-0.001 jump=+0.067 mins=91 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-170 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-170 
+
+--- Check #175 at 03:00:28 UTC ---
+  Balance: $2.64
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=-180 
+  Timberwolves   buy=0.000 sell=0.001 spread=-0.001 jump=-0.460 mins=-180 
+  76ers          buy=0.999 sell=1.000 spread=-0.001 jump=+0.689 mins=-150 
+  Hornets        buy=0.000 sell=0.001 spread=-0.001 jump=-0.680 mins=-150 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.110 mins=-60 
+  Hawks          buy=0.999 sell=1.000 spread=-0.001 jump=+0.119 mins=-60 
+  Bulls          buy=0.000 sell=0.001 spread=-0.001 jump=-0.620 mins=-30 
+  Grizzlies      buy=0.999 sell=1.000 spread=-0.001 jump=+0.629 mins=-30 
+  Jazz           buy=0.008 sell=0.011 spread=-0.003 jump=-0.062 mins=90 
+  Suns           buy=0.989 sell=0.992 spread=-0.003 jump=+0.069 mins=90 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.269 mins=-171 
+  Iowa           buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-171 

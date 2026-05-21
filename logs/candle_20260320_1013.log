@@ -1,0 +1,53 @@
+[CANDLE] ═══ Crypto Candle Trader — 8 Bonferroni Survivors ═══
+[CANDLE] UTC now: 2026-03-20 10:13:22.050398+00:00
+[CANDLE] Signals: 8 across BTC/ETH/SOL/XRP/BNB (1H+4H)
+[CANDLE] Order size: 5.0 shares per trade
+[CANDLE] Balance: $52.91
+[CANDLE] Next: 12:00 UTC — SOL 4H DOWN.  Monitor in 77 min.
+
+[CANDLE] ── 2026-03-20 12:00 UTC batch (1 signals) ──
+[SOL] Looking up: sol-updown-4h-1774008000
+[SOL] === Solana Up or Down - March 20, 8:00AM-12:00PM ET ===
+[SOL] Side=DOWN  Edge=56.0%  MaxPrice=0.55
+[SOL] BUY 5sh @ 0.48  oid=0x8a3fe73cc79624127b97145f9d0a5517b3edc8f7e5c2184e96c2f75c39d4db7f
+[SOL] Cancelled 0x8a3fe73cc79624127b97145f9d0a5517b3edc8f7e5c2184e96c2f75c39d4db7f
+[TRADE-SOL] 2026-03-20 12:00:00+00:00 4H DOWN → NOT_FILLED price=0.48
+[CANDLE] Next: 17:00 UTC — BTC 1H UP.  Monitor in 270 min.
+
+[CANDLE] ── 2026-03-20 17:00 UTC batch (1 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-20-2026-1pm-et
+[BTC] === Bitcoin Up or Down - March 20, 1PM ET ===
+[BTC] Side=UP  Edge=56.4%  MaxPrice=0.55
+[BTC] BUY 5sh @ 0.50  oid=0x8865d7a982ac446c49db76b8f5473f253e94d42ac6f2e0ea14d921a1a3865d98
+[BTC] Filled at 0.50!
+[TRADE-BTC] 2026-03-20 17:00:00+00:00 1H UP → FILLED price=0.5
+
+[CANDLE] ── 2026-03-20 17:00 UTC batch (1 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-20-2026-1pm-et
+[BTC] === Bitcoin Up or Down - March 20, 1PM ET ===
+[BTC] Side=UP  Edge=56.4%  MaxPrice=0.55
+[BTC] BUY 5sh @ 0.50  oid=0xd62f770e051dd1d7d53e05e754b5a7136be2d021f7b7e5511c5b2693b592f283
+[BTC] Filled at 0.50!
+[TRADE-BTC] 2026-03-20 17:00:00+00:00 1H UP → FILLED price=0.5
+
+[CANDLE] ── 2026-03-20 17:00 UTC batch (1 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-20-2026-1pm-et
+[BTC] === Bitcoin Up or Down - March 20, 1PM ET ===
+[BTC] Side=UP  Edge=56.4%  MaxPrice=0.55
+[BTC] BUY 5sh @ 0.49  oid=0x9353f6225c8a0571f7f92a314746b80cfd1ddd07790f674870166459a8261372
+[BTC] Cancelled 0x9353f6225c8a0571f7f92a314746b80cfd1ddd07790f674870166459a8261372
+[BTC] BUY 5sh @ 0.50  oid=0xcde09373dc5cd8b45633badb649464498436f7286650c566ea04369cce96bc24
+[BTC] Filled at 0.50!
+[TRADE-BTC] 2026-03-20 17:00:00+00:00 1H UP → FILLED price=0.5
+
+[CANDLE] ── 2026-03-20 17:00 UTC batch (1 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-20-2026-1pm-et
+[BTC] === Bitcoin Up or Down - March 20, 1PM ET ===
+[BTC] Side=UP  Edge=56.4%  MaxPrice=0.55
+[BTC] BUY 5sh @ 0.50  oid=0xb09b6b732260527e26d03d96095188d85eb3678fb45c95fbc3920e2b98e6baca
+[BTC] Cancelled 0xb09b6b732260527e26d03d96095188d85eb3678fb45c95fbc3920e2b98e6baca
+[TRADE-BTC] 2026-03-20 17:00:00+00:00 1H UP → NOT_FILLED price=0.5
+[CANDLE] Next: 20:00 UTC — XRP 4H DOWN.  Monitor in 150 min.
+
+[CANDLE] Signal 15, shutting down...
+[CANDLE] Shutdown complete.

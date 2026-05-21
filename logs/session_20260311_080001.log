@@ -1,0 +1,13 @@
+**Session summary (08:00 UTC):**
+
+Funds not yet arrived (expected ~13:00 UTC). Fixed a critical bug found while reviewing current market conditions:
+
+**Bug fixed:** `estimate_edge()` would have bought NO on "BTC > $68k" (priced at 0.055) despite the YES side being at 0.945 — a near-certain loss since BTC is clearly above $68k. Added a 0.90 conviction threshold: if the expensive side > 0.90, skip the cheap side entirely.
+
+**What will trade once funds arrive (~14:00 UTC cron):**
+1. Elon 90-114 tweets (March 9-11) — YES @ 0.144, resolves today (~6.9x)
+2. BTC > $72k March 11 — YES @ 0.105, resolves today (~9.5x)  
+3. Elon 340-359 tweets (March 6-13) — YES @ 0.117, resolves in 2.4 days (~8.5x)
+4. Elon 420-439 tweets (March 6-13) — YES @ 0.145, resolves in 2.4 days (~6.9x)
+
+Two wins from these would bring balance well above $200. The system is ready.

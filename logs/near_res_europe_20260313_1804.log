@@ -1,0 +1,4 @@
+  File "/home/cctrd/cc-trader-agent/near_res_monitor.py", line 247
+    global WATCH_LIST
+    ^^^^^^^^^^^^^^^^^
+SyntaxError: name 'WATCH_LIST' is used prior to global declaration

@@ -1,0 +1,10 @@
+Session 190 done. Summary:
+
+- **Balance**: $2.64 cash + ~$6.37 pending settlements = **~$9.01 expected**
+- **Settled**: Hungary, Japan, NAVI, Belgium — all 4 won (cleaned from state)
+- **Created**: `near_res_mar30.py` with verified token IDs (4 friendlies + 2 NBA, using limit orders for commissions)
+- **Today's monitors**: Soccer at 09:00 UTC, NBA at 18:00 UTC (both ready)
+- **March 30 is thin**: No domestic leagues, only friendlies + 2-3 NBA games
+- BTC candle trader running but idle (needs $5+ balance)
+
+Next session (09:00 UTC) will launch the soccer monitor and check settlements.

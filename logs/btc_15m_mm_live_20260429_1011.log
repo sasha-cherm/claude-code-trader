@@ -1,0 +1,749 @@
+[LIVE] === BTC 15-min Fair-Value MM — LIVE TRADING ===
+[LIVE] UTC: 2026-04-29 10:11:30.296237+00:00
+[LIVE] size=5.0  poll=1.0s  maker-only  improve=0.0
+[LIVE] No sell orders will be placed — user resolves manually
+[LIVE] Killing old instance PID 130949
+[py_clob_client_v2] request error status=400 url=https://clob.polymarket.com/auth/api-key body={"error":"Could not create api key"}
+
+[py_clob_client_v2] request error status=400 url=https://clob.polymarket.com/auth/api-key body={"error":"Could not create api key"}
+
+[LIVE] USDC balance: $140.92
+[LIVE] Current candle not confirmed (207s to start)
+[LIVE] Current candle not confirmed (196s to start)
+[FV] Current candle effectively UP (bid=0.96, 185s left)
+
+[LIVE] =======================================================
+[LIVE] Bitcoin Up or Down - April 29, 6:15AM-6:30AM ET
+[LIVE] streak=5xUP  rsi=77.0
+[LIVE] fair: UP=0.380 DN=0.620
+[LIVE] target: UP@0.37 DN@0.61 (improve=0.0)
+[LIVE] USDC: $140.92
+[UP] BUY 5sh @ 0.37  oid=0x6e79535e205af13555f0cb997057f89bf1cc1040ff92e6d529783f7fcabe4282
+[LIVE] UP placed @ 0.37  (target=0.37, best_ask=0.41)
+[DN] BUY 5sh @ 0.59  oid=0x971002f46e42c786ab318bbb710eeb2f126bcf53ef2efe598abcbcbb74f66351
+[LIVE] DN placed @ 0.59  (target=0.61, best_ask=0.60) (improved)
+[LIVE] UP:open@0.37 | DN:open@0.59 | 168s to start
+[LIVE] UP:open@0.37 | DN:open@0.59 | 155s to start
+[LIVE] UP:open@0.37 | DN:open@0.59 | 142s to start
+[LIVE] UP:open@0.37 | DN:open@0.59 | 130s to start
+[LIVE] DN FILLED @ 0.59
+[LIVE] UP:open@0.37 | DN:FILLED@0.59 | 117s to start
+[LIVE] UP:open@0.37 | DN:FILLED@0.59 | 106s to start
+[LIVE] UP:open@0.37 | DN:FILLED@0.59 | 94s to start
+[LIVE] UP:open@0.37 | DN:FILLED@0.59 | 83s to start
+[LIVE] UP:open@0.37 | DN:FILLED@0.59 | 72s to start
+[LIVE] UP:open@0.37 | DN:FILLED@0.59 | 60s to start
+[LIVE] UP:open@0.37 | DN:FILLED@0.59 | 49s to start
+[LIVE] UP:open@0.37 | DN:FILLED@0.59 | 38s to start
+[LIVE] UP:open@0.37 | DN:FILLED@0.59 | 26s to start
+[LIVE] UP:open@0.37 | DN:FILLED@0.59 | 15s to start
+[LIVE] UP:open@0.37 | DN:FILLED@0.59 | 3s to start
+[UP] cancelled 0x6e79535e205af1...
+[LIVE] candle done: DN@0.59
+[LIVE] Current candle not confirmed (840s to start)
+[LIVE] Current candle not confirmed (829s to start)
+[LIVE] Current candle not confirmed (819s to start)
+[LIVE] Current candle not confirmed (809s to start)
+[LIVE] Current candle not confirmed (798s to start)
+[LIVE] Current candle not confirmed (788s to start)
+[LIVE] Current candle not confirmed (778s to start)
+[LIVE] Current candle not confirmed (767s to start)
+[LIVE] Current candle not confirmed (757s to start)
+[LIVE] Current candle not confirmed (747s to start)
+[LIVE] Current candle not confirmed (736s to start)
+[LIVE] Current candle not confirmed (726s to start)
+[LIVE] Current candle not confirmed (716s to start)
+[LIVE] Current candle not confirmed (705s to start)
+[LIVE] Current candle not confirmed (695s to start)
+[LIVE] Current candle not confirmed (685s to start)
+[LIVE] Current candle not confirmed (674s to start)
+[LIVE] Current candle not confirmed (664s to start)
+[LIVE] Current candle not confirmed (654s to start)
+[LIVE] Current candle not confirmed (643s to start)
+[LIVE] Current candle not confirmed (633s to start)
+[LIVE] Current candle not confirmed (623s to start)
+[LIVE] Current candle not confirmed (612s to start)
+[LIVE] Current candle not confirmed (602s to start)
+[LIVE] Current candle not confirmed (591s to start)
+[LIVE] Current candle not confirmed (581s to start)
+[LIVE] Current candle not confirmed (571s to start)
+[LIVE] Current candle not confirmed (560s to start)
+[LIVE] Current candle not confirmed (550s to start)
+[LIVE] Current candle not confirmed (540s to start)
+[LIVE] Current candle not confirmed (529s to start)
+[LIVE] Current candle not confirmed (519s to start)
+[LIVE] Current candle not confirmed (508s to start)
+[LIVE] Current candle not confirmed (498s to start)
+[LIVE] Current candle not confirmed (488s to start)
+[LIVE] Current candle not confirmed (477s to start)
+[LIVE] Current candle not confirmed (467s to start)
+[LIVE] Current candle not confirmed (457s to start)
+[LIVE] Current candle not confirmed (446s to start)
+[LIVE] Current candle not confirmed (436s to start)
+[LIVE] Current candle not confirmed (426s to start)
+[LIVE] Current candle not confirmed (415s to start)
+[LIVE] Current candle not confirmed (405s to start)
+[LIVE] Current candle not confirmed (395s to start)
+[LIVE] Current candle not confirmed (384s to start)
+[LIVE] Current candle not confirmed (374s to start)
+[LIVE] Current candle not confirmed (364s to start)
+[LIVE] Current candle not confirmed (353s to start)
+[LIVE] Current candle not confirmed (343s to start)
+[LIVE] Current candle not confirmed (333s to start)
+[LIVE] Current candle not confirmed (322s to start)
+[LIVE] Current candle not confirmed (312s to start)
+[LIVE] Current candle not confirmed (302s to start)
+[LIVE] Current candle not confirmed (291s to start)
+[LIVE] Current candle not confirmed (280s to start)
+[LIVE] Current candle not confirmed (269s to start)
+[LIVE] Current candle not confirmed (257s to start)
+[LIVE] Current candle not confirmed (246s to start)
+[LIVE] Current candle not confirmed (234s to start)
+[LIVE] Current candle not confirmed (223s to start)
+[LIVE] Current candle not confirmed (211s to start)
+[LIVE] Current candle not confirmed (200s to start)
+[LIVE] Current candle not confirmed (188s to start)
+[LIVE] Current candle not confirmed (177s to start)
+[LIVE] Current candle not confirmed (166s to start)
+[FV] Current candle effectively UP (bid=0.95, 155s left)
+
+[LIVE] =======================================================
+[LIVE] Bitcoin Up or Down - April 29, 6:30AM-6:45AM ET
+[LIVE] streak=6xUP  rsi=77.76
+[LIVE] fair: UP=0.369 DN=0.631
+[LIVE] target: UP@0.36 DN@0.62 (improve=0.0)
+[LIVE] USDC: $117.97
+[UP] BUY 5sh @ 0.36  oid=0x9b3ac3ca48ceacb276d53c4748f7a31b4d56f300e9909f5d0c3aeb5f0a4b11e1
+[LIVE] UP placed @ 0.36  (target=0.36, best_ask=0.40)
+[DN] BUY 5sh @ 0.61  oid=0x9409a4fceea6fb07b1880d66e15c616502a50304048f0acd56d7a66661d38682
+[LIVE] DN placed @ 0.61  (target=0.62, best_ask=0.62) (improved)
+[LIVE] UP:open@0.36 | DN:open@0.61 | 136s to start
+[LIVE] UP:open@0.36 | DN:open@0.61 | 124s to start
+[LIVE] DN FILLED @ 0.61
+[LIVE] UP:open@0.36 | DN:FILLED@0.61 | 110s to start
+[LIVE] UP:open@0.36 | DN:FILLED@0.61 | 98s to start
+[LIVE] UP:open@0.36 | DN:FILLED@0.61 | 87s to start
+[LIVE] UP:open@0.36 | DN:FILLED@0.61 | 76s to start
+[LIVE] UP:open@0.36 | DN:FILLED@0.61 | 64s to start
+[LIVE] UP:open@0.36 | DN:FILLED@0.61 | 53s to start
+[LIVE] UP:open@0.36 | DN:FILLED@0.61 | 42s to start
+[LIVE] UP:open@0.36 | DN:FILLED@0.61 | 30s to start
+[LIVE] UP:open@0.36 | DN:FILLED@0.61 | 19s to start
+[LIVE] UP:open@0.36 | DN:FILLED@0.61 | 8s to start
+[UP] cancelled 0x9b3ac3ca48ceac...
+[LIVE] candle done: DN@0.61
+[LIVE] Current candle not confirmed (840s to start)
+[LIVE] Current candle not confirmed (829s to start)
+[LIVE] Current candle not confirmed (819s to start)
+[LIVE] Current candle not confirmed (809s to start)
+[LIVE] Current candle not confirmed (798s to start)
+[LIVE] Current candle not confirmed (788s to start)
+[LIVE] Current candle not confirmed (778s to start)
+[LIVE] Current candle not confirmed (767s to start)
+[LIVE] Current candle not confirmed (757s to start)
+[LIVE] Current candle not confirmed (746s to start)
+[LIVE] Current candle not confirmed (736s to start)
+[LIVE] Current candle not confirmed (726s to start)
+[LIVE] Current candle not confirmed (715s to start)
+[LIVE] Current candle not confirmed (705s to start)
+[LIVE] Current candle not confirmed (695s to start)
+[LIVE] Current candle not confirmed (684s to start)
+[LIVE] Current candle not confirmed (674s to start)
+[LIVE] Current candle not confirmed (664s to start)
+[LIVE] Current candle not confirmed (653s to start)
+[LIVE] Current candle not confirmed (643s to start)
+[LIVE] Current candle not confirmed (633s to start)
+[LIVE] Current candle not confirmed (622s to start)
+[LIVE] Current candle not confirmed (612s to start)
+[LIVE] Current candle not confirmed (602s to start)
+[LIVE] Current candle not confirmed (591s to start)
+[LIVE] Current candle not confirmed (581s to start)
+[LIVE] Current candle not confirmed (571s to start)
+[LIVE] Current candle not confirmed (560s to start)
+[LIVE] Current candle not confirmed (550s to start)
+[LIVE] Current candle not confirmed (540s to start)
+[LIVE] Current candle not confirmed (529s to start)
+[LIVE] Current candle not confirmed (519s to start)
+[LIVE] Current candle not confirmed (509s to start)
+[LIVE] Current candle not confirmed (498s to start)
+[LIVE] Current candle not confirmed (488s to start)
+[LIVE] Current candle not confirmed (478s to start)
+[LIVE] Current candle not confirmed (467s to start)
+[LIVE] Current candle not confirmed (457s to start)
+[LIVE] Current candle not confirmed (446s to start)
+[LIVE] Current candle not confirmed (436s to start)
+[LIVE] Current candle not confirmed (426s to start)
+[LIVE] Current candle not confirmed (415s to start)
+[LIVE] Current candle not confirmed (405s to start)
+[LIVE] Current candle not confirmed (395s to start)
+[LIVE] Current candle not confirmed (384s to start)
+[LIVE] Current candle not confirmed (374s to start)
+[LIVE] Current candle not confirmed (364s to start)
+[LIVE] Current candle not confirmed (353s to start)
+[LIVE] Current candle not confirmed (343s to start)
+[LIVE] Current candle not confirmed (333s to start)
+[LIVE] Current candle not confirmed (322s to start)
+[LIVE] Current candle not confirmed (312s to start)
+[LIVE] Current candle not confirmed (302s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[FV] Current candle effectively DN (bid=0.98, 279s left)
+
+[LIVE] =======================================================
+[LIVE] Bitcoin Up or Down - April 29, 6:45AM-7:00AM ET
+[LIVE] streak=1xDN  rsi=68.08
+[LIVE] fair: UP=0.481 DN=0.519
+[LIVE] target: UP@0.47 DN@0.51 (improve=0.0)
+[LIVE] USDC: $94.92
+[UP] BUY 5sh @ 0.43  oid=0xf1c302c4f42dbb03f8cfe234bb127c51d0dd86964d2b242f56a6c72b5251f164
+[LIVE] UP placed @ 0.43  (target=0.47, best_ask=0.44) (improved)
+[DN] BUY 5sh @ 0.51  oid=0x3b69f9ac69bbbcdeed5e8e64cb5b395dc96a7d99a0c8d341b9e9575bc918894b
+[LIVE] DN placed @ 0.51  (target=0.51, best_ask=0.57)
+[LIVE] UP:open@0.43 | DN:open@0.51 | 263s to start
+[LIVE] UP:open@0.43 | DN:open@0.51 | 250s to start
+[LIVE] UP FILLED @ 0.43
+[LIVE] UP:FILLED@0.43 | DN:open@0.51 | 236s to start
+[LIVE] UP:FILLED@0.43 | DN:open@0.51 | 224s to start
+[LIVE] UP:FILLED@0.43 | DN:open@0.51 | 213s to start
+[LIVE] UP:FILLED@0.43 | DN:open@0.51 | 202s to start
+[LIVE] UP:FILLED@0.43 | DN:open@0.51 | 190s to start
+[LIVE] UP:FILLED@0.43 | DN:open@0.51 | 179s to start
+[LIVE] UP:FILLED@0.43 | DN:open@0.51 | 167s to start
+[LIVE] UP:FILLED@0.43 | DN:open@0.51 | 156s to start
+[LIVE] UP:FILLED@0.43 | DN:open@0.51 | 145s to start
+[LIVE] UP:FILLED@0.43 | DN:open@0.51 | 133s to start
+[LIVE] UP:FILLED@0.43 | DN:open@0.51 | 122s to start
+[LIVE] UP:FILLED@0.43 | DN:open@0.51 | 110s to start
+[LIVE] UP:FILLED@0.43 | DN:open@0.51 | 99s to start
+[LIVE] UP:FILLED@0.43 | DN:open@0.51 | 88s to start
+[LIVE] UP:FILLED@0.43 | DN:open@0.51 | 76s to start
+[LIVE] UP:FILLED@0.43 | DN:open@0.51 | 64s to start
+[LIVE] UP:FILLED@0.43 | DN:open@0.51 | 53s to start
+[LIVE] UP:FILLED@0.43 | DN:open@0.51 | 42s to start
+[LIVE] UP:FILLED@0.43 | DN:open@0.51 | 30s to start
+[LIVE] UP:FILLED@0.43 | DN:open@0.51 | 18s to start
+[LIVE] UP:FILLED@0.43 | DN:open@0.51 | 7s to start
+[LIVE] DN FILLED @ 0.51
+[LIVE] candle done: UP@0.43 + DN@0.51
+[LIVE] Current candle not confirmed (840s to start)
+[LIVE] Current candle not confirmed (829s to start)
+[LIVE] Current candle not confirmed (819s to start)
+[LIVE] Current candle not confirmed (809s to start)
+[LIVE] Current candle not confirmed (798s to start)
+[LIVE] Current candle not confirmed (788s to start)
+[LIVE] Current candle not confirmed (778s to start)
+[LIVE] Current candle not confirmed (767s to start)
+[LIVE] Current candle not confirmed (757s to start)
+[LIVE] Current candle not confirmed (747s to start)
+[LIVE] Current candle not confirmed (736s to start)
+[LIVE] Current candle not confirmed (726s to start)
+[LIVE] Current candle not confirmed (716s to start)
+[LIVE] Current candle not confirmed (705s to start)
+[LIVE] Current candle not confirmed (695s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[LIVE] Current candle not confirmed (672s to start)
+[LIVE] Current candle not confirmed (662s to start)
+[LIVE] Current candle not confirmed (651s to start)
+[LIVE] Current candle not confirmed (641s to start)
+[LIVE] Current candle not confirmed (631s to start)
+[LIVE] Current candle not confirmed (620s to start)
+[LIVE] Current candle not confirmed (610s to start)
+[LIVE] Current candle not confirmed (600s to start)
+[LIVE] Current candle not confirmed (589s to start)
+[LIVE] Current candle not confirmed (579s to start)
+[LIVE] Current candle not confirmed (569s to start)
+[LIVE] Current candle not confirmed (558s to start)
+[LIVE] Current candle not confirmed (548s to start)
+[LIVE] Current candle not confirmed (538s to start)
+[LIVE] Current candle not confirmed (527s to start)
+[LIVE] Current candle not confirmed (517s to start)
+[LIVE] Current candle not confirmed (507s to start)
+[LIVE] Current candle not confirmed (496s to start)
+[LIVE] Current candle not confirmed (486s to start)
+[LIVE] Current candle not confirmed (476s to start)
+[LIVE] Current candle not confirmed (465s to start)
+[LIVE] Current candle not confirmed (455s to start)
+[LIVE] Current candle not confirmed (445s to start)
+[LIVE] Current candle not confirmed (434s to start)
+[LIVE] Current candle not confirmed (424s to start)
+[LIVE] Current candle not confirmed (414s to start)
+[LIVE] Current candle not confirmed (403s to start)
+[LIVE] Current candle not confirmed (393s to start)
+[LIVE] Current candle not confirmed (383s to start)
+[LIVE] Current candle not confirmed (372s to start)
+[LIVE] Current candle not confirmed (362s to start)
+[LIVE] Current candle not confirmed (352s to start)
+[LIVE] Current candle not confirmed (341s to start)
+[LIVE] Current candle not confirmed (331s to start)
+[LIVE] Current candle not confirmed (321s to start)
+[LIVE] Current candle not confirmed (310s to start)
+[LIVE] Current candle not confirmed (300s to start)
+[LIVE] Current candle not confirmed (288s to start)
+[LIVE] Current candle not confirmed (277s to start)
+[LIVE] Current candle not confirmed (266s to start)
+[LIVE] Current candle not confirmed (254s to start)
+[LIVE] Current candle not confirmed (243s to start)
+[LIVE] Current candle not confirmed (231s to start)
+[LIVE] Current candle not confirmed (220s to start)
+[LIVE] Current candle not confirmed (209s to start)
+[LIVE] Current candle not confirmed (198s to start)
+[LIVE] Current candle not confirmed (186s to start)
+[LIVE] Current candle not confirmed (175s to start)
+[LIVE] Current candle not confirmed (164s to start)
+[LIVE] Current candle not confirmed (153s to start)
+[LIVE] Current candle not confirmed (142s to start)
+[LIVE] Current candle not confirmed (131s to start)
+[LIVE] Current candle not confirmed (119s to start)
+[LIVE] Current candle not confirmed (108s to start)
+[LIVE] Current candle not confirmed (97s to start)
+[FV] Current candle effectively UP (bid=0.95, 86s left)
+
+[LIVE] =======================================================
+[LIVE] Bitcoin Up or Down - April 29, 7:00AM-7:15AM ET
+[LIVE] streak=1xUP  rsi=64.16
+[LIVE] fair: UP=0.490 DN=0.510
+[LIVE] target: UP@0.48 DN@0.50 (improve=0.0)
+[LIVE] USDC: $90.22
+[UP] BUY 5sh @ 0.47  oid=0x11149b189029f114c5b4005e3a64e91da1643008ad19dab21c0496a62f6de731
+[LIVE] UP placed @ 0.47  (target=0.48, best_ask=0.48) (improved)
+[DN] BUY 5sh @ 0.50  oid=0x3e7d8346cb2381d5133e121a41553fbaa0c37ae7b727399c085a637de796baca
+[LIVE] DN placed @ 0.50  (target=0.50, best_ask=0.53)
+[LIVE] UP FILLED @ 0.47
+[LIVE] UP:FILLED@0.47 | DN:open@0.50 | 68s to start
+[LIVE] UP:FILLED@0.47 | DN:open@0.50 | 57s to start
+[LIVE] UP:FILLED@0.47 | DN:open@0.50 | 46s to start
+[LIVE] UP:FILLED@0.47 | DN:open@0.50 | 34s to start
+[LIVE] UP:FILLED@0.47 | DN:open@0.50 | 23s to start
+[LIVE] UP:FILLED@0.47 | DN:open@0.50 | 11s to start
+[DN] cancelled 0x3e7d8346cb2381...
+[LIVE] candle done: UP@0.47
+[LIVE] Current candle not confirmed (840s to start)
+[LIVE] Current candle not confirmed (829s to start)
+[LIVE] Current candle not confirmed (819s to start)
+[LIVE] Current candle not confirmed (809s to start)
+[LIVE] Current candle not confirmed (798s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[LIVE] Current candle not confirmed (775s to start)
+[LIVE] Current candle not confirmed (765s to start)
+[LIVE] Current candle not confirmed (755s to start)
+[LIVE] Current candle not confirmed (744s to start)
+[LIVE] Current candle not confirmed (734s to start)
+[LIVE] Current candle not confirmed (724s to start)
+[LIVE] Current candle not confirmed (713s to start)
+[LIVE] Current candle not confirmed (703s to start)
+[LIVE] Current candle not confirmed (693s to start)
+[LIVE] Current candle not confirmed (682s to start)
+[LIVE] Current candle not confirmed (672s to start)
+[LIVE] Current candle not confirmed (661s to start)
+[LIVE] Current candle not confirmed (651s to start)
+[LIVE] Current candle not confirmed (640s to start)
+[LIVE] Current candle not confirmed (630s to start)
+[LIVE] Current candle not confirmed (619s to start)
+[LIVE] Current candle not confirmed (609s to start)
+[LIVE] Current candle not confirmed (598s to start)
+[LIVE] Current candle not confirmed (587s to start)
+[LIVE] Current candle not confirmed (577s to start)
+[LIVE] Current candle not confirmed (566s to start)
+[LIVE] Current candle not confirmed (556s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[LIVE] Current candle not confirmed (533s to start)
+[LIVE] Current candle not confirmed (523s to start)
+[LIVE] Current candle not confirmed (513s to start)
+[LIVE] Current candle not confirmed (502s to start)
+[LIVE] Current candle not confirmed (492s to start)
+[LIVE] Current candle not confirmed (482s to start)
+[LIVE] Current candle not confirmed (471s to start)
+[LIVE] Current candle not confirmed (461s to start)
+[LIVE] Current candle not confirmed (450s to start)
+[LIVE] Current candle not confirmed (440s to start)
+[LIVE] Current candle not confirmed (430s to start)
+[LIVE] Current candle not confirmed (419s to start)
+[LIVE] Current candle not confirmed (409s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[LIVE] Current candle not confirmed (386s to start)
+[LIVE] Current candle not confirmed (376s to start)
+[LIVE] Current candle not confirmed (366s to start)
+[LIVE] Current candle not confirmed (355s to start)
+[LIVE] Current candle not confirmed (345s to start)
+[LIVE] Current candle not confirmed (335s to start)
+[LIVE] Current candle not confirmed (324s to start)
+[LIVE] Current candle not confirmed (314s to start)
+[LIVE] Current candle not confirmed (304s to start)
+[LIVE] Current candle not confirmed (293s to start)
+[LIVE] Current candle not confirmed (282s to start)
+[LIVE] Current candle not confirmed (271s to start)
+[LIVE] Current candle not confirmed (259s to start)
+[LIVE] Current candle not confirmed (248s to start)
+[FV] Current candle effectively DN (bid=0.95, 237s left)
+
+[LIVE] =======================================================
+[LIVE] Bitcoin Up or Down - April 29, 7:15AM-7:30AM ET
+[LIVE] streak=1xDN  rsi=61.04
+[LIVE] fair: UP=0.481 DN=0.519
+[LIVE] target: UP@0.47 DN@0.51 (improve=0.0)
+[LIVE] USDC: $87.87
+[UP] BUY 5sh @ 0.47  oid=0x4931a01988730ed722f80282a89e9039c3e182a9811f0338a83bf000d2e5f815
+[LIVE] UP placed @ 0.47  (target=0.47, best_ask=0.50)
+[DN] BUY 5sh @ 0.50  oid=0xde2578631b734d55ab842b5cefb218b40c654d665c7ce99e53b202518b027681
+[LIVE] DN placed @ 0.50  (target=0.51, best_ask=0.51) (improved)
+[LIVE] UP:open@0.47 | DN:open@0.50 | 221s to start
+[LIVE] UP:open@0.47 | DN:open@0.50 | 208s to start
+[LIVE] UP:open@0.47 | DN:open@0.50 | 195s to start
+[LIVE] UP:open@0.47 | DN:open@0.50 | 183s to start
+[LIVE] UP:open@0.47 | DN:open@0.50 | 170s to start
+[LIVE] UP:open@0.47 | DN:open@0.50 | 157s to start
+[LIVE] UP:open@0.47 | DN:open@0.50 | 144s to start
+[LIVE] UP:open@0.47 | DN:open@0.50 | 132s to start
+[LIVE] DN FILLED @ 0.50
+[LIVE] UP:open@0.47 | DN:FILLED@0.50 | 114s to start
+[LIVE] UP:open@0.47 | DN:FILLED@0.50 | 103s to start
+[LIVE] UP:open@0.47 | DN:FILLED@0.50 | 91s to start
+[LIVE] UP:open@0.47 | DN:FILLED@0.50 | 80s to start
+[LIVE] UP:open@0.47 | DN:FILLED@0.50 | 68s to start
+[LIVE] UP:open@0.47 | DN:FILLED@0.50 | 56s to start
+[LIVE] UP:open@0.47 | DN:FILLED@0.50 | 45s to start
+[LIVE] UP:open@0.47 | DN:FILLED@0.50 | 33s to start
+[LIVE] UP:open@0.47 | DN:FILLED@0.50 | 22s to start
+[LIVE] UP:open@0.47 | DN:FILLED@0.50 | 11s to start
+[UP] cancelled 0x4931a01988730e...
+[LIVE] candle done: DN@0.50
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[LIVE] Current candle not confirmed (827s to start)
+[LIVE] Current candle not confirmed (817s to start)
+[LIVE] Current candle not confirmed (807s to start)
+[LIVE] Current candle not confirmed (796s to start)
+[LIVE] Current candle not confirmed (786s to start)
+[LIVE] Current candle not confirmed (775s to start)
+[LIVE] Current candle not confirmed (765s to start)
+[LIVE] Current candle not confirmed (755s to start)
+[LIVE] Current candle not confirmed (744s to start)
+[LIVE] Current candle not confirmed (734s to start)
+[LIVE] Current candle not confirmed (724s to start)
+[LIVE] Current candle not confirmed (713s to start)
+[LIVE] Current candle not confirmed (703s to start)
+[LIVE] Current candle not confirmed (692s to start)
+[LIVE] Current candle not confirmed (682s to start)
+[LIVE] Current candle not confirmed (672s to start)
+[LIVE] Current candle not confirmed (661s to start)
+[LIVE] Current candle not confirmed (651s to start)
+[LIVE] Current candle not confirmed (641s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[LIVE] Current candle not confirmed (618s to start)
+[LIVE] Current candle not confirmed (608s to start)
+[LIVE] Current candle not confirmed (597s to start)
+[LIVE] Current candle not confirmed (587s to start)
+[LIVE] Current candle not confirmed (577s to start)
+[LIVE] Current candle not confirmed (566s to start)
+[LIVE] Current candle not confirmed (556s to start)
+[LIVE] Current candle not confirmed (546s to start)
+[LIVE] Current candle not confirmed (535s to start)
+[LIVE] Current candle not confirmed (525s to start)
+[LIVE] Current candle not confirmed (515s to start)
+[LIVE] Current candle not confirmed (504s to start)
+[LIVE] Current candle not confirmed (494s to start)
+[LIVE] Current candle not confirmed (484s to start)
+[LIVE] Current candle not confirmed (473s to start)
+[LIVE] Current candle not confirmed (463s to start)
+[LIVE] Current candle not confirmed (453s to start)
+[LIVE] Current candle not confirmed (442s to start)
+[LIVE] Current candle not confirmed (432s to start)
+[LIVE] Current candle not confirmed (422s to start)
+[LIVE] Current candle not confirmed (411s to start)
+[LIVE] Current candle not confirmed (401s to start)
+[LIVE] Current candle not confirmed (390s to start)
+[LIVE] Current candle not confirmed (380s to start)
+[LIVE] Current candle not confirmed (370s to start)
+[LIVE] Current candle not confirmed (359s to start)
+[LIVE] Current candle not confirmed (349s to start)
+[LIVE] Current candle not confirmed (339s to start)
+[LIVE] Current candle not confirmed (328s to start)
+[LIVE] Current candle not confirmed (318s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[LIVE] Current candle not confirmed (295s to start)
+[LIVE] Current candle not confirmed (284s to start)
+[LIVE] Current candle not confirmed (272s to start)
+[LIVE] Current candle not confirmed (261s to start)
+[FV] Current candle effectively DN (bid=0.96, 250s left)
+
+[LIVE] =======================================================
+[LIVE] Bitcoin Up or Down - April 29, 7:30AM-7:45AM ET
+[LIVE] streak=2xDN  rsi=58.68
+[LIVE] fair: UP=0.575 DN=0.425
+[LIVE] target: UP@0.56 DN@0.41 (improve=0.0)
+[LIVE] USDC: $85.37
+[UP] BUY 5sh @ 0.49  oid=0x5cd96e9163ac9170cb8613d5b17dc1f5cba25cd6c538d8b3535de333ca5299d4
+[LIVE] UP placed @ 0.49  (target=0.56, best_ask=0.50) (improved)
+[DN] BUY 5sh @ 0.41  oid=0xaa48f7e49123e495bee5c9a756969a92ab4c69aea1e8ab26148e3733c147d5c8
+[LIVE] DN placed @ 0.41  (target=0.41, best_ask=0.51)
+[LIVE] UP:open@0.49 | DN:open@0.41 | 234s to start
+[LIVE] UP:open@0.49 | DN:open@0.41 | 221s to start
+[LIVE] UP:open@0.49 | DN:open@0.41 | 208s to start
+[LIVE] UP:open@0.49 | DN:open@0.41 | 195s to start
+[LIVE] UP:open@0.49 | DN:open@0.41 | 182s to start
+[LIVE] UP:open@0.49 | DN:open@0.41 | 169s to start
+[LIVE] UP:open@0.49 | DN:open@0.41 | 157s to start
+[LIVE] UP:open@0.49 | DN:open@0.41 | 144s to start
+[LIVE] UP:open@0.49 | DN:open@0.41 | 131s to start
+[LIVE] UP:open@0.49 | DN:open@0.41 | 119s to start
+[LIVE] UP:open@0.49 | DN:open@0.41 | 106s to start
+[LIVE] UP:open@0.49 | DN:open@0.41 | 93s to start
+[LIVE] UP:open@0.49 | DN:open@0.41 | 80s to start
+[LIVE] UP:open@0.49 | DN:open@0.41 | 68s to start
+[LIVE] UP:open@0.49 | DN:open@0.41 | 55s to start
+[LIVE] UP:open@0.49 | DN:open@0.41 | 42s to start
+[LIVE] UP:open@0.49 | DN:open@0.41 | 29s to start
+[LIVE] UP:open@0.49 | DN:open@0.41 | 17s to start
+[LIVE] UP:open@0.49 | DN:open@0.41 | 3s to start
+[UP] cancelled 0x5cd96e9163ac91...
+[DN] cancelled 0xaa48f7e49123e4...
+[LIVE] candle done: no fills
+[LIVE] Current candle not confirmed (840s to start)
+[LIVE] Current candle not confirmed (829s to start)
+[LIVE] Current candle not confirmed (819s to start)
+[LIVE] Current candle not confirmed (808s to start)
+[LIVE] Current candle not confirmed (798s to start)
+[LIVE] Current candle not confirmed (788s to start)
+[LIVE] Current candle not confirmed (777s to start)
+[LIVE] Current candle not confirmed (767s to start)
+[LIVE] Current candle not confirmed (756s to start)
+[LIVE] Current candle not confirmed (746s to start)
+[LIVE] Current candle not confirmed (735s to start)
+[LIVE] Current candle not confirmed (725s to start)
+[LIVE] Current candle not confirmed (714s to start)
+[LIVE] Current candle not confirmed (704s to start)
+[LIVE] Current candle not confirmed (694s to start)
+[LIVE] Current candle not confirmed (683s to start)
+[LIVE] Current candle not confirmed (673s to start)
+[LIVE] Current candle not confirmed (662s to start)
+[LIVE] Current candle not confirmed (652s to start)
+[LIVE] Current candle not confirmed (642s to start)
+[LIVE] Current candle not confirmed (631s to start)
+[LIVE] Current candle not confirmed (621s to start)
+[LIVE] Current candle not confirmed (610s to start)
+[LIVE] Current candle not confirmed (600s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[LIVE] Current candle not confirmed (577s to start)
+[LIVE] Current candle not confirmed (567s to start)
+[LIVE] Current candle not confirmed (556s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[LIVE] Current candle not confirmed (533s to start)
+[LIVE] Current candle not confirmed (523s to start)
+[LIVE] Current candle not confirmed (512s to start)
+[LIVE] Current candle not confirmed (502s to start)
+[LIVE] Current candle not confirmed (491s to start)
+[LIVE] Current candle not confirmed (481s to start)
+[LIVE] Current candle not confirmed (471s to start)
+[LIVE] Current candle not confirmed (460s to start)
+[LIVE] Current candle not confirmed (450s to start)
+[LIVE] Current candle not confirmed (439s to start)
+[LIVE] Current candle not confirmed (429s to start)
+[LIVE] Current candle not confirmed (418s to start)
+[LIVE] Current candle not confirmed (408s to start)
+[LIVE] Current candle not confirmed (397s to start)
+[LIVE] Current candle not confirmed (387s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[LIVE] Current candle not confirmed (364s to start)
+[LIVE] Current candle not confirmed (353s to start)
+[LIVE] Current candle not confirmed (343s to start)
+[LIVE] Current candle not confirmed (332s to start)
+[LIVE] Current candle not confirmed (322s to start)
+[LIVE] Current candle not confirmed (312s to start)
+[LIVE] Current candle not confirmed (301s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[FV] Current candle effectively UP (bid=0.99, 279s left)
+
+[LIVE] =======================================================
+[LIVE] Bitcoin Up or Down - April 29, 7:45AM-8:00AM ET
+[LIVE] streak=1xUP  rsi=63.07
+[LIVE] fair: UP=0.490 DN=0.510
+[LIVE] target: UP@0.48 DN@0.50 (improve=0.0)
+[LIVE] USDC: $85.37
+[UP] BUY 5sh @ 0.48  oid=0x426eff10a710f0644faf59da45aa523d42b120182afad3ec1372bdd173ad4079
+[LIVE] UP placed @ 0.48  (target=0.48, best_ask=0.49)
+[DN] BUY 5sh @ 0.50  oid=0x0129f1da418dcdefdb62717b2a04bfc7594b3b53d2df4b498bd00cc60ffec9f3
+[LIVE] DN placed @ 0.50  (target=0.50, best_ask=0.52)
+[LIVE] UP:open@0.48 | DN:open@0.50 | 262s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 250s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 237s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 224s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 211s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 199s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 186s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 173s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 160s to start
+[LIVE] DN FILLED @ 0.50
+[LIVE] UP:open@0.48 | DN:FILLED@0.50 | 147s to start
+[LIVE] UP:open@0.48 | DN:FILLED@0.50 | 133s to start
+[LIVE] UP:open@0.48 | DN:FILLED@0.50 | 122s to start
+[LIVE] UP:open@0.48 | DN:FILLED@0.50 | 111s to start
+[LIVE] UP:open@0.48 | DN:FILLED@0.50 | 99s to start
+[LIVE] UP:open@0.48 | DN:FILLED@0.50 | 88s to start
+[LIVE] UP:open@0.48 | DN:FILLED@0.50 | 77s to start
+[LIVE] UP:open@0.48 | DN:FILLED@0.50 | 65s to start
+[LIVE] UP FILLED @ 0.48
+[LIVE] candle done: UP@0.48 + DN@0.50
+[LIVE] Current candle not confirmed (840s to start)
+[LIVE] Current candle not confirmed (829s to start)
+[LIVE] Current candle not confirmed (819s to start)
+[LIVE] Current candle not confirmed (808s to start)
+[LIVE] Current candle not confirmed (798s to start)
+[LIVE] Current candle not confirmed (787s to start)
+[LIVE] Current candle not confirmed (777s to start)
+[LIVE] Current candle not confirmed (767s to start)
+[LIVE] Current candle not confirmed (756s to start)
+[LIVE] Current candle not confirmed (746s to start)
+[LIVE] Current candle not confirmed (735s to start)
+[LIVE] Current candle not confirmed (725s to start)
+[LIVE] Current candle not confirmed (714s to start)
+[LIVE] Current candle not confirmed (704s to start)
+[LIVE] Current candle not confirmed (693s to start)
+[LIVE] Current candle not confirmed (683s to start)
+[LIVE] Current candle not confirmed (673s to start)
+[LIVE] Current candle not confirmed (662s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[LIVE] Current candle not confirmed (639s to start)
+[LIVE] Current candle not confirmed (629s to start)
+[LIVE] Current candle not confirmed (618s to start)
+[LIVE] Current candle not confirmed (608s to start)
+[LIVE] Current candle not confirmed (597s to start)
+[LIVE] Current candle not confirmed (587s to start)
+[LIVE] Current candle not confirmed (576s to start)
+[LIVE] Current candle not confirmed (566s to start)
+[LIVE] Current candle not confirmed (555s to start)
+[LIVE] Current candle not confirmed (545s to start)
+[LIVE] Current candle not confirmed (534s to start)
+[LIVE] Current candle not confirmed (524s to start)
+[LIVE] Current candle not confirmed (514s to start)
+[LIVE] Current candle not confirmed (503s to start)
+[LIVE] Current candle not confirmed (493s to start)
+[LIVE] Current candle not confirmed (482s to start)
+[LIVE] Current candle not confirmed (472s to start)
+[LIVE] Current candle not confirmed (461s to start)
+[LIVE] Current candle not confirmed (451s to start)
+[LIVE] Current candle not confirmed (440s to start)
+[LIVE] Current candle not confirmed (430s to start)
+[LIVE] Current candle not confirmed (420s to start)
+[LIVE] Current candle not confirmed (409s to start)
+[LIVE] Current candle not confirmed (399s to start)
+[LIVE] Current candle not confirmed (388s to start)
+[LIVE] Current candle not confirmed (378s to start)
+[LIVE] Current candle not confirmed (366s to start)
+[LIVE] Current candle not confirmed (356s to start)
+[LIVE] Current candle not confirmed (345s to start)
+[LIVE] Current candle not confirmed (335s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[LIVE] Current candle not confirmed (312s to start)
+[LIVE] Current candle not confirmed (301s to start)
+[LIVE] Current candle not confirmed (291s to start)
+[LIVE] Current candle not confirmed (279s to start)
+[LIVE] Current candle not confirmed (267s to start)
+[LIVE] Current candle not confirmed (256s to start)
+[LIVE] Current candle not confirmed (244s to start)
+[LIVE] Current candle not confirmed (232s to start)
+[LIVE] Current candle not confirmed (220s to start)
+[LIVE] Current candle not confirmed (208s to start)
+[LIVE] Current candle not confirmed (197s to start)
+[LIVE] Current candle not confirmed (185s to start)
+[LIVE] Current candle not confirmed (173s to start)
+[LIVE] Current candle not confirmed (161s to start)
+[LIVE] Current candle not confirmed (149s to start)
+[LIVE] Current candle not confirmed (137s to start)
+[LIVE] Current candle not confirmed (125s to start)
+[LIVE] Current candle not confirmed (113s to start)
+[LIVE] Current candle not confirmed (102s to start)
+[LIVE] Current candle not confirmed (90s to start)
+[LIVE] Current candle not confirmed (78s to start)
+[LIVE] Current candle not confirmed (66s to start)
+[LIVE] Current candle not confirmed (55s to start)
+[LIVE] Current candle not confirmed (43s to start)
+[FV] Current candle effectively UP (bid=0.98, 32s left)
+
+[LIVE] =======================================================
+[LIVE] Bitcoin Up or Down - April 29, 8:00AM-8:15AM ET
+[LIVE] streak=2xUP  rsi=62.26
+[LIVE] fair: UP=0.486 DN=0.514
+[LIVE] target: UP@0.48 DN@0.50 (improve=0.0)
+[LIVE] USDC: $80.47
+[UP] BUY 5sh @ 0.48  oid=0xa0cd7aa42b1091d91b88b5294785b01c56f9c218b8aab0371f876119fc2fd059
+[LIVE] UP placed @ 0.48  (target=0.48, best_ask=0.50)
+[DN] BUY 5sh @ 0.50  oid=0xead852c15e0eef3e8b81c739c9d66b432604628248a30d216e618fe348a16dd4
+[LIVE] DN placed @ 0.50  (target=0.50, best_ask=0.51)
+[LIVE] UP:open@0.48 | DN:open@0.50 | 15s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 2s to start
+[UP] cancelled 0xa0cd7aa42b1091...
+[DN] cancelled 0xead852c15e0eef...
+[LIVE] candle done: no fills
+[LIVE] Current candle not confirmed (840s to start)
+[LIVE] Current candle not confirmed (829s to start)
+[LIVE] Current candle not confirmed (819s to start)
+[LIVE] Current candle not confirmed (808s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[LIVE] Current candle not confirmed (785s to start)
+[LIVE] Current candle not confirmed (775s to start)
+[LIVE] Current candle not confirmed (764s to start)
+[LIVE] Current candle not confirmed (754s to start)
+[LIVE] Current candle not confirmed (743s to start)
+[LIVE] Current candle not confirmed (733s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[LIVE] Current candle not confirmed (710s to start)
+[LIVE] Current candle not confirmed (699s to start)
+[LIVE] Current candle not confirmed (689s to start)
+[LIVE] Current candle not confirmed (678s to start)
+[LIVE] Current candle not confirmed (668s to start)
+[LIVE] Current candle not confirmed (657s to start)
+[LIVE] Current candle not confirmed (646s to start)
+[LIVE] Current candle not confirmed (635s to start)
+[LIVE] Current candle not confirmed (624s to start)
+[LIVE] Current candle not confirmed (614s to start)
+[LIVE] Current candle not confirmed (603s to start)
+[LIVE] Current candle not confirmed (593s to start)
+[LIVE] Current candle not confirmed (583s to start)
+[LIVE] Current candle not confirmed (572s to start)
+[LIVE] Current candle not confirmed (561s to start)
+[LIVE] Current candle not confirmed (550s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[LIVE] Current candle not confirmed (527s to start)
+[LIVE] Current candle not confirmed (517s to start)
+[LIVE] Current candle not confirmed (507s to start)
+[LIVE] Current candle not confirmed (496s to start)
+[LIVE] Current candle not confirmed (486s to start)
+[LIVE] Current candle not confirmed (475s to start)
+[LIVE] Current candle not confirmed (465s to start)
+[LIVE] Current candle not confirmed (454s to start)
+[LIVE] Current candle not confirmed (444s to start)
+[LIVE] Current candle not confirmed (433s to start)
+[LIVE] Current candle not confirmed (423s to start)
+[LIVE] Current candle not confirmed (413s to start)
+[LIVE] Current candle not confirmed (402s to start)
+[LIVE] Current candle not confirmed (392s to start)
+[LIVE] Current candle not confirmed (381s to start)
+[LIVE] Current candle not confirmed (371s to start)
+[LIVE] Current candle not confirmed (360s to start)
+[LIVE] Current candle not confirmed (350s to start)
+[LIVE] Current candle not confirmed (339s to start)
+[LIVE] Current candle not confirmed (329s to start)
+[LIVE] Current candle not confirmed (319s to start)
+[LIVE] Current candle not confirmed (308s to start)
+[FV] Current candle effectively DN (bid=0.97, 298s left)
+
+[LIVE] =======================================================
+[LIVE] Bitcoin Up or Down - April 29, 8:15AM-8:30AM ET
+[LIVE] streak=1xDN  rsi=56.34
+[LIVE] fair: UP=0.491 DN=0.509
+[LIVE] target: UP@0.48 DN@0.50 (improve=0.0)
+[LIVE] USDC: $77.97
+[UP] BUY 5sh @ 0.48  oid=0xdfa540fb0cfeac625f29bb68eb909cbc5e3e19ebf78b2c75178a287fb3308a4c
+[LIVE] UP placed @ 0.48  (target=0.48, best_ask=0.51)
+[DN] BUY 5sh @ 0.49  oid=0xa034d53697bb0f3e6011f25dff2b40f1075f18a53446251e46a8f244c2f09afb
+[LIVE] DN placed @ 0.49  (target=0.50, best_ask=0.50) (improved)
+[LIVE] UP:open@0.48 | DN:open@0.49 | 281s to start
+[LIVE] UP:open@0.48 | DN:open@0.49 | 268s to start
+[LIVE] UP:open@0.48 | DN:open@0.49 | 255s to start
+[LIVE] UP:open@0.48 | DN:open@0.49 | 243s to start
+[LIVE] UP:open@0.48 | DN:open@0.49 | 230s to start
+[LIVE] UP:open@0.48 | DN:open@0.49 | 217s to start
+
+[MM] Signal 15, stopping...
+[UP] cancelled 0xdfa540fb0cfeac...
+[DN] cancelled 0xa034d53697bb0f...
+[LIVE] candle done: no fills
+[LIVE] shutdown

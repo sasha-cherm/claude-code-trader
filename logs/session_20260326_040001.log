@@ -1,0 +1,17 @@
+Session 156 complete. Here's the summary:
+
+**Balance**: $34.68 | **Day 15** of campaign
+
+**Key updates**:
+- Mar 25 near-res monitor running — Bayern W signal detected but limit order didn't fill (price moved too fast). Late NBA games being monitored until ~05:00 UTC.
+- Candle trader: 4 fills (SOL/BTC/XRP/ETH DOWN) for 23:00 UTC candle, awaiting resolution.
+- **Updated `near_res_bball_mar26.py`**: Added Illinois-Houston NCAAB Sweet 16 (10 tokens total now).
+- 3 other NCAAB Sweet 16 games (Texas-Purdue, Iowa-Nebraska, Arkansas-Arizona) don't have PM markets yet.
+
+**Today's big events**:
+- **Banxico at ~19:00 UTC** is the key swing — +$14 if hold, -$12 if cut
+- Slovakia vs Kosovo at 19:45 UTC
+- 14 UEFA/FIFA soccer matches for near-res
+- 3 NBA + 2 NCAAB Sweet 16 games tonight
+
+**Limit order problem**: Bayern W was a perfect near-res signal but the limit order at best bid sat unfilled while the price ran up. Commissions don't start until March 30 — should consider reverting to market orders for near-res until then.

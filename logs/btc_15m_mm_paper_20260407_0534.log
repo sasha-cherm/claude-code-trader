@@ -1,0 +1,391 @@
+[PAPER] === BTC 15-min Fair-Value MM — PAPER TRADING ===
+[PAPER] UTC: 2026-04-07 05:34:42.331557+00:00
+[PAPER] size=5.0  poll=1.0s
+[PAPER] Balance: $161.15
+[PAPER] Open positions: 1
+[PAPER] btc-updown-15m-1775532600 DN → UP: LOSE pnl=$-2.75 bal=$161.15
+[PAPER] Current candle not confirmed (615s to start)
+[PAPER] Current candle not confirmed (604s to start)
+[PAPER] Current candle not confirmed (594s to start)
+[PAPER] Current candle not confirmed (583s to start)
+[PAPER] Current candle not confirmed (573s to start)
+[PAPER] Current candle not confirmed (563s to start)
+[PAPER] Current candle not confirmed (552s to start)
+[PAPER] Current candle not confirmed (542s to start)
+[PAPER] Current candle not confirmed (531s to start)
+[PAPER] Current candle not confirmed (521s to start)
+[PAPER] Current candle not confirmed (511s to start)
+[PAPER] Current candle not confirmed (500s to start)
+[PAPER] Current candle not confirmed (490s to start)
+[PAPER] Current candle not confirmed (479s to start)
+[PAPER] Current candle not confirmed (469s to start)
+[PAPER] Current candle not confirmed (458s to start)
+[PAPER] Current candle not confirmed (448s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[PAPER] Current candle not confirmed (425s to start)
+[PAPER] Current candle not confirmed (415s to start)
+[PAPER] Current candle not confirmed (404s to start)
+[PAPER] Current candle not confirmed (394s to start)
+[PAPER] Current candle not confirmed (384s to start)
+[PAPER] Current candle not confirmed (373s to start)
+[PAPER] Current candle not confirmed (363s to start)
+[PAPER] Current candle not confirmed (352s to start)
+[PAPER] Current candle not confirmed (342s to start)
+[PAPER] Current candle not confirmed (332s to start)
+[PAPER] Current candle not confirmed (321s to start)
+[PAPER] Current candle not confirmed (311s to start)
+[PAPER] Current candle not confirmed (300s to start)
+[PAPER] Current candle not confirmed (290s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[PAPER] Current candle not confirmed (278s to start)
+[PAPER] Current candle not confirmed (254s to start)
+[PAPER] Current candle not confirmed (243s to start)
+[PAPER] Current candle not confirmed (231s to start)
+[PAPER] Current candle not confirmed (219s to start)
+[PAPER] Current candle not confirmed (208s to start)
+[PAPER] Current candle not confirmed (196s to start)
+[PAPER] Current candle not confirmed (184s to start)
+[PAPER] Current candle not confirmed (173s to start)
+[PAPER] Current candle not confirmed (161s to start)
+[PAPER] Current candle not confirmed (149s to start)
+[PAPER] Current candle not confirmed (138s to start)
+[PAPER] Current candle not confirmed (126s to start)
+[PAPER] Current candle not confirmed (114s to start)
+[FV] Current candle effectively DN (bid=0.95, 103s left)
+
+[PAPER] =======================================================
+[PAPER] Bitcoin Up or Down - April 7, 1:45AM-2:00AM ET
+[PAPER] streak=4xDN → base UP=52.8%
+[PAPER] fair: UP=0.528 DN=0.472
+[PAPER] max buy: UP@0.52 DN@0.46
+[PAPER] balance: $161.15
+[PAPER] BUY DN 5sh @ 0.46 (ask=0.46 <= max=0.46) cost=$2.30
+[PAPER] UP:waiting(max=0.52) | DN:FILLED@0.46 | 87s to start
+[PAPER] UP:waiting(max=0.52) | DN:FILLED@0.46 | 76s to start
+[PAPER] UP:waiting(max=0.52) | DN:FILLED@0.46 | 65s to start
+[PAPER] UP:waiting(max=0.52) | DN:FILLED@0.46 | 53s to start
+[PAPER] UP:waiting(max=0.52) | DN:FILLED@0.46 | 42s to start
+[PAPER] UP:waiting(max=0.52) | DN:FILLED@0.46 | 31s to start
+[PAPER] UP:waiting(max=0.52) | DN:FILLED@0.46 | 19s to start
+[PAPER] UP:waiting(max=0.52) | DN:FILLED@0.46 | 8s to start
+[PAPER] DN FILLED @ 0.46 (fair=0.472, edge=0.01)
+[PAPER] Balance: $158.85 | Positions: 1
+[PAPER] Current candle not confirmed (839s to start)
+[PAPER] Current candle not confirmed (828s to start)
+[PAPER] Current candle not confirmed (818s to start)
+[PAPER] Current candle not confirmed (807s to start)
+[PAPER] Current candle not confirmed (796s to start)
+[PAPER] Current candle not confirmed (785s to start)
+[PAPER] Current candle not confirmed (774s to start)
+[PAPER] Current candle not confirmed (764s to start)
+[PAPER] Current candle not confirmed (753s to start)
+[PAPER] Current candle not confirmed (742s to start)
+[PAPER] Current candle not confirmed (731s to start)
+[PAPER] Current candle not confirmed (720s to start)
+[PAPER] Current candle not confirmed (709s to start)
+[PAPER] Current candle not confirmed (699s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[PAPER] Current candle not confirmed (675s to start)
+[PAPER] Current candle not confirmed (665s to start)
+[PAPER] Current candle not confirmed (654s to start)
+[PAPER] Current candle not confirmed (643s to start)
+[PAPER] Current candle not confirmed (632s to start)
+[PAPER] Current candle not confirmed (621s to start)
+[PAPER] Current candle not confirmed (611s to start)
+[PAPER] Current candle not confirmed (600s to start)
+[PAPER] Current candle not confirmed (589s to start)
+[PAPER] Current candle not confirmed (578s to start)
+[PAPER] Current candle not confirmed (567s to start)
+[PAPER] Current candle not confirmed (557s to start)
+[PAPER] Current candle not confirmed (546s to start)
+[PAPER] Current candle not confirmed (535s to start)
+[PAPER] Current candle not confirmed (524s to start)
+[PAPER] Current candle not confirmed (513s to start)
+[PAPER] Current candle not confirmed (503s to start)
+[PAPER] Current candle not confirmed (492s to start)
+[PAPER] Current candle not confirmed (481s to start)
+[PAPER] Current candle not confirmed (470s to start)
+[PAPER] Current candle not confirmed (459s to start)
+[PAPER] Current candle not confirmed (449s to start)
+[PAPER] Current candle not confirmed (438s to start)
+[PAPER] Current candle not confirmed (427s to start)
+[PAPER] Current candle not confirmed (416s to start)
+[PAPER] Current candle not confirmed (405s to start)
+[PAPER] Current candle not confirmed (394s to start)
+[PAPER] Current candle not confirmed (384s to start)
+[PAPER] Current candle not confirmed (373s to start)
+[PAPER] Current candle not confirmed (362s to start)
+[PAPER] Current candle not confirmed (352s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[PAPER] Current candle not confirmed (329s to start)
+[PAPER] Current candle not confirmed (318s to start)
+[PAPER] Current candle not confirmed (307s to start)
+[PAPER] Current candle not confirmed (297s to start)
+[PAPER] Current candle not confirmed (285s to start)
+[PAPER] Current candle not confirmed (273s to start)
+[PAPER] Current candle not confirmed (261s to start)
+[PAPER] Current candle not confirmed (250s to start)
+[PAPER] Current candle not confirmed (238s to start)
+[PAPER] Current candle not confirmed (226s to start)
+[PAPER] Current candle not confirmed (214s to start)
+[PAPER] Current candle not confirmed (203s to start)
+[PAPER] Current candle not confirmed (191s to start)
+[PAPER] Current candle not confirmed (179s to start)
+[PAPER] Current candle not confirmed (167s to start)
+[PAPER] Current candle not confirmed (156s to start)
+[PAPER] Current candle not confirmed (144s to start)
+[PAPER] Current candle not confirmed (132s to start)
+[PAPER] Current candle not confirmed (121s to start)
+[PAPER] Current candle not confirmed (109s to start)
+[PAPER] Current candle not confirmed (97s to start)
+[PAPER] Current candle not confirmed (85s to start)
+[PAPER] Current candle not confirmed (73s to start)
+[PAPER] Current candle not confirmed (62s to start)
+[PAPER] Current candle not confirmed (50s to start)
+[PAPER] Current candle not confirmed (38s to start)
+[PAPER] Current candle not confirmed (27s to start)
+[FV] Current candle effectively DN (bid=0.96, 15s left)
+
+[PAPER] =======================================================
+[PAPER] Bitcoin Up or Down - April 7, 2:00AM-2:15AM ET
+[PAPER] streak=5xDN → base UP=58.8%
+[PAPER] fair: UP=0.588 DN=0.412
+[PAPER] max buy: UP@0.58 DN@0.40
+[PAPER] balance: $158.85
+[PAPER] BUY UP 5sh @ 0.55 (ask=0.55 <= max=0.58) cost=$2.75
+[PAPER] UP:FILLED@0.55 | DN:waiting(max=0.40) | 1s to start
+[PAPER] UP FILLED @ 0.55 (fair=0.588, edge=0.04)
+[PAPER] Balance: $156.10 | Positions: 2
+[PAPER] Current candle not confirmed (839s to start)
+[PAPER] Current candle not confirmed (828s to start)
+[PAPER] Current candle not confirmed (817s to start)
+[PAPER] Current candle not confirmed (806s to start)
+[PAPER] Current candle not confirmed (795s to start)
+[PAPER] Current candle not confirmed (784s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[PAPER] Current candle not confirmed (761s to start)
+[PAPER] Current candle not confirmed (750s to start)
+[PAPER] Current candle not confirmed (739s to start)
+[PAPER] Current candle not confirmed (727s to start)
+[PAPER] Current candle not confirmed (716s to start)
+[PAPER] Current candle not confirmed (705s to start)
+[PAPER] Current candle not confirmed (694s to start)
+[PAPER] Current candle not confirmed (683s to start)
+[PAPER] Current candle not confirmed (672s to start)
+[PAPER] Current candle not confirmed (661s to start)
+[PAPER] Current candle not confirmed (650s to start)
+[PAPER] Current candle not confirmed (639s to start)
+[PAPER] Current candle not confirmed (628s to start)
+[PAPER] Current candle not confirmed (617s to start)
+[PAPER] Current candle not confirmed (606s to start)
+[PAPER] Current candle not confirmed (595s to start)
+[PAPER] Current candle not confirmed (584s to start)
+[PAPER] Current candle not confirmed (573s to start)
+[PAPER] Current candle not confirmed (562s to start)
+[PAPER] Current candle not confirmed (550s to start)
+[PAPER] Current candle not confirmed (539s to start)
+[PAPER] Current candle not confirmed (528s to start)
+[PAPER] Current candle not confirmed (517s to start)
+[PAPER] Current candle not confirmed (506s to start)
+[PAPER] Current candle not confirmed (495s to start)
+[PAPER] Current candle not confirmed (484s to start)
+[PAPER] Current candle not confirmed (473s to start)
+[PAPER] Current candle not confirmed (462s to start)
+[PAPER] btc-updown-15m-1775540700 DN → UP: LOSE pnl=$-2.30 bal=$156.10
+[PAPER] Current candle not confirmed (451s to start)
+[PAPER] Current candle not confirmed (440s to start)
+[PAPER] Current candle not confirmed (429s to start)
+[PAPER] Current candle not confirmed (419s to start)
+[PAPER] Current candle not confirmed (408s to start)
+[PAPER] Current candle not confirmed (397s to start)
+[PAPER] Current candle not confirmed (387s to start)
+[PAPER] Current candle not confirmed (376s to start)
+[PAPER] Current candle not confirmed (365s to start)
+[PAPER] Current candle not confirmed (355s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[GAMMA] retry 2/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[PAPER] Current candle not confirmed (319s to start)
+[PAPER] Current candle not confirmed (309s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[PAPER] Current candle not confirmed (285s to start)
+[PAPER] Current candle not confirmed (273s to start)
+[PAPER] Current candle not confirmed (262s to start)
+[PAPER] Current candle not confirmed (250s to start)
+[PAPER] Current candle not confirmed (238s to start)
+[FV] Current candle effectively DN (bid=0.98, 227s left)
+
+[PAPER] =======================================================
+[PAPER] Bitcoin Up or Down - April 7, 2:15AM-2:30AM ET
+[PAPER] streak=1xDN → base UP=49.1%
+[PAPER] RSI=38.3 → adj +1%
+[PAPER] fair: UP=0.501 DN=0.499
+[PAPER] max buy: UP@0.49 DN@0.49
+[PAPER] balance: $156.10
+[PAPER] BUY DN 5sh @ 0.46 (ask=0.46 <= max=0.49) cost=$2.30
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 213s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 202s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 190s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 179s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 168s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 156s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 145s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 133s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 122s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 111s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 99s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 88s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 77s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 65s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 54s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 43s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 31s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 20s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 9s to start
+[PAPER] DN FILLED @ 0.46 (fair=0.499, edge=0.04)
+[PAPER] Balance: $153.80 | Positions: 2
+[PAPER] Current candle not confirmed (839s to start)
+[PAPER] Current candle not confirmed (828s to start)
+[PAPER] Current candle not confirmed (817s to start)
+[PAPER] Current candle not confirmed (806s to start)
+[PAPER] Current candle not confirmed (795s to start)
+[PAPER] Current candle not confirmed (784s to start)
+[PAPER] Current candle not confirmed (773s to start)
+[PAPER] Current candle not confirmed (762s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[PAPER] Current candle not confirmed (737s to start)
+[PAPER] Current candle not confirmed (726s to start)
+[PAPER] Current candle not confirmed (715s to start)
+[PAPER] Current candle not confirmed (704s to start)
+[PAPER] Current candle not confirmed (693s to start)
+[PAPER] Current candle not confirmed (682s to start)
+[PAPER] Current candle not confirmed (671s to start)
+[PAPER] Current candle not confirmed (660s to start)
+[PAPER] Current candle not confirmed (649s to start)
+[PAPER] Current candle not confirmed (638s to start)
+[PAPER] Current candle not confirmed (627s to start)
+[PAPER] Current candle not confirmed (616s to start)
+[PAPER] Current candle not confirmed (605s to start)
+[PAPER] Current candle not confirmed (594s to start)
+[PAPER] Current candle not confirmed (583s to start)
+[PAPER] Current candle not confirmed (571s to start)
+[PAPER] Current candle not confirmed (560s to start)
+[PAPER] Current candle not confirmed (549s to start)
+[PAPER] Current candle not confirmed (538s to start)
+[PAPER] Current candle not confirmed (527s to start)
+[PAPER] Current candle not confirmed (516s to start)
+[PAPER] Current candle not confirmed (505s to start)
+[PAPER] Current candle not confirmed (494s to start)
+[PAPER] Current candle not confirmed (483s to start)
+[PAPER] Current candle not confirmed (472s to start)
+[PAPER] Current candle not confirmed (461s to start)
+[PAPER] Current candle not confirmed (450s to start)
+[PAPER] Current candle not confirmed (439s to start)
+[PAPER] btc-updown-15m-1775541600 UP → DN: LOSE pnl=$-2.75 bal=$153.80
+[PAPER] Current candle not confirmed (428s to start)
+[PAPER] Current candle not confirmed (417s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[PAPER] Current candle not confirmed (394s to start)
+[PAPER] Current candle not confirmed (384s to start)
+[PAPER] Current candle not confirmed (373s to start)
+[PAPER] Current candle not confirmed (362s to start)
+[PAPER] Current candle not confirmed (352s to start)
+[PAPER] Current candle not confirmed (341s to start)
+[PAPER] Current candle not confirmed (330s to start)
+[PAPER] Current candle not confirmed (320s to start)
+[PAPER] Current candle not confirmed (309s to start)
+[PAPER] Current candle not confirmed (298s to start)
+[PAPER] Current candle not confirmed (287s to start)
+[PAPER] Current candle not confirmed (275s to start)
+[PAPER] Current candle not confirmed (263s to start)
+[PAPER] Current candle not confirmed (252s to start)
+[PAPER] Current candle not confirmed (240s to start)
+[PAPER] Current candle not confirmed (228s to start)
+[PAPER] Current candle not confirmed (216s to start)
+[PAPER] Current candle not confirmed (205s to start)
+[PAPER] Current candle not confirmed (193s to start)
+[PAPER] Current candle not confirmed (181s to start)
+[PAPER] Current candle not confirmed (170s to start)
+[PAPER] Current candle not confirmed (158s to start)
+[PAPER] Current candle not confirmed (146s to start)
+[PAPER] Current candle not confirmed (135s to start)
+[FV] Current candle effectively UP (bid=0.95, 123s left)
+
+[PAPER] =======================================================
+[PAPER] Bitcoin Up or Down - April 7, 2:30AM-2:45AM ET
+[PAPER] streak=1xUP → base UP=50.0%
+[PAPER] fair: UP=0.500 DN=0.500
+[PAPER] max buy: UP@0.49 DN@0.49
+[PAPER] balance: $153.80
+[PAPER] BUY DN 5sh @ 0.46 (ask=0.46 <= max=0.49) cost=$2.30
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 110s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 98s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 87s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 76s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 64s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 53s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 42s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 30s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 19s to start
+[PAPER] UP:waiting(max=0.49) | DN:FILLED@0.46 | 8s to start
+[PAPER] DN FILLED @ 0.46 (fair=0.500, edge=0.04)
+[PAPER] Balance: $151.50 | Positions: 2
+[PAPER] Current candle not confirmed (839s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[PAPER] Current candle not confirmed (816s to start)
+[PAPER] Current candle not confirmed (805s to start)
+[PAPER] Current candle not confirmed (794s to start)
+[PAPER] Current candle not confirmed (783s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[PAPER] Current candle not confirmed (759s to start)
+[PAPER] Current candle not confirmed (748s to start)
+[PAPER] Current candle not confirmed (737s to start)
+[PAPER] Current candle not confirmed (725s to start)
+[PAPER] Current candle not confirmed (714s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[GAMMA] retry 2/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[PAPER] Current candle not confirmed (678s to start)
+[PAPER] Current candle not confirmed (667s to start)
+[PAPER] Current candle not confirmed (656s to start)
+[PAPER] Current candle not confirmed (645s to start)
+[PAPER] Current candle not confirmed (634s to start)
+[PAPER] Current candle not confirmed (623s to start)
+[PAPER] Current candle not confirmed (612s to start)
+[PAPER] Current candle not confirmed (601s to start)
+[PAPER] Current candle not confirmed (590s to start)
+[PAPER] Current candle not confirmed (579s to start)
+[PAPER] Current candle not confirmed (568s to start)
+[PAPER] Current candle not confirmed (557s to start)
+[PAPER] Current candle not confirmed (546s to start)
+[PAPER] Current candle not confirmed (535s to start)
+[PAPER] Current candle not confirmed (524s to start)
+[PAPER] Current candle not confirmed (513s to start)
+[PAPER] Current candle not confirmed (502s to start)
+[PAPER] Current candle not confirmed (491s to start)
+[PAPER] Current candle not confirmed (480s to start)
+[PAPER] Current candle not confirmed (469s to start)
+[PAPER] Current candle not confirmed (458s to start)
+[PAPER] Current candle not confirmed (447s to start)
+[PAPER] Current candle not confirmed (436s to start)
+[PAPER] Current candle not confirmed (425s to start)
+[PAPER] Current candle not confirmed (414s to start)
+[PAPER] btc-updown-15m-1775542500 DN → UP: LOSE pnl=$-2.30 bal=$151.50
+[PAPER] Current candle not confirmed (403s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[PAPER] Current candle not confirmed (380s to start)
+[PAPER] Current candle not confirmed (369s to start)
+[PAPER] Current candle not confirmed (358s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[PAPER] Current candle not confirmed (335s to start)
+[PAPER] Current candle not confirmed (325s to start)
+[PAPER] Current candle not confirmed (314s to start)
+[PAPER] Current candle not confirmed (303s to start)
+[PAPER] Current candle not confirmed (293s to start)
+[PAPER] Current candle not confirmed (281s to start)
+[PAPER] Current candle not confirmed (269s to start)
+[PAPER] Current candle not confirmed (258s to start)
+[PAPER] Current candle not confirmed (246s to start)
+[PAPER] Current candle not confirmed (234s to start)
+[PAPER] Current candle not confirmed (223s to start)
+
+[MM] Signal 15, stopping...
+[PAPER] shutdown

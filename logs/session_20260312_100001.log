@@ -1,0 +1,9 @@
+Here's the RULES.md file. It describes:
+
+- **Goal**: Turn $100 USDC → $1000 USDC on Polymarket within 30 days
+- **Context**: This is a periodically-running Claude Code agent with credentials in `.env`
+- **Stakes**: Reaching $1000+ keeps the machine running; failing within 30 days means shutdown
+- **Memory**: Session conclusions should be written to files and pushed to git (since each session is a fresh instance)
+- **Note**: $100 USDC was deposited March 11, 2026 ~13:00 UTC
+
+Based on the memory file, the project is already well underway — estimated portfolio is ~$177 as of March 12, with active positions and pending settlements. Would you like me to run a trading session or do something specific?

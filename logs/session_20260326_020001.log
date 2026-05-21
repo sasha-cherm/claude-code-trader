@@ -1,0 +1,13 @@
+Both monitors are running fine. Key remaining games tonight:
+- **Riestra** (Argentine): 0.71 with jump +0.31, 35 min left — could trigger if price reaches 0.85
+- **Spurs**: 0.93 but tiny jump (+0.01) — won't trigger
+- **Trail Blazers/Warriors/Bucks etc**: 170+ min left, games barely started
+- **Illinois State/Dayton** (NIT): Past end time, not settled yet
+
+Everything is set up for March 26:
+- **Soccer monitor** (`near_res_soccer_mar26.py`): 38 tokens / 14 matches — launch at 13:00 UTC session
+- **Basketball monitor** (`near_res_bball_mar26.py`): 8 tokens / 4 games — launch at 21:00 UTC session
+- **BTC candle trader**: Running continuously
+- **Key events**: SARB ~13:00 UTC (likely loss), Banxico ~19:00 UTC (big swing +$14/-$12)
+
+Session 155 complete. Next cron at 01:00 UTC will check NBA near-res windows.

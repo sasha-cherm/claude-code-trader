@@ -1,0 +1,1569 @@
+[MM] Killing old instance PID 213831
+[MM] Cancelling 1 stale orders from previous instance
+[MM] === BTC 15-min Fair-Value Market Maker ===
+[MM] UTC: 2026-03-31 11:05:11.323936+00:00
+[MM] size=6.0  poll=1.0s
+[MM] Balance: $11.98
+
+[MM] --- main loop #1 @ 11:05:12 UTC ---
+[MM] Current candle not confirmed, waiting... (587s to start)
+
+[MM] --- main loop #2 @ 11:05:22 UTC ---
+[MM] Current candle not confirmed, waiting... (577s to start)
+
+[MM] --- main loop #3 @ 11:05:32 UTC ---
+[MM] Current candle not confirmed, waiting... (567s to start)
+
+[MM] --- main loop #4 @ 11:05:43 UTC ---
+[MM] Current candle not confirmed, waiting... (553s to start)
+
+[MM] --- main loop #5 @ 11:05:57 UTC ---
+[MM] Current candle not confirmed, waiting... (543s to start)
+
+[MM] --- main loop #6 @ 11:06:07 UTC ---
+[MM] Current candle not confirmed, waiting... (532s to start)
+
+[MM] --- main loop #7 @ 11:06:17 UTC ---
+[MM] Current candle not confirmed, waiting... (522s to start)
+
+[MM] --- main loop #8 @ 11:06:28 UTC ---
+[MM] Current candle not confirmed, waiting... (512s to start)
+
+[MM] --- main loop #9 @ 11:06:38 UTC ---
+[MM] Current candle not confirmed, waiting... (501s to start)
+
+[MM] --- main loop #10 @ 11:06:48 UTC ---
+[MM] Current candle not confirmed, waiting... (491s to start)
+
+[MM] --- main loop #11 @ 11:06:59 UTC ---
+[MM] Current candle not confirmed, waiting... (481s to start)
+
+[MM] --- main loop #12 @ 11:07:09 UTC ---
+[MM] Current candle not confirmed, waiting... (470s to start)
+
+[MM] --- main loop #13 @ 11:07:19 UTC ---
+[MM] Current candle not confirmed, waiting... (460s to start)
+
+[MM] --- main loop #14 @ 11:07:30 UTC ---
+[MM] Current candle not confirmed, waiting... (449s to start)
+
+[MM] --- main loop #15 @ 11:07:40 UTC ---
+[MM] Current candle not confirmed, waiting... (439s to start)
+
+[MM] --- main loop #16 @ 11:07:50 UTC ---
+[MM] Current candle not confirmed, waiting... (429s to start)
+
+[MM] --- main loop #17 @ 11:08:01 UTC ---
+[MM] Current candle not confirmed, waiting... (418s to start)
+
+[MM] --- main loop #18 @ 11:08:11 UTC ---
+[MM] Current candle not confirmed, waiting... (408s to start)
+
+[MM] --- main loop #19 @ 11:08:21 UTC ---
+[MM] Current candle not confirmed, waiting... (398s to start)
+
+[MM] --- main loop #20 @ 11:08:32 UTC ---
+[MM] Current candle not confirmed, waiting... (387s to start)
+
+[MM] --- main loop #21 @ 11:08:42 UTC ---
+[MM] Current candle not confirmed, waiting... (377s to start)
+
+[MM] --- main loop #22 @ 11:08:53 UTC ---
+[MM] Current candle not confirmed, waiting... (366s to start)
+
+[MM] --- main loop #23 @ 11:09:03 UTC ---
+[MM] Current candle not confirmed, waiting... (356s to start)
+
+[MM] --- main loop #24 @ 11:09:13 UTC ---
+[MM] Current candle not confirmed, waiting... (346s to start)
+
+[MM] --- main loop #25 @ 11:09:24 UTC ---
+[MM] Current candle not confirmed, waiting... (335s to start)
+
+[MM] --- main loop #26 @ 11:09:34 UTC ---
+[MM] Current candle not confirmed, waiting... (325s to start)
+
+[MM] --- main loop #27 @ 11:09:44 UTC ---
+[MM] Current candle not confirmed, waiting... (315s to start)
+
+[MM] --- main loop #28 @ 11:09:55 UTC ---
+[MM] Current candle not confirmed, waiting... (304s to start)
+
+[MM] --- main loop #29 @ 11:10:05 UTC ---
+[MM] Current candle not confirmed, waiting... (294s to start)
+
+[MM] --- main loop #30 @ 11:10:17 UTC ---
+[MM] Current candle not confirmed, waiting... (282s to start)
+
+[MM] --- main loop #31 @ 11:10:28 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (258s to start)
+
+[MM] --- main loop #32 @ 11:10:52 UTC ---
+[MM] Current candle not confirmed, waiting... (247s to start)
+
+[MM] --- main loop #33 @ 11:11:04 UTC ---
+[MM] Current candle not confirmed, waiting... (236s to start)
+
+[MM] --- main loop #34 @ 11:11:15 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (224s to start)
+
+[MM] --- main loop #35 @ 11:11:39 UTC ---
+[MM] Current candle not confirmed, waiting... (200s to start)
+
+[MM] --- main loop #36 @ 11:11:50 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (176s to start)
+
+[MM] --- main loop #37 @ 11:12:14 UTC ---
+[MM] Current candle not confirmed, waiting... (165s to start)
+
+[MM] --- main loop #38 @ 11:12:25 UTC ---
+[MM] Current candle not confirmed, waiting... (154s to start)
+
+[MM] --- main loop #39 @ 11:12:37 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (142s to start)
+
+[MM] --- main loop #40 @ 11:13:01 UTC ---
+[MM] Current candle not confirmed, waiting... (118s to start)
+
+[MM] --- main loop #41 @ 11:13:13 UTC ---
+[MM] Current candle not confirmed, waiting... (106s to start)
+
+[MM] --- main loop #42 @ 11:13:24 UTC ---
+[MM] Current candle not confirmed, waiting... (95s to start)
+
+[MM] --- main loop #43 @ 11:13:36 UTC ---
+[MM] Current candle not confirmed, waiting... (84s to start)
+
+[MM] --- main loop #44 @ 11:13:47 UTC ---
+[FV] Current candle effectively UP (bid=0.99, 73s left)
+[MM] Streak: 2x UP (current=UP)
+[MM] Fair value: UP=0.506  DN=0.494  RSI=39.07
+
+[MM] =======================================================
+[MM] Bitcoin Up or Down - March 31, 7:15AM-7:30AM ET
+[MM] start=2026-03-31T11:15:00+00:00
+[MM] streak=2xUP RSI=39.07
+[MM] fair: UP=0.506 DN=0.494
+[MM] max:  UP=0.50  DN=0.48  (both fill → 2c+ profit/sh)
+[MM] Balance: $11.98
+[UP] BUY 6sh @ 0.48  oid=0x0aa42203dae8f7aaf66524d66701a8f226a1dccff31fbcc44cb1ca2f97206ea3
+[DN] BUY 6sh @ 0.48  oid=0x3f5fd7c4d2b689ea19c25e8a9be6a7ce9e0836483acf49b0a499f2ec3a6984e9
+[MM] UP order matched @ 0.48, waiting settlement...
+[UP] cancelled 0x0aa42203dae8f7...
+[MM] UP filled: 6.0sh @ 0.48
+[MM] UP:FILLED@0.48 | DN:BUY@0.48(max=0.48) | 52s to start
+[MM] UP:FILLED@0.48 | DN:BUY@0.48(max=0.48) | 38s to start
+[MM] UP:FILLED@0.48 | DN:BUY@0.48(max=0.48) | 24s to start
+[MM] UP:FILLED@0.48 | DN:BUY@0.48(max=0.48) | 10s to start
+[DN] cancelled 0x3f5fd7c4d2b689...
+
+[MM] ╔══════════════════════════════════════════════╗
+[MM] ║  UP FILLED — holding through resolution
+[MM] ║  6sh @ 0.48  (fair=0.506)
+[MM] ║  Edge: 2.6c  |  EV/sh: 2.6c  → $0.156
+[MM] ║  Win: +$3.12  |  Lose: -$2.88
+[MM] ╚══════════════════════════════════════════════╝
+[SELL-UP] SELL 6sh @ 0.99  oid=0x8eef8f3c41506cbc1264793433c1951e3730a6291b0b63c1b5437dbf1ea3fffb
+
+[MM] --- main loop #45 @ 11:15:05 UTC ---
+[MM] Current candle not confirmed, waiting... (895s to start)
+
+[MM] --- main loop #46 @ 11:15:15 UTC ---
+[MM] Current candle not confirmed, waiting... (884s to start)
+
+[MM] --- main loop #47 @ 11:15:26 UTC ---
+[MM] Current candle not confirmed, waiting... (874s to start)
+
+[MM] --- main loop #48 @ 11:15:36 UTC ---
+[MM] Current candle not confirmed, waiting... (863s to start)
+
+[MM] --- main loop #49 @ 11:15:46 UTC ---
+[MM] Current candle not confirmed, waiting... (853s to start)
+
+[MM] --- main loop #50 @ 11:15:57 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (830s to start)
+
+[MM] --- main loop #51 @ 11:16:19 UTC ---
+[MM] Current candle not confirmed, waiting... (820s to start)
+
+[MM] --- main loop #52 @ 11:16:30 UTC ---
+[MM] Current candle not confirmed, waiting... (810s to start)
+
+[MM] --- main loop #53 @ 11:16:40 UTC ---
+[MM] Current candle not confirmed, waiting... (799s to start)
+
+[MM] --- main loop #54 @ 11:16:50 UTC ---
+[MM] Current candle not confirmed, waiting... (789s to start)
+
+[MM] --- main loop #55 @ 11:17:01 UTC ---
+[MM] Current candle not confirmed, waiting... (778s to start)
+
+[MM] --- main loop #56 @ 11:17:11 UTC ---
+[MM] Current candle not confirmed, waiting... (768s to start)
+
+[MM] --- main loop #57 @ 11:17:21 UTC ---
+[MM] Current candle not confirmed, waiting... (758s to start)
+
+[MM] --- main loop #58 @ 11:17:32 UTC ---
+[MM] Current candle not confirmed, waiting... (747s to start)
+
+[MM] --- main loop #59 @ 11:17:42 UTC ---
+[MM] Current candle not confirmed, waiting... (737s to start)
+
+[MM] --- main loop #60 @ 11:17:52 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (714s to start)
+
+[MM] --- main loop #61 @ 11:18:15 UTC ---
+[MM] Current candle not confirmed, waiting... (704s to start)
+
+[MM] --- main loop #62 @ 11:18:26 UTC ---
+[MM] Current candle not confirmed, waiting... (694s to start)
+
+[MM] --- main loop #63 @ 11:18:36 UTC ---
+[MM] Current candle not confirmed, waiting... (683s to start)
+
+[MM] --- main loop #64 @ 11:18:46 UTC ---
+[MM] Current candle not confirmed, waiting... (673s to start)
+
+[MM] --- main loop #65 @ 11:18:57 UTC ---
+[MM] Current candle not confirmed, waiting... (663s to start)
+
+[MM] --- main loop #66 @ 11:19:07 UTC ---
+[MM] Current candle not confirmed, waiting... (652s to start)
+
+[MM] --- main loop #67 @ 11:19:17 UTC ---
+[MM] Current candle not confirmed, waiting... (642s to start)
+
+[MM] --- main loop #68 @ 11:19:28 UTC ---
+[MM] Current candle not confirmed, waiting... (632s to start)
+
+[MM] --- main loop #69 @ 11:19:38 UTC ---
+[MM] Current candle not confirmed, waiting... (621s to start)
+
+[MM] --- main loop #70 @ 11:19:48 UTC ---
+[MM] Current candle not confirmed, waiting... (611s to start)
+
+[MM] --- main loop #71 @ 11:19:59 UTC ---
+[MM] Current candle not confirmed, waiting... (601s to start)
+
+[MM] --- main loop #72 @ 11:20:09 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (578s to start)
+
+[MM] --- main loop #73 @ 11:20:32 UTC ---
+[MM] Current candle not confirmed, waiting... (567s to start)
+
+[MM] --- main loop #74 @ 11:20:42 UTC ---
+[MM] Current candle not confirmed, waiting... (557s to start)
+
+[MM] --- main loop #75 @ 11:20:52 UTC ---
+[MM] Current candle not confirmed, waiting... (547s to start)
+
+[MM] --- main loop #76 @ 11:21:03 UTC ---
+[MM] Current candle not confirmed, waiting... (536s to start)
+
+[MM] --- main loop #77 @ 11:21:13 UTC ---
+[MM] Current candle not confirmed, waiting... (526s to start)
+
+[MM] --- main loop #78 @ 11:21:23 UTC ---
+[MM] Current candle not confirmed, waiting... (516s to start)
+
+[MM] --- main loop #79 @ 11:21:34 UTC ---
+[MM] Current candle not confirmed, waiting... (505s to start)
+
+[MM] --- main loop #80 @ 11:21:44 UTC ---
+[MM] Current candle not confirmed, waiting... (495s to start)
+
+[MM] --- main loop #81 @ 11:21:54 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[GAMMA] retry 2/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (460s to start)
+
+[MM] --- main loop #82 @ 11:22:30 UTC ---
+[MM] Current candle not confirmed, waiting... (450s to start)
+
+[MM] --- main loop #83 @ 11:22:40 UTC ---
+[MM] Current candle not confirmed, waiting... (439s to start)
+
+[MM] --- main loop #84 @ 11:22:50 UTC ---
+[MM] Current candle not confirmed, waiting... (429s to start)
+
+[MM] --- main loop #85 @ 11:23:01 UTC ---
+[MM] Current candle not confirmed, waiting... (419s to start)
+
+[MM] --- main loop #86 @ 11:23:11 UTC ---
+[MM] Current candle not confirmed, waiting... (408s to start)
+
+[MM] --- main loop #87 @ 11:23:21 UTC ---
+[MM] Current candle not confirmed, waiting... (398s to start)
+
+[MM] --- main loop #88 @ 11:23:32 UTC ---
+[MM] Current candle not confirmed, waiting... (388s to start)
+
+[MM] --- main loop #89 @ 11:23:42 UTC ---
+[MM] Current candle not confirmed, waiting... (377s to start)
+
+[MM] --- main loop #90 @ 11:23:52 UTC ---
+[MM] Current candle not confirmed, waiting... (367s to start)
+
+[MM] --- main loop #91 @ 11:24:03 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (344s to start)
+
+[MM] --- main loop #92 @ 11:24:25 UTC ---
+[MM] Current candle not confirmed, waiting... (334s to start)
+
+[MM] --- main loop #93 @ 11:24:36 UTC ---
+[MM] Current candle not confirmed, waiting... (323s to start)
+
+[MM] --- main loop #94 @ 11:24:46 UTC ---
+[MM] Current candle not confirmed, waiting... (313s to start)
+
+[MM] --- main loop #95 @ 11:24:56 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (290s to start)
+
+[MM] --- main loop #96 @ 11:25:20 UTC ---
+[MM] Current candle not confirmed, waiting... (279s to start)
+
+[MM] --- main loop #97 @ 11:25:32 UTC ---
+[MM] Current candle not confirmed, waiting... (267s to start)
+
+[MM] --- main loop #98 @ 11:25:43 UTC ---
+[MM] Current candle not confirmed, waiting... (256s to start)
+
+[MM] --- main loop #99 @ 11:25:55 UTC ---
+[MM] Current candle not confirmed, waiting... (244s to start)
+
+[MM] --- main loop #100 @ 11:26:06 UTC ---
+[MM] Current candle not confirmed, waiting... (233s to start)
+
+[MM] --- main loop #101 @ 11:26:18 UTC ---
+[MM] Current candle not confirmed, waiting... (222s to start)
+
+[MM] --- main loop #102 @ 11:26:29 UTC ---
+[MM] Current candle not confirmed, waiting... (210s to start)
+
+[MM] --- main loop #103 @ 11:26:40 UTC ---
+[MM] Current candle not confirmed, waiting... (199s to start)
+
+[MM] --- main loop #104 @ 11:26:52 UTC ---
+[MM] Current candle not confirmed, waiting... (187s to start)
+
+[MM] --- main loop #105 @ 11:27:03 UTC ---
+[MM] Current candle not confirmed, waiting... (176s to start)
+
+[MM] --- main loop #106 @ 11:27:15 UTC ---
+[MM] Current candle not confirmed, waiting... (164s to start)
+
+[MM] --- main loop #107 @ 11:27:26 UTC ---
+[MM] Current candle not confirmed, waiting... (153s to start)
+
+[MM] --- main loop #108 @ 11:27:37 UTC ---
+[FV] Current candle effectively UP (bid=0.95, 142s left)
+[MM] Streak: 3x UP (current=UP)
+[MM] Fair value: UP=0.488  DN=0.512  RSI=44.21
+
+[MM] =======================================================
+[MM] Bitcoin Up or Down - March 31, 7:30AM-7:45AM ET
+[MM] start=2026-03-31T11:30:00+00:00
+[MM] streak=3xUP RSI=44.21
+[MM] fair: UP=0.488 DN=0.512
+[MM] max:  UP=0.48  DN=0.50  (both fill → 2c+ profit/sh)
+[MM] Balance: $9.10
+[UP] BUY 6sh @ 0.46  oid=0x3c9a0741dc9936b2213d00acbdac72016bd94eadf301bf42001f2c4149c26558
+[DN] BUY 6sh @ 0.50  oid=0xa2b2d3a5a945d2c106b06fdc830bff213624ea11d9e05c01e7c264536a83147c
+[MM] UP:BUY@0.46(max=0.48) | DN:BUY@0.50(max=0.50) | 120s to start
+[MM] UP:BUY@0.46(max=0.48) | DN:BUY@0.50(max=0.50) | 102s to start
+[MM] UP:BUY@0.46(max=0.48) | DN:BUY@0.50(max=0.50) | 82s to start
+[MM] UP order matched @ 0.46, waiting settlement...
+[MM] UP:BUY@0.46(max=0.48) | DN:BUY@0.50(max=0.50) | 66s to start
+[MM] UP:BUY@0.46(max=0.48) | DN:BUY@0.50(max=0.50) | 50s to start
+[MM] UP phantom fill, re-placing...
+[UP] BUY 6sh @ 0.45  oid=0xa51a1383f885517fe7b33a507645b062e1c10e8de929de2c69384bdf173280b5
+[MM] UP:BUY@0.45(max=0.48) | DN:BUY@0.50(max=0.50) | 33s to start
+[MM] UP:BUY@0.45(max=0.48) | DN:BUY@0.50(max=0.50) | 15s to start
+[UP] cancelled 0xa51a1383f88551...
+[UP] BUY 6sh @ 0.46  oid=0x2bed5d7b7182c674296b25b345e2078bddc1c085c2350a92a3177fcfa420e2a4
+[UP] cancelled 0x2bed5d7b7182c6...
+[DN] cancelled 0xa2b2d3a5a945d2...
+[MM] Neither leg filled.
+
+[MM] --- main loop #109 @ 11:30:06 UTC ---
+[MM] Current candle not confirmed, waiting... (894s to start)
+
+[MM] --- main loop #110 @ 11:30:16 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (871s to start)
+
+[MM] --- main loop #111 @ 11:30:39 UTC ---
+[MM] Current candle not confirmed, waiting... (860s to start)
+
+[MM] --- main loop #112 @ 11:30:49 UTC ---
+[MM] Current candle not confirmed, waiting... (850s to start)
+
+[MM] --- main loop #113 @ 11:30:59 UTC ---
+[MM] Current candle not confirmed, waiting... (840s to start)
+
+[MM] --- main loop #114 @ 11:31:10 UTC ---
+[MM] Current candle not confirmed, waiting... (829s to start)
+
+[MM] --- main loop #115 @ 11:31:20 UTC ---
+[MM] Current candle not confirmed, waiting... (819s to start)
+
+[MM] --- main loop #116 @ 11:31:30 UTC ---
+[MM] Current candle not confirmed, waiting... (809s to start)
+
+[MM] --- main loop #117 @ 11:31:41 UTC ---
+[MM] Current candle not confirmed, waiting... (798s to start)
+
+[MM] --- main loop #118 @ 11:31:51 UTC ---
+[MM] Current candle not confirmed, waiting... (788s to start)
+
+[MM] --- main loop #119 @ 11:32:02 UTC ---
+[MM] Current candle not confirmed, waiting... (778s to start)
+
+[MM] --- main loop #120 @ 11:32:12 UTC ---
+[MM] Current candle not confirmed, waiting... (767s to start)
+
+[MM] --- main loop #121 @ 11:32:22 UTC ---
+[MM] Current candle not confirmed, waiting... (757s to start)
+
+[MM] --- main loop #122 @ 11:32:33 UTC ---
+[MM] Current candle not confirmed, waiting... (747s to start)
+
+[MM] --- main loop #123 @ 11:32:43 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (724s to start)
+
+[MM] --- main loop #124 @ 11:33:06 UTC ---
+[MM] Current candle not confirmed, waiting... (714s to start)
+
+[MM] --- main loop #125 @ 11:33:16 UTC ---
+[MM] Current candle not confirmed, waiting... (703s to start)
+
+[MM] --- main loop #126 @ 11:33:26 UTC ---
+[MM] Current candle not confirmed, waiting... (693s to start)
+
+[MM] --- main loop #127 @ 11:33:37 UTC ---
+[MM] Current candle not confirmed, waiting... (682s to start)
+
+[MM] --- main loop #128 @ 11:33:47 UTC ---
+[MM] Current candle not confirmed, waiting... (672s to start)
+
+[MM] --- main loop #129 @ 11:33:57 UTC ---
+[MM] Current candle not confirmed, waiting... (662s to start)
+
+[MM] --- main loop #130 @ 11:34:08 UTC ---
+[MM] Current candle not confirmed, waiting... (651s to start)
+
+[MM] --- main loop #131 @ 11:34:18 UTC ---
+[MM] Current candle not confirmed, waiting... (641s to start)
+
+[MM] --- main loop #132 @ 11:34:28 UTC ---
+[MM] Current candle not confirmed, waiting... (631s to start)
+
+[MM] --- main loop #133 @ 11:34:39 UTC ---
+[MM] Current candle not confirmed, waiting... (620s to start)
+
+[MM] --- main loop #134 @ 11:34:49 UTC ---
+[MM] Current candle not confirmed, waiting... (610s to start)
+
+[MM] --- main loop #135 @ 11:34:59 UTC ---
+[MM] Current candle not confirmed, waiting... (600s to start)
+
+[MM] --- main loop #136 @ 11:35:10 UTC ---
+[MM] Current candle not confirmed, waiting... (589s to start)
+
+[MM] --- main loop #137 @ 11:35:20 UTC ---
+[MM] Current candle not confirmed, waiting... (579s to start)
+
+[MM] --- main loop #138 @ 11:35:31 UTC ---
+[MM] Current candle not confirmed, waiting... (569s to start)
+
+[MM] --- main loop #139 @ 11:35:41 UTC ---
+[MM] Current candle not confirmed, waiting... (558s to start)
+
+[MM] --- main loop #140 @ 11:35:51 UTC ---
+[MM] Current candle not confirmed, waiting... (548s to start)
+
+[MM] --- main loop #141 @ 11:36:02 UTC ---
+[MM] Current candle not confirmed, waiting... (538s to start)
+
+[MM] --- main loop #142 @ 11:36:12 UTC ---
+[MM] Current candle not confirmed, waiting... (527s to start)
+
+[MM] --- main loop #143 @ 11:36:22 UTC ---
+[MM] Current candle not confirmed, waiting... (517s to start)
+
+[MM] --- main loop #144 @ 11:36:33 UTC ---
+[MM] Current candle not confirmed, waiting... (506s to start)
+
+[MM] --- main loop #145 @ 11:36:43 UTC ---
+[MM] Current candle not confirmed, waiting... (496s to start)
+
+[MM] --- main loop #146 @ 11:36:54 UTC ---
+[MM] Current candle not confirmed, waiting... (485s to start)
+
+[MM] --- main loop #147 @ 11:37:04 UTC ---
+[MM] Current candle not confirmed, waiting... (475s to start)
+
+[MM] --- main loop #148 @ 11:37:14 UTC ---
+[MM] Current candle not confirmed, waiting... (465s to start)
+
+[MM] --- main loop #149 @ 11:37:25 UTC ---
+[MM] Current candle not confirmed, waiting... (454s to start)
+
+[MM] --- main loop #150 @ 11:37:35 UTC ---
+[MM] Current candle not confirmed, waiting... (444s to start)
+
+[MM] --- main loop #151 @ 11:37:45 UTC ---
+[MM] Current candle not confirmed, waiting... (434s to start)
+
+[MM] --- main loop #152 @ 11:37:56 UTC ---
+[MM] Current candle not confirmed, waiting... (423s to start)
+
+[MM] --- main loop #153 @ 11:38:06 UTC ---
+[MM] Current candle not confirmed, waiting... (413s to start)
+
+[MM] --- main loop #154 @ 11:38:17 UTC ---
+[MM] Current candle not confirmed, waiting... (403s to start)
+
+[MM] --- main loop #155 @ 11:38:27 UTC ---
+[MM] Current candle not confirmed, waiting... (392s to start)
+
+[MM] --- main loop #156 @ 11:38:37 UTC ---
+[MM] Current candle not confirmed, waiting... (382s to start)
+
+[MM] --- main loop #157 @ 11:38:48 UTC ---
+[MM] Current candle not confirmed, waiting... (372s to start)
+
+[MM] --- main loop #158 @ 11:38:58 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (349s to start)
+
+[MM] --- main loop #159 @ 11:39:21 UTC ---
+[MM] Current candle not confirmed, waiting... (338s to start)
+
+[MM] --- main loop #160 @ 11:39:31 UTC ---
+[MM] Current candle not confirmed, waiting... (328s to start)
+
+[MM] --- main loop #161 @ 11:39:41 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[GAMMA] retry 2/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[FV] Current candle effectively UP (bid=0.98, 292s left)
+[MM] Streak: 4x UP (current=UP)
+[MM] Fair value: UP=0.357  DN=0.643  RSI=49.5
+
+[MM] =======================================================
+[MM] Bitcoin Up or Down - March 31, 7:45AM-8:00AM ET
+[MM] start=2026-03-31T11:45:00+00:00
+[MM] streak=4xUP RSI=49.5
+[MM] fair: UP=0.357 DN=0.643
+[MM] max:  UP=0.35  DN=0.63  (both fill → 2c+ profit/sh)
+[MM] Balance: $15.94
+[UP] BUY 6sh @ 0.35  oid=0x28be020e1a81de5d0b08d3a5ff42d77d51dbddb0a5c2cc8ffe298a05b74e8847
+[DN] BUY 6sh @ 0.54  oid=0x5b4a33146cec0b4a11ce33409a9d109e775c1cdb1797637be54ce5022ece9129
+[DN] cancelled 0x5b4a33146cec0b...
+[DN] BUY 6sh @ 0.52  oid=0xab380f5f8492020b1808f6fb8c6329b850e3c11b3558c9f8340a2cb95a8eae68
+[MM] UP:BUY@0.35(max=0.35) | DN:BUY@0.52(max=0.63) | 270s to start
+[MM] UP:BUY@0.35(max=0.35) | DN:BUY@0.52(max=0.63) | 251s to start
+[MM] UP:BUY@0.35(max=0.35) | DN:BUY@0.52(max=0.63) | 233s to start
+[MM] UP:BUY@0.35(max=0.35) | DN:BUY@0.52(max=0.63) | 215s to start
+[MM] UP:BUY@0.35(max=0.35) | DN:BUY@0.52(max=0.63) | 197s to start
+[MM] UP:BUY@0.35(max=0.35) | DN:BUY@0.52(max=0.63) | 178s to start
+[MM] UP:BUY@0.35(max=0.35) | DN:BUY@0.52(max=0.63) | 155s to start
+[MM] UP:BUY@0.35(max=0.35) | DN:BUY@0.52(max=0.63) | 137s to start
+[MM] UP:BUY@0.35(max=0.35) | DN:BUY@0.52(max=0.63) | 119s to start
+[MM] UP:BUY@0.35(max=0.35) | DN:BUY@0.52(max=0.63) | 101s to start
+[MM] UP:BUY@0.35(max=0.35) | DN:BUY@0.52(max=0.63) | 83s to start
+[MM] UP:BUY@0.35(max=0.35) | DN:BUY@0.52(max=0.63) | 64s to start
+[MM] UP:BUY@0.35(max=0.35) | DN:BUY@0.52(max=0.63) | 46s to start
+[DN] cancelled 0xab380f5f849202...
+[DN] BUY 6sh @ 0.55  oid=0xe92d9ebd7a1685f7113e269343cdf7eaef7b1cd745f445340d70b1e08da69390
+[MM] UP:BUY@0.35(max=0.35) | DN:BUY@0.55(max=0.63) | 27s to start
+[MM] DN order matched @ 0.55, waiting settlement...
+[MM] UP:BUY@0.35(max=0.35) | DN:BUY@0.55(max=0.63) | 11s to start
+[UP] cancelled 0x28be020e1a81de...
+[DN] cancelled 0xe92d9ebd7a1685...
+[MM] Neither leg filled.
+
+[MM] --- main loop #162 @ 11:45:05 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (881s to start)
+
+[MM] --- main loop #163 @ 11:45:29 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (858s to start)
+
+[MM] --- main loop #164 @ 11:45:52 UTC ---
+[MM] Current candle not confirmed, waiting... (846s to start)
+
+[MM] --- main loop #165 @ 11:46:03 UTC ---
+[MM] Current candle not confirmed, waiting... (835s to start)
+
+[MM] --- main loop #166 @ 11:46:14 UTC ---
+[MM] Current candle not confirmed, waiting... (824s to start)
+
+[MM] --- main loop #167 @ 11:46:25 UTC ---
+[MM] Current candle not confirmed, waiting... (813s to start)
+
+[MM] --- main loop #168 @ 11:46:36 UTC ---
+[MM] Current candle not confirmed, waiting... (802s to start)
+
+[MM] --- main loop #169 @ 11:46:47 UTC ---
+[MM] Current candle not confirmed, waiting... (791s to start)
+
+[MM] --- main loop #170 @ 11:46:58 UTC ---
+[MM] Current candle not confirmed, waiting... (780s to start)
+
+[MM] --- main loop #171 @ 11:47:09 UTC ---
+[MM] Current candle not confirmed, waiting... (769s to start)
+
+[MM] --- main loop #172 @ 11:47:21 UTC ---
+[MM] Current candle not confirmed, waiting... (758s to start)
+
+[MM] --- main loop #173 @ 11:47:32 UTC ---
+[MM] Current candle not confirmed, waiting... (747s to start)
+
+[MM] --- main loop #174 @ 11:47:43 UTC ---
+[MM] Current candle not confirmed, waiting... (736s to start)
+
+[MM] --- main loop #175 @ 11:47:54 UTC ---
+[MM] Current candle not confirmed, waiting... (725s to start)
+
+[MM] --- main loop #176 @ 11:48:05 UTC ---
+[MM] Current candle not confirmed, waiting... (713s to start)
+
+[MM] --- main loop #177 @ 11:48:16 UTC ---
+[MM] Current candle not confirmed, waiting... (702s to start)
+
+[MM] --- main loop #178 @ 11:48:27 UTC ---
+[MM] Current candle not confirmed, waiting... (691s to start)
+
+[MM] --- main loop #179 @ 11:48:38 UTC ---
+[MM] Current candle not confirmed, waiting... (680s to start)
+
+[MM] --- main loop #180 @ 11:48:49 UTC ---
+[MM] Current candle not confirmed, waiting... (669s to start)
+
+[MM] --- main loop #181 @ 11:49:00 UTC ---
+[MM] Current candle not confirmed, waiting... (658s to start)
+
+[MM] --- main loop #182 @ 11:49:11 UTC ---
+[MM] Current candle not confirmed, waiting... (647s to start)
+
+[MM] --- main loop #183 @ 11:49:23 UTC ---
+[MM] Current candle not confirmed, waiting... (636s to start)
+
+[MM] --- main loop #184 @ 11:49:34 UTC ---
+[MM] Current candle not confirmed, waiting... (625s to start)
+
+[MM] --- main loop #185 @ 11:49:45 UTC ---
+[MM] Current candle not confirmed, waiting... (614s to start)
+
+[MM] --- main loop #186 @ 11:49:56 UTC ---
+[MM] Current candle not confirmed, waiting... (602s to start)
+
+[MM] --- main loop #187 @ 11:50:07 UTC ---
+[MM] Current candle not confirmed, waiting... (591s to start)
+
+[MM] --- main loop #188 @ 11:50:18 UTC ---
+[MM] Current candle not confirmed, waiting... (580s to start)
+
+[MM] --- main loop #189 @ 11:50:30 UTC ---
+[MM] Current candle not confirmed, waiting... (569s to start)
+
+[MM] --- main loop #190 @ 11:50:41 UTC ---
+[MM] Current candle not confirmed, waiting... (557s to start)
+
+[MM] --- main loop #191 @ 11:50:52 UTC ---
+[MM] Current candle not confirmed, waiting... (546s to start)
+
+[MM] --- main loop #192 @ 11:51:03 UTC ---
+[MM] Current candle not confirmed, waiting... (535s to start)
+
+[MM] --- main loop #193 @ 11:51:15 UTC ---
+[MM] Current candle not confirmed, waiting... (523s to start)
+
+[MM] --- main loop #194 @ 11:51:26 UTC ---
+[MM] Current candle not confirmed, waiting... (512s to start)
+
+[MM] --- main loop #195 @ 11:51:37 UTC ---
+[MM] Current candle not confirmed, waiting... (501s to start)
+
+[MM] --- main loop #196 @ 11:51:48 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (478s to start)
+
+[MM] --- main loop #197 @ 11:52:12 UTC ---
+[MM] Current candle not confirmed, waiting... (466s to start)
+
+[MM] --- main loop #198 @ 11:52:23 UTC ---
+[MM] Current candle not confirmed, waiting... (455s to start)
+
+[MM] --- main loop #199 @ 11:52:34 UTC ---
+[MM] Current candle not confirmed, waiting... (444s to start)
+
+[MM] --- main loop #200 @ 11:52:45 UTC ---
+[MM] Current candle not confirmed, waiting... (433s to start)
+
+[MM] --- main loop #201 @ 11:52:56 UTC ---
+[MM] Current candle not confirmed, waiting... (422s to start)
+
+[MM] --- main loop #202 @ 11:53:07 UTC ---
+[MM] Current candle not confirmed, waiting... (411s to start)
+
+[MM] --- main loop #203 @ 11:53:18 UTC ---
+[MM] Current candle not confirmed, waiting... (400s to start)
+
+[MM] --- main loop #204 @ 11:53:29 UTC ---
+[MM] Current candle not confirmed, waiting... (389s to start)
+
+[MM] --- main loop #205 @ 11:53:41 UTC ---
+[MM] Current candle not confirmed, waiting... (378s to start)
+
+[MM] --- main loop #206 @ 11:53:52 UTC ---
+[MM] Current candle not confirmed, waiting... (367s to start)
+
+[MM] --- main loop #207 @ 11:54:03 UTC ---
+[MM] Current candle not confirmed, waiting... (355s to start)
+
+[MM] --- main loop #208 @ 11:54:14 UTC ---
+[MM] Current candle not confirmed, waiting... (345s to start)
+
+[MM] --- main loop #209 @ 11:54:25 UTC ---
+[MM] Current candle not confirmed, waiting... (334s to start)
+
+[MM] --- main loop #210 @ 11:54:36 UTC ---
+[MM] Current candle not confirmed, waiting... (323s to start)
+
+[MM] --- main loop #211 @ 11:54:47 UTC ---
+[MM] Current candle not confirmed, waiting... (312s to start)
+
+[MM] --- main loop #212 @ 11:54:57 UTC ---
+[MM] Current candle not confirmed, waiting... (301s to start)
+
+[MM] --- main loop #213 @ 11:55:08 UTC ---
+[FV] Current candle effectively DN (bid=0.96, 291s left)
+[MM] Streak: 1x DN (current=DN)
+[MM] Fair value: UP=0.491  DN=0.509  RSI=43.69
+
+[MM] =======================================================
+[MM] Bitcoin Up or Down - March 31, 8:00AM-8:15AM ET
+[MM] start=2026-03-31T12:00:00+00:00
+[MM] streak=1xDN RSI=43.69
+[MM] fair: UP=0.491 DN=0.509
+[MM] max:  UP=0.48  DN=0.50  (both fill → 2c+ profit/sh)
+[MM] Balance: $15.94
+[UP] BUY 6sh @ 0.48  oid=0xde4e1d18c26d28f21ca218b49e3e5b13e3cfe6b3372ce79b8a51b9c8110fa258
+[DN] BUY 6sh @ 0.49  oid=0xd4562c3d2b5c1b4410386da7a925bfa6488ca97492977693640bf554139d921b
+[MM] UP:BUY@0.48(max=0.48) | DN:BUY@0.49(max=0.50) | 267s to start
+[MM] UP:BUY@0.48(max=0.48) | DN:BUY@0.49(max=0.50) | 248s to start
+[MM] UP:BUY@0.48(max=0.48) | DN:BUY@0.49(max=0.50) | 230s to start
+[MM] UP:BUY@0.48(max=0.48) | DN:BUY@0.49(max=0.50) | 212s to start
+[MM] UP:BUY@0.48(max=0.48) | DN:BUY@0.49(max=0.50) | 193s to start
+[MM] UP:BUY@0.48(max=0.48) | DN:BUY@0.49(max=0.50) | 175s to start
+[MM] UP:BUY@0.48(max=0.48) | DN:BUY@0.49(max=0.50) | 151s to start
+[MM] UP:BUY@0.48(max=0.48) | DN:BUY@0.49(max=0.50) | 132s to start
+[MM] UP:BUY@0.48(max=0.48) | DN:BUY@0.49(max=0.50) | 114s to start
+[MM] UP:BUY@0.48(max=0.48) | DN:BUY@0.49(max=0.50) | 96s to start
+[BOOK] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[DN] cancelled 0xd4562c3d2b5c1b...
+[DN] BUY 6sh @ 0.50  oid=0x1c6d555b4a6d05525e95086917d63ad9fdba2761f37828a1aef86e225ea35f53
+[MM] UP:BUY@0.48(max=0.48) | DN:BUY@0.50(max=0.50) | 71s to start
+[UP] cancelled 0xde4e1d18c26d28...
+[UP] BUY 6sh @ 0.46  oid=0xbd2cb363034dc6e1988e54b0796e8971a31b9c6c944046d3ee67e6c5f15257d9
+[BOOK] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[UP] cancelled 0xbd2cb363034dc6...
+[MM] UP filled: 6.0sh @ 0.46
+[MM] UP:FILLED@0.46 | DN:BUY@0.50(max=0.50) | 45s to start
+[MM] UP:FILLED@0.46 | DN:BUY@0.50(max=0.50) | 31s to start
+[MM] UP:FILLED@0.46 | DN:BUY@0.50(max=0.50) | 17s to start
+[MM] DN order matched @ 0.50, waiting settlement...
+[MM] UP:FILLED@0.46 | DN:BUY@0.50(max=0.50) | 3s to start
+[DN] cancelled 0x1c6d555b4a6d05...
+[MM] DN filled at deadline: 6.0sh @ 0.50
+
+[MM] ╔══════════════════════════════════════════════╗
+[MM] ║  BOTH LEGS FILLED — PROFIT LOCKED
+[MM] ║  UP: 6sh @ 0.46
+[MM] ║  DN: 6sh @ 0.50
+[MM] ║  Spread captured: 4.0c/sh → $0.24
+[MM] ╚══════════════════════════════════════════════╝
+[SELL-UP] SELL 6sh @ 0.99  oid=0x193054c059b7fd9db3369df24f23aaccecf0fc08368fac113dbe23259fd7522b
+[SELL-DN] SELL 6sh @ 0.99  oid=0x7c9b061cce6879f668bf66a6df5a8a61f5100e81815f4fdea5e3a66712d69d4a
+
+[MM] --- main loop #214 @ 12:00:05 UTC ---
+[MM] Current candle not confirmed, waiting... (894s to start)
+
+[MM] --- main loop #215 @ 12:00:16 UTC ---
+[MM] Current candle not confirmed, waiting... (882s to start)
+
+[MM] --- main loop #216 @ 12:00:27 UTC ---
+[MM] Current candle not confirmed, waiting... (870s to start)
+
+[MM] --- main loop #217 @ 12:00:39 UTC ---
+[MM] Current candle not confirmed, waiting... (859s to start)
+
+[MM] --- main loop #218 @ 12:00:51 UTC ---
+[MM] Current candle not confirmed, waiting... (847s to start)
+
+[MM] --- main loop #219 @ 12:01:03 UTC ---
+[MM] Current candle not confirmed, waiting... (836s to start)
+
+[MM] --- main loop #220 @ 12:01:14 UTC ---
+[MM] Current candle not confirmed, waiting... (824s to start)
+
+[MM] --- main loop #221 @ 12:01:25 UTC ---
+[MM] Current candle not confirmed, waiting... (813s to start)
+
+[MM] --- main loop #222 @ 12:01:37 UTC ---
+[MM] Current candle not confirmed, waiting... (801s to start)
+
+[MM] --- main loop #223 @ 12:01:48 UTC ---
+[MM] Current candle not confirmed, waiting... (790s to start)
+
+[MM] --- main loop #224 @ 12:02:00 UTC ---
+[MM] Current candle not confirmed, waiting... (779s to start)
+
+[MM] --- main loop #225 @ 12:02:11 UTC ---
+[MM] Current candle not confirmed, waiting... (767s to start)
+
+[MM] --- main loop #226 @ 12:02:22 UTC ---
+[MM] Current candle not confirmed, waiting... (756s to start)
+
+[MM] --- main loop #227 @ 12:02:34 UTC ---
+[MM] Current candle not confirmed, waiting... (745s to start)
+
+[MM] --- main loop #228 @ 12:02:45 UTC ---
+[MM] Current candle not confirmed, waiting... (733s to start)
+
+[MM] --- main loop #229 @ 12:02:56 UTC ---
+[MM] Current candle not confirmed, waiting... (722s to start)
+
+[MM] --- main loop #230 @ 12:03:08 UTC ---
+[MM] Current candle not confirmed, waiting... (710s to start)
+
+[MM] --- main loop #231 @ 12:03:19 UTC ---
+[MM] Current candle not confirmed, waiting... (698s to start)
+
+[MM] --- main loop #232 @ 12:03:31 UTC ---
+[MM] Current candle not confirmed, waiting... (687s to start)
+
+[MM] --- main loop #233 @ 12:03:42 UTC ---
+[MM] Current candle not confirmed, waiting... (676s to start)
+
+[MM] --- main loop #234 @ 12:03:54 UTC ---
+[MM] Current candle not confirmed, waiting... (664s to start)
+
+[MM] --- main loop #235 @ 12:04:05 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[GAMMA] retry 2/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (628s to start)
+
+[MM] --- main loop #236 @ 12:04:42 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (603s to start)
+
+[MM] --- main loop #237 @ 12:05:07 UTC ---
+[MM] Current candle not confirmed, waiting... (591s to start)
+
+[MM] --- main loop #238 @ 12:05:18 UTC ---
+[MM] Current candle not confirmed, waiting... (580s to start)
+
+[MM] --- main loop #239 @ 12:05:29 UTC ---
+[MM] Current candle not confirmed, waiting... (568s to start)
+
+[MM] --- main loop #240 @ 12:05:42 UTC ---
+[MM] Current candle not confirmed, waiting... (557s to start)
+
+[MM] --- main loop #241 @ 12:05:53 UTC ---
+[MM] Current candle not confirmed, waiting... (546s to start)
+
+[MM] --- main loop #242 @ 12:06:04 UTC ---
+[MM] Current candle not confirmed, waiting... (534s to start)
+
+[MM] --- main loop #243 @ 12:06:15 UTC ---
+[MM] Current candle not confirmed, waiting... (523s to start)
+
+[MM] --- main loop #244 @ 12:06:26 UTC ---
+[MM] Current candle not confirmed, waiting... (512s to start)
+
+[MM] --- main loop #245 @ 12:06:38 UTC ---
+[MM] Current candle not confirmed, waiting... (501s to start)
+
+[MM] --- main loop #246 @ 12:06:49 UTC ---
+[MM] Current candle not confirmed, waiting... (489s to start)
+
+[MM] --- main loop #247 @ 12:07:00 UTC ---
+[MM] Current candle not confirmed, waiting... (478s to start)
+
+[MM] --- main loop #248 @ 12:07:11 UTC ---
+[MM] Current candle not confirmed, waiting... (467s to start)
+
+[MM] --- main loop #249 @ 12:07:22 UTC ---
+[MM] Current candle not confirmed, waiting... (456s to start)
+
+[MM] --- main loop #250 @ 12:07:33 UTC ---
+[MM] Current candle not confirmed, waiting... (445s to start)
+
+[MM] --- main loop #251 @ 12:07:45 UTC ---
+[MM] Current candle not confirmed, waiting... (434s to start)
+
+[MM] --- main loop #252 @ 12:07:56 UTC ---
+[MM] Current candle not confirmed, waiting... (423s to start)
+
+[MM] --- main loop #253 @ 12:08:07 UTC ---
+[MM] Current candle not confirmed, waiting... (412s to start)
+
+[MM] --- main loop #254 @ 12:08:18 UTC ---
+[MM] Current candle not confirmed, waiting... (400s to start)
+
+[MM] --- main loop #255 @ 12:08:29 UTC ---
+[MM] Current candle not confirmed, waiting... (389s to start)
+
+[MM] --- main loop #256 @ 12:08:40 UTC ---
+[MM] Current candle not confirmed, waiting... (378s to start)
+
+[MM] --- main loop #257 @ 12:08:52 UTC ---
+[MM] Current candle not confirmed, waiting... (367s to start)
+
+[MM] --- main loop #258 @ 12:09:03 UTC ---
+[MM] Current candle not confirmed, waiting... (356s to start)
+
+[MM] --- main loop #259 @ 12:09:14 UTC ---
+[MM] Current candle not confirmed, waiting... (345s to start)
+
+[MM] --- main loop #260 @ 12:09:25 UTC ---
+[MM] Current candle not confirmed, waiting... (333s to start)
+
+[MM] --- main loop #261 @ 12:09:36 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (310s to start)
+
+[MM] --- main loop #262 @ 12:10:00 UTC ---
+[MM] Current candle not confirmed, waiting... (298s to start)
+
+[MM] --- main loop #263 @ 12:10:13 UTC ---
+[MM] Current candle not confirmed, waiting... (284s to start)
+
+[MM] --- main loop #264 @ 12:10:26 UTC ---
+[MM] Current candle not confirmed, waiting... (272s to start)
+
+[MM] --- main loop #265 @ 12:10:39 UTC ---
+[MM] Current candle not confirmed, waiting... (259s to start)
+
+[MM] --- main loop #266 @ 12:10:51 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (247s to start)
+
+[MM] --- main loop #267 @ 12:11:16 UTC ---
+[MM] Current candle not confirmed, waiting... (222s to start)
+
+[MM] --- main loop #268 @ 12:11:28 UTC ---
+[MM] Current candle not confirmed, waiting... (210s to start)
+
+[MM] --- main loop #269 @ 12:11:40 UTC ---
+[MM] Current candle not confirmed, waiting... (198s to start)
+
+[MM] --- main loop #270 @ 12:11:53 UTC ---
+[MM] Current candle not confirmed, waiting... (185s to start)
+
+[MM] --- main loop #271 @ 12:12:05 UTC ---
+[MM] Current candle not confirmed, waiting... (173s to start)
+
+[MM] --- main loop #272 @ 12:12:17 UTC ---
+[MM] Current candle not confirmed, waiting... (161s to start)
+
+[MM] --- main loop #273 @ 12:12:30 UTC ---
+[MM] Current candle not confirmed, waiting... (148s to start)
+
+[MM] --- main loop #274 @ 12:12:42 UTC ---
+[MM] Current candle not confirmed, waiting... (136s to start)
+
+[MM] --- main loop #275 @ 12:12:54 UTC ---
+[FV] Current candle effectively DN (bid=0.95, 124s left)
+[MM] Streak: 2x DN (current=DN)
+[MM] Fair value: UP=0.575  DN=0.425  RSI=43.4
+
+[MM] =======================================================
+[MM] Bitcoin Up or Down - March 31, 8:15AM-8:30AM ET
+[MM] start=2026-03-31T12:15:00+00:00
+[MM] streak=2xDN RSI=43.4
+[MM] fair: UP=0.575 DN=0.425
+[MM] max:  UP=0.56  DN=0.41  (both fill → 3c+ profit/sh)
+[MM] Balance: $16.06
+[UP] BUY 6sh @ 0.51  oid=0x5ae674950b4a11f9adee55f43fab6f819e30e6bb0e28471f5fa28807e43ecf59
+[DN] BUY 6sh @ 0.41  oid=0x0c99a01dfe2db3cfe5bc09207699e042c6b17bd15f4fdcdbec6f8252d939b543
+[UP] cancelled 0x5ae674950b4a11...
+[UP] BUY 6sh @ 0.49  oid=0xd6774d64f7d78634e40c8b47614a4bb1ad8e886a0b53d10e8a560a34e6527c4c
+[UP] cancelled 0xd6774d64f7d786...
+[UP] BUY 6sh @ 0.51  oid=0x8340ba942799c6909c1ecf47df5070d6d18dbd5d74bf8e770220a72bdb9d9d7c
+[UP] cancelled 0x8340ba942799c6...
+[UP] BUY 6sh @ 0.49  oid=0x14a9c5d21d10b04d43e25307e950b577fefc9d28a616c2625d1dabf61bb1208f
+[MM] UP:BUY@0.49(max=0.56) | DN:BUY@0.41(max=0.41) | 98s to start
+[MM] UP:BUY@0.49(max=0.56) | DN:BUY@0.41(max=0.41) | 79s to start
+[MM] UP:BUY@0.49(max=0.56) | DN:BUY@0.41(max=0.41) | 61s to start
+[UP] cancelled 0x14a9c5d21d10b0...
+[UP] BUY 6sh @ 0.51  oid=0xa97bdab226dcc1ec502fb70e3bc6c188a0b9e6824c6a8667b6dbb802f5160fbb
+[MM] UP:BUY@0.51(max=0.56) | DN:BUY@0.41(max=0.41) | 43s to start
+[UP] cancelled 0xa97bdab226dcc1...
+[UP] BUY 6sh @ 0.52  oid=0x5fd8a9fd344dcce97e9dc629c6cd42ba82b877f1d34ccd5e07280eba06aa850b
+[UP] cancelled 0x5fd8a9fd344dcc...
+[UP] BUY 6sh @ 0.54  oid=0x262feb6f18660e02e9deefa7468e0e1abca29ae3677634756a669c5ccc82b4a8
+[MM] UP:BUY@0.54(max=0.56) | DN:BUY@0.41(max=0.41) | 24s to start
+[MM] UP order matched @ 0.54, waiting settlement...
+[MM] UP partial: 4.3/6sh, keeping order
+[UP] cancelled 0x262feb6f18660e...
+[MM] UP filled: 6.0sh @ 0.54
+[MM] UP:FILLED@0.54 | DN:BUY@0.41(max=0.41) | 8s to start
+[DN] cancelled 0x0c99a01dfe2db3...
+
+[MM] ╔══════════════════════════════════════════════╗
+[MM] ║  UP FILLED — holding through resolution
+[MM] ║  6sh @ 0.54  (fair=0.575)
+[MM] ║  Edge: 3.5c  |  EV/sh: 3.5c  → $0.210
+[MM] ║  Win: +$2.76  |  Lose: -$3.24
+[MM] ╚══════════════════════════════════════════════╝
+[SELL-UP] SELL 6sh @ 0.99  oid=0x1b1b00c5c296b2f5725c09ed5292cd8c2a14bc1c5120a40b97e5541a6b33662f
+
+[MM] --- main loop #276 @ 12:15:05 UTC ---
+[MM] Current candle not confirmed, waiting... (893s to start)
+
+[MM] --- main loop #277 @ 12:15:16 UTC ---
+[MM] Current candle not confirmed, waiting... (882s to start)
+
+[MM] --- main loop #278 @ 12:15:28 UTC ---
+[MM] Current candle not confirmed, waiting... (870s to start)
+
+[MM] --- main loop #279 @ 12:15:40 UTC ---
+[MM] Current candle not confirmed, waiting... (858s to start)
+
+[MM] --- main loop #280 @ 12:15:51 UTC ---
+[MM] Current candle not confirmed, waiting... (847s to start)
+
+[MM] --- main loop #281 @ 12:16:03 UTC ---
+[MM] Current candle not confirmed, waiting... (835s to start)
+
+[MM] --- main loop #282 @ 12:16:15 UTC ---
+[MM] Current candle not confirmed, waiting... (823s to start)
+
+[MM] --- main loop #283 @ 12:16:26 UTC ---
+[MM] Current candle not confirmed, waiting... (812s to start)
+
+[MM] --- main loop #284 @ 12:16:38 UTC ---
+[MM] Current candle not confirmed, waiting... (796s to start)
+
+[MM] --- main loop #285 @ 12:16:53 UTC ---
+[MM] Current candle not confirmed, waiting... (781s to start)
+
+[MM] --- main loop #286 @ 12:17:09 UTC ---
+[MM] Current candle not confirmed, waiting... (769s to start)
+
+[MM] --- main loop #287 @ 12:17:21 UTC ---
+[MM] Current candle not confirmed, waiting... (757s to start)
+
+[MM] --- main loop #288 @ 12:17:33 UTC ---
+[MM] Current candle not confirmed, waiting... (745s to start)
+
+[MM] --- main loop #289 @ 12:17:44 UTC ---
+[MM] Current candle not confirmed, waiting... (734s to start)
+
+[MM] --- main loop #290 @ 12:17:56 UTC ---
+[MM] Current candle not confirmed, waiting... (722s to start)
+
+[MM] --- main loop #291 @ 12:18:07 UTC ---
+[MM] Current candle not confirmed, waiting... (710s to start)
+
+[MM] --- main loop #292 @ 12:18:19 UTC ---
+[MM] Current candle not confirmed, waiting... (699s to start)
+
+[MM] --- main loop #293 @ 12:18:31 UTC ---
+[MM] Current candle not confirmed, waiting... (687s to start)
+
+[MM] --- main loop #294 @ 12:18:42 UTC ---
+[MM] Current candle not confirmed, waiting... (675s to start)
+
+[MM] --- main loop #295 @ 12:18:54 UTC ---
+[MM] Current candle not confirmed, waiting... (664s to start)
+
+[MM] --- main loop #296 @ 12:19:06 UTC ---
+[MM] Current candle not confirmed, waiting... (652s to start)
+
+[MM] --- main loop #297 @ 12:19:17 UTC ---
+[MM] Current candle not confirmed, waiting... (640s to start)
+
+[MM] --- main loop #298 @ 12:19:29 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (616s to start)
+
+[MM] --- main loop #299 @ 12:19:53 UTC ---
+[MM] Current candle not confirmed, waiting... (605s to start)
+
+[MM] --- main loop #300 @ 12:20:05 UTC ---
+[MM] Current candle not confirmed, waiting... (593s to start)
+
+[MM] --- main loop #301 @ 12:20:16 UTC ---
+[MM] Current candle not confirmed, waiting... (582s to start)
+
+[MM] --- main loop #302 @ 12:20:28 UTC ---
+[MM] Current candle not confirmed, waiting... (570s to start)
+
+[MM] --- main loop #303 @ 12:20:40 UTC ---
+[MM] Current candle not confirmed, waiting... (558s to start)
+
+[MM] --- main loop #304 @ 12:20:51 UTC ---
+[MM] Current candle not confirmed, waiting... (546s to start)
+
+[MM] --- main loop #305 @ 12:21:03 UTC ---
+[MM] Current candle not confirmed, waiting... (535s to start)
+
+[MM] --- main loop #306 @ 12:21:15 UTC ---
+[MM] Current candle not confirmed, waiting... (523s to start)
+
+[MM] --- main loop #307 @ 12:21:26 UTC ---
+[MM] Current candle not confirmed, waiting... (512s to start)
+
+[MM] --- main loop #308 @ 12:21:38 UTC ---
+[MM] Current candle not confirmed, waiting... (500s to start)
+
+[MM] --- main loop #309 @ 12:21:49 UTC ---
+[MM] Current candle not confirmed, waiting... (488s to start)
+
+[MM] --- main loop #310 @ 12:22:01 UTC ---
+[MM] Current candle not confirmed, waiting... (477s to start)
+
+[MM] --- main loop #311 @ 12:22:13 UTC ---
+[MM] Current candle not confirmed, waiting... (465s to start)
+
+[MM] --- main loop #312 @ 12:22:24 UTC ---
+[MM] Current candle not confirmed, waiting... (453s to start)
+
+[MM] --- main loop #313 @ 12:22:36 UTC ---
+[MM] Current candle not confirmed, waiting... (441s to start)
+
+[MM] --- main loop #314 @ 12:22:48 UTC ---
+[MM] Current candle not confirmed, waiting... (430s to start)
+
+[MM] --- main loop #315 @ 12:23:00 UTC ---
+[MM] Current candle not confirmed, waiting... (415s to start)
+
+[MM] --- main loop #316 @ 12:23:14 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (388s to start)
+
+[MM] --- main loop #317 @ 12:23:42 UTC ---
+[MM] Current candle not confirmed, waiting... (376s to start)
+
+[MM] --- main loop #318 @ 12:23:53 UTC ---
+[MM] Current candle not confirmed, waiting... (365s to start)
+
+[MM] --- main loop #319 @ 12:24:05 UTC ---
+[MM] Current candle not confirmed, waiting... (353s to start)
+
+[MM] --- main loop #320 @ 12:24:17 UTC ---
+[MM] Current candle not confirmed, waiting... (341s to start)
+
+[MM] --- main loop #321 @ 12:24:28 UTC ---
+[MM] Current candle not confirmed, waiting... (330s to start)
+
+[MM] --- main loop #322 @ 12:24:40 UTC ---
+[MM] Current candle not confirmed, waiting... (318s to start)
+
+[MM] --- main loop #323 @ 12:24:51 UTC ---
+[MM] Current candle not confirmed, waiting... (307s to start)
+
+[MM] --- main loop #324 @ 12:25:03 UTC ---
+[MM] Current candle not confirmed, waiting... (295s to start)
+
+[MM] --- main loop #325 @ 12:25:15 UTC ---
+[MM] Current candle not confirmed, waiting... (282s to start)
+
+[MM] --- main loop #326 @ 12:25:28 UTC ---
+[MM] Current candle not confirmed, waiting... (268s to start)
+
+[MM] --- main loop #327 @ 12:25:42 UTC ---
+[MM] Current candle not confirmed, waiting... (255s to start)
+
+[MM] --- main loop #328 @ 12:25:55 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (242s to start)
+
+[MM] --- main loop #329 @ 12:26:22 UTC ---
+[MM] Current candle not confirmed, waiting... (216s to start)
+
+[MM] --- main loop #330 @ 12:26:34 UTC ---
+[MM] Current candle not confirmed, waiting... (204s to start)
+
+[MM] --- main loop #331 @ 12:26:47 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[FV] Current candle effectively UP (bid=0.95, 192s left)
+[MM] Streak: 1x UP (current=UP)
+[MM] Fair value: UP=0.500  DN=0.500  RSI=47.11
+
+[MM] =======================================================
+[MM] Bitcoin Up or Down - March 31, 8:30AM-8:45AM ET
+[MM] start=2026-03-31T12:30:00+00:00
+[MM] streak=1xUP RSI=47.11
+[MM] fair: UP=0.500 DN=0.500
+[MM] max:  UP=0.49  DN=0.49  (both fill → 2c+ profit/sh)
+[MM] Balance: $12.82
+[UP] BUY 6sh @ 0.49  oid=0x36e68e0db19334ccbbf96c48cb3f365b67aaa9a1cc68c7841d59314991020de1
+[DN] BUY 6sh @ 0.46  oid=0xdc03714a99c4ccbc5854c148abdde5ca3251b49c31137777e906e3fc43471860
+[MM] UP:BUY@0.49(max=0.49) | DN:BUY@0.46(max=0.49) | 158s to start
+[UP] cancelled 0x36e68e0db19334...
+[UP] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[UP] BUY 6sh @ 0.48  oid=0xf449cd924f296f24235237e0f2f4c704234a8800f9a904ee269f75d63c5cd438
+[DN] cancelled 0xdc03714a99c4cc...
+[DN] BUY 6sh @ 0.48  oid=0xddf4d94589a8d59b520e73f4c950a016722725f3eeeeeef632e307d3428b6df5
+[UP] cancelled 0xf449cd924f296f...
+[UP] BUY 6sh @ 0.49  oid=0x49806f83206be6028df76331af36a44df2d435726679c6c057c2841db24e9f24
+[MM] UP:BUY@0.49(max=0.49) | DN:BUY@0.48(max=0.49) | 128s to start
+[UP] cancelled 0x49806f83206be6...
+[UP] BUY 6sh @ 0.48  oid=0xe75a65cef3c80ecb655eeeca7ff165db9375088863632552adb3e8ea73952afa
+[MM] UP:BUY@0.48(max=0.49) | DN:BUY@0.48(max=0.49) | 108s to start
+[DN] cancelled 0xddf4d94589a8d5...
+[DN] BUY 6sh @ 0.49  oid=0xa1398f6d28ba79ad2a99722408dc2a9d810bee5425d7358730f67226a7238aef
+[DN] cancelled 0xa1398f6d28ba79...
+[DN] BUY 6sh @ 0.48  oid=0xf6f2710c80107303e292be1b91e4556ef32034da444cc4dda9ecec6523ea5e3c
+[MM] UP:BUY@0.48(max=0.49) | DN:BUY@0.48(max=0.49) | 88s to start
+[UP] cancelled 0xe75a65cef3c80e...
+[UP] BUY 6sh @ 0.46  oid=0x2f4a28dd6641543581b58968d6c2567be66cd3c39c4f8333d3b84ea1a5f62a21
+[MM] UP:BUY@0.46(max=0.49) | DN:BUY@0.48(max=0.49) | 69s to start
+[UP] cancelled 0x2f4a28dd664154...
+[UP] BUY 6sh @ 0.48  oid=0xc3cf1640d1c96eec8f5fc4796f311a4bee14d4d5f72670a8189f569b4d5ec071
+[DN] cancelled 0xf6f2710c801073...
+[DN] BUY 6sh @ 0.49  oid=0xcbc521f72122041cb16381165bfc9f3919841b826db88a80ef32659b956cd905
+[UP] cancelled 0xc3cf1640d1c96e...
+[UP] BUY 6sh @ 0.46  oid=0xf189d0cf4cd171352b74fc5f610cb71b138850bbf1c2a9963b070aa95ea36284
+[UP] cancelled 0xf189d0cf4cd171...
+[UP] BUY 6sh @ 0.48  oid=0xe34c5ed9ef10f6434dd153b7d752a3dd94d9a5f566fbda76a34f5a09ba49426b
+[UP] cancelled 0xe34c5ed9ef10f6...
+[UP] BUY 6sh @ 0.46  oid=0x5484deccd0292678f344cb55219aed2ad629842ddb6815c6ef08b43900663434
+[MM] UP:BUY@0.46(max=0.49) | DN:BUY@0.49(max=0.49) | 48s to start
+[MM] UP:BUY@0.46(max=0.49) | DN:BUY@0.49(max=0.49) | 29s to start
+[UP] cancelled 0x5484deccd02926...
+[MM] UP filled: 6.0sh @ 0.46
+[MM] UP:FILLED@0.46 | DN:BUY@0.49(max=0.49) | 13s to start
+[DN] cancelled 0xcbc521f7212204...
+[DN] BUY 6sh @ 0.48  oid=0x80f5b12e50e00914e65d1144d8c2a79e320f54c78e86d7d139a163e2c75dc636
+[DN] cancelled 0x80f5b12e50e009...
+[DN] BUY 6sh @ 0.49  oid=0x0a73de71e99f76cef55f1a3690ed8290f17a2c09b4370ac6f0ee6db6b971da29
+[DN] cancelled 0x0a73de71e99f76...
+[DN] BUY 6sh @ 0.48  oid=0x5332a2380887f29ccdc82e57f0d6e945e30e10ced5fa3ee1ab285e17ab4de135
+[DN] cancelled 0x5332a2380887f2...
+
+[MM] ╔══════════════════════════════════════════════╗
+[MM] ║  UP FILLED — holding through resolution
+[MM] ║  6sh @ 0.46  (fair=0.500)
+[MM] ║  Edge: 4.0c  |  EV/sh: 4.0c  → $0.240
+[MM] ║  Win: +$3.24  |  Lose: -$2.76
+[MM] ╚══════════════════════════════════════════════╝
+[SELL-UP] SELL 6sh @ 0.99  oid=0x9f18fd253c8d267b42115274a9195a3dfb8975d32d559b6192d69115169f3bbd
+
+[MM] --- main loop #332 @ 12:30:05 UTC ---
+[MM] Current candle not confirmed, waiting... (893s to start)
+
+[MM] --- main loop #333 @ 12:30:17 UTC ---
+[MM] Current candle not confirmed, waiting... (881s to start)
+
+[MM] --- main loop #334 @ 12:30:29 UTC ---
+[MM] Current candle not confirmed, waiting... (869s to start)
+
+[MM] --- main loop #335 @ 12:30:40 UTC ---
+[MM] Current candle not confirmed, waiting... (857s to start)
+
+[MM] --- main loop #336 @ 12:30:52 UTC ---
+[MM] Current candle not confirmed, waiting... (846s to start)
+
+[MM] --- main loop #337 @ 12:31:04 UTC ---
+[MM] Current candle not confirmed, waiting... (834s to start)
+
+[MM] --- main loop #338 @ 12:31:16 UTC ---
+[MM] Current candle not confirmed, waiting... (822s to start)
+
+[MM] --- main loop #339 @ 12:31:28 UTC ---
+[MM] Current candle not confirmed, waiting... (806s to start)
+
+[MM] --- main loop #340 @ 12:31:43 UTC ---
+[MM] Current candle not confirmed, waiting... (792s to start)
+
+[MM] --- main loop #341 @ 12:31:57 UTC ---
+[MM] Current candle not confirmed, waiting... (779s to start)
+
+[MM] --- main loop #342 @ 12:32:11 UTC ---
+[MM] Current candle not confirmed, waiting... (762s to start)
+
+[MM] --- main loop #343 @ 12:32:27 UTC ---
+[MM] Current candle not confirmed, waiting... (747s to start)
+
+[MM] --- main loop #344 @ 12:32:42 UTC ---
+[MM] Current candle not confirmed, waiting... (732s to start)
+
+[MM] --- main loop #345 @ 12:32:58 UTC ---
+[MM] Current candle not confirmed, waiting... (716s to start)
+
+[MM] --- main loop #346 @ 12:33:14 UTC ---
+[MM] Current candle not confirmed, waiting... (702s to start)
+
+[MM] --- main loop #347 @ 12:33:28 UTC ---
+[MM] Current candle not confirmed, waiting... (688s to start)
+
+[MM] --- main loop #348 @ 12:33:41 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=10)
+[MM] Current candle not confirmed, waiting... (659s to start)
+
+[MM] --- main loop #349 @ 12:34:10 UTC ---
+[MM] Current candle not confirmed, waiting... (646s to start)
+
+[MM] --- main loop #350 @ 12:34:24 UTC ---
+[MM] Current candle not confirmed, waiting... (633s to start)
+
+[MM] --- main loop #351 @ 12:34:36 UTC ---
+[MM] Current candle not confirmed, waiting... (613s to start)
+
+[MM] --- main loop #352 @ 12:34:56 UTC ---
+[MM] Current candle not confirmed, waiting... (601s to start)
+
+[MM] --- main loop #353 @ 12:35:09 UTC ---
+[MM] Current candle not confirmed, waiting... (588s to start)
+
+[MM] --- main loop #354 @ 12:35:21 UTC ---
+[MM] Current candle not confirmed, waiting... (576s to start)
+
+[MM] --- main loop #355 @ 12:35:33 UTC ---
+[MM] Current candle not confirmed, waiting... (564s to start)
+
+[MM] --- main loop #356 @ 12:35:45 UTC ---
+[MM] Current candle not confirmed, waiting... (553s to start)
+
+[MM] --- main loop #357 @ 12:35:57 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (528s to start)
+
+[MM] --- main loop #358 @ 12:36:21 UTC ---
+[MM] Current candle not confirmed, waiting... (515s to start)
+
+[MM] --- main loop #359 @ 12:36:34 UTC ---
+[MM] Current candle not confirmed, waiting... (503s to start)
+
+[MM] --- main loop #360 @ 12:36:47 UTC ---
+[MM] Current candle not confirmed, waiting... (491s to start)
+
+[MM] --- main loop #361 @ 12:36:59 UTC ---
+[MM] Current candle not confirmed, waiting... (478s to start)
+
+[MM] --- main loop #362 @ 12:37:11 UTC ---
+[MM] Current candle not confirmed, waiting... (465s to start)
+
+[MM] --- main loop #363 @ 12:37:25 UTC ---
+[BAL] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[MM] Current candle not confirmed, waiting... (446s to start)
+
+[MM] --- main loop #364 @ 12:37:44 UTC ---
+[MM] Current candle not confirmed, waiting... (433s to start)
+
+[MM] --- main loop #365 @ 12:37:56 UTC ---
+[MM] Current candle not confirmed, waiting... (419s to start)
+
+[MM] --- main loop #366 @ 12:38:10 UTC ---
+[MM] Current candle not confirmed, waiting... (408s to start)
+
+[MM] --- main loop #367 @ 12:38:22 UTC ---
+[MM] Current candle not confirmed, waiting... (395s to start)
+
+[MM] --- main loop #368 @ 12:38:35 UTC ---
+[MM] Current candle not confirmed, waiting... (383s to start)
+
+[MM] --- main loop #369 @ 12:38:47 UTC ---
+[MM] Current candle not confirmed, waiting... (370s to start)
+
+[MM] --- main loop #370 @ 12:38:59 UTC ---
+[MM] Current candle not confirmed, waiting... (357s to start)
+
+[MM] --- main loop #371 @ 12:39:12 UTC ---
+[MM] Current candle not confirmed, waiting... (345s to start)
+
+[MM] --- main loop #372 @ 12:39:24 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (321s to start)
+
+[MM] --- main loop #373 @ 12:39:49 UTC ---
+[MM] Current candle not confirmed, waiting... (308s to start)
+
+[MM] --- main loop #374 @ 12:40:01 UTC ---
+[MM] Current candle not confirmed, waiting... (296s to start)
+
+[MM] --- main loop #375 @ 12:40:15 UTC ---
+[MM] Current candle not confirmed, waiting... (283s to start)
+
+[MM] --- main loop #376 @ 12:40:27 UTC ---
+[MM] Current candle not confirmed, waiting... (270s to start)
+
+[MM] --- main loop #377 @ 12:40:40 UTC ---
+[MM] Current candle not confirmed, waiting... (257s to start)
+
+[MM] --- main loop #378 @ 12:40:53 UTC ---
+[MM] Current candle not confirmed, waiting... (244s to start)
+
+[MM] --- main loop #379 @ 12:41:06 UTC ---
+[MM] Current candle not confirmed, waiting... (231s to start)
+
+[MM] --- main loop #380 @ 12:41:19 UTC ---
+[MM] Current candle not confirmed, waiting... (215s to start)
+
+[MM] --- main loop #381 @ 12:41:39 UTC ---
+[MM] Current candle not confirmed, waiting... (198s to start)
+
+[MM] --- main loop #382 @ 12:41:53 UTC ---
+[MM] Current candle not confirmed, waiting... (185s to start)
+
+[MM] --- main loop #383 @ 12:42:06 UTC ---
+[MM] Current candle not confirmed, waiting... (172s to start)
+
+[MM] --- main loop #384 @ 12:42:18 UTC ---
+[MM] Current candle not confirmed, waiting... (159s to start)
+
+[MM] --- main loop #385 @ 12:42:31 UTC ---
+[MM] Current candle not confirmed, waiting... (147s to start)
+
+[MM] --- main loop #386 @ 12:42:43 UTC ---
+[MM] Current candle not confirmed, waiting... (134s to start)
+
+[MM] --- main loop #387 @ 12:42:56 UTC ---
+[MM] Current candle not confirmed, waiting... (122s to start)
+
+[MM] --- main loop #388 @ 12:43:09 UTC ---
+[FV] Current candle effectively UP (bid=0.96, 109s left)
+[MM] Streak: 2x UP (current=UP)
+[MM] Fair value: UP=0.496  DN=0.504  RSI=52.83
+
+[MM] =======================================================
+[MM] Bitcoin Up or Down - March 31, 8:45AM-9:00AM ET
+[MM] start=2026-03-31T12:45:00+00:00
+[MM] streak=2xUP RSI=52.83
+[MM] fair: UP=0.496 DN=0.504
+[MM] max:  UP=0.49  DN=0.49  (both fill → 2c+ profit/sh)
+[MM] Balance: $15.93
+[UP] BUY 6sh @ 0.45  oid=0xcf4f8dab57fa23965b266ba340bb6e9a8de276a6a9d87e3368e2d99ef1775f40
+[DN] BUY 6sh @ 0.49  oid=0x847dfdbefe608e7c5733fd9c5d4a9fc61ed77fde7ae77882325fb53225819dcf
+[MM] UP:BUY@0.45(max=0.49) | DN:BUY@0.49(max=0.49) | 87s to start
+[MM] UP:BUY@0.45(max=0.49) | DN:BUY@0.49(max=0.49) | 69s to start
+[MM] DN order matched @ 0.49, waiting settlement...
+[UP] cancelled 0xcf4f8dab57fa23...
+[UP] BUY 6sh @ 0.49  oid=0x56a7f94c670118f895035ead8f6b26e621b4a71cae6a2ddbc3b0e91e89ee8faa
+[DN] cancelled 0x847dfdbefe608e...
+[MM] DN filled: 6.0sh @ 0.49
+[UP] cancelled 0x56a7f94c670118...
+[UP] BUY 6sh @ 0.46  oid=0xc2ba33e6c8e50fd39b2a6b79d7795eb4ee2e530dd7566df11a2952dd401fea71
+[MM] UP:BUY@0.46(max=0.49) | DN:FILLED@0.49 | 53s to start
+[UP] cancelled 0xc2ba33e6c8e50f...
+[UP] BUY 6sh @ 0.49  oid=0xb9ceb000a17494202bf4382a07f9c87d0a3ee9bc4cdf626d01587fac350dec27
+[UP] cancelled 0xb9ceb000a17494...
+[UP] BUY 6sh @ 0.46  oid=0x8b06660486aa89bfff89f61b646f51e117eb5ca33308b48d63f0186bb8243679
+[UP] cancelled 0x8b06660486aa89...
+[UP] BUY 6sh @ 0.49  oid=0x3c4a65f64f46f6a8b305cff39ff38fc4c93845f5785b248f1726574f56400d92
+[MM] UP order matched @ 0.49, waiting settlement...
+[MM] UP:BUY@0.49(max=0.49) | DN:FILLED@0.49 | 35s to start
+[MM] UP:BUY@0.49(max=0.49) | DN:FILLED@0.49 | 23s to start
+[MM] UP:BUY@0.49(max=0.49) | DN:FILLED@0.49 | 12s to start
+[MM] UP phantom fill, re-placing...
+[UP] BUY 6sh @ 0.43  oid=0x5fb9bba8289535370afa338e7de61bf067373564e2f465469fa75d0ea898bce9
+[UP] cancelled 0x5fb9bba8289535...
+[UP] BUY 6sh @ 0.46  oid=0x5ce3996eb4079038e30c01ef786956bb4ee5a123200e53ec65500888c60e5101
+[UP] cancelled 0x5ce3996eb40790...
+[UP] BUY 6sh @ 0.45  oid=0xb359f572d7d69464ce6b9196a5782c04157eaf9f6e79c9ea10ff4ba2d451f139
+[MM] UP order matched @ 0.45, waiting settlement...
+[UP] cancelled 0xb359f572d7d694...
+[MM] UP filled at deadline: 10.8sh @ 0.45
+
+[MM] ╔══════════════════════════════════════════════╗
+[MM] ║  BOTH LEGS FILLED — PROFIT LOCKED
+[MM] ║  UP: 11sh @ 0.45
+[MM] ║  DN: 6sh @ 0.49
+[MM] ║  Spread captured: 6.0c/sh → $0.36
+[MM] ╚══════════════════════════════════════════════╝
+[SELL-UP] SELL 11sh @ 0.99  oid=0x4b795216fd7adc8576fbe7a2c148f1e0478ca902c4e41f5c2a6a8ebaab7edd4a
+[SELL-DN] SELL 6sh @ 0.99  oid=0xe4691c7f330d92ecc7dc15ce05945c39b1dbfdb44acb11ee2bfa99e5d122d2cb
+
+[MM] --- main loop #389 @ 12:45:05 UTC ---
+[MM] Current candle not confirmed, waiting... (893s to start)
+
+[MM] --- main loop #390 @ 12:45:17 UTC ---
+[MM] Current candle not confirmed, waiting... (880s to start)
+
+[MM] --- main loop #391 @ 12:45:29 UTC ---
+[MM] Current candle not confirmed, waiting... (868s to start)
+
+[MM] --- main loop #392 @ 12:45:41 UTC ---
+[MM] Current candle not confirmed, waiting... (856s to start)
+
+[MM] --- main loop #393 @ 12:45:53 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (831s to start)
+
+[MM] --- main loop #394 @ 12:46:18 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (807s to start)
+
+[MM] --- main loop #395 @ 12:46:43 UTC ---
+[MM] Current candle not confirmed, waiting... (794s to start)
+
+[MM] --- main loop #396 @ 12:46:55 UTC ---
+[MM] Current candle not confirmed, waiting... (782s to start)
+
+[MM] --- main loop #397 @ 12:47:08 UTC ---
+[MM] Current candle not confirmed, waiting... (764s to start)
+
+[MM] --- main loop #398 @ 12:47:25 UTC ---
+[MM] Current candle not confirmed, waiting... (751s to start)
+
+[MM] --- main loop #399 @ 12:47:39 UTC ---
+[MM] Current candle not confirmed, waiting... (738s to start)
+
+[MM] --- main loop #400 @ 12:47:51 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (714s to start)
+
+[MM] --- main loop #401 @ 12:48:16 UTC ---
+[MM] Current candle not confirmed, waiting... (701s to start)
+
+[MM] --- main loop #402 @ 12:48:29 UTC ---
+[MM] Current candle not confirmed, waiting... (688s to start)
+
+[MM] --- main loop #403 @ 12:48:42 UTC ---
+[MM] Current candle not confirmed, waiting... (676s to start)
+
+[MM] --- main loop #404 @ 12:48:54 UTC ---
+[MM] Current candle not confirmed, waiting... (660s to start)
+
+[MM] --- main loop #405 @ 12:49:09 UTC ---
+[MM] Current candle not confirmed, waiting... (647s to start)
+
+[MM] --- main loop #406 @ 12:49:22 UTC ---
+[MM] Current candle not confirmed, waiting... (634s to start)
+
+[MM] --- main loop #407 @ 12:49:35 UTC ---
+[MM] Current candle not confirmed, waiting... (621s to start)
+
+[MM] --- main loop #408 @ 12:49:49 UTC ---
+[MM] Current candle not confirmed, waiting... (609s to start)
+
+[MM] --- main loop #409 @ 12:50:01 UTC ---
+[MM] Current candle not confirmed, waiting... (596s to start)
+
+[MM] --- main loop #410 @ 12:50:13 UTC ---
+[MM] Current candle not confirmed, waiting... (584s to start)
+
+[MM] --- main loop #411 @ 12:50:25 UTC ---
+[MM] Current candle not confirmed, waiting... (572s to start)
+
+[MM] --- main loop #412 @ 12:50:37 UTC ---
+[MM] Current candle not confirmed, waiting... (560s to start)

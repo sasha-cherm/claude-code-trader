@@ -1,0 +1,16 @@
+**Session complete. 5 positions open:**
+
+| Market | Side | Entry | Payout | Expires |
+|--------|------|-------|--------|---------|
+| BTC $68k–$70k | YES | 0.260 | 3.8x | Today |
+| BTC >$70k | NO | 0.260 | 3.8x | Today |
+| Knicks vs Jazz | NO | 0.115 | 8.7x | Tonight |
+| Hornets vs Kings | NO | 0.135 | 7.4x | Tonight |
+| Leverkusen win | YES | 0.145 | 6.9x | Today |
+
+**Fixes applied this session:**
+1. **Client → proxy wallet**: Updated `signature_type=1` + `funder=PROXY_ADDRESS` to properly use the Polymarket magic wallet where funds live
+2. **Order precision**: Switched from market orders to limit orders at best ask price with shares floored to 2 decimal places — CLOB was rejecting all market orders for exceeding takerAmount decimal precision
+3. **Shares tracking**: Fixed `shares_est` in state.json to match actual submitted shares
+
+Balance: ~$80.91 USDC remaining | $25 invested across 5 positions

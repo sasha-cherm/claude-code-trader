@@ -1,0 +1,24 @@
+=== CL Near-Resolution Monitor (CL: Man City/RM + Chelsea/PSG + Arsenal/Leverkusen) Started at 18:03 UTC ===
+Balance: $28.36
+Capturing pre-game prices...
+  Pre-game Man City: 0.670
+  Pre-game Real Madrid: 0.160
+  Pre-game Man City/RM Draw: 0.160
+  Pre-game Chelsea: 0.460
+  Pre-game PSG: 0.310
+  Pre-game Chelsea/PSG Draw: 0.220
+  Pre-game Arsenal: 0.740
+  Pre-game Leverkusen: 0.080
+  Pre-game Arsenal/LEV Draw: 0.160
+
+--- Check #1 at 18:03:18 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=222 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=222 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=222 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=222 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=+0.000 mins_left=222 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=222 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=+0.000 mins_left=222 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=222 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=222 

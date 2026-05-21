@@ -1,0 +1,29 @@
+[CANDLE] ═══ Crypto Candle Trader — 8 Bonferroni Survivors ═══
+[CANDLE] UTC now: 2026-03-20 18:04:49.611533+00:00
+[CANDLE] Signals: 8 across BTC/ETH/SOL/XRP/BNB (1H+4H)
+[CANDLE] Order size: 5.0 shares per trade
+[CANDLE] Balance: $26.13
+[CANDLE] Next: 20:00 UTC — XRP 4H DOWN.  Monitor in 85 min.
+
+[CANDLE] ── 2026-03-20 20:00 UTC batch (1 signals) ──
+[XRP] Looking up: xrp-updown-4h-1774036800
+[XRP] === XRP Up or Down - March 20, 4:00PM-8:00PM ET ===
+[XRP] Side=DOWN  Edge=56.0%  MaxPrice=0.55
+[XRP] BUY 5sh @ 0.48  oid=0x9d4097e256a089abb9b8436f301e5a3df0bfad44c708db65a6b52f0ddeb73c14
+[XRP] Filled at 0.48!
+[TRADE-XRP] 2026-03-20 20:00:00+00:00 4H DOWN → FILLED price=0.48
+[CANDLE] Next: 21:00 UTC — BNB 1H UP.  Monitor in 29 min.
+
+[CANDLE] ── 2026-03-20 21:00 UTC batch (1 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-20-2026-5pm-et
+[BNB] === BNB Up or Down - March 20, 5PM ET ===
+[BNB] Side=UP  Edge=56.8%  MaxPrice=0.55
+[BNB] BUY 5sh @ 0.46  oid=0x92390e901ab5af8b73ec6923af2d356aa01a7e3bd99e9d46a0a1bbbd3793aec1
+[BNB] Cancelled 0x92390e901ab5af8b73ec6923af2d356aa01a7e3bd99e9d46a0a1bbbd3793aec1
+[BNB] BUY 5sh @ 0.50  oid=0x5497e7eb9d95ca94ad6c5488e788b326c55a207237576402eff49b8692aeda8b
+[BNB] Cancelled 0x5497e7eb9d95ca94ad6c5488e788b326c55a207237576402eff49b8692aeda8b
+[TRADE-BNB] 2026-03-20 21:00:00+00:00 1H UP → NOT_FILLED price=0.5
+[CANDLE] Next: 22:00 UTC — BNB 1H UP.  Monitor in 28 min.
+
+[CANDLE] Signal 15, shutting down...
+[CANDLE] Shutdown complete.

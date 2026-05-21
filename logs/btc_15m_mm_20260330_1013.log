@@ -1,0 +1,55 @@
+[MM] === BTC 15-min Spread Scalper ===
+[MM] UTC: 2026-03-30 10:13:24.397204+00:00
+[MM] size=6.0  sell_deadline=+3s  poll=1.0s
+[MM] Balance: $18.64
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 6:15AM-6:30AM ET
+[MM] start=2026-03-30T10:15:00+00:00  sell_deadline=+3s
+[MM] token=55040125491258591865...
+[MM] Balance: $18.64
+[MM] --- Round 1 ---
+[BUY] BUY 6sh @ 0.53  oid=0x7c6d7f814330a662df725223db45ba24307c2db78757b2baa1c1060a8c3ba9ab
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 92s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 90s to start
+[BUY] cancelled 0x7c6d7f814330a6...
+[BUY] BUY 6sh @ 0.54  oid=0xb4e286893e0029fc35f730e3484e968b8cd177fc0f5efc6be57150b2afd8293c
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 81s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 71s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 61s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 52s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 51s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 42s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 41s to start
+[MM] BUY FILLED @ 0.54
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 1665, order amount: 6000000'}]
+[MM] SELL limit failed, market selling to close
+[CLOSE] market sell fail: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 1665, order amount: 6000000'}]
+[MM] next: Bitcoin Up or Down - March 30, 6:30AM-6:45AM ET in 935s, sleeping 35s
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 6:30AM-6:45AM ET
+[MM] start=2026-03-30T10:30:00+00:00  sell_deadline=+3s
+[MM] token=34187724827128181321...
+[MM] Balance: $15.40
+[MM] --- Round 1 ---
+[BUY] BUY 6sh @ 0.52  oid=0xaaeff9b4c23728edde0c4857843e599ec6b5ca695f100f77e6ef2c80cda49ca8
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 892s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 891s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 882s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 880s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 871s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 870s to start
+[BUY] cancelled 0xaaeff9b4c23728...
+[BUY] BUY 6sh @ 0.53  oid=0xb6aeec5404f9b61a579cbc3da55b3b14e898da25ede184fe7404b6ab6ebc3a25
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 861s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 852s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 851s to start
+[MM] BUY FILLED @ 0.53
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 0, order amount: 6000000'}]
+[MM] SELL limit failed, market selling to close
+[CLOSE] market sell fail: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 0, order amount: 6000000'}]
+[MM] next: Bitcoin Up or Down - March 30, 6:45AM-7:00AM ET in 1740s, sleeping 840s
+
+[MM] Signal 15, stopping...
+[MM] shutdown

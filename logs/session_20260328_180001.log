@@ -1,0 +1,13 @@
+All set for this session. Here's the status:
+
+**Balance: $9.56** | Day 17
+
+**3 monitors running:**
+- Soccer (PID 1042604) — CIV-KOR leading, near-res trigger at ~15:30 UTC
+- CS2 (PID 1042612) — NAVI vs Parivision, waiting for match start
+- BTC candle (PID 1050502) — next signal: **17:00 UTC BTC UP** (56.3%, strongest signal)
+
+**No manual edge found** — USA-BEL and all other matches efficiently priced vs sportsbooks.
+
+**Next session (16:00 UTC):** Check CIV-KOR result in logs
+**18:00 UTC session:** Launch basketball monitor (Pistons-TWolves coin flip + Illinois-Iowa E8 are the best targets tonight)

@@ -1,0 +1,1429 @@
+=== J-League Near-Res Monitor ===
+Params: MIN_PRICE=0.85, JUMP=0.2, SPREAD=0.04, MAX_MINS=20
+Games: 2 tokens
+
+  Vissel Kobe: pre-game ask=0.360
+  Sanfrecce: pre-game ask=0.370
+
+--- Check #1 at 07:10:26 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=275 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=275 
+
+--- Check #2 at 07:11:27 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=274 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=274 
+
+--- Check #3 at 07:12:28 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=273 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=273 
+
+--- Check #4 at 07:13:29 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=272 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=272 
+
+--- Check #5 at 07:14:30 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=270 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=270 
+
+--- Check #6 at 07:15:32 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=269 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=269 
+
+--- Check #7 at 07:16:33 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=268 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=268 
+
+--- Check #8 at 07:17:34 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=267 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=267 
+
+--- Check #9 at 07:18:35 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=266 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=266 
+
+--- Check #10 at 07:19:37 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=265 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=265 
+
+--- Check #11 at 07:20:38 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=264 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=264 
+
+--- Check #12 at 07:21:39 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=263 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=263 
+
+--- Check #13 at 07:22:40 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=262 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=262 
+
+--- Check #14 at 07:23:41 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=261 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=261 
+
+--- Check #15 at 07:24:43 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=260 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=260 
+
+--- Check #16 at 07:25:44 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=259 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=259 
+
+--- Check #17 at 07:26:45 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=258 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=258 
+
+--- Check #18 at 07:27:46 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=257 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=257 
+
+--- Check #19 at 07:28:48 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=256 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=256 
+
+--- Check #20 at 07:29:49 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=255 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=255 
+
+--- Check #21 at 07:30:50 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=254 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=254 
+
+--- Check #22 at 07:31:51 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=253 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=253 
+
+--- Check #23 at 07:32:52 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=252 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=252 
+
+--- Check #24 at 07:33:54 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=251 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=251 
+
+--- Check #25 at 07:34:55 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=250 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=250 
+
+--- Check #26 at 07:35:56 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=249 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=249 
+
+--- Check #27 at 07:36:57 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=248 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=248 
+
+--- Check #28 at 07:37:58 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=247 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=247 
+
+--- Check #29 at 07:39:00 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=246 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=246 
+
+--- Check #30 at 07:40:01 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=245 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=245 
+
+--- Check #31 at 07:41:02 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=244 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=244 
+
+--- Check #32 at 07:42:03 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=243 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=243 
+
+--- Check #33 at 07:43:04 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=242 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=242 
+
+--- Check #34 at 07:44:06 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=241 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=241 
+
+--- Check #35 at 07:45:07 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=240 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=240 
+
+--- Check #36 at 07:46:08 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=239 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=239 
+
+--- Check #37 at 07:47:09 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=238 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=238 
+
+--- Check #38 at 07:48:11 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=237 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=237 
+
+--- Check #39 at 07:49:12 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=236 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=236 
+
+--- Check #40 at 07:50:13 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=235 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=235 
+
+--- Check #41 at 07:51:14 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=234 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=234 
+
+--- Check #42 at 07:52:15 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=233 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=233 
+
+--- Check #43 at 07:53:17 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=232 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=232 
+
+--- Check #44 at 07:54:18 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=231 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=231 
+
+--- Check #45 at 07:55:19 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=230 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=230 
+
+--- Check #46 at 07:56:20 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=229 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=229 
+
+--- Check #47 at 07:57:21 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=228 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=228 
+
+--- Check #48 at 07:58:23 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=227 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=227 
+
+--- Check #49 at 07:59:24 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=226 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=226 
+
+--- Check #50 at 08:00:25 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=225 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=225 
+
+--- Check #51 at 08:01:26 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=224 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=224 
+
+--- Check #52 at 08:02:27 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=223 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=223 
+
+--- Check #53 at 08:03:29 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=222 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=222 
+
+--- Check #54 at 08:04:36 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=220 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=220 
+
+--- Check #55 at 08:05:37 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=219 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=219 
+
+--- Check #56 at 08:06:38 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=218 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=218 
+
+--- Check #57 at 08:07:39 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=217 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=217 
+
+--- Check #58 at 08:08:41 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=216 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=216 
+
+--- Check #59 at 08:09:42 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=215 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=215 
+
+--- Check #60 at 08:10:43 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=214 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=214 
+
+--- Check #61 at 08:11:44 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=213 
+  Sanfrecce       buy=0.350 sell=0.360 spread=0.010 jump=-0.010 mins=213 
+
+--- Check #62 at 08:12:45 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=212 
+  Sanfrecce       buy=0.350 sell=0.360 spread=0.010 jump=-0.010 mins=212 
+
+--- Check #63 at 08:13:46 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=211 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=211 
+
+--- Check #64 at 08:14:48 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=210 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=210 
+
+--- Check #65 at 08:15:49 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=209 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=209 
+
+--- Check #66 at 08:16:50 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=208 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=208 
+
+--- Check #67 at 08:17:51 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=207 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=207 
+
+--- Check #68 at 08:18:52 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=206 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=206 
+
+--- Check #69 at 08:19:53 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=205 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=205 
+
+--- Check #70 at 08:20:55 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=204 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=204 
+
+--- Check #71 at 08:21:56 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=203 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=203 
+
+--- Check #72 at 08:22:57 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=202 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=202 
+
+--- Check #73 at 08:23:58 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=201 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=201 
+
+--- Check #74 at 08:24:59 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=200 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=200 
+
+--- Check #75 at 08:26:00 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=199 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=199 
+
+--- Check #76 at 08:27:01 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=198 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=198 
+
+--- Check #77 at 08:28:02 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=197 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=197 
+
+--- Check #78 at 08:29:03 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=196 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=196 
+
+--- Check #79 at 08:30:04 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=195 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=195 
+
+--- Check #80 at 08:31:05 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=194 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=194 
+
+--- Check #81 at 08:32:06 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.350 sell=0.360 spread=0.010 jump=+0.000 mins=193 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=193 
+
+--- Check #82 at 08:33:07 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.350 spread=0.020 jump=-0.010 mins=192 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=192 
+
+--- Check #83 at 08:34:08 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=191 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=191 
+
+--- Check #84 at 08:35:09 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.350 spread=0.020 jump=-0.010 mins=190 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=190 
+
+--- Check #85 at 08:36:10 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=189 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=189 
+
+--- Check #86 at 08:37:12 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=188 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=188 
+
+--- Check #87 at 08:38:13 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=187 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=187 
+
+--- Check #88 at 08:39:14 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=186 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=186 
+
+--- Check #89 at 08:40:15 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=185 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=185 
+
+--- Check #90 at 08:41:16 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=184 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=184 
+
+--- Check #91 at 08:42:17 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=183 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=183 
+
+--- Check #92 at 08:43:18 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=182 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=182 
+
+--- Check #93 at 08:44:19 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=181 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=181 
+
+--- Check #94 at 08:45:21 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=180 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=180 
+
+--- Check #95 at 08:46:22 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=179 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=179 
+
+--- Check #96 at 08:47:23 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=178 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=178 
+
+--- Check #97 at 08:48:24 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=177 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=177 
+
+--- Check #98 at 08:49:25 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=176 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=176 
+
+--- Check #99 at 08:50:26 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=175 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=175 
+
+--- Check #100 at 08:51:27 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=174 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=174 
+
+--- Check #101 at 08:52:28 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=173 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=173 
+
+--- Check #102 at 08:53:29 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=172 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=172 
+
+--- Check #103 at 08:54:31 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=170 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=170 
+
+--- Check #104 at 08:55:32 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=169 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=169 
+
+--- Check #105 at 08:56:33 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=168 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=168 
+
+--- Check #106 at 08:57:34 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.350 spread=0.020 jump=-0.010 mins=167 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=167 
+
+--- Check #107 at 08:58:35 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=166 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=166 
+
+--- Check #108 at 08:59:36 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=165 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=165 
+
+--- Check #109 at 09:00:37 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=164 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=164 
+
+--- Check #110 at 09:01:39 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=163 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=163 
+
+--- Check #111 at 09:02:40 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=162 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=162 
+
+--- Check #112 at 09:03:41 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=161 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=161 
+
+--- Check #113 at 09:04:42 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=160 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=160 
+
+--- Check #114 at 09:05:43 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=159 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=159 
+
+--- Check #115 at 09:06:44 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=158 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=158 
+
+--- Check #116 at 09:07:45 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=157 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=157 
+
+--- Check #117 at 09:08:46 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=156 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=156 
+
+--- Check #118 at 09:09:48 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=155 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=155 
+
+--- Check #119 at 09:10:49 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=154 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=154 
+
+--- Check #120 at 09:11:50 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=153 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=153 
+
+--- Check #121 at 09:12:51 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=152 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=152 
+
+--- Check #122 at 09:13:52 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=151 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=151 
+
+--- Check #123 at 09:14:53 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=150 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=150 
+
+--- Check #124 at 09:15:55 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=149 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=149 
+
+--- Check #125 at 09:16:56 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.320 sell=0.340 spread=0.020 jump=-0.020 mins=148 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=148 
+
+--- Check #126 at 09:17:57 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=147 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=147 
+
+--- Check #127 at 09:18:58 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=146 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=146 
+
+--- Check #128 at 09:19:59 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=145 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=145 
+
+--- Check #129 at 09:21:00 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=144 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=144 
+
+--- Check #130 at 09:22:01 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=143 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=143 
+
+--- Check #131 at 09:23:02 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=142 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=142 
+
+--- Check #132 at 09:24:04 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=141 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=141 
+
+--- Check #133 at 09:25:05 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=140 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=140 
+
+--- Check #134 at 09:26:06 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=139 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=139 
+
+--- Check #135 at 09:27:07 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=138 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=138 
+
+--- Check #136 at 09:28:08 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=137 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=137 
+
+--- Check #137 at 09:29:09 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=136 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=136 
+
+--- Check #138 at 09:30:10 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=135 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=135 
+
+--- Check #139 at 09:31:12 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=134 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=134 
+
+--- Check #140 at 09:32:13 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=133 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=133 
+
+--- Check #141 at 09:33:14 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=132 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=132 
+
+--- Check #142 at 09:34:15 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=131 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=131 
+
+--- Check #143 at 09:35:16 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=130 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=130 
+
+--- Check #144 at 09:36:17 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=129 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=129 
+
+--- Check #145 at 09:37:18 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=128 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=128 
+
+--- Check #146 at 09:38:20 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=127 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=127 
+
+--- Check #147 at 09:39:21 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=126 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=126 
+
+--- Check #148 at 09:40:22 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=125 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=125 
+
+--- Check #149 at 09:41:23 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=124 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=124 
+
+--- Check #150 at 09:42:23 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=123 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=123 
+
+--- Check #151 at 09:43:25 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=122 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=122 
+
+--- Check #152 at 09:44:26 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=121 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=121 
+
+--- Check #153 at 09:45:27 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=120 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=120 
+
+--- Check #154 at 09:46:28 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=119 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=119 
+
+--- Check #155 at 09:47:29 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.350 spread=0.020 jump=-0.010 mins=118 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=118 
+
+--- Check #156 at 09:48:31 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=116 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=116 
+
+--- Check #157 at 09:49:32 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.320 sell=0.340 spread=0.020 jump=-0.020 mins=115 
+  Sanfrecce       buy=0.370 sell=0.380 spread=0.010 jump=+0.010 mins=115 
+
+--- Check #158 at 09:50:33 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.320 sell=0.340 spread=0.020 jump=-0.020 mins=114 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=114 
+
+--- Check #159 at 09:51:34 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=113 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=113 
+
+--- Check #160 at 09:52:35 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=112 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=112 
+
+--- Check #161 at 09:53:36 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=111 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=111 
+
+--- Check #162 at 09:54:37 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=110 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=110 
+
+--- Check #163 at 09:55:38 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.350 spread=0.020 jump=-0.010 mins=109 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=109 
+
+--- Check #164 at 09:56:39 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=108 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=108 
+
+--- Check #165 at 09:57:40 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=107 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=107 
+
+--- Check #166 at 09:58:42 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=106 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=106 
+
+--- Check #167 at 09:59:43 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=105 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=105 
+
+--- Check #168 at 10:00:44 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=104 
+  Sanfrecce       buy=0.340 sell=0.380 spread=0.040 jump=+0.010 mins=104 
+
+--- Check #169 at 10:01:46 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.320 sell=0.330 spread=0.010 jump=-0.030 mins=103 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=103 
+
+--- Check #170 at 10:02:47 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.350 spread=0.020 jump=-0.010 mins=102 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=102 
+
+--- Check #171 at 10:03:48 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=101 
+  Sanfrecce       buy=0.360 sell=0.390 spread=0.030 jump=+0.020 mins=101 
+
+--- Check #172 at 10:04:49 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.320 sell=0.330 spread=0.010 jump=-0.030 mins=100 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=100 
+
+--- Check #173 at 10:05:50 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=99 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=99 
+
+--- Check #174 at 10:06:51 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.350 spread=0.020 jump=-0.010 mins=98 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=98 
+
+--- Check #175 at 10:07:52 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=97 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=97 
+
+--- Check #176 at 10:08:53 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.320 sell=0.340 spread=0.020 jump=-0.020 mins=96 
+  Sanfrecce       buy=0.350 sell=0.380 spread=0.030 jump=+0.010 mins=96 
+
+--- Check #177 at 10:09:54 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.320 sell=0.330 spread=0.010 jump=-0.030 mins=95 
+  Sanfrecce       buy=0.350 sell=0.370 spread=0.020 jump=+0.000 mins=95 
+
+--- Check #178 at 10:10:55 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.350 spread=0.010 jump=-0.010 mins=94 
+  Sanfrecce       buy=0.350 sell=0.360 spread=0.010 jump=-0.010 mins=94 
+
+--- Check #179 at 10:11:57 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.370 spread=0.040 jump=+0.010 mins=93 
+  Sanfrecce       buy=0.330 sell=0.360 spread=0.030 jump=-0.010 mins=93 
+
+--- Check #180 at 10:12:58 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.370 spread=0.040 jump=+0.010 mins=92 
+  Sanfrecce       buy=0.320 sell=0.350 spread=0.030 jump=-0.020 mins=92 
+
+--- Check #181 at 10:14:00 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.350 spread=0.020 jump=-0.010 mins=91 
+  Sanfrecce       buy=0.360 sell=0.370 spread=0.010 jump=+0.000 mins=91 
+
+--- Check #182 at 10:15:02 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.400 spread=0.060 jump=+0.040 mins=90 
+  Sanfrecce       buy=0.320 sell=0.370 spread=0.050 jump=+0.000 mins=90 
+
+--- Check #183 at 10:16:03 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.340 sell=0.360 spread=0.020 jump=+0.000 mins=89 
+  Sanfrecce       buy=0.330 sell=0.350 spread=0.020 jump=-0.020 mins=89 
+
+--- Check #184 at 10:17:04 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.350 spread=0.020 jump=-0.010 mins=88 
+  Sanfrecce       buy=0.340 sell=0.360 spread=0.020 jump=-0.010 mins=88 
+
+--- Check #185 at 10:18:05 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.350 spread=0.020 jump=-0.010 mins=87 
+  Sanfrecce       buy=0.330 sell=0.350 spread=0.020 jump=-0.020 mins=87 
+
+--- Check #186 at 10:19:06 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.330 sell=0.340 spread=0.010 jump=-0.020 mins=86 
+  Sanfrecce       buy=0.330 sell=0.350 spread=0.020 jump=-0.020 mins=86 
+
+--- Check #187 at 10:20:07 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.300 sell=0.340 spread=0.040 jump=-0.020 mins=85 
+  Sanfrecce       buy=0.340 sell=0.380 spread=0.040 jump=+0.010 mins=85 
+
+--- Check #188 at 10:21:09 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.310 sell=0.330 spread=0.020 jump=-0.030 mins=84 
+  Sanfrecce       buy=0.340 sell=0.360 spread=0.020 jump=-0.010 mins=84 
+
+--- Check #189 at 10:22:10 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.310 sell=0.330 spread=0.020 jump=-0.030 mins=83 
+  Sanfrecce       buy=0.340 sell=0.360 spread=0.020 jump=-0.010 mins=83 
+
+--- Check #190 at 10:23:11 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.310 sell=0.330 spread=0.020 jump=-0.030 mins=82 
+  Sanfrecce       buy=0.340 sell=0.350 spread=0.010 jump=-0.020 mins=82 
+
+--- Check #191 at 10:24:12 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.310 sell=0.320 spread=0.010 jump=-0.040 mins=81 
+  Sanfrecce       buy=0.340 sell=0.360 spread=0.020 jump=-0.010 mins=81 
+
+--- Check #192 at 10:25:13 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.280 sell=0.310 spread=0.030 jump=-0.050 mins=80 
+  Sanfrecce       buy=0.360 sell=0.380 spread=0.020 jump=+0.010 mins=80 
+
+--- Check #193 at 10:26:14 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.300 sell=0.320 spread=0.020 jump=-0.040 mins=79 
+  Sanfrecce       buy=0.340 sell=0.360 spread=0.020 jump=-0.010 mins=79 
+
+--- Check #194 at 10:27:16 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.300 sell=0.320 spread=0.020 jump=-0.040 mins=78 
+  Sanfrecce       buy=0.330 sell=0.350 spread=0.020 jump=-0.020 mins=78 
+
+--- Check #195 at 10:28:17 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.300 sell=0.310 spread=0.010 jump=-0.050 mins=77 
+  Sanfrecce       buy=0.340 sell=0.360 spread=0.020 jump=-0.010 mins=77 
+
+--- Check #196 at 10:29:18 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.300 sell=0.320 spread=0.020 jump=-0.040 mins=76 
+  Sanfrecce       buy=0.340 sell=0.350 spread=0.010 jump=-0.020 mins=76 
+
+--- Check #197 at 10:30:19 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.280 sell=0.300 spread=0.020 jump=-0.060 mins=75 
+  Sanfrecce       buy=0.340 sell=0.360 spread=0.020 jump=-0.010 mins=75 
+
+--- Check #198 at 10:31:20 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.300 sell=0.320 spread=0.020 jump=-0.040 mins=74 
+  Sanfrecce       buy=0.320 sell=0.340 spread=0.020 jump=-0.030 mins=74 
+
+--- Check #199 at 10:32:22 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.300 sell=0.320 spread=0.020 jump=-0.040 mins=73 
+  Sanfrecce       buy=0.320 sell=0.350 spread=0.030 jump=-0.020 mins=73 
+
+--- Check #200 at 10:33:23 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.300 sell=0.310 spread=0.010 jump=-0.050 mins=72 
+  Sanfrecce       buy=0.320 sell=0.340 spread=0.020 jump=-0.030 mins=72 
+
+--- Check #201 at 10:34:25 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.300 sell=0.320 spread=0.020 jump=-0.040 mins=71 
+  Sanfrecce       buy=0.320 sell=0.340 spread=0.020 jump=-0.030 mins=71 
+
+--- Check #202 at 10:35:30 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.300 sell=0.310 spread=0.010 jump=-0.050 mins=69 
+  Sanfrecce       buy=0.310 sell=0.330 spread=0.020 jump=-0.040 mins=69 
+
+--- Check #203 at 10:36:31 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.300 sell=0.310 spread=0.010 jump=-0.050 mins=68 
+  Sanfrecce       buy=0.310 sell=0.330 spread=0.020 jump=-0.040 mins=68 
+
+--- Check #204 at 10:37:34 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.300 sell=0.310 spread=0.010 jump=-0.050 mins=67 
+  Sanfrecce       buy=0.310 sell=0.330 spread=0.020 jump=-0.040 mins=67 
+
+--- Check #205 at 10:38:36 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.280 sell=0.300 spread=0.020 jump=-0.060 mins=66 
+  Sanfrecce       buy=0.320 sell=0.330 spread=0.010 jump=-0.040 mins=66 
+
+--- Check #206 at 10:39:38 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.280 sell=0.300 spread=0.020 jump=-0.060 mins=65 
+  Sanfrecce       buy=0.310 sell=0.330 spread=0.020 jump=-0.040 mins=65 
+
+--- Check #207 at 10:40:41 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.280 sell=0.300 spread=0.020 jump=-0.060 mins=64 
+  Sanfrecce       buy=0.300 sell=0.320 spread=0.020 jump=-0.050 mins=64 
+
+--- Check #208 at 10:41:42 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.280 sell=0.300 spread=0.020 jump=-0.060 mins=63 
+  Sanfrecce       buy=0.300 sell=0.320 spread=0.020 jump=-0.050 mins=63 
+
+--- Check #209 at 10:42:43 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.280 sell=0.300 spread=0.020 jump=-0.060 mins=62 
+  Sanfrecce       buy=0.300 sell=0.320 spread=0.020 jump=-0.050 mins=62 
+
+--- Check #210 at 10:43:44 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.280 sell=0.300 spread=0.020 jump=-0.060 mins=61 
+  Sanfrecce       buy=0.310 sell=0.330 spread=0.020 jump=-0.040 mins=61 
+
+--- Check #211 at 10:44:45 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.270 sell=0.300 spread=0.030 jump=-0.060 mins=60 
+  Sanfrecce       buy=0.300 sell=0.320 spread=0.020 jump=-0.050 mins=60 
+
+--- Check #212 at 10:45:47 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.270 sell=0.290 spread=0.020 jump=-0.070 mins=59 
+  Sanfrecce       buy=0.300 sell=0.320 spread=0.020 jump=-0.050 mins=59 
+
+--- Check #213 at 10:46:48 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.270 sell=0.290 spread=0.020 jump=-0.070 mins=58 
+  Sanfrecce       buy=0.300 sell=0.330 spread=0.030 jump=-0.040 mins=58 
+
+--- Check #214 at 10:47:49 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.270 sell=0.290 spread=0.020 jump=-0.070 mins=57 
+  Sanfrecce       buy=0.300 sell=0.320 spread=0.020 jump=-0.050 mins=57 
+
+--- Check #215 at 10:48:51 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.270 sell=0.290 spread=0.020 jump=-0.070 mins=56 
+  Sanfrecce       buy=0.290 sell=0.310 spread=0.020 jump=-0.060 mins=56 
+
+--- Check #216 at 10:49:52 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.280 sell=0.300 spread=0.020 jump=-0.060 mins=55 
+  Sanfrecce       buy=0.250 sell=0.290 spread=0.040 jump=-0.080 mins=55 
+
+--- Check #217 at 10:50:53 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.290 sell=0.310 spread=0.020 jump=-0.050 mins=54 
+  Sanfrecce       buy=0.270 sell=0.290 spread=0.020 jump=-0.080 mins=54 
+
+--- Check #218 at 10:51:54 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.250 sell=0.270 spread=0.020 jump=-0.090 mins=53 
+  Sanfrecce       buy=0.290 sell=0.310 spread=0.020 jump=-0.060 mins=53 
+
+--- Check #219 at 10:52:56 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.250 sell=0.270 spread=0.020 jump=-0.090 mins=52 
+  Sanfrecce       buy=0.300 sell=0.320 spread=0.020 jump=-0.050 mins=52 
+
+--- Check #220 at 10:53:57 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.240 sell=0.260 spread=0.020 jump=-0.100 mins=51 
+  Sanfrecce       buy=0.310 sell=0.320 spread=0.010 jump=-0.050 mins=51 
+
+--- Check #221 at 10:54:58 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.250 sell=0.260 spread=0.010 jump=-0.100 mins=50 
+  Sanfrecce       buy=0.310 sell=0.320 spread=0.010 jump=-0.050 mins=50 
+
+--- Check #222 at 10:56:00 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.230 sell=0.250 spread=0.020 jump=-0.110 mins=49 
+  Sanfrecce       buy=0.310 sell=0.330 spread=0.020 jump=-0.040 mins=49 
+
+--- Check #223 at 10:57:01 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.240 sell=0.260 spread=0.020 jump=-0.100 mins=48 
+  Sanfrecce       buy=0.310 sell=0.330 spread=0.020 jump=-0.040 mins=48 
+
+--- Check #224 at 10:58:02 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.240 sell=0.250 spread=0.010 jump=-0.110 mins=47 
+  Sanfrecce       buy=0.320 sell=0.330 spread=0.010 jump=-0.040 mins=47 
+
+--- Check #225 at 10:59:03 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.230 sell=0.250 spread=0.020 jump=-0.110 mins=46 
+  Sanfrecce       buy=0.320 sell=0.330 spread=0.010 jump=-0.040 mins=46 
+
+--- Check #226 at 11:00:04 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.230 sell=0.250 spread=0.020 jump=-0.110 mins=45 
+  Sanfrecce       buy=0.320 sell=0.340 spread=0.020 jump=-0.030 mins=45 
+
+--- Check #227 at 11:01:06 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.230 sell=0.250 spread=0.020 jump=-0.110 mins=44 
+  Sanfrecce       buy=0.320 sell=0.330 spread=0.010 jump=-0.040 mins=44 
+
+--- Check #228 at 11:02:07 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.230 sell=0.250 spread=0.020 jump=-0.110 mins=43 
+  Sanfrecce       buy=0.310 sell=0.330 spread=0.020 jump=-0.040 mins=43 
+
+--- Check #229 at 11:03:08 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.230 sell=0.250 spread=0.020 jump=-0.110 mins=42 
+  Sanfrecce       buy=0.310 sell=0.340 spread=0.030 jump=-0.030 mins=42 
+
+--- Check #230 at 11:04:10 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.230 sell=0.250 spread=0.020 jump=-0.110 mins=41 
+  Sanfrecce       buy=0.320 sell=0.340 spread=0.020 jump=-0.030 mins=41 
+
+--- Check #231 at 11:05:11 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.230 sell=0.250 spread=0.020 jump=-0.110 mins=40 
+  Sanfrecce       buy=0.320 sell=0.340 spread=0.020 jump=-0.030 mins=40 
+
+--- Check #232 at 11:06:12 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.230 sell=0.250 spread=0.020 jump=-0.110 mins=39 
+  Sanfrecce       buy=0.310 sell=0.330 spread=0.020 jump=-0.040 mins=39 
+
+--- Check #233 at 11:07:13 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.230 sell=0.240 spread=0.010 jump=-0.120 mins=38 
+  Sanfrecce       buy=0.310 sell=0.340 spread=0.030 jump=-0.030 mins=38 
+
+--- Check #234 at 11:08:14 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.230 sell=0.240 spread=0.010 jump=-0.120 mins=37 
+  Sanfrecce       buy=0.320 sell=0.340 spread=0.020 jump=-0.030 mins=37 
+
+--- Check #235 at 11:09:16 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.230 sell=0.250 spread=0.020 jump=-0.110 mins=36 
+  Sanfrecce       buy=0.330 sell=0.340 spread=0.010 jump=-0.030 mins=36 
+
+--- Check #236 at 11:10:17 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.230 sell=0.240 spread=0.010 jump=-0.120 mins=35 
+  Sanfrecce       buy=0.300 sell=0.330 spread=0.030 jump=-0.040 mins=35 
+
+--- Check #237 at 11:11:18 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.060 sell=0.120 spread=0.060 jump=-0.240 mins=34 
+  Sanfrecce       buy=0.660 sell=0.670 spread=0.010 jump=+0.300 mins=34 
+
+--- Check #238 at 11:12:19 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.050 sell=0.090 spread=0.040 jump=-0.270 mins=33 
+  Sanfrecce       buy=0.710 sell=0.720 spread=0.010 jump=+0.350 mins=33 
+
+--- Check #239 at 11:13:21 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.060 sell=0.090 spread=0.030 jump=-0.270 mins=32 
+  Sanfrecce       buy=0.690 sell=0.710 spread=0.020 jump=+0.340 mins=32 
+
+--- Check #240 at 11:14:22 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.060 sell=0.070 spread=0.010 jump=-0.290 mins=31 
+  Sanfrecce       buy=0.690 sell=0.710 spread=0.020 jump=+0.340 mins=31 
+
+--- Check #241 at 11:15:23 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.050 sell=0.090 spread=0.040 jump=-0.270 mins=30 
+  Sanfrecce       buy=0.690 sell=0.710 spread=0.020 jump=+0.340 mins=30 
+
+--- Check #242 at 11:16:25 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.060 sell=0.090 spread=0.030 jump=-0.270 mins=29 
+  Sanfrecce       buy=0.690 sell=0.710 spread=0.020 jump=+0.340 mins=29 
+
+--- Check #243 at 11:17:27 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.050 sell=0.090 spread=0.040 jump=-0.270 mins=28 
+  Sanfrecce       buy=0.690 sell=0.700 spread=0.010 jump=+0.330 mins=28 
+
+--- Check #244 at 11:18:28 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.050 sell=0.080 spread=0.030 jump=-0.280 mins=27 
+  Sanfrecce       buy=0.700 sell=0.720 spread=0.020 jump=+0.350 mins=27 
+
+--- Check #245 at 11:19:29 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.060 sell=0.080 spread=0.020 jump=-0.280 mins=26 
+  Sanfrecce       buy=0.700 sell=0.710 spread=0.010 jump=+0.340 mins=26 
+
+--- Check #246 at 11:20:30 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.050 sell=0.070 spread=0.020 jump=-0.290 mins=24 
+  Sanfrecce       buy=0.710 sell=0.720 spread=0.010 jump=+0.350 mins=24 
+
+--- Check #247 at 11:21:31 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.050 sell=0.070 spread=0.020 jump=-0.290 mins=23 
+  Sanfrecce       buy=0.710 sell=0.720 spread=0.010 jump=+0.350 mins=23 
+
+--- Check #248 at 11:22:33 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.020 sell=0.040 spread=0.020 jump=-0.320 mins=22 
+  Sanfrecce       buy=0.910 sell=0.930 spread=0.020 jump=+0.560 mins=22 
+
+--- Check #249 at 11:23:34 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.020 sell=0.040 spread=0.020 jump=-0.320 mins=21 
+  Sanfrecce       buy=0.910 sell=0.940 spread=0.030 jump=+0.570 mins=21 
+
+--- Check #250 at 11:24:35 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.007 sell=0.030 spread=0.023 jump=-0.330 mins=20 
+  Sanfrecce       buy=0.560 sell=0.760 spread=0.200 jump=+0.390 mins=20 
+
+--- Check #251 at 11:25:36 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.040 sell=0.070 spread=0.030 jump=-0.290 mins=19 
+  Sanfrecce       buy=0.670 sell=0.710 spread=0.040 jump=+0.340 mins=19 
+
+--- Check #252 at 11:26:38 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.040 sell=0.060 spread=0.020 jump=-0.300 mins=18 
+  Sanfrecce       buy=0.720 sell=0.740 spread=0.020 jump=+0.370 mins=18 
+
+--- Check #253 at 11:27:39 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.040 sell=0.050 spread=0.010 jump=-0.310 mins=17 
+  Sanfrecce       buy=0.730 sell=0.740 spread=0.010 jump=+0.370 mins=17 
+
+--- Check #254 at 11:28:40 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.040 sell=0.050 spread=0.010 jump=-0.310 mins=16 
+  Sanfrecce       buy=0.740 sell=0.760 spread=0.020 jump=+0.390 mins=16 
+
+--- Check #255 at 11:29:41 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.030 sell=0.050 spread=0.020 jump=-0.310 mins=15 
+  Sanfrecce       buy=0.740 sell=0.760 spread=0.020 jump=+0.390 mins=15 
+
+--- Check #256 at 11:30:42 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.030 sell=0.050 spread=0.020 jump=-0.310 mins=14 
+  Sanfrecce       buy=0.740 sell=0.760 spread=0.020 jump=+0.390 mins=14 
+
+--- Check #257 at 11:31:43 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.030 sell=0.040 spread=0.010 jump=-0.320 mins=13 
+  Sanfrecce       buy=0.750 sell=0.770 spread=0.020 jump=+0.400 mins=13 
+
+--- Check #258 at 11:32:44 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.020 sell=0.045 spread=0.025 jump=-0.315 mins=12 
+  Sanfrecce       buy=0.750 sell=0.850 spread=0.100 jump=+0.480 mins=12 
+
+--- Check #259 at 11:33:45 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.020 sell=0.042 spread=0.022 jump=-0.318 mins=11 
+  Sanfrecce       buy=0.750 sell=0.770 spread=0.020 jump=+0.400 mins=11 
+
+--- Check #260 at 11:34:47 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.030 sell=0.042 spread=0.012 jump=-0.318 mins=10 
+  Sanfrecce       buy=0.740 sell=0.760 spread=0.020 jump=+0.390 mins=10 
+
+--- Check #261 at 11:35:48 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.030 sell=0.042 spread=0.012 jump=-0.318 mins=9 
+  Sanfrecce       buy=0.740 sell=0.770 spread=0.030 jump=+0.400 mins=9 
+
+--- Check #262 at 11:36:49 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.020 sell=0.040 spread=0.020 jump=-0.320 mins=8 
+  Sanfrecce       buy=0.750 sell=0.770 spread=0.020 jump=+0.400 mins=8 
+
+--- Check #263 at 11:37:50 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.020 sell=0.040 spread=0.020 jump=-0.320 mins=7 
+  Sanfrecce       buy=0.760 sell=0.800 spread=0.040 jump=+0.430 mins=7 
+
+--- Check #264 at 11:38:50 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.020 sell=0.040 spread=0.020 jump=-0.320 mins=6 
+  Sanfrecce       buy=0.760 sell=0.780 spread=0.020 jump=+0.410 mins=6 
+
+--- Check #265 at 11:39:51 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.020 sell=0.040 spread=0.020 jump=-0.320 mins=5 
+  Sanfrecce       buy=0.740 sell=0.770 spread=0.030 jump=+0.400 mins=5 
+
+--- Check #266 at 11:40:52 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.010 sell=0.040 spread=0.030 jump=-0.320 mins=4 
+  Sanfrecce       buy=0.790 sell=0.800 spread=0.010 jump=+0.430 mins=4 
+
+--- Check #267 at 11:41:53 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.002 sell=0.044 spread=0.042 jump=-0.316 mins=3 
+  Sanfrecce       buy=0.450 sell=0.710 spread=0.260 jump=+0.340 mins=3 
+
+--- Check #268 at 11:42:54 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.002 sell=0.044 spread=0.042 jump=-0.316 mins=2 
+  Sanfrecce       buy=0.440 sell=1.000 spread=0.560 jump=+0.630 mins=2 
+
+--- Check #269 at 11:43:55 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.003 sell=0.055 spread=0.052 jump=-0.305 mins=1 
+  Sanfrecce       buy=0.410 sell=0.460 spread=0.050 jump=+0.090 mins=1 
+
+--- Check #270 at 11:44:57 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.003 sell=0.058 spread=0.055 jump=-0.302 mins=0 
+  Sanfrecce       buy=0.300 sell=0.320 spread=0.020 jump=-0.050 mins=0 
+
+--- Check #271 at 11:45:58 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.110 sell=0.130 spread=0.020 jump=-0.230 mins=-1 
+  Sanfrecce       buy=0.130 sell=0.140 spread=0.010 jump=-0.230 mins=-1 
+
+--- Check #272 at 11:46:58 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.110 sell=0.120 spread=0.010 jump=-0.240 mins=-2 
+  Sanfrecce       buy=0.130 sell=0.160 spread=0.030 jump=-0.210 mins=-2 
+[BALANCE] Error: PolyApiException[status_code=None, error_message=Request exception!]
+
+--- Check #273 at 11:47:59 UTC ---
+  Balance: $0.00
+  Vissel Kobe: ERROR - PolyApiException[status_code=None, error_message=Request exception!]
+  Sanfrecce       buy=0.120 sell=0.150 spread=0.030 jump=-0.220 mins=-3 
+
+--- Check #274 at 11:49:12 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.090 sell=0.110 spread=0.020 jump=-0.250 mins=-4 
+  Sanfrecce       buy=0.100 sell=0.120 spread=0.020 jump=-0.250 mins=-4 
+
+--- Check #275 at 11:50:13 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.070 sell=0.089 spread=0.019 jump=-0.271 mins=-5 
+  Sanfrecce       buy=0.090 sell=0.100 spread=0.010 jump=-0.270 mins=-5 
+
+--- Check #276 at 11:51:14 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.060 sell=0.080 spread=0.020 jump=-0.280 mins=-6 
+  Sanfrecce       buy=0.060 sell=0.080 spread=0.020 jump=-0.290 mins=-6 
+
+--- Check #277 at 11:52:15 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.061 sell=0.071 spread=0.010 jump=-0.289 mins=-7 
+  Sanfrecce       buy=0.100 sell=0.110 spread=0.010 jump=-0.260 mins=-7 
+
+--- Check #278 at 11:53:17 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.090 sell=0.097 spread=0.007 jump=-0.263 mins=-8 
+  Sanfrecce       buy=0.070 sell=0.100 spread=0.030 jump=-0.270 mins=-8 
+
+--- Check #279 at 11:54:17 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.060 sell=0.079 spread=0.019 jump=-0.281 mins=-9 
+  Sanfrecce       buy=0.080 sell=0.090 spread=0.010 jump=-0.280 mins=-9 
+
+--- Check #280 at 11:55:18 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.800 sell=0.945 spread=0.145 jump=+0.585 mins=-10 
+  Sanfrecce       buy=0.040 sell=0.090 spread=0.050 jump=-0.280 mins=-10 
+
+--- Check #281 at 11:56:19 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.895 sell=0.946 spread=0.051 jump=+0.586 mins=-11 
+  Sanfrecce       buy=0.010 sell=0.030 spread=0.020 jump=-0.340 mins=-11 
+
+--- Check #282 at 11:57:20 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.901 sell=0.930 spread=0.029 jump=+0.570 mins=-12 
+  Sanfrecce       buy=0.000 sell=0.020 spread=0.020 jump=-0.350 mins=-12 
+
+--- Check #283 at 11:58:21 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.920 sell=0.959 spread=0.039 jump=+0.599 mins=-13 
+  Sanfrecce       buy=0.003 sell=0.019 spread=0.016 jump=-0.351 mins=-13 
+
+--- Check #284 at 11:59:22 UTC ---
+  Balance: $22.28
+  Vissel Kobe     buy=0.963 sell=0.964 spread=0.001 jump=+0.604 mins=-14 
+  Sanfrecce       buy=0.010 sell=0.019 spread=0.009 jump=-0.351 mins=-14 
+
+=== Monitor finished at 12:00:23 UTC ===

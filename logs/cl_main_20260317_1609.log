@@ -1,0 +1,2175 @@
+=== CL Near-Resolution Monitor (CL: Man City/RM + Chelsea/PSG + Arsenal/Leverkusen) Started at 16:09 UTC ===
+Balance: $28.36
+Capturing pre-game prices...
+  Pre-game Man City: 0.670
+  Pre-game Real Madrid: 0.160
+  Pre-game Man City/RM Draw: 0.160
+  Pre-game Chelsea: 0.460
+  Pre-game PSG: 0.320
+  Pre-game Chelsea/PSG Draw: 0.220
+  Pre-game Arsenal: 0.750
+  Pre-game Leverkusen: 0.080
+  Pre-game Arsenal/LEV Draw: 0.160
+
+--- Check #1 at 16:09:37 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=335 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=335 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=335 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=335 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=335 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=335 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=335 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=335 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=335 
+
+--- Check #2 at 16:10:39 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=334 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=334 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=334 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=334 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=334 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=334 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=334 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=334 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=334 
+
+--- Check #3 at 16:11:43 UTC ---
+[BALANCE] Error: PolyApiException[status_code=None, error_message=Request exception!]
+  Balance: $0.00
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=332 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=332 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=332 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=332 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=332 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=332 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=332 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=332 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=332 
+
+--- Check #4 at 16:13:47 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=331 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=331 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=331 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=331 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=331 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=331 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=331 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=331 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=331 
+
+--- Check #5 at 16:14:51 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=330 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=330 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=330 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=330 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=330 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=330 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=330 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=330 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=330 
+
+--- Check #6 at 16:15:54 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=329 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=329 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=329 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=329 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=329 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=329 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=329 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=329 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=329 
+
+--- Check #7 at 16:16:58 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=328 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=328 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=328 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=328 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=328 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=328 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=328 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=328 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=328 
+
+--- Check #8 at 16:18:01 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=327 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=327 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=327 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=327 
+  PSG                buy=0.310 sell=0.330 spread=-0.020 jump=-0.010 mins_left=327 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=327 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=327 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=327 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=327 
+
+--- Check #9 at 16:19:16 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=326 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=326 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=326 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=326 
+  PSG                buy=0.310 sell=0.330 spread=-0.020 jump=-0.010 mins_left=326 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=326 
+  Arsenal            buy=0.740 sell=0.760 spread=-0.020 jump=-0.010 mins_left=326 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=326 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=326 
+
+--- Check #10 at 16:20:19 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=325 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=325 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=325 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=325 
+  PSG                buy=0.310 sell=0.330 spread=-0.020 jump=-0.010 mins_left=325 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=325 
+  Arsenal            buy=0.740 sell=0.760 spread=-0.020 jump=-0.010 mins_left=325 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=325 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=325 
+
+--- Check #11 at 16:21:22 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=324 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=324 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=324 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=324 
+  PSG                buy=0.310 sell=0.330 spread=-0.020 jump=-0.010 mins_left=324 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=324 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=324 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=324 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=324 
+
+--- Check #12 at 16:22:27 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=323 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=323 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=323 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=323 
+  PSG                buy=0.310 sell=0.330 spread=-0.020 jump=-0.010 mins_left=323 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=323 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=323 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=323 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=322 
+
+--- Check #13 at 16:23:30 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=321 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=321 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=321 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=321 
+  PSG                buy=0.310 sell=0.330 spread=-0.020 jump=-0.010 mins_left=321 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=321 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=321 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=321 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=321 
+
+--- Check #14 at 16:24:33 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=320 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=320 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=320 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=320 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=320 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=320 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=320 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=320 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=320 
+
+--- Check #15 at 16:25:36 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=319 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=319 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=319 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=319 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=319 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=319 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=319 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=319 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=319 
+
+--- Check #16 at 16:26:39 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=318 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=318 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=318 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=318 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=318 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=318 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=318 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=318 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=318 
+
+--- Check #17 at 16:27:43 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=317 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=317 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=317 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=317 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=317 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=317 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=317 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=317 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=317 
+
+--- Check #18 at 16:28:46 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=316 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=316 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=316 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=316 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=316 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=316 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=316 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=316 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=316 
+
+--- Check #19 at 16:29:49 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=315 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=315 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=315 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=315 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=315 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=315 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=315 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=315 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=315 
+
+--- Check #20 at 16:30:52 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=314 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=314 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=314 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=314 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=314 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=314 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=314 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=314 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=314 
+
+--- Check #21 at 16:31:55 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=313 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=313 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=313 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=313 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=313 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=313 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=313 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=313 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=313 
+
+--- Check #22 at 16:32:59 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=312 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=312 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=312 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=312 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=312 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=312 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=312 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=312 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=312 
+
+--- Check #23 at 16:34:02 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=311 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=311 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=311 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=311 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=311 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=311 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=311 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=311 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=311 
+
+--- Check #24 at 16:35:05 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=310 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=310 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=310 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=310 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=310 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=310 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=310 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=310 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=310 
+
+--- Check #25 at 16:36:08 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=309 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=309 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=309 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=309 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=309 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=309 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=309 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=309 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=309 
+
+--- Check #26 at 16:37:12 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=308 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=308 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=308 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=308 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=308 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=308 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=308 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=308 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=308 
+
+--- Check #27 at 16:38:15 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=307 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=307 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=307 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=307 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=307 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=307 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=307 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=307 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=307 
+
+--- Check #28 at 16:39:18 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=306 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=306 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=306 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=306 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=306 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=306 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=306 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=306 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=306 
+
+--- Check #29 at 16:40:21 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=305 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=305 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=305 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=305 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=305 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=305 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=305 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=305 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=305 
+
+--- Check #30 at 16:41:25 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=304 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=304 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=304 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=304 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=304 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=304 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=304 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=304 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=304 
+
+--- Check #31 at 16:42:28 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=303 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=303 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=302 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=302 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=302 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=302 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=302 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=302 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=302 
+
+--- Check #32 at 16:43:31 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=301 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=301 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=301 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=301 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=301 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=301 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=301 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=301 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=301 
+
+--- Check #33 at 16:44:34 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=300 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=300 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=300 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=300 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=300 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=300 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=300 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=300 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=300 
+
+--- Check #34 at 16:45:37 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=299 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=299 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=299 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=299 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=299 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=299 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=299 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=299 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=299 
+
+--- Check #35 at 16:46:41 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=298 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=298 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=298 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=298 
+  PSG                buy=0.310 sell=0.330 spread=-0.020 jump=-0.010 mins_left=298 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=298 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=298 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=298 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=298 
+
+--- Check #36 at 16:47:44 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=297 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=297 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=297 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=297 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=297 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=297 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=297 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=297 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=297 
+
+--- Check #37 at 16:48:47 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=296 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=296 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=296 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=296 
+  PSG                buy=0.310 sell=0.330 spread=-0.020 jump=-0.010 mins_left=296 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=296 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=296 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=296 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=296 
+
+--- Check #38 at 16:49:50 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=295 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=295 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=295 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=295 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=295 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=295 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=295 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=295 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=295 
+
+--- Check #39 at 16:50:54 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=294 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=294 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=294 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=294 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=294 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=294 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=294 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=294 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=294 
+
+--- Check #40 at 16:51:57 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=293 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=293 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=293 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=293 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=293 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=293 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=293 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=293 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=293 
+
+--- Check #41 at 16:53:00 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=292 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=292 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=292 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=292 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=292 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=292 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=292 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=292 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=292 
+
+--- Check #42 at 16:54:03 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=291 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=291 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=291 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=291 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=291 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=291 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=291 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=291 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=291 
+
+--- Check #43 at 16:55:06 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=290 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=290 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=290 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=290 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=290 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=290 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=290 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=290 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=290 
+
+--- Check #44 at 16:56:11 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=289 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=289 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=289 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=289 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=289 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=289 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=289 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=289 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=289 
+
+--- Check #45 at 16:57:14 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=288 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=288 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=288 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=288 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=288 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=288 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=288 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=288 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=288 
+
+--- Check #46 at 16:58:17 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=287 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=287 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=287 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=287 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=287 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=287 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=287 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=287 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=287 
+
+--- Check #47 at 16:59:21 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=286 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=286 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=286 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=286 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=286 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=286 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=286 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=286 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=286 
+
+--- Check #48 at 17:00:24 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=285 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=285 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=285 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=285 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=285 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=285 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=285 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=285 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=285 
+
+--- Check #49 at 17:01:28 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=284 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=284 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=284 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=283 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=283 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=283 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=283 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=283 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=283 
+
+--- Check #50 at 17:02:31 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=282 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=282 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=282 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=282 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=282 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=282 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=282 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=282 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=282 
+
+--- Check #51 at 17:03:35 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=281 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=281 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=281 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=281 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=281 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=281 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=281 
+  Leverkusen         buy=0.080 sell=0.100 spread=-0.020 jump=+0.000 mins_left=281 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=281 
+
+--- Check #52 at 17:04:39 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=280 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=280 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=280 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=280 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=280 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=280 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=280 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=280 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=280 
+
+--- Check #53 at 17:05:43 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=279 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=279 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=279 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=279 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=279 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=279 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=279 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=279 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=279 
+
+--- Check #54 at 17:06:46 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=278 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=278 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=278 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=278 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=278 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=278 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=278 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=278 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=278 
+
+--- Check #55 at 17:07:49 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=277 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=277 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=277 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=277 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=277 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=277 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=277 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=277 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=277 
+
+--- Check #56 at 17:08:53 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=276 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=276 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=276 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=276 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=276 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=276 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=276 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=276 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=276 
+
+--- Check #57 at 17:09:56 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=275 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=275 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=275 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=275 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=275 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=275 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=275 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=275 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=275 
+
+--- Check #58 at 17:11:00 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=274 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=274 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=274 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=274 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=274 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=274 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=274 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=274 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=274 
+
+--- Check #59 at 17:12:03 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=273 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=273 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=273 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=273 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=273 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=273 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=273 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=273 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=273 
+
+--- Check #60 at 17:13:06 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=272 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=272 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=272 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=272 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=272 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=272 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=272 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=272 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=272 
+
+--- Check #61 at 17:14:09 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=271 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=271 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=271 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=271 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=271 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=271 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=271 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=271 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=271 
+
+--- Check #62 at 17:15:12 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=270 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=270 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=270 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=270 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=270 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=270 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=270 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=270 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=270 
+
+--- Check #63 at 17:16:16 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=269 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=269 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=269 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=269 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=269 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=269 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=269 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=269 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=269 
+
+--- Check #64 at 17:17:19 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=268 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=268 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=268 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=268 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=268 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=268 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=268 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=268 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=268 
+
+--- Check #65 at 17:18:22 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=267 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=267 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=267 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=267 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=267 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=267 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=267 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=267 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=267 
+
+--- Check #66 at 17:19:25 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=266 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=266 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=266 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=266 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=266 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=266 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=266 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=266 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=266 
+
+--- Check #67 at 17:20:28 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=264 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=264 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=264 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=264 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=264 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=264 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=264 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=264 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=264 
+
+--- Check #68 at 17:21:32 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=263 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=263 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=263 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=263 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=263 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=263 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=263 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=263 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=263 
+
+--- Check #69 at 17:22:35 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=262 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=262 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=262 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=262 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=262 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=262 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=262 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=262 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=262 
+
+--- Check #70 at 17:23:38 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=261 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=261 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=261 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=261 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=261 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=261 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=261 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=261 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=261 
+
+--- Check #71 at 17:24:41 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=260 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=260 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=260 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=260 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=260 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=260 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=260 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=260 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=260 
+
+--- Check #72 at 17:25:45 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=259 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=259 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=259 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=259 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=259 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=259 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=259 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=259 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=259 
+
+--- Check #73 at 17:26:48 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=258 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=258 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=258 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=258 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=258 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=258 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=258 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=258 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=258 
+
+--- Check #74 at 17:27:51 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=257 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=257 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=257 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=257 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=257 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=257 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=257 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=257 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=257 
+
+--- Check #75 at 17:28:54 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=256 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=256 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=256 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=256 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=256 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=256 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=256 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=256 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=256 
+
+--- Check #76 at 17:29:57 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=255 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=255 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=255 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=255 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=255 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=255 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=255 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=255 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=255 
+
+--- Check #77 at 17:31:00 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=254 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=254 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=254 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=254 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=254 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=254 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=254 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=254 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=254 
+
+--- Check #78 at 17:32:03 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=253 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=253 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=253 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=253 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=253 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=253 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=253 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=253 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=253 
+
+--- Check #79 at 17:33:06 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=252 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=252 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=252 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=252 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=252 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=252 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=252 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=252 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=252 
+
+--- Check #80 at 17:34:10 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=251 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=251 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=251 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=251 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=251 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=251 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=251 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=251 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=251 
+
+--- Check #81 at 17:35:13 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=250 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=250 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=250 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=250 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=250 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=250 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=250 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=250 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=250 
+
+--- Check #82 at 17:36:16 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=249 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=249 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=249 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=249 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=249 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=249 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=249 
+  Leverkusen         buy=0.090 sell=0.100 spread=-0.010 jump=+0.010 mins_left=249 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=249 
+
+--- Check #83 at 17:37:19 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=248 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=248 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=248 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=248 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=248 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=248 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=248 
+  Leverkusen         buy=0.080 sell=0.100 spread=-0.020 jump=+0.000 mins_left=248 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=248 
+
+--- Check #84 at 17:38:23 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=247 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=247 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=247 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=247 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=247 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=247 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=247 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=247 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=247 
+
+--- Check #85 at 17:39:26 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=245 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=245 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=245 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=245 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=245 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=245 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=245 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=245 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=245 
+
+--- Check #86 at 17:40:34 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=244 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=244 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=244 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=244 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=244 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=244 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=244 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=244 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=244 
+
+--- Check #87 at 17:41:40 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=243 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=243 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=243 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=243 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=243 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=243 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=243 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=243 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=243 
+
+--- Check #88 at 17:42:45 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=242 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=242 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=242 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=242 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=242 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=242 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=242 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=242 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=242 
+
+--- Check #89 at 17:43:49 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=241 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=241 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=241 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=241 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=241 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=241 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=241 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=241 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=241 
+
+--- Check #90 at 17:44:52 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=240 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=240 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=240 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=240 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=240 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=240 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=240 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=240 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=240 
+
+--- Check #91 at 17:45:55 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=239 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=239 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=239 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=239 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=239 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=239 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=239 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=239 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=239 
+
+--- Check #92 at 17:46:58 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=238 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=238 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=238 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=238 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=238 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=238 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=238 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=238 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=238 
+
+--- Check #93 at 17:48:02 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=237 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=237 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=237 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=237 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=237 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=237 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=237 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=237 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=237 
+
+--- Check #94 at 17:49:06 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=236 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=236 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=236 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=236 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=236 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=236 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=236 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=236 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=236 
+
+--- Check #95 at 17:50:10 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=235 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=235 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=235 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=235 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=235 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=235 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=235 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=235 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=235 
+
+--- Check #96 at 17:51:13 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=234 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=234 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=234 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=234 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=234 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=234 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=234 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=234 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=234 
+
+--- Check #97 at 17:52:16 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=233 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=233 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=233 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=233 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=233 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=233 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=233 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=233 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=233 
+
+--- Check #98 at 17:53:20 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=232 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=232 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=232 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=232 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=232 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=232 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=232 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=232 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=232 
+
+--- Check #99 at 17:54:24 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=231 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=231 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=231 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=231 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=231 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=231 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=231 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=231 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=231 
+
+--- Check #100 at 17:55:27 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=230 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=230 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=230 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=230 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=230 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=229 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=229 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=229 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=229 
+
+--- Check #101 at 17:56:31 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=228 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=228 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=228 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=228 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=228 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=228 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=228 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=228 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=228 
+
+--- Check #102 at 17:57:34 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=227 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=227 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=227 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=227 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=227 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=227 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=227 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=227 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=227 
+
+--- Check #103 at 17:58:37 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=226 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=226 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=226 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=226 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=226 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=226 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=226 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=226 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=226 
+
+--- Check #104 at 17:59:40 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=225 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=225 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=225 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=225 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=225 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=225 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=225 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=225 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=225 
+
+--- Check #105 at 18:00:43 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=224 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=224 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=224 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=224 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=224 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=224 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=224 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=224 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=224 
+
+--- Check #106 at 18:01:46 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=223 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=223 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=223 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=223 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=223 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=223 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=223 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=223 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=223 
+
+--- Check #107 at 18:02:50 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=222 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=222 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=222 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=222 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=222 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=222 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=222 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=222 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=222 
+
+--- Check #108 at 18:03:55 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=221 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=221 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=221 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=221 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=221 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=221 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=221 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=221 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=221 
+
+--- Check #109 at 18:04:58 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=220 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=220 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=220 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=220 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=220 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=220 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=220 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=220 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=220 
+
+--- Check #110 at 18:06:02 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=219 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=219 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=219 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=219 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=219 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=219 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=219 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=219 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=219 
+
+--- Check #111 at 18:07:05 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=218 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=218 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=218 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=218 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=218 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=218 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=218 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=218 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=218 
+
+--- Check #112 at 18:08:08 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=217 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=217 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=217 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=217 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=217 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=217 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=217 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=217 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=217 
+
+--- Check #113 at 18:09:11 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=216 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=216 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=216 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=216 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=216 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=216 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=216 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=216 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=216 
+
+--- Check #114 at 18:10:15 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=215 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=215 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=215 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=215 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=215 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=215 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=215 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=215 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=215 
+
+--- Check #115 at 18:11:18 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=214 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=214 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=214 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=214 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=214 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=214 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=214 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=214 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=214 
+
+--- Check #116 at 18:12:22 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=213 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=213 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=213 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=213 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=213 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=213 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=213 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=213 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=213 
+
+--- Check #117 at 18:13:25 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=212 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=212 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=212 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=212 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=212 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=212 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=212 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=212 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=212 
+
+--- Check #118 at 18:14:28 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=211 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=211 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=210 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=210 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=210 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=210 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=210 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=210 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=210 
+
+--- Check #119 at 18:15:31 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=209 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=209 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=209 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=209 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=209 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=209 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=209 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=209 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=209 
+
+--- Check #120 at 18:16:35 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=208 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=208 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=208 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=208 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=208 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=208 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=208 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=208 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=208 
+
+--- Check #121 at 18:17:38 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=207 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=207 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=207 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=207 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=207 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=207 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=207 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=207 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=207 
+
+--- Check #122 at 18:18:41 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=206 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=206 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=206 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=206 
+  PSG                buy=0.310 sell=0.330 spread=-0.020 jump=-0.010 mins_left=206 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=206 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=206 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=206 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=206 
+
+--- Check #123 at 18:19:44 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=205 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=205 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=205 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=205 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=205 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=205 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=205 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=205 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=205 
+
+--- Check #124 at 18:20:48 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=204 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=204 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=204 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=204 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=204 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=204 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=204 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=204 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=204 
+
+--- Check #125 at 18:21:51 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=203 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=203 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=203 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=203 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=203 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=203 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=203 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=203 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=203 
+
+--- Check #126 at 18:22:54 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=202 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=202 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=202 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=202 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=202 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=202 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=202 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=202 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=202 
+
+--- Check #127 at 18:23:57 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=201 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=201 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=201 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=201 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=201 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=201 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=201 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=201 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=201 
+
+--- Check #128 at 18:25:00 UTC ---
+  Balance: $28.36
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=200 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=200 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=200 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=200 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=200 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=200 
+  Arsenal            buy=0.740 sell=0.750 spread=-0.010 jump=-0.010 mins_left=200 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=200 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=200 
+
+--- Check #129 at 18:26:03 UTC ---
+  Balance: $28.36
+  Man City           buy=0.660 sell=0.680 spread=-0.020 jump=-0.010 mins_left=199 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=199 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=199 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=199 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=199 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=199 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=199 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=199 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=199 
+
+--- Check #130 at 18:27:07 UTC ---
+  Balance: $28.36
+  Man City           buy=0.660 sell=0.680 spread=-0.020 jump=-0.010 mins_left=198 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=198 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=198 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=198 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=198 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=198 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=198 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=198 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=198 
+
+--- Check #131 at 18:28:10 UTC ---
+  Balance: $28.36
+  Man City           buy=0.660 sell=0.680 spread=-0.020 jump=-0.010 mins_left=197 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=197 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=197 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=197 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=197 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=197 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=197 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=197 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=197 
+
+--- Check #132 at 18:29:13 UTC ---
+  Balance: $28.36
+  Man City           buy=0.660 sell=0.680 spread=-0.020 jump=-0.010 mins_left=196 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=196 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=196 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=196 
+  PSG                buy=0.310 sell=0.330 spread=-0.020 jump=-0.010 mins_left=196 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=196 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=196 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=196 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=196 
+
+--- Check #133 at 18:30:17 UTC ---
+  Balance: $28.36
+  Man City           buy=0.660 sell=0.680 spread=-0.020 jump=-0.010 mins_left=195 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=195 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=195 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=195 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=195 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=195 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=195 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=195 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=195 
+
+--- Check #134 at 18:31:21 UTC ---
+  Balance: $28.36
+  Man City           buy=0.660 sell=0.680 spread=-0.020 jump=-0.010 mins_left=194 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=194 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=194 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=194 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=194 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=194 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=194 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=194 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=194 
+
+--- Check #135 at 18:32:24 UTC ---
+  Balance: $28.36
+  Man City           buy=0.660 sell=0.680 spread=-0.020 jump=-0.010 mins_left=193 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=193 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=193 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=193 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=193 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=193 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=193 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=193 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=193 
+
+--- Check #136 at 18:33:28 UTC ---
+  Balance: $28.36
+  Man City           buy=0.660 sell=0.670 spread=-0.010 jump=-0.010 mins_left=191 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=191 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=191 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=191 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=191 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=191 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=191 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=191 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=191 
+
+--- Check #137 at 18:34:32 UTC ---
+  Balance: $26.19
+  Man City           buy=0.660 sell=0.670 spread=-0.010 jump=-0.010 mins_left=190 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=190 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=190 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=190 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=190 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=190 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=190 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=190 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=190 
+
+--- Check #138 at 18:35:36 UTC ---
+  Balance: $26.19
+  Man City           buy=0.660 sell=0.670 spread=-0.010 jump=-0.010 mins_left=189 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=189 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=189 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=189 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=189 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=189 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=189 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=189 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=189 
+
+--- Check #139 at 18:36:40 UTC ---
+  Balance: $26.19
+  Man City           buy=0.660 sell=0.670 spread=-0.010 jump=-0.010 mins_left=188 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=188 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=188 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=188 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=188 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=188 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=188 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=188 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=188 
+
+--- Check #140 at 18:37:43 UTC ---
+  Balance: $26.19
+  Man City           buy=0.660 sell=0.670 spread=-0.010 jump=-0.010 mins_left=187 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=187 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=187 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=187 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=187 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=187 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=187 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=187 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=187 
+
+--- Check #141 at 18:38:46 UTC ---
+  Balance: $26.19
+  Man City           buy=0.660 sell=0.670 spread=-0.010 jump=-0.010 mins_left=186 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=186 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=186 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=186 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=186 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=186 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=186 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=186 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=186 
+
+--- Check #142 at 18:39:49 UTC ---
+  Balance: $26.19
+  Man City           buy=0.660 sell=0.670 spread=-0.010 jump=-0.010 mins_left=185 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=185 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=185 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=185 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=185 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=185 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=185 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=185 
+  Arsenal/LEV Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=185 
+
+--- Check #143 at 18:40:52 UTC ---
+  Balance: $26.19
+  Man City           buy=0.660 sell=0.670 spread=-0.010 jump=-0.010 mins_left=184 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=184 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=184 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=184 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=184 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=184 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=184 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=184 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=184 
+
+--- Check #144 at 18:41:56 UTC ---
+  Balance: $26.19
+  Man City           buy=0.660 sell=0.670 spread=-0.010 jump=-0.010 mins_left=183 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=183 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=183 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=183 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=183 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=183 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=183 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=183 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=183 
+
+--- Check #145 at 18:43:00 UTC ---
+  Balance: $26.19
+  Man City           buy=0.660 sell=0.670 spread=-0.010 jump=-0.010 mins_left=182 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=182 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=182 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=182 
+  PSG                buy=0.310 sell=0.330 spread=-0.020 jump=-0.010 mins_left=182 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=182 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=182 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=182 
+  Arsenal/LEV Draw   buy=0.150 sell=0.170 spread=-0.020 jump=-0.010 mins_left=182 
+
+--- Check #146 at 18:44:03 UTC ---
+  Balance: $26.19
+  Man City           buy=0.660 sell=0.670 spread=-0.010 jump=-0.010 mins_left=181 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=181 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=181 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=181 
+  PSG                buy=0.310 sell=0.330 spread=-0.020 jump=-0.010 mins_left=181 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=181 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=181 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=181 
+  Arsenal/LEV Draw   buy=0.150 sell=0.170 spread=-0.020 jump=-0.010 mins_left=181 
+
+--- Check #147 at 18:45:07 UTC ---
+  Balance: $26.19
+  Man City           buy=0.660 sell=0.670 spread=-0.010 jump=-0.010 mins_left=180 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=180 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=180 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=180 
+  PSG                buy=0.310 sell=0.320 spread=-0.010 jump=-0.010 mins_left=180 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=180 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=180 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=180 
+  Arsenal/LEV Draw   buy=0.150 sell=0.170 spread=-0.020 jump=-0.010 mins_left=180 
+
+--- Check #148 at 18:46:10 UTC ---
+  Balance: $26.19
+  Man City           buy=0.660 sell=0.670 spread=-0.010 jump=-0.010 mins_left=179 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=179 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=179 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=179 
+  PSG                buy=0.310 sell=0.330 spread=-0.020 jump=-0.010 mins_left=179 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=179 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=179 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=179 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=179 
+
+--- Check #149 at 18:47:13 UTC ---
+  Balance: $26.19
+  Man City           buy=0.660 sell=0.670 spread=-0.010 jump=-0.010 mins_left=178 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=178 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=178 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=178 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=178 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=178 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=178 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=178 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=178 
+
+--- Check #150 at 18:48:16 UTC ---
+  Balance: $26.19
+  Man City           buy=0.660 sell=0.670 spread=-0.010 jump=-0.010 mins_left=177 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=177 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=177 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=177 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=177 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=177 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=177 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=177 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=177 
+
+--- Check #151 at 18:49:19 UTC ---
+  Balance: $26.19
+  Man City           buy=0.660 sell=0.670 spread=-0.010 jump=-0.010 mins_left=176 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=176 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=176 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=176 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=176 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=176 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=176 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=176 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=176 
+
+--- Check #152 at 18:50:23 UTC ---
+  Balance: $26.19
+  Man City           buy=0.660 sell=0.670 spread=-0.010 jump=-0.010 mins_left=175 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=175 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=175 
+  Chelsea            buy=0.460 sell=0.470 spread=-0.010 jump=+0.000 mins_left=175 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=175 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=175 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=175 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=175 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=175 
+
+--- Check #153 at 18:51:27 UTC ---
+  Balance: $26.19
+  Man City           buy=0.660 sell=0.670 spread=-0.010 jump=-0.010 mins_left=174 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=174 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=174 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=174 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=174 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=174 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=173 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=173 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=173 
+
+--- Check #154 at 18:52:30 UTC ---
+  Balance: $26.19
+  Man City           buy=0.660 sell=0.670 spread=-0.010 jump=-0.010 mins_left=172 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=172 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=172 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=172 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=172 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=172 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=172 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=172 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=172 
+
+--- Check #155 at 18:53:34 UTC ---
+  Balance: $26.19
+  Man City           buy=0.660 sell=0.670 spread=-0.010 jump=-0.010 mins_left=171 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=171 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=171 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=171 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=171 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=171 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=171 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=171 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=171 
+
+--- Check #156 at 18:54:37 UTC ---
+  Balance: $26.19
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=170 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=170 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=170 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=170 
+  PSG                buy=0.320 sell=0.330 spread=-0.010 jump=+0.000 mins_left=170 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=170 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=170 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=170 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=170 
+
+--- Check #157 at 18:55:41 UTC ---
+  Balance: $26.19
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=169 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=169 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=169 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=169 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=169 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=169 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=169 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=169 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=169 
+
+--- Check #158 at 18:56:45 UTC ---
+  Balance: $26.19
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=168 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=168 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=168 
+  Chelsea            buy=0.440 sell=0.450 spread=-0.010 jump=-0.020 mins_left=168 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=168 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=168 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=168 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=168 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=168 
+
+--- Check #159 at 18:57:49 UTC ---
+  Balance: $26.19
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=167 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=167 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=167 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=167 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=167 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=167 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=167 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=167 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=167 
+
+--- Check #160 at 18:58:52 UTC ---
+  Balance: $26.19
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=166 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=166 
+  Man City/RM Draw   buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=166 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=166 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=166 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=166 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=166 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=166 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=166 
+
+--- Check #161 at 18:59:56 UTC ---
+  Balance: $26.19
+  Man City           buy=0.680 sell=0.690 spread=-0.010 jump=+0.010 mins_left=165 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=165 
+  Man City/RM Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=165 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=165 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=165 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=165 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=165 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=165 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=165 
+
+--- Check #162 at 19:00:59 UTC ---
+  Balance: $26.19
+  Man City           buy=0.680 sell=0.690 spread=-0.010 jump=+0.010 mins_left=164 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=164 
+  Man City/RM Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=164 
+  Chelsea            buy=0.450 sell=0.460 spread=-0.010 jump=-0.010 mins_left=164 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=164 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=164 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=164 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=164 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=164 
+
+--- Check #163 at 19:02:02 UTC ---
+  Balance: $26.19
+  Man City           buy=0.680 sell=0.690 spread=-0.010 jump=+0.010 mins_left=163 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=163 
+  Man City/RM Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=163 
+  Chelsea            buy=0.440 sell=0.450 spread=-0.010 jump=-0.020 mins_left=163 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=163 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=163 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=163 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=163 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=163 
+
+--- Check #164 at 19:03:06 UTC ---
+  Balance: $26.19
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=162 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=162 
+  Man City/RM Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=162 
+  Chelsea            buy=0.440 sell=0.450 spread=-0.010 jump=-0.020 mins_left=162 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=162 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=162 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=162 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=162 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=162 
+
+--- Check #165 at 19:04:09 UTC ---
+  Balance: $26.19
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=161 
+  Real Madrid        buy=0.160 sell=0.170 spread=-0.010 jump=+0.000 mins_left=161 
+  Man City/RM Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=161 
+  Chelsea            buy=0.440 sell=0.450 spread=-0.010 jump=-0.020 mins_left=161 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=161 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=161 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=161 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=161 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=161 
+
+--- Check #166 at 19:05:12 UTC ---
+  Balance: $26.19
+  Man City           buy=0.680 sell=0.690 spread=-0.010 jump=+0.010 mins_left=160 
+  Real Madrid        buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=160 
+  Man City/RM Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=160 
+  Chelsea            buy=0.440 sell=0.450 spread=-0.010 jump=-0.020 mins_left=160 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=160 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=160 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=160 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=160 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=160 
+
+--- Check #167 at 19:06:15 UTC ---
+  Balance: $26.19
+  Man City           buy=0.670 sell=0.680 spread=-0.010 jump=+0.000 mins_left=159 
+  Real Madrid        buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=159 
+  Man City/RM Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=159 
+  Chelsea            buy=0.440 sell=0.450 spread=-0.010 jump=-0.020 mins_left=159 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=159 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=159 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=159 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=159 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=159 
+
+--- Check #168 at 19:07:19 UTC ---
+  Balance: $26.19
+  Man City           buy=0.680 sell=0.690 spread=-0.010 jump=+0.010 mins_left=158 
+  Real Madrid        buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=158 
+  Man City/RM Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=158 
+  Chelsea            buy=0.440 sell=0.450 spread=-0.010 jump=-0.020 mins_left=158 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=158 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=158 
+  Arsenal            buy=0.740 sell=0.760 spread=-0.020 jump=-0.010 mins_left=158 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=158 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=158 
+
+--- Check #169 at 19:08:22 UTC ---
+  Balance: $26.19
+  Man City           buy=0.680 sell=0.690 spread=-0.010 jump=+0.010 mins_left=157 
+  Real Madrid        buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=157 
+  Man City/RM Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=157 
+  Chelsea            buy=0.440 sell=0.450 spread=-0.010 jump=-0.020 mins_left=157 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=157 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=157 
+  Arsenal            buy=0.740 sell=0.760 spread=-0.020 jump=-0.010 mins_left=157 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=157 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=157 
+
+--- Check #170 at 19:09:26 UTC ---
+  Balance: $26.19
+  Man City           buy=0.680 sell=0.690 spread=-0.010 jump=+0.010 mins_left=156 
+  Real Madrid        buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=156 
+  Man City/RM Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=156 
+  Chelsea            buy=0.440 sell=0.450 spread=-0.010 jump=-0.020 mins_left=156 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=156 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=156 
+  Arsenal            buy=0.740 sell=0.760 spread=-0.020 jump=-0.010 mins_left=156 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=156 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=155 
+
+--- Check #171 at 19:10:30 UTC ---
+  Balance: $26.19
+  Man City           buy=0.680 sell=0.690 spread=-0.010 jump=+0.010 mins_left=154 
+  Real Madrid        buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=154 
+  Man City/RM Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=154 
+  Chelsea            buy=0.440 sell=0.450 spread=-0.010 jump=-0.020 mins_left=154 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=154 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=154 
+  Arsenal            buy=0.740 sell=0.760 spread=-0.020 jump=-0.010 mins_left=154 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=154 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=154 
+
+--- Check #172 at 19:11:33 UTC ---
+  Balance: $26.19
+  Man City           buy=0.680 sell=0.690 spread=-0.010 jump=+0.010 mins_left=153 
+  Real Madrid        buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=153 
+  Man City/RM Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=153 
+  Chelsea            buy=0.440 sell=0.450 spread=-0.010 jump=-0.020 mins_left=153 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=153 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=153 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=153 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=153 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=153 
+
+--- Check #173 at 19:12:36 UTC ---
+  Balance: $26.19
+  Man City           buy=0.680 sell=0.690 spread=-0.010 jump=+0.010 mins_left=152 
+  Real Madrid        buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=152 
+  Man City/RM Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=152 
+  Chelsea            buy=0.440 sell=0.450 spread=-0.010 jump=-0.020 mins_left=152 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=152 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=152 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=152 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=152 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=152 
+
+--- Check #174 at 19:13:40 UTC ---
+  Balance: $26.19
+  Man City           buy=0.680 sell=0.690 spread=-0.010 jump=+0.010 mins_left=151 
+  Real Madrid        buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=151 
+  Man City/RM Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=151 
+  Chelsea            buy=0.440 sell=0.450 spread=-0.010 jump=-0.020 mins_left=151 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=151 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=151 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=151 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=151 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=151 
+
+--- Check #175 at 19:14:43 UTC ---
+  Balance: $26.19
+  Man City           buy=0.680 sell=0.690 spread=-0.010 jump=+0.010 mins_left=150 
+  Real Madrid        buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=150 
+  Man City/RM Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=150 
+  Chelsea            buy=0.440 sell=0.450 spread=-0.010 jump=-0.020 mins_left=150 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=150 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=150 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=150 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=150 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=150 
+
+--- Check #176 at 19:15:46 UTC ---
+  Balance: $26.19
+  Man City           buy=0.680 sell=0.690 spread=-0.010 jump=+0.010 mins_left=149 
+  Real Madrid        buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=149 
+  Man City/RM Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=149 
+  Chelsea            buy=0.440 sell=0.450 spread=-0.010 jump=-0.020 mins_left=149 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=149 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=149 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=149 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=149 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=149 
+
+--- Check #177 at 19:16:51 UTC ---
+  Balance: $26.19
+  Man City           buy=0.680 sell=0.690 spread=-0.010 jump=+0.010 mins_left=148 
+  Real Madrid        buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=148 
+  Man City/RM Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=148 
+  Chelsea            buy=0.440 sell=0.450 spread=-0.010 jump=-0.020 mins_left=148 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=148 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=148 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=148 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=148 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=148 
+
+--- Check #178 at 19:17:55 UTC ---
+  Balance: $26.19
+  Man City           buy=0.680 sell=0.690 spread=-0.010 jump=+0.010 mins_left=147 
+  Real Madrid        buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=147 
+  Man City/RM Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=147 
+  Chelsea            buy=0.440 sell=0.450 spread=-0.010 jump=-0.020 mins_left=147 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=147 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=147 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=147 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=147 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=147 
+
+--- Check #179 at 19:18:58 UTC ---
+  Balance: $26.19
+  Man City           buy=0.680 sell=0.690 spread=-0.010 jump=+0.010 mins_left=146 
+  Real Madrid        buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=146 
+  Man City/RM Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=146 
+  Chelsea            buy=0.440 sell=0.450 spread=-0.010 jump=-0.020 mins_left=146 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=146 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=146 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=146 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=146 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=146 
+
+--- Check #180 at 19:20:01 UTC ---
+  Balance: $26.19
+  Man City           buy=0.680 sell=0.690 spread=-0.010 jump=+0.010 mins_left=145 
+  Real Madrid        buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=145 
+  Man City/RM Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=145 
+  Chelsea            buy=0.440 sell=0.450 spread=-0.010 jump=-0.020 mins_left=145 
+  PSG                buy=0.330 sell=0.340 spread=-0.010 jump=+0.010 mins_left=145 
+  Chelsea/PSG Draw   buy=0.220 sell=0.230 spread=-0.010 jump=+0.000 mins_left=145 
+  Arsenal            buy=0.750 sell=0.760 spread=-0.010 jump=+0.000 mins_left=145 
+  Leverkusen         buy=0.080 sell=0.090 spread=-0.010 jump=+0.000 mins_left=145 
+  Arsenal/LEV Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.010 mins_left=145 
+
+=== CL Monitor finished at 19:21 UTC ===

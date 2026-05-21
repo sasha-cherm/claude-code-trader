@@ -1,0 +1,1592 @@
+=== NBA Mar 24 Near-Res Monitor ===
+Started at 2026-03-24 15:06:10 UTC
+Monitoring 8 tokens (4 games)
+Params: MIN_PRICE=0.85, JUMP=0.2, SPREAD=0.04, MAX_MINS=20
+Balance: $56.76
+
+Snapshotting pre-game prices...
+  Pre-game Kings: 0.070
+  Pre-game Hornets: 0.920
+  Pre-game Pelicans: 0.230
+  Pre-game Knicks: 0.760
+  Pre-game Magic: 0.180
+  Pre-game Cavaliers: 0.810
+  Pre-game Nuggets: 0.680
+  Pre-game Suns: 0.310
+
+--- Check #0 at 15:06:13 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=474 
+
+--- Check #1 at 15:07:26 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=473 
+
+--- Check #2 at 15:08:39 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=471 
+
+--- Check #3 at 15:09:51 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=470 
+
+--- Check #4 at 15:11:04 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=469 
+
+--- Check #5 at 15:12:17 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=468 
+
+--- Check #6 at 15:13:30 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=466 
+
+--- Check #7 at 15:14:43 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=465 
+
+--- Check #8 at 15:15:56 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=464 
+
+--- Check #9 at 15:17:09 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=463 
+
+--- Check #10 at 15:18:22 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=462 
+
+--- Check #11 at 15:19:34 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=460 
+
+--- Check #12 at 15:20:47 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=459 
+
+--- Check #13 at 15:22:00 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=458 
+
+--- Check #14 at 15:23:13 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=457 
+
+--- Check #15 at 15:24:25 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=456 
+
+--- Check #16 at 15:25:38 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=454 
+
+--- Check #17 at 15:26:51 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=453 
+
+--- Check #18 at 15:28:03 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=452 
+
+--- Check #19 at 15:29:15 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=451 
+
+--- Check #20 at 15:30:28 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=450 
+
+--- Check #21 at 15:31:41 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=448 
+
+--- Check #22 at 15:32:54 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=447 
+
+--- Check #23 at 15:34:07 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=446 
+
+--- Check #24 at 15:35:20 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=445 
+
+--- Check #25 at 15:36:33 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=443 
+
+--- Check #26 at 15:37:45 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=442 
+
+--- Check #27 at 15:38:58 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=441 
+
+--- Check #28 at 15:40:11 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=440 
+
+--- Check #29 at 15:41:23 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=439 
+
+--- Check #30 at 15:42:36 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=437 
+
+--- Check #31 at 15:43:49 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=436 
+
+--- Check #32 at 15:45:02 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=435 
+
+--- Check #33 at 15:46:15 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=434 
+
+--- Check #34 at 15:47:28 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=433 
+
+--- Check #35 at 15:48:41 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=431 
+
+--- Check #36 at 15:49:54 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=430 
+
+--- Check #37 at 15:51:06 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=429 
+
+--- Check #38 at 15:52:20 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=428 
+
+--- Check #39 at 15:53:33 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=426 
+
+--- Check #40 at 15:54:46 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=425 
+
+--- Check #41 at 15:55:59 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=424 
+
+--- Check #42 at 15:57:13 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=423 
+
+--- Check #43 at 15:58:25 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=422 
+
+--- Check #44 at 15:59:38 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=420 
+
+--- Check #45 at 16:00:51 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=419 
+
+--- Check #46 at 16:02:05 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=418 
+
+--- Check #47 at 16:03:18 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=417 
+
+--- Check #48 at 16:04:30 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=415 
+
+--- Check #49 at 16:05:43 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=414 
+
+--- Check #50 at 16:06:57 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=413 
+
+--- Check #51 at 16:08:13 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=412 
+
+--- Check #52 at 16:09:26 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=411 
+
+--- Check #53 at 16:10:39 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=409 
+
+--- Check #54 at 16:11:52 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=408 
+
+--- Check #55 at 16:13:05 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=407 
+
+--- Check #56 at 16:14:18 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=406 
+
+--- Check #57 at 16:15:31 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=404 
+
+--- Check #58 at 16:16:44 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=403 
+
+--- Check #59 at 16:17:57 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=402 
+
+--- Check #60 at 16:19:10 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=401 
+
+--- Check #61 at 16:20:23 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=400 
+
+--- Check #62 at 16:21:37 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=398 
+
+--- Check #63 at 16:22:52 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=397 
+
+--- Check #64 at 16:24:05 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=396 
+
+--- Check #65 at 16:25:18 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=395 
+
+--- Check #66 at 16:26:31 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=393 
+
+--- Check #67 at 16:27:44 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=392 
+
+--- Check #68 at 16:28:58 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=391 
+
+--- Check #69 at 16:30:10 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=390 
+
+--- Check #70 at 16:31:23 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=389 
+
+--- Check #71 at 16:32:36 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=387 
+
+--- Check #72 at 16:33:48 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=386 
+
+--- Check #73 at 16:35:02 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=385 
+
+--- Check #74 at 16:36:15 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=384 
+
+--- Check #75 at 16:37:28 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=383 
+
+--- Check #76 at 16:38:41 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=381 
+
+--- Check #77 at 16:39:53 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=380 
+
+--- Check #78 at 16:41:06 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=379 
+
+--- Check #79 at 16:42:19 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=378 
+
+--- Check #80 at 16:43:33 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=376 
+
+--- Check #81 at 16:44:46 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=375 
+
+--- Check #82 at 16:45:59 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=374 
+
+--- Check #83 at 16:47:12 UTC ---
+  Balance: $56.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=373 
+
+--- Check #84 at 16:48:25 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=372 
+
+--- Check #85 at 16:49:38 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=370 
+
+--- Check #86 at 16:50:51 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=369 
+
+--- Check #87 at 16:52:05 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=368 
+
+--- Check #88 at 16:53:18 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=367 
+
+--- Check #89 at 16:54:31 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=365 
+
+--- Check #90 at 16:55:44 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=364 
+
+--- Check #91 at 16:56:58 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=363 
+
+--- Check #92 at 16:58:11 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=362 
+
+--- Check #93 at 16:59:23 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=361 
+
+--- Check #94 at 17:00:36 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=359 
+
+--- Check #95 at 17:01:49 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=358 
+
+--- Check #96 at 17:03:02 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=357 
+
+--- Check #97 at 17:04:15 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=356 
+
+--- Check #98 at 17:05:27 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=355 
+
+--- Check #99 at 17:06:40 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=353 
+
+--- Check #100 at 17:07:53 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=352 
+
+--- Check #101 at 17:09:06 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=351 
+
+--- Check #102 at 17:10:19 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=350 
+
+--- Check #103 at 17:11:32 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=348 
+
+--- Check #104 at 17:12:44 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=347 
+
+--- Check #105 at 17:13:57 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=346 
+
+--- Check #106 at 17:15:10 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=345 
+
+--- Check #107 at 17:16:23 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=344 
+
+--- Check #108 at 17:17:36 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=342 
+
+--- Check #109 at 17:18:49 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=341 
+
+--- Check #110 at 17:20:02 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=340 
+
+--- Check #111 at 17:21:15 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=339 
+
+--- Check #112 at 17:22:28 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=338 
+
+--- Check #113 at 17:23:42 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=336 
+
+--- Check #114 at 17:24:55 UTC ---
+  Balance: $51.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=335 
+
+--- Check #115 at 17:26:10 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=334 
+
+--- Check #116 at 17:27:23 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=333 
+
+--- Check #117 at 17:28:36 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=331 
+
+--- Check #118 at 17:29:50 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=330 
+
+--- Check #119 at 17:31:03 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=329 
+
+--- Check #120 at 17:32:16 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=328 
+
+--- Check #121 at 17:33:29 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=327 
+
+--- Check #122 at 17:34:42 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=325 
+
+--- Check #123 at 17:35:55 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=324 
+
+--- Check #124 at 17:37:09 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=323 
+
+--- Check #125 at 17:38:22 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=322 
+
+--- Check #126 at 17:39:35 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=320 
+
+--- Check #127 at 17:40:48 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=319 
+
+--- Check #128 at 17:42:01 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=318 
+
+--- Check #129 at 17:43:14 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=317 
+
+--- Check #130 at 17:44:27 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=316 
+
+--- Check #131 at 17:45:39 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=314 
+
+--- Check #132 at 17:46:52 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=313 
+
+--- Check #133 at 17:48:05 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=312 
+
+--- Check #134 at 17:49:18 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=311 
+
+--- Check #135 at 17:50:31 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=309 
+
+--- Check #136 at 17:51:45 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=308 
+
+--- Check #137 at 17:52:58 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=307 
+
+--- Check #138 at 17:54:11 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=306 
+
+--- Check #139 at 17:55:24 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=305 
+
+--- Check #140 at 17:56:38 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=303 
+
+--- Check #141 at 17:57:51 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=302 
+
+--- Check #142 at 17:59:04 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=301 
+
+--- Check #143 at 18:00:17 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=300 
+
+--- Check #144 at 18:01:30 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=298 
+
+--- Check #145 at 18:02:43 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=297 
+
+--- Check #146 at 18:03:56 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=296 
+
+--- Check #147 at 18:05:09 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=295 
+
+--- Check #148 at 18:06:23 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=294 
+
+--- Check #149 at 18:07:36 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=292 
+
+--- Check #150 at 18:08:49 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=291 
+
+--- Check #151 at 18:10:02 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=290 
+
+--- Check #152 at 18:11:15 UTC ---
+  Balance: $61.76
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=289 
+
+--- Check #153 at 18:12:27 UTC ---
+  Balance: $49.77
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=288 
+
+--- Check #154 at 18:13:40 UTC ---
+  Balance: $49.77
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=286 
+
+--- Check #155 at 18:14:53 UTC ---
+  Balance: $49.77
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=285 
+
+--- Check #156 at 18:16:05 UTC ---
+  Balance: $49.77
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=284 
+
+--- Check #157 at 18:17:18 UTC ---
+  Balance: $49.77
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=283 
+
+--- Check #158 at 18:18:31 UTC ---
+  Balance: $49.77
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=281 
+
+--- Check #159 at 18:19:44 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=280 
+
+--- Check #160 at 18:20:58 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=279 
+
+--- Check #161 at 18:22:10 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=278 
+
+--- Check #162 at 18:23:24 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=277 
+
+--- Check #163 at 18:24:37 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=275 
+
+--- Check #164 at 18:25:51 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=274 
+
+--- Check #165 at 18:27:04 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=273 
+
+--- Check #166 at 18:28:17 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=272 
+
+--- Check #167 at 18:29:30 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=270 
+
+--- Check #168 at 18:30:42 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=269 
+
+--- Check #169 at 18:31:55 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=268 
+
+--- Check #170 at 18:33:08 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=267 
+
+--- Check #171 at 18:34:21 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=266 
+
+--- Check #172 at 18:35:36 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=264 
+
+--- Check #173 at 18:36:49 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=263 
+
+--- Check #174 at 18:38:02 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=262 
+
+--- Check #175 at 18:39:15 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=261 
+
+--- Check #176 at 18:40:28 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=260 
+
+--- Check #177 at 18:41:41 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=258 
+
+--- Check #178 at 18:42:54 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=257 
+
+--- Check #179 at 18:44:07 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=256 
+
+--- Check #180 at 18:45:20 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=255 
+
+--- Check #181 at 18:46:34 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=253 
+
+--- Check #182 at 18:47:47 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=252 
+
+--- Check #183 at 18:49:00 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=251 
+
+--- Check #184 at 18:50:14 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=250 
+
+--- Check #185 at 18:51:26 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=249 
+
+--- Check #186 at 18:52:39 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=247 
+
+--- Check #187 at 18:53:52 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=246 
+
+--- Check #188 at 18:55:05 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=245 
+
+--- Check #189 at 18:56:18 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=244 
+
+--- Check #190 at 18:57:31 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=242 
+
+--- Check #191 at 18:58:44 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=241 
+
+--- Check #192 at 18:59:57 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=240 
+
+--- Check #193 at 19:01:10 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=239 
+
+--- Check #194 at 19:02:23 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=238 
+
+--- Check #195 at 19:03:36 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=236 
+
+--- Check #196 at 19:04:48 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=235 
+
+--- Check #197 at 19:06:01 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=234 
+
+--- Check #198 at 19:07:14 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=233 
+
+--- Check #199 at 19:08:27 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=232 
+
+--- Check #200 at 19:09:40 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=230 
+
+--- Check #201 at 19:10:53 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=229 
+
+--- Check #202 at 19:12:07 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=228 
+
+--- Check #203 at 19:13:21 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=227 
+
+--- Check #204 at 19:14:34 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=225 
+
+--- Check #205 at 19:15:47 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=224 
+
+--- Check #206 at 19:17:00 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=223 
+
+--- Check #207 at 19:18:13 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=222 
+
+--- Check #208 at 19:19:26 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=221 
+
+--- Check #209 at 19:20:40 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=219 
+
+--- Check #210 at 19:21:53 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=218 
+
+--- Check #211 at 19:23:07 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=217 
+
+--- Check #212 at 19:24:21 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=216 
+
+--- Check #213 at 19:25:34 UTC ---
+  Balance: $46.02
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=214 
+
+--- Check #214 at 19:26:47 UTC ---
+  Balance: $36.83
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=213 
+
+--- Check #215 at 19:28:01 UTC ---
+  Balance: $36.83
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=212 
+
+--- Check #216 at 19:29:14 UTC ---
+  Balance: $36.83
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=211 
+
+--- Check #217 at 19:30:27 UTC ---
+  Balance: $36.83
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=210 
+
+--- Check #218 at 19:31:41 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=208 
+
+--- Check #219 at 19:32:54 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=207 
+
+--- Check #220 at 19:34:07 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=206 
+
+--- Check #221 at 19:35:20 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=205 
+
+--- Check #222 at 19:36:33 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=203 
+
+--- Check #223 at 19:37:46 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=202 
+
+--- Check #224 at 19:39:00 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=201 
+
+--- Check #225 at 19:40:13 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=200 
+
+--- Check #226 at 19:41:27 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=199 
+
+--- Check #227 at 19:42:40 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=197 
+
+--- Check #228 at 19:43:53 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=196 
+
+--- Check #229 at 19:45:06 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=195 
+
+--- Check #230 at 19:46:20 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=194 
+
+--- Check #231 at 19:47:35 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=192 
+
+--- Check #232 at 19:48:49 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=191 
+
+--- Check #233 at 19:50:03 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=190 
+
+--- Check #234 at 19:51:17 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=189 
+
+--- Check #235 at 19:52:30 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=187 
+
+--- Check #236 at 19:53:43 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=186 
+
+--- Check #237 at 19:54:56 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=185 
+
+--- Check #238 at 19:56:08 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=184 
+
+--- Check #239 at 19:57:22 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=183 
+
+--- Check #240 at 19:58:34 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=181 
+
+--- Check #241 at 19:59:50 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=180 
+
+--- Check #242 at 20:01:03 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=179 
+
+--- Check #243 at 20:02:16 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=178 
+
+--- Check #244 at 20:03:30 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=176 
+
+--- Check #245 at 20:04:43 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=175 
+
+--- Check #246 at 20:05:56 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=174 
+
+--- Check #247 at 20:07:09 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=173 
+
+--- Check #248 at 20:08:21 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=172 
+
+--- Check #249 at 20:09:34 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=170 
+
+--- Check #250 at 20:10:48 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=169 
+
+--- Check #251 at 20:12:01 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=168 
+
+--- Check #252 at 20:13:14 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=167 
+
+--- Check #253 at 20:14:27 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=166 
+
+--- Check #254 at 20:15:40 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=164 
+
+--- Check #255 at 20:16:53 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=163 
+
+--- Check #256 at 20:18:06 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=162 
+
+--- Check #257 at 20:19:19 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=161 
+
+--- Check #258 at 20:20:32 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=159 
+
+--- Check #259 at 20:21:46 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=158 
+
+--- Check #260 at 20:22:59 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=157 
+
+--- Check #261 at 20:24:12 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=156 
+
+--- Check #262 at 20:25:26 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=155 
+
+--- Check #263 at 20:26:39 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=153 
+
+--- Check #264 at 20:27:52 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=152 
+
+--- Check #265 at 20:29:05 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=151 
+
+--- Check #266 at 20:30:19 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=150 
+
+--- Check #267 at 20:31:32 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=148 
+
+--- Check #268 at 20:32:45 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=147 
+
+--- Check #269 at 20:33:59 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=146 
+
+--- Check #270 at 20:35:12 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=145 
+
+--- Check #271 at 20:36:25 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=144 
+
+--- Check #272 at 20:37:40 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=142 
+
+--- Check #273 at 20:38:53 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=141 
+
+--- Check #274 at 20:40:06 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=140 
+
+--- Check #275 at 20:41:19 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=139 
+
+--- Check #276 at 20:42:32 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=137 
+
+--- Check #277 at 20:43:45 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=136 
+
+--- Check #278 at 20:44:58 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=135 
+
+--- Check #279 at 20:46:11 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=134 
+
+--- Check #280 at 20:47:24 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=133 
+
+--- Check #281 at 20:48:37 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=131 
+
+--- Check #282 at 20:49:50 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=130 
+
+--- Check #283 at 20:51:03 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=129 
+
+--- Check #284 at 20:52:15 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=128 
+
+--- Check #285 at 20:53:28 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=127 
+
+--- Check #286 at 20:54:41 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=125 
+
+--- Check #287 at 20:55:54 UTC ---
+  Balance: $32.18
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=124 
+
+--- Check #288 at 20:57:06 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=123 
+
+--- Check #289 at 20:58:20 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=122 
+
+--- Check #290 at 20:59:33 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=120 
+
+--- Check #291 at 21:00:46 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=119 
+
+--- Check #292 at 21:01:59 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=118 
+
+--- Check #293 at 21:03:11 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=117 
+
+--- Check #294 at 21:04:24 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=116 
+
+--- Check #295 at 21:05:37 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=114 
+
+--- Check #296 at 21:06:50 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=113 
+
+--- Check #297 at 21:08:03 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=112 
+
+--- Check #298 at 21:09:15 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=111 
+
+--- Check #299 at 21:10:28 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=110 
+
+--- Check #300 at 21:11:41 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=108 
+
+--- Check #301 at 21:12:56 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=107 
+
+--- Check #302 at 21:14:08 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=106 
+
+--- Check #303 at 21:15:21 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=105 
+
+--- Check #304 at 21:16:34 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=103 
+
+--- Check #305 at 21:17:47 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=102 
+
+--- Check #306 at 21:19:00 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=101 
+
+--- Check #307 at 21:20:13 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=100 
+
+--- Check #308 at 21:21:26 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=99 
+
+--- Check #309 at 21:22:39 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=97 
+
+--- Check #310 at 21:23:52 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=96 
+
+--- Check #311 at 21:25:04 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=95 
+
+--- Check #312 at 21:26:17 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=94 
+
+--- Check #313 at 21:27:30 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=92 
+
+--- Check #314 at 21:28:42 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=91 
+
+--- Check #315 at 21:29:55 UTC ---
+  Balance: $30.92
+  Kings: PolyApiException[status_code=None, error_message=Request exception!]
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=90 
+
+--- Check #316 at 21:31:13 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=89 
+
+--- Check #317 at 21:32:25 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=88 
+
+--- Check #318 at 21:33:38 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=86 
+
+--- Check #319 at 21:34:50 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=85 
+
+--- Check #320 at 21:36:03 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=84 
+
+--- Check #321 at 21:37:16 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=83 
+
+--- Check #322 at 21:38:28 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=82 
+
+--- Check #323 at 21:39:41 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=80 
+
+--- Check #324 at 21:40:54 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=79 
+
+--- Check #325 at 21:42:07 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=78 
+
+--- Check #326 at 21:43:19 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=77 
+
+--- Check #327 at 21:44:32 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=75 
+
+--- Check #328 at 21:45:45 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=74 
+
+--- Check #329 at 21:46:58 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=73 
+
+--- Check #330 at 21:48:10 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=72 
+
+--- Check #331 at 21:49:23 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=71 
+
+--- Check #332 at 21:50:36 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=69 
+
+--- Check #333 at 21:51:49 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=68 
+
+--- Check #334 at 21:53:01 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=67 
+
+--- Check #335 at 21:54:14 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=66 
+
+--- Check #336 at 21:55:27 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=65 
+
+--- Check #337 at 21:56:40 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=63 
+
+--- Check #338 at 21:57:53 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=62 
+
+--- Check #339 at 21:59:05 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=61 
+
+--- Check #340 at 22:00:18 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=60 
+
+--- Check #341 at 22:01:32 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=58 
+
+--- Check #342 at 22:02:45 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=57 
+
+--- Check #343 at 22:03:58 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=56 
+
+--- Check #344 at 22:05:11 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=55 
+
+--- Check #345 at 22:06:24 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=54 
+
+--- Check #346 at 22:07:37 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=52 
+
+--- Check #347 at 22:08:49 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=51 
+
+--- Check #348 at 22:10:02 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=50 
+
+--- Check #349 at 22:11:15 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=49 
+
+--- Check #350 at 22:12:28 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=48 
+
+--- Check #351 at 22:13:41 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=46 
+
+--- Check #352 at 22:14:54 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=45 
+
+--- Check #353 at 22:16:07 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=44 
+
+--- Check #354 at 22:17:20 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=43 
+
+--- Check #355 at 22:18:33 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=41 
+
+--- Check #356 at 22:19:46 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=40 
+
+--- Check #357 at 22:20:59 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=39 
+
+--- Check #358 at 22:22:12 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=38 
+
+--- Check #359 at 22:23:24 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=37 
+
+--- Check #360 at 22:24:37 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=35 
+
+--- Check #361 at 22:25:50 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=34 
+
+--- Check #362 at 22:27:03 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=33 
+
+--- Check #363 at 22:28:15 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=32 
+
+--- Check #364 at 22:29:28 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=31 
+
+--- Check #365 at 22:30:41 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=29 
+
+--- Check #366 at 22:31:54 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=28 
+
+--- Check #367 at 22:33:07 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=27 
+
+--- Check #368 at 22:34:19 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=26 
+
+--- Check #369 at 22:35:32 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=24 
+
+--- Check #370 at 22:36:44 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=23 
+
+--- Check #371 at 22:37:57 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=22 
+
+--- Check #372 at 22:39:09 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=21 
+
+--- Check #373 at 22:40:22 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=20 
+
+--- Check #374 at 22:41:35 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=18 
+
+--- Check #375 at 22:42:48 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=17 
+
+--- Check #376 at 22:44:01 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=16 
+
+--- Check #377 at 22:45:13 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=15 
+
+--- Check #378 at 22:46:26 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=14 
+
+--- Check #379 at 22:47:39 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=12 
+
+--- Check #380 at 22:48:52 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=11 
+
+--- Check #381 at 22:50:05 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=10 
+
+--- Check #382 at 22:51:17 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=9 
+
+--- Check #383 at 22:52:30 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=7 
+
+--- Check #384 at 22:53:43 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=6 
+
+--- Check #385 at 22:54:56 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=5 
+
+--- Check #386 at 22:56:09 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=4 
+
+--- Check #387 at 22:57:21 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=3 
+
+--- Check #388 at 22:58:34 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=1 
+
+--- Check #389 at 22:59:47 UTC ---
+  Balance: $30.92
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=0 
+
+--- Check #390 at 23:01:00 UTC ---
+  Balance: $15.32
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=-1 
+
+--- Check #391 at 23:02:12 UTC ---
+  Balance: $15.32
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=-2 
+
+--- Check #392 at 23:03:25 UTC ---
+  Balance: $15.32
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=-3 
+
+--- Check #393 at 23:04:38 UTC ---
+  Balance: $15.32
+  Hornets        buy=0.930 sell=0.940 spread=-0.010 jump=+0.010 mins=-5 

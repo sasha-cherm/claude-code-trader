@@ -1,0 +1,997 @@
+[LIVE] === BTC 15-min Fair-Value MM — LIVE TRADING ===
+[LIVE] UTC: 2026-05-14 13:25:57.105359+00:00
+[LIVE] size=dynamic (min 5, +1 per $20 > $100)  poll=1.0s  maker-only  improve=0.0
+[LIVE] No sell orders will be placed — user resolves manually
+[LIVE] Killing old instance PID 90256
+[py_clob_client_v2] request error status=400 url=https://clob.polymarket.com/auth/api-key body={"error":"Could not create api key"}
+
+[py_clob_client_v2] request error status=400 url=https://clob.polymarket.com/auth/api-key body={"error":"Could not create api key"}
+
+[LIVE] USDC balance: $199.33
+[REDEEM] Relayer ready (PROXY tx type, key=019dd8ae...)
+[LIVE] Current candle not confirmed (240s to start)
+[LIVE] Current candle not confirmed (230s to start)
+[LIVE] Current candle not confirmed (219s to start)
+[LIVE] Current candle not confirmed (209s to start)
+[LIVE] Current candle not confirmed (198s to start)
+[LIVE] Current candle not confirmed (188s to start)
+[LIVE] Current candle not confirmed (177s to start)
+[LIVE] Current candle not confirmed (167s to start)
+[LIVE] Current candle not confirmed (156s to start)
+[LIVE] Current candle not confirmed (145s to start)
+[LIVE] Current candle not confirmed (135s to start)
+[LIVE] Current candle not confirmed (124s to start)
+[LIVE] Current candle not confirmed (114s to start)
+[LIVE] Current candle not confirmed (103s to start)
+[LIVE] Current candle not confirmed (93s to start)
+[LIVE] Current candle not confirmed (82s to start)
+[LIVE] Current candle not confirmed (72s to start)
+[FV] Current candle effectively UP (bid=0.96, 61s left)
+[LIVE] No signal for 6xUP (not in table) — skip
+[LIVE] Current candle not confirmed (840s to start)
+[LIVE] Current candle not confirmed (830s to start)
+[LIVE] Current candle not confirmed (820s to start)
+[LIVE] Current candle not confirmed (809s to start)
+[LIVE] Current candle not confirmed (799s to start)
+[LIVE] Current candle not confirmed (789s to start)
+[LIVE] Current candle not confirmed (779s to start)
+[LIVE] Current candle not confirmed (769s to start)
+[LIVE] Current candle not confirmed (759s to start)
+[LIVE] Current candle not confirmed (748s to start)
+[LIVE] Current candle not confirmed (738s to start)
+[LIVE] Current candle not confirmed (728s to start)
+[LIVE] Current candle not confirmed (718s to start)
+[LIVE] Current candle not confirmed (708s to start)
+[LIVE] Current candle not confirmed (697s to start)
+[LIVE] Current candle not confirmed (687s to start)
+[LIVE] Current candle not confirmed (677s to start)
+[LIVE] Current candle not confirmed (667s to start)
+[LIVE] Current candle not confirmed (657s to start)
+[LIVE] Current candle not confirmed (647s to start)
+[LIVE] Current candle not confirmed (636s to start)
+[LIVE] Current candle not confirmed (626s to start)
+[LIVE] Current candle not confirmed (616s to start)
+[LIVE] Current candle not confirmed (606s to start)
+[LIVE] Current candle not confirmed (596s to start)
+[LIVE] Current candle not confirmed (586s to start)
+[LIVE] Current candle not confirmed (575s to start)
+[LIVE] Current candle not confirmed (565s to start)
+[LIVE] Current candle not confirmed (555s to start)
+[LIVE] Current candle not confirmed (545s to start)
+[LIVE] Current candle not confirmed (535s to start)
+[LIVE] Current candle not confirmed (525s to start)
+[LIVE] Current candle not confirmed (514s to start)
+[LIVE] Current candle not confirmed (504s to start)
+[LIVE] Current candle not confirmed (494s to start)
+[LIVE] Current candle not confirmed (484s to start)
+[LIVE] Current candle not confirmed (474s to start)
+[LIVE] Current candle not confirmed (463s to start)
+[LIVE] Current candle not confirmed (453s to start)
+[LIVE] Current candle not confirmed (443s to start)
+[LIVE] Current candle not confirmed (433s to start)
+[LIVE] Current candle not confirmed (423s to start)
+[LIVE] Current candle not confirmed (413s to start)
+[LIVE] Current candle not confirmed (402s to start)
+[LIVE] Current candle not confirmed (392s to start)
+[LIVE] Current candle not confirmed (382s to start)
+[LIVE] Current candle not confirmed (372s to start)
+[LIVE] Current candle not confirmed (362s to start)
+[LIVE] Current candle not confirmed (351s to start)
+[LIVE] Current candle not confirmed (341s to start)
+[LIVE] Current candle not confirmed (331s to start)
+[LIVE] Current candle not confirmed (321s to start)
+[LIVE] Current candle not confirmed (311s to start)
+[LIVE] Current candle not confirmed (301s to start)
+[LIVE] Current candle not confirmed (290s to start)
+[LIVE] Current candle not confirmed (280s to start)
+[LIVE] Current candle not confirmed (269s to start)
+[LIVE] Current candle not confirmed (259s to start)
+[FV] Current candle effectively DN (bid=0.95, 249s left)
+
+[LIVE] =======================================================
+[LIVE] Bitcoin Up or Down - May 14, 9:45AM-10:00AM ET
+[LIVE] streak=1xDN  rsi=54.18
+[LIVE] fair: UP=0.508 DN=0.492
+[LIVE] target: UP@0.50 DN@0.48 (improve=0.0)
+[LIVE] USDC: $208.33 | Size: 10.0
+[UP] BUY 10sh @ 0.48  oid=0xb2139ad735cc8a96a97439709b6066be0532ce20f977a895695a9c637e856e75
+[LIVE] UP placed @ 0.48  (target=0.50, best_ask=0.49) (improved)
+[DN] BUY 10sh @ 0.48  oid=0x98b3f71b9ba1b7b84a1836b3eec1fb8f6e3b11fd6c2b967d3d1c845ad946f2f9
+[LIVE] DN placed @ 0.48  (target=0.48, best_ask=0.52)
+[LIVE] UP:open@0.48 | DN:open@0.48 | 236s to start
+[LIVE] UP:open@0.48 | DN:open@0.48 | 224s to start
+[LIVE] UP:open@0.48 | DN:open@0.48 | 213s to start
+[LIVE] UP:open@0.48 | DN:open@0.48 | 201s to start
+[LIVE] UP:open@0.48 | DN:open@0.48 | 188s to start
+[LIVE] UP:open@0.48 | DN:open@0.48 | 175s to start
+[LIVE] UP:open@0.48 | DN:open@0.48 | 163s to start
+[LIVE] UP:open@0.48 | DN:open@0.48 | 152s to start
+[LIVE] UP:open@0.48 | DN:open@0.48 | 140s to start
+[LIVE] UP:open@0.48 | DN:open@0.48 | 129s to start
+[LIVE] UP:open@0.48 | DN:open@0.48 | 117s to start
+[LIVE] UP:open@0.48 | DN:open@0.48 | 105s to start
+[LIVE] UP:open@0.48 | DN:open@0.48 | 94s to start
+[LIVE] UP:open@0.48 | DN:open@0.48 | 82s to start
+[LIVE] UP:open@0.48 | DN:open@0.48 | 71s to start
+[LIVE] UP:open@0.48 | DN:open@0.48 | 59s to start
+[LIVE] UP:open@0.48 | DN:open@0.48 | 48s to start
+[LIVE] UP:open@0.48 | DN:open@0.48 | 36s to start
+[LIVE] UP FILLED @ 0.48
+[LIVE] UP:FILLED@0.48 | DN:open@0.48 | 21s to start
+[LIVE] UP:FILLED@0.48 | DN:open@0.48 | 10s to start
+[DN] cancelled 0x98b3f71b9ba1b7...
+[LIVE] candle done: UP@0.48
+[LIVE] Current candle not confirmed (840s to start)
+[LIVE] Current candle not confirmed (830s to start)
+[LIVE] Current candle not confirmed (819s to start)
+[LIVE] Current candle not confirmed (809s to start)
+[LIVE] Current candle not confirmed (799s to start)
+[LIVE] Current candle not confirmed (789s to start)
+[LIVE] Current candle not confirmed (779s to start)
+[LIVE] Current candle not confirmed (769s to start)
+[LIVE] Current candle not confirmed (758s to start)
+[LIVE] Current candle not confirmed (748s to start)
+[LIVE] Current candle not confirmed (738s to start)
+[LIVE] Current candle not confirmed (728s to start)
+[LIVE] Current candle not confirmed (718s to start)
+[LIVE] Current candle not confirmed (708s to start)
+[LIVE] Current candle not confirmed (697s to start)
+[LIVE] Current candle not confirmed (687s to start)
+[LIVE] Current candle not confirmed (677s to start)
+[LIVE] Current candle not confirmed (667s to start)
+[LIVE] Current candle not confirmed (657s to start)
+[LIVE] Current candle not confirmed (646s to start)
+[LIVE] Current candle not confirmed (636s to start)
+[LIVE] Current candle not confirmed (626s to start)
+[LIVE] Current candle not confirmed (616s to start)
+[LIVE] Current candle not confirmed (606s to start)
+[LIVE] Current candle not confirmed (596s to start)
+[LIVE] Current candle not confirmed (585s to start)
+[LIVE] Current candle not confirmed (575s to start)
+[LIVE] Current candle not confirmed (565s to start)
+[LIVE] Current candle not confirmed (555s to start)
+[LIVE] Current candle not confirmed (545s to start)
+[LIVE] Current candle not confirmed (535s to start)
+[LIVE] Current candle not confirmed (524s to start)
+[LIVE] Current candle not confirmed (514s to start)
+[LIVE] Current candle not confirmed (504s to start)
+[LIVE] Current candle not confirmed (494s to start)
+[LIVE] Current candle not confirmed (484s to start)
+[LIVE] Current candle not confirmed (474s to start)
+[LIVE] Current candle not confirmed (463s to start)
+[LIVE] Current candle not confirmed (453s to start)
+[LIVE] Current candle not confirmed (443s to start)
+[LIVE] Current candle not confirmed (433s to start)
+[LIVE] Current candle not confirmed (423s to start)
+[LIVE] Current candle not confirmed (413s to start)
+[LIVE] Current candle not confirmed (402s to start)
+[LIVE] Current candle not confirmed (392s to start)
+[LIVE] Current candle not confirmed (382s to start)
+[LIVE] Current candle not confirmed (372s to start)
+[LIVE] Current candle not confirmed (362s to start)
+[LIVE] Current candle not confirmed (352s to start)
+[LIVE] Current candle not confirmed (341s to start)
+[LIVE] Current candle not confirmed (331s to start)
+[LIVE] Current candle not confirmed (321s to start)
+[LIVE] Current candle not confirmed (311s to start)
+[LIVE] Current candle not confirmed (301s to start)
+[LIVE] Current candle not confirmed (291s to start)
+[LIVE] Current candle not confirmed (280s to start)
+[LIVE] Current candle not confirmed (270s to start)
+[LIVE] Current candle not confirmed (259s to start)
+[LIVE] Current candle not confirmed (248s to start)
+[LIVE] Current candle not confirmed (237s to start)
+[LIVE] Current candle not confirmed (226s to start)
+[LIVE] Current candle not confirmed (216s to start)
+[FV] Current candle effectively UP (bid=0.95, 206s left)
+
+[LIVE] =======================================================
+[LIVE] Bitcoin Up or Down - May 14, 10:00AM-10:15AM ET
+[LIVE] streak=1xUP  rsi=62.06
+[LIVE] fair: UP=0.464 DN=0.536
+[LIVE] target: UP@0.45 DN@0.53 (improve=0.0)
+[LIVE] USDC: $203.53 | Size: 10.0
+[UP] BUY 10sh @ 0.45  oid=0xc14133c783c3cdf6c0cc17fd3a4e3a873134306dbb4b0c09b69ce4a8132cf09b
+[LIVE] UP placed @ 0.45  (target=0.45, best_ask=0.50)
+[DN] BUY 10sh @ 0.50  oid=0xafedac7f9524546fc3b56feea958511b9db6ae1841672f014bbacb21e6e86870
+[LIVE] DN placed @ 0.50  (target=0.53, best_ask=0.51) (improved)
+[LIVE] UP:open@0.45 | DN:open@0.50 | 193s to start
+[LIVE] UP:open@0.45 | DN:open@0.50 | 182s to start
+[LIVE] UP:open@0.45 | DN:open@0.50 | 170s to start
+[LIVE] UP:open@0.45 | DN:open@0.50 | 159s to start
+[LIVE] UP:open@0.45 | DN:open@0.50 | 148s to start
+[LIVE] UP:open@0.45 | DN:open@0.50 | 136s to start
+[LIVE] DN FILLED @ 0.50
+[LIVE] UP:open@0.45 | DN:FILLED@0.50 | 121s to start
+[LIVE] UP:open@0.45 | DN:FILLED@0.50 | 110s to start
+[LIVE] UP:open@0.45 | DN:FILLED@0.50 | 99s to start
+[LIVE] UP:open@0.45 | DN:FILLED@0.50 | 89s to start
+[LIVE] UP:open@0.45 | DN:FILLED@0.50 | 78s to start
+[LIVE] UP:open@0.45 | DN:FILLED@0.50 | 67s to start
+[LIVE] UP:open@0.45 | DN:FILLED@0.50 | 56s to start
+[LIVE] UP:open@0.45 | DN:FILLED@0.50 | 46s to start
+[LIVE] UP:open@0.45 | DN:FILLED@0.50 | 35s to start
+[LIVE] UP:open@0.45 | DN:FILLED@0.50 | 24s to start
+[LIVE] UP:open@0.45 | DN:FILLED@0.50 | 13s to start
+[LIVE] UP:open@0.45 | DN:FILLED@0.50 | 3s to start
+[UP] cancelled 0xc14133c783c3cd...
+[LIVE] candle done: DN@0.50
+[LIVE] Current candle not confirmed (840s to start)
+[LIVE] Current candle not confirmed (830s to start)
+[LIVE] Current candle not confirmed (820s to start)
+[LIVE] Current candle not confirmed (809s to start)
+[LIVE] Current candle not confirmed (799s to start)
+[LIVE] Current candle not confirmed (789s to start)
+[LIVE] Current candle not confirmed (779s to start)
+[LIVE] Current candle not confirmed (769s to start)
+[LIVE] Current candle not confirmed (759s to start)
+[LIVE] Current candle not confirmed (748s to start)
+[LIVE] Current candle not confirmed (738s to start)
+[LIVE] Current candle not confirmed (728s to start)
+[LIVE] Current candle not confirmed (718s to start)
+[LIVE] Current candle not confirmed (708s to start)
+[LIVE] Current candle not confirmed (698s to start)
+[LIVE] Current candle not confirmed (687s to start)
+[LIVE] Current candle not confirmed (677s to start)
+[LIVE] Current candle not confirmed (667s to start)
+[LIVE] Current candle not confirmed (657s to start)
+[LIVE] Current candle not confirmed (647s to start)
+[LIVE] Current candle not confirmed (636s to start)
+[LIVE] Current candle not confirmed (626s to start)
+[LIVE] Current candle not confirmed (616s to start)
+[LIVE] Current candle not confirmed (606s to start)
+[LIVE] Current candle not confirmed (596s to start)
+[LIVE] Current candle not confirmed (586s to start)
+[LIVE] Current candle not confirmed (575s to start)
+[LIVE] Current candle not confirmed (565s to start)
+[LIVE] Current candle not confirmed (555s to start)
+[LIVE] Current candle not confirmed (545s to start)
+[LIVE] Current candle not confirmed (535s to start)
+[LIVE] Current candle not confirmed (525s to start)
+[LIVE] Current candle not confirmed (514s to start)
+[LIVE] Current candle not confirmed (504s to start)
+[LIVE] Current candle not confirmed (494s to start)
+[LIVE] Current candle not confirmed (484s to start)
+[LIVE] Current candle not confirmed (474s to start)
+[LIVE] Current candle not confirmed (464s to start)
+[LIVE] Current candle not confirmed (453s to start)
+[LIVE] Current candle not confirmed (443s to start)
+[LIVE] Current candle not confirmed (433s to start)
+[LIVE] Current candle not confirmed (423s to start)
+[LIVE] Current candle not confirmed (413s to start)
+[LIVE] Current candle not confirmed (403s to start)
+[LIVE] Current candle not confirmed (392s to start)
+[LIVE] Current candle not confirmed (382s to start)
+[LIVE] Current candle not confirmed (372s to start)
+[LIVE] Current candle not confirmed (362s to start)
+[LIVE] Current candle not confirmed (352s to start)
+[LIVE] Current candle not confirmed (342s to start)
+[LIVE] Current candle not confirmed (331s to start)
+[LIVE] Current candle not confirmed (321s to start)
+[LIVE] Current candle not confirmed (311s to start)
+[LIVE] Current candle not confirmed (301s to start)
+[LIVE] Current candle not confirmed (291s to start)
+[LIVE] Current candle not confirmed (280s to start)
+[LIVE] Current candle not confirmed (270s to start)
+[LIVE] Current candle not confirmed (259s to start)
+[LIVE] Current candle not confirmed (248s to start)
+[LIVE] Current candle not confirmed (238s to start)
+[LIVE] Current candle not confirmed (227s to start)
+[LIVE] Current candle not confirmed (217s to start)
+[LIVE] Current candle not confirmed (206s to start)
+[LIVE] Current candle not confirmed (196s to start)
+[FV] Current candle effectively UP (bid=0.95, 186s left)
+
+[LIVE] =======================================================
+[LIVE] Bitcoin Up or Down - May 14, 10:15AM-10:30AM ET
+[LIVE] streak=1xUP  rsi=56.45
+[LIVE] fair: UP=0.489 DN=0.511
+[LIVE] target: UP@0.48 DN@0.50 (improve=0.0)
+[LIVE] USDC: $198.53 | Size: 9.0
+[UP] BUY 9sh @ 0.48  oid=0x953e12d4d5e1f8b453265d78f8762f331e54cd887fe43e80afcd6fc784522de6
+[LIVE] UP placed @ 0.48  (target=0.48, best_ask=0.50)
+[DN] BUY 9sh @ 0.50  oid=0xbccb81f286e0b34a70bb7c63c63eebd149097baf545c8d720047d7e526ace494
+[LIVE] DN placed @ 0.50  (target=0.50, best_ask=0.51)
+[LIVE] UP:open@0.48 | DN:open@0.50 | 173s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 162s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 150s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 139s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 127s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 116s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 105s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 93s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 82s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 70s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 59s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 48s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 36s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 25s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 14s to start
+[LIVE] UP:open@0.48 | DN:open@0.50 | 2s to start
+[UP] cancelled 0x953e12d4d5e1f8...
+[DN] cancelled 0xbccb81f286e0b3...
+[LIVE] candle done: no fills
+[LIVE] Current candle not confirmed (840s to start)
+[LIVE] Current candle not confirmed (830s to start)
+[LIVE] Current candle not confirmed (819s to start)
+[LIVE] Current candle not confirmed (809s to start)
+[LIVE] Current candle not confirmed (799s to start)
+[LIVE] Current candle not confirmed (789s to start)
+[LIVE] Current candle not confirmed (779s to start)
+[LIVE] Current candle not confirmed (769s to start)
+[LIVE] Current candle not confirmed (758s to start)
+[LIVE] Current candle not confirmed (748s to start)
+[LIVE] Current candle not confirmed (738s to start)
+[LIVE] Current candle not confirmed (728s to start)
+[LIVE] Current candle not confirmed (718s to start)
+[LIVE] Current candle not confirmed (708s to start)
+[LIVE] Current candle not confirmed (697s to start)
+[LIVE] Current candle not confirmed (687s to start)
+[LIVE] Current candle not confirmed (677s to start)
+[LIVE] Current candle not confirmed (667s to start)
+[LIVE] Current candle not confirmed (657s to start)
+[LIVE] Current candle not confirmed (647s to start)
+[LIVE] Current candle not confirmed (636s to start)
+[LIVE] Current candle not confirmed (626s to start)
+[LIVE] Current candle not confirmed (616s to start)
+[LIVE] Current candle not confirmed (606s to start)
+[LIVE] Current candle not confirmed (596s to start)
+[LIVE] Current candle not confirmed (586s to start)
+[LIVE] Current candle not confirmed (575s to start)
+[LIVE] Current candle not confirmed (565s to start)
+[LIVE] Current candle not confirmed (555s to start)
+[LIVE] Current candle not confirmed (545s to start)
+[LIVE] Current candle not confirmed (535s to start)
+[LIVE] Current candle not confirmed (524s to start)
+[LIVE] Current candle not confirmed (514s to start)
+[LIVE] Current candle not confirmed (504s to start)
+[LIVE] Current candle not confirmed (494s to start)
+[LIVE] Current candle not confirmed (484s to start)
+[LIVE] Current candle not confirmed (474s to start)
+[LIVE] Current candle not confirmed (463s to start)
+[LIVE] Current candle not confirmed (453s to start)
+[LIVE] Current candle not confirmed (443s to start)
+[LIVE] Current candle not confirmed (433s to start)
+[LIVE] Current candle not confirmed (423s to start)
+[LIVE] Current candle not confirmed (413s to start)
+[LIVE] Current candle not confirmed (402s to start)
+[LIVE] Current candle not confirmed (392s to start)
+[LIVE] Current candle not confirmed (382s to start)
+[LIVE] Current candle not confirmed (372s to start)
+[LIVE] Current candle not confirmed (362s to start)
+[LIVE] Current candle not confirmed (352s to start)
+[LIVE] Current candle not confirmed (341s to start)
+[LIVE] Current candle not confirmed (331s to start)
+[LIVE] Current candle not confirmed (321s to start)
+[LIVE] Current candle not confirmed (311s to start)
+[LIVE] Current candle not confirmed (301s to start)
+[FV] Current candle effectively UP (bid=0.98, 291s left)
+
+[LIVE] =======================================================
+[LIVE] Bitcoin Up or Down - May 14, 10:30AM-10:45AM ET
+[LIVE] streak=2xUP  rsi=65.86
+[LIVE] fair: UP=0.459 DN=0.541
+[LIVE] target: UP@0.45 DN@0.53 (improve=0.0)
+[LIVE] USDC: $198.53 | Size: 9.0
+[UP] BUY 9sh @ 0.45  oid=0x9406062f01561c6657c8a9deecda553f9fbf41c1f5f0a9886e529ba3514e56d0
+[LIVE] UP placed @ 0.45  (target=0.45, best_ask=0.47)
+[DN] BUY 9sh @ 0.53  oid=0xfa2d49c5f346412dce5aef94b0f6588f3ca490ded25a74cf2ec805d3f03516f3
+[LIVE] DN placed @ 0.53  (target=0.53, best_ask=0.54)
+[LIVE] UP:open@0.45 | DN:open@0.53 | 278s to start
+[LIVE] UP:open@0.45 | DN:open@0.53 | 267s to start
+[LIVE] UP:open@0.45 | DN:open@0.53 | 255s to start
+[LIVE] UP:open@0.45 | DN:open@0.53 | 244s to start
+[LIVE] UP:open@0.45 | DN:open@0.53 | 232s to start
+[LIVE] UP:open@0.45 | DN:open@0.53 | 221s to start
+[LIVE] UP:open@0.45 | DN:open@0.53 | 209s to start
+[LIVE] UP:open@0.45 | DN:open@0.53 | 198s to start
+[LIVE] UP:open@0.45 | DN:open@0.53 | 186s to start
+[LIVE] UP:open@0.45 | DN:open@0.53 | 175s to start
+[LIVE] UP:open@0.45 | DN:open@0.53 | 163s to start
+[LIVE] UP:open@0.45 | DN:open@0.53 | 152s to start
+[LIVE] UP:open@0.45 | DN:open@0.53 | 141s to start
+[LIVE] UP:open@0.45 | DN:open@0.53 | 129s to start
+[LIVE] UP:open@0.45 | DN:open@0.53 | 118s to start
+[LIVE] UP:open@0.45 | DN:open@0.53 | 106s to start
+[LIVE] UP:open@0.45 | DN:open@0.53 | 95s to start
+[LIVE] DN FILLED @ 0.53
+[LIVE] UP:open@0.45 | DN:FILLED@0.53 | 81s to start
+[LIVE] UP:open@0.45 | DN:FILLED@0.53 | 71s to start
+[LIVE] UP:open@0.45 | DN:FILLED@0.53 | 60s to start
+[LIVE] UP:open@0.45 | DN:FILLED@0.53 | 49s to start
+[LIVE] UP:open@0.45 | DN:FILLED@0.53 | 38s to start
+[LIVE] UP:open@0.45 | DN:FILLED@0.53 | 28s to start
+[LIVE] UP:open@0.45 | DN:FILLED@0.53 | 17s to start
+[LIVE] UP:open@0.45 | DN:FILLED@0.53 | 6s to start
+[UP] cancelled 0x9406062f01561c...
+[LIVE] candle done: DN@0.53
+[REDEEM] Found 2 conditionIds, 2 positions, ~$0.00 payout. Batching into groups of 3.
+[REDEEM] batch 1: 2 cids submitted tx=0x63e955f13e1b049b
+[LIVE] Current candle not confirmed (840s to start)
+[LIVE] Current candle not confirmed (830s to start)
+[LIVE] Current candle not confirmed (819s to start)
+[LIVE] Current candle not confirmed (809s to start)
+[LIVE] Current candle not confirmed (799s to start)
+[LIVE] Current candle not confirmed (789s to start)
+[LIVE] Current candle not confirmed (779s to start)
+[LIVE] Current candle not confirmed (769s to start)
+[LIVE] Current candle not confirmed (758s to start)
+[LIVE] Current candle not confirmed (748s to start)
+[LIVE] Current candle not confirmed (738s to start)
+[LIVE] Current candle not confirmed (728s to start)
+[LIVE] Current candle not confirmed (718s to start)
+[LIVE] Current candle not confirmed (708s to start)
+[LIVE] Current candle not confirmed (697s to start)
+[LIVE] Current candle not confirmed (687s to start)
+[LIVE] Current candle not confirmed (677s to start)
+[LIVE] Current candle not confirmed (667s to start)
+[LIVE] Current candle not confirmed (657s to start)
+[LIVE] Current candle not confirmed (647s to start)
+[LIVE] Current candle not confirmed (636s to start)
+[LIVE] Current candle not confirmed (626s to start)
+[LIVE] Current candle not confirmed (616s to start)
+[LIVE] Current candle not confirmed (606s to start)
+[LIVE] Current candle not confirmed (596s to start)
+[LIVE] Current candle not confirmed (586s to start)
+[LIVE] Current candle not confirmed (575s to start)
+[LIVE] Current candle not confirmed (565s to start)
+[LIVE] Current candle not confirmed (555s to start)
+[LIVE] Current candle not confirmed (545s to start)
+[LIVE] Current candle not confirmed (535s to start)
+[LIVE] Current candle not confirmed (525s to start)
+[LIVE] Current candle not confirmed (514s to start)
+[LIVE] Current candle not confirmed (504s to start)
+[LIVE] Current candle not confirmed (494s to start)
+[LIVE] Current candle not confirmed (484s to start)
+[LIVE] Current candle not confirmed (474s to start)
+[LIVE] Current candle not confirmed (463s to start)
+[LIVE] Current candle not confirmed (453s to start)
+[LIVE] Current candle not confirmed (443s to start)
+[LIVE] Current candle not confirmed (433s to start)
+[LIVE] Current candle not confirmed (423s to start)
+[LIVE] Current candle not confirmed (413s to start)
+[LIVE] Current candle not confirmed (402s to start)
+[LIVE] Current candle not confirmed (392s to start)
+[LIVE] Current candle not confirmed (382s to start)
+[LIVE] Current candle not confirmed (372s to start)
+[LIVE] Current candle not confirmed (362s to start)
+[LIVE] Current candle not confirmed (352s to start)
+[LIVE] Current candle not confirmed (341s to start)
+[LIVE] Current candle not confirmed (331s to start)
+[LIVE] Current candle not confirmed (321s to start)
+[LIVE] Current candle not confirmed (311s to start)
+[LIVE] Current candle not confirmed (301s to start)
+[LIVE] Current candle not confirmed (291s to start)
+[FV] Current candle effectively UP (bid=0.96, 281s left)
+
+[LIVE] =======================================================
+[LIVE] Bitcoin Up or Down - May 14, 10:45AM-11:00AM ET
+[LIVE] streak=3xUP  rsi=68.46
+[LIVE] fair: UP=0.430 DN=0.570
+[LIVE] target: UP@0.42 DN@0.56 (improve=0.0)
+[LIVE] USDC: $193.76 | Size: 9.0
+[UP] BUY 9sh @ 0.42  oid=0x06bbf228a41e420f8df0c95cdddb8887948b3f7edad4dbf5afab6a34767a0ac5
+[LIVE] UP placed @ 0.42  (target=0.42, best_ask=0.48)
+[DN] BUY 9sh @ 0.52  oid=0x087243da62024721a80f9946ecfd4dfdf43ac07115885c821cf2cd542e19a83f
+[LIVE] DN placed @ 0.52  (target=0.56, best_ask=0.53) (improved)
+[LIVE] UP:open@0.42 | DN:open@0.52 | 267s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 256s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 244s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 233s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 222s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 210s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 199s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 187s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 176s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 164s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 153s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 141s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 130s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 118s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 107s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 96s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 84s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 73s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 61s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 50s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 38s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 27s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 15s to start
+[LIVE] UP:open@0.42 | DN:open@0.52 | 4s to start
+[UP] cancelled 0x06bbf228a41e42...
+[DN] cancelled 0x087243da620247...
+[LIVE] candle done: no fills
+[LIVE] Current candle not confirmed (840s to start)
+[LIVE] Current candle not confirmed (830s to start)
+[LIVE] Current candle not confirmed (819s to start)
+[LIVE] Current candle not confirmed (809s to start)
+[LIVE] Current candle not confirmed (799s to start)
+[LIVE] Current candle not confirmed (789s to start)
+[LIVE] Current candle not confirmed (779s to start)
+[LIVE] Current candle not confirmed (769s to start)
+[LIVE] Current candle not confirmed (758s to start)
+[LIVE] Current candle not confirmed (748s to start)
+[LIVE] Current candle not confirmed (738s to start)
+[LIVE] Current candle not confirmed (728s to start)
+[LIVE] Current candle not confirmed (718s to start)
+[LIVE] Current candle not confirmed (708s to start)
+[LIVE] Current candle not confirmed (697s to start)
+[LIVE] Current candle not confirmed (687s to start)
+[LIVE] Current candle not confirmed (677s to start)
+[LIVE] Current candle not confirmed (667s to start)
+[LIVE] Current candle not confirmed (657s to start)
+[LIVE] Current candle not confirmed (647s to start)
+[LIVE] Current candle not confirmed (637s to start)
+[LIVE] Current candle not confirmed (626s to start)
+[LIVE] Current candle not confirmed (616s to start)
+[LIVE] Current candle not confirmed (606s to start)
+[LIVE] Current candle not confirmed (596s to start)
+[LIVE] Current candle not confirmed (586s to start)
+[LIVE] Current candle not confirmed (576s to start)
+[LIVE] Current candle not confirmed (565s to start)
+[LIVE] Current candle not confirmed (555s to start)
+[LIVE] Current candle not confirmed (545s to start)
+[LIVE] Current candle not confirmed (535s to start)
+[LIVE] Current candle not confirmed (525s to start)
+[LIVE] Current candle not confirmed (515s to start)
+[LIVE] Current candle not confirmed (504s to start)
+[LIVE] Current candle not confirmed (494s to start)
+[LIVE] Current candle not confirmed (484s to start)
+[LIVE] Current candle not confirmed (474s to start)
+[LIVE] Current candle not confirmed (464s to start)
+[LIVE] Current candle not confirmed (453s to start)
+[LIVE] Current candle not confirmed (443s to start)
+[LIVE] Current candle not confirmed (433s to start)
+[LIVE] Current candle not confirmed (423s to start)
+[LIVE] Current candle not confirmed (413s to start)
+[LIVE] Current candle not confirmed (403s to start)
+[LIVE] Current candle not confirmed (392s to start)
+[LIVE] Current candle not confirmed (382s to start)
+[LIVE] Current candle not confirmed (372s to start)
+[LIVE] Current candle not confirmed (362s to start)
+[LIVE] Current candle not confirmed (352s to start)
+[LIVE] Current candle not confirmed (342s to start)
+[LIVE] Current candle not confirmed (331s to start)
+[LIVE] Current candle not confirmed (321s to start)
+[LIVE] Current candle not confirmed (311s to start)
+[LIVE] Current candle not confirmed (301s to start)
+[FV] Current candle effectively UP (bid=1.00, 291s left)
+
+[LIVE] =======================================================
+[LIVE] Bitcoin Up or Down - May 14, 11:00AM-11:15AM ET
+[LIVE] streak=4xUP  rsi=76.32
+[LIVE] fair: UP=0.419 DN=0.581
+[LIVE] target: UP@0.41 DN@0.57 (improve=0.0)
+[LIVE] USDC: $193.76 | Size: 9.0
+[UP] BUY 9sh @ 0.41  oid=0xbdde58c72bd2134c7119565aa42e7ca23ff8d99a4671b82170853c800813642d
+[LIVE] UP placed @ 0.41  (target=0.41, best_ask=0.45)
+[DN] BUY 9sh @ 0.55  oid=0xfc251f25b15ac7c9380b21b633c77443b0a0c8a7756c5ccd5da807dc11a66023
+[LIVE] DN placed @ 0.55  (target=0.57, best_ask=0.56) (improved)
+[LIVE] UP:open@0.41 | DN:open@0.55 | 278s to start
+[LIVE] UP:open@0.41 | DN:open@0.55 | 267s to start
+[LIVE] UP:open@0.41 | DN:open@0.55 | 255s to start
+[LIVE] UP:open@0.41 | DN:open@0.55 | 244s to start
+[LIVE] UP:open@0.41 | DN:open@0.55 | 232s to start
+[LIVE] UP:open@0.41 | DN:open@0.55 | 221s to start
+[LIVE] UP:open@0.41 | DN:open@0.55 | 209s to start
+[LIVE] UP:open@0.41 | DN:open@0.55 | 198s to start
+[LIVE] UP:open@0.41 | DN:open@0.55 | 186s to start
+[LIVE] UP:open@0.41 | DN:open@0.55 | 175s to start
+[LIVE] UP:open@0.41 | DN:open@0.55 | 164s to start
+[LIVE] UP:open@0.41 | DN:open@0.55 | 152s to start
+[LIVE] UP:open@0.41 | DN:open@0.55 | 141s to start
+[LIVE] UP:open@0.41 | DN:open@0.55 | 129s to start
+[LIVE] UP:open@0.41 | DN:open@0.55 | 118s to start
+[LIVE] UP:open@0.41 | DN:open@0.55 | 107s to start
+[LIVE] UP:open@0.41 | DN:open@0.55 | 95s to start
+[LIVE] UP:open@0.41 | DN:open@0.55 | 84s to start
+[LIVE] UP:open@0.41 | DN:open@0.55 | 72s to start
+[LIVE] UP:open@0.41 | DN:open@0.55 | 61s to start
+[LIVE] UP:open@0.41 | DN:open@0.55 | 49s to start
+[LIVE] UP:open@0.41 | DN:open@0.55 | 38s to start
+[LIVE] DN FILLED @ 0.55
+[LIVE] UP:open@0.41 | DN:FILLED@0.55 | 25s to start
+[LIVE] UP:open@0.41 | DN:FILLED@0.55 | 14s to start
+[LIVE] UP:open@0.41 | DN:FILLED@0.55 | 3s to start
+[UP] cancelled 0xbdde58c72bd213...
+[LIVE] candle done: DN@0.55
+[REDEEM] Found 1 conditionIds, 1 positions, ~$0.00 payout. Batching into groups of 3.
+[REDEEM] batch 1: 1 cids submitted tx=0xee5e52a9b729f28a
+[LIVE] Current candle not confirmed (840s to start)
+[LIVE] Current candle not confirmed (830s to start)
+[LIVE] Current candle not confirmed (819s to start)
+[LIVE] Current candle not confirmed (809s to start)
+[LIVE] Current candle not confirmed (799s to start)
+[LIVE] Current candle not confirmed (789s to start)
+[LIVE] Current candle not confirmed (779s to start)
+[LIVE] Current candle not confirmed (769s to start)
+[LIVE] Current candle not confirmed (758s to start)
+[LIVE] Current candle not confirmed (748s to start)
+[LIVE] Current candle not confirmed (738s to start)
+[LIVE] Current candle not confirmed (728s to start)
+[LIVE] Current candle not confirmed (718s to start)
+[LIVE] Current candle not confirmed (708s to start)
+[LIVE] Current candle not confirmed (697s to start)
+[LIVE] Current candle not confirmed (687s to start)
+[LIVE] Current candle not confirmed (677s to start)
+[LIVE] Current candle not confirmed (667s to start)
+[LIVE] Current candle not confirmed (657s to start)
+[LIVE] Current candle not confirmed (647s to start)
+[LIVE] Current candle not confirmed (636s to start)
+[LIVE] Current candle not confirmed (626s to start)
+[LIVE] Current candle not confirmed (616s to start)
+[LIVE] Current candle not confirmed (606s to start)
+[LIVE] Current candle not confirmed (596s to start)
+[LIVE] Current candle not confirmed (586s to start)
+[LIVE] Current candle not confirmed (575s to start)
+[LIVE] Current candle not confirmed (565s to start)
+[LIVE] Current candle not confirmed (555s to start)
+[LIVE] Current candle not confirmed (545s to start)
+[LIVE] Current candle not confirmed (535s to start)
+[LIVE] Current candle not confirmed (525s to start)
+[LIVE] Current candle not confirmed (514s to start)
+[LIVE] Current candle not confirmed (504s to start)
+[LIVE] Current candle not confirmed (494s to start)
+[LIVE] Current candle not confirmed (484s to start)
+[LIVE] Current candle not confirmed (474s to start)
+[LIVE] Current candle not confirmed (464s to start)
+[LIVE] Current candle not confirmed (453s to start)
+[LIVE] Current candle not confirmed (443s to start)
+[LIVE] Current candle not confirmed (433s to start)
+[LIVE] Current candle not confirmed (423s to start)
+[LIVE] Current candle not confirmed (413s to start)
+[LIVE] Current candle not confirmed (403s to start)
+[LIVE] Current candle not confirmed (392s to start)
+[LIVE] Current candle not confirmed (382s to start)
+[LIVE] Current candle not confirmed (372s to start)
+[LIVE] Current candle not confirmed (362s to start)
+[LIVE] Current candle not confirmed (352s to start)
+[LIVE] Current candle not confirmed (341s to start)
+[LIVE] Current candle not confirmed (331s to start)
+[LIVE] Current candle not confirmed (321s to start)
+[LIVE] Current candle not confirmed (311s to start)
+[LIVE] Current candle not confirmed (301s to start)
+[LIVE] Current candle not confirmed (290s to start)
+[LIVE] Current candle not confirmed (280s to start)
+[LIVE] Current candle not confirmed (269s to start)
+[LIVE] Current candle not confirmed (259s to start)
+[LIVE] Current candle not confirmed (248s to start)
+[LIVE] Current candle not confirmed (238s to start)
+[LIVE] Current candle not confirmed (227s to start)
+[LIVE] Current candle not confirmed (216s to start)
+[LIVE] Current candle not confirmed (206s to start)
+[LIVE] Current candle not confirmed (195s to start)
+[LIVE] Current candle not confirmed (185s to start)
+[LIVE] Current candle not confirmed (174s to start)
+[LIVE] Current candle not confirmed (164s to start)
+[LIVE] Current candle not confirmed (153s to start)
+[LIVE] Current candle not confirmed (143s to start)
+[LIVE] Current candle not confirmed (132s to start)
+[LIVE] Current candle not confirmed (121s to start)
+[LIVE] Current candle not confirmed (111s to start)
+[LIVE] Current candle not confirmed (100s to start)
+[LIVE] Current candle not confirmed (90s to start)
+[LIVE] Current candle not confirmed (79s to start)
+[LIVE] Current candle not confirmed (69s to start)
+[LIVE] Current candle not confirmed (58s to start)
+[LIVE] Current candle not confirmed (47s to start)
+[LIVE] Current candle not confirmed (37s to start)
+[LIVE] Current candle not confirmed (26s to start)
+[LIVE] Current candle not confirmed (16s to start)
+[FV] Current candle effectively UP (bid=0.96, 6s left)
+[LIVE] No signal for 5xUP (not in table) — skip
+[LIVE] Current candle not confirmed (840s to start)
+[LIVE] Current candle not confirmed (830s to start)
+[LIVE] Current candle not confirmed (819s to start)
+[LIVE] Current candle not confirmed (809s to start)
+[LIVE] Current candle not confirmed (799s to start)
+[LIVE] Current candle not confirmed (789s to start)
+[LIVE] Current candle not confirmed (779s to start)
+[LIVE] Current candle not confirmed (769s to start)
+[LIVE] Current candle not confirmed (758s to start)
+[LIVE] Current candle not confirmed (748s to start)
+[LIVE] Current candle not confirmed (738s to start)
+[LIVE] Current candle not confirmed (728s to start)
+[LIVE] Current candle not confirmed (718s to start)
+[LIVE] Current candle not confirmed (708s to start)
+[LIVE] Current candle not confirmed (697s to start)
+[LIVE] Current candle not confirmed (687s to start)
+[LIVE] Current candle not confirmed (677s to start)
+[LIVE] Current candle not confirmed (667s to start)
+[LIVE] Current candle not confirmed (657s to start)
+[LIVE] Current candle not confirmed (647s to start)
+[LIVE] Current candle not confirmed (636s to start)
+[LIVE] Current candle not confirmed (626s to start)
+[LIVE] Current candle not confirmed (616s to start)
+[LIVE] Current candle not confirmed (606s to start)
+[LIVE] Current candle not confirmed (596s to start)
+[LIVE] Current candle not confirmed (586s to start)
+[LIVE] Current candle not confirmed (575s to start)
+[LIVE] Current candle not confirmed (565s to start)
+[LIVE] Current candle not confirmed (555s to start)
+[LIVE] Current candle not confirmed (545s to start)
+[LIVE] Current candle not confirmed (535s to start)
+[LIVE] Current candle not confirmed (525s to start)
+[LIVE] Current candle not confirmed (514s to start)
+[LIVE] Current candle not confirmed (504s to start)
+[LIVE] Current candle not confirmed (494s to start)
+[LIVE] Current candle not confirmed (484s to start)
+[LIVE] Current candle not confirmed (474s to start)
+[LIVE] Current candle not confirmed (464s to start)
+[LIVE] Current candle not confirmed (453s to start)
+[LIVE] Current candle not confirmed (443s to start)
+[LIVE] Current candle not confirmed (433s to start)
+[LIVE] Current candle not confirmed (423s to start)
+[LIVE] Current candle not confirmed (413s to start)
+[LIVE] Current candle not confirmed (402s to start)
+[LIVE] Current candle not confirmed (392s to start)
+[LIVE] Current candle not confirmed (382s to start)
+[LIVE] Current candle not confirmed (372s to start)
+[LIVE] Current candle not confirmed (362s to start)
+[LIVE] Current candle not confirmed (352s to start)
+[LIVE] Current candle not confirmed (341s to start)
+[LIVE] Current candle not confirmed (331s to start)
+[LIVE] Current candle not confirmed (321s to start)
+[LIVE] Current candle not confirmed (311s to start)
+[LIVE] Current candle not confirmed (301s to start)
+[LIVE] Current candle not confirmed (291s to start)
+[LIVE] Current candle not confirmed (280s to start)
+[LIVE] Current candle not confirmed (269s to start)
+[LIVE] Current candle not confirmed (259s to start)
+[LIVE] Current candle not confirmed (248s to start)
+[LIVE] Current candle not confirmed (238s to start)
+[LIVE] Current candle not confirmed (227s to start)
+[LIVE] Current candle not confirmed (217s to start)
+[LIVE] Current candle not confirmed (206s to start)
+[LIVE] Current candle not confirmed (196s to start)
+[LIVE] Current candle not confirmed (185s to start)
+[LIVE] Current candle not confirmed (175s to start)
+[LIVE] Current candle not confirmed (164s to start)
+[LIVE] Current candle not confirmed (153s to start)
+[LIVE] Current candle not confirmed (143s to start)
+[LIVE] Current candle not confirmed (132s to start)
+[LIVE] Current candle not confirmed (122s to start)
+[LIVE] Current candle not confirmed (111s to start)
+[LIVE] Current candle not confirmed (101s to start)
+[LIVE] Current candle not confirmed (90s to start)
+[LIVE] Current candle not confirmed (80s to start)
+[LIVE] Current candle not confirmed (69s to start)
+[LIVE] Current candle not confirmed (58s to start)
+[LIVE] Current candle not confirmed (48s to start)
+[LIVE] Current candle not confirmed (37s to start)
+[LIVE] Current candle not confirmed (27s to start)
+[LIVE] Current candle not confirmed (16s to start)
+[LIVE] Current candle not confirmed (6s to start)
+[REDEEM] Found 1 conditionIds, 1 positions, ~$0.00 payout. Batching into groups of 3.
+[REDEEM] batch 1: 1 cids submitted tx=0xa4afb832886d10af
+[LIVE] Current candle not confirmed (829s to start)
+[LIVE] Current candle not confirmed (819s to start)
+[LIVE] Current candle not confirmed (808s to start)
+[LIVE] Current candle not confirmed (798s to start)
+[LIVE] Current candle not confirmed (788s to start)
+[LIVE] Current candle not confirmed (778s to start)
+[LIVE] Current candle not confirmed (768s to start)
+[LIVE] Current candle not confirmed (758s to start)
+[LIVE] Current candle not confirmed (747s to start)
+[LIVE] Current candle not confirmed (737s to start)
+[LIVE] Current candle not confirmed (727s to start)
+[LIVE] Current candle not confirmed (717s to start)
+[LIVE] Current candle not confirmed (707s to start)
+[LIVE] Current candle not confirmed (697s to start)
+[LIVE] Current candle not confirmed (686s to start)
+[LIVE] Current candle not confirmed (676s to start)
+[LIVE] Current candle not confirmed (666s to start)
+[LIVE] Current candle not confirmed (656s to start)
+[LIVE] Current candle not confirmed (646s to start)
+[LIVE] Current candle not confirmed (636s to start)
+[LIVE] Current candle not confirmed (625s to start)
+[LIVE] Current candle not confirmed (615s to start)
+[LIVE] Current candle not confirmed (605s to start)
+[LIVE] Current candle not confirmed (595s to start)
+[LIVE] Current candle not confirmed (585s to start)
+[LIVE] Current candle not confirmed (575s to start)
+[LIVE] Current candle not confirmed (564s to start)
+[LIVE] Current candle not confirmed (554s to start)
+[LIVE] Current candle not confirmed (544s to start)
+[LIVE] Current candle not confirmed (534s to start)
+[LIVE] Current candle not confirmed (524s to start)
+[LIVE] Current candle not confirmed (514s to start)
+[LIVE] Current candle not confirmed (503s to start)
+[LIVE] Current candle not confirmed (493s to start)
+[LIVE] Current candle not confirmed (483s to start)
+[LIVE] Current candle not confirmed (473s to start)
+[LIVE] Current candle not confirmed (463s to start)
+[LIVE] Current candle not confirmed (452s to start)
+[LIVE] Current candle not confirmed (442s to start)
+[LIVE] Current candle not confirmed (432s to start)
+[LIVE] Current candle not confirmed (422s to start)
+[LIVE] Current candle not confirmed (412s to start)
+[LIVE] Current candle not confirmed (402s to start)
+[LIVE] Current candle not confirmed (391s to start)
+[LIVE] Current candle not confirmed (381s to start)
+[LIVE] Current candle not confirmed (371s to start)
+[LIVE] Current candle not confirmed (361s to start)
+[LIVE] Current candle not confirmed (351s to start)
+[LIVE] Current candle not confirmed (341s to start)
+[LIVE] Current candle not confirmed (330s to start)
+[LIVE] Current candle not confirmed (320s to start)
+[LIVE] Current candle not confirmed (310s to start)
+[LIVE] Current candle not confirmed (300s to start)
+[LIVE] Current candle not confirmed (289s to start)
+[LIVE] Current candle not confirmed (279s to start)
+[LIVE] Current candle not confirmed (268s to start)
+[LIVE] Current candle not confirmed (258s to start)
+[LIVE] Current candle not confirmed (247s to start)
+[LIVE] Current candle not confirmed (236s to start)
+[LIVE] Current candle not confirmed (226s to start)
+[LIVE] Current candle not confirmed (215s to start)
+[LIVE] Current candle not confirmed (205s to start)
+[LIVE] Current candle not confirmed (194s to start)
+[LIVE] Current candle not confirmed (184s to start)
+[LIVE] Current candle not confirmed (173s to start)
+[LIVE] Current candle not confirmed (162s to start)
+[LIVE] Current candle not confirmed (152s to start)
+[LIVE] Current candle not confirmed (141s to start)
+[LIVE] Current candle not confirmed (131s to start)
+[LIVE] Current candle not confirmed (120s to start)
+[LIVE] Current candle not confirmed (110s to start)
+[LIVE] Current candle not confirmed (99s to start)
+[LIVE] Current candle not confirmed (89s to start)
+[LIVE] Current candle not confirmed (78s to start)
+[LIVE] Current candle not confirmed (68s to start)
+[LIVE] Current candle not confirmed (57s to start)
+[LIVE] Current candle not confirmed (46s to start)
+[LIVE] Current candle not confirmed (36s to start)
+[LIVE] Current candle not confirmed (25s to start)
+[LIVE] Current candle not confirmed (15s to start)
+[LIVE] Current candle not confirmed (4s to start)
+[LIVE] Current candle not confirmed (840s to start)
+[LIVE] Current candle not confirmed (830s to start)
+[LIVE] Current candle not confirmed (820s to start)
+[LIVE] Current candle not confirmed (809s to start)
+[LIVE] Current candle not confirmed (799s to start)
+[LIVE] Current candle not confirmed (789s to start)
+[LIVE] Current candle not confirmed (779s to start)
+[LIVE] Current candle not confirmed (769s to start)
+[LIVE] Current candle not confirmed (759s to start)
+[LIVE] Current candle not confirmed (748s to start)
+[LIVE] Current candle not confirmed (738s to start)
+[LIVE] Current candle not confirmed (728s to start)
+[LIVE] Current candle not confirmed (718s to start)
+[LIVE] Current candle not confirmed (708s to start)
+[LIVE] Current candle not confirmed (697s to start)
+[LIVE] Current candle not confirmed (687s to start)
+[LIVE] Current candle not confirmed (677s to start)
+[LIVE] Current candle not confirmed (667s to start)
+[LIVE] Current candle not confirmed (657s to start)
+[LIVE] Current candle not confirmed (647s to start)
+[LIVE] Current candle not confirmed (636s to start)
+[LIVE] Current candle not confirmed (626s to start)
+[LIVE] Current candle not confirmed (616s to start)
+[LIVE] Current candle not confirmed (606s to start)
+[LIVE] Current candle not confirmed (596s to start)
+[LIVE] Current candle not confirmed (586s to start)
+[LIVE] Current candle not confirmed (575s to start)
+[LIVE] Current candle not confirmed (565s to start)
+[LIVE] Current candle not confirmed (555s to start)
+[LIVE] Current candle not confirmed (545s to start)
+[LIVE] Current candle not confirmed (535s to start)
+[LIVE] Current candle not confirmed (525s to start)
+[LIVE] Current candle not confirmed (514s to start)
+[LIVE] Current candle not confirmed (504s to start)
+[LIVE] Current candle not confirmed (494s to start)
+[LIVE] Current candle not confirmed (484s to start)
+[LIVE] Current candle not confirmed (474s to start)
+[LIVE] Current candle not confirmed (464s to start)
+[LIVE] Current candle not confirmed (453s to start)
+[LIVE] Current candle not confirmed (443s to start)
+[LIVE] Current candle not confirmed (433s to start)
+[LIVE] Current candle not confirmed (423s to start)
+[LIVE] Current candle not confirmed (413s to start)
+[LIVE] Current candle not confirmed (403s to start)
+[LIVE] Current candle not confirmed (392s to start)
+[LIVE] Current candle not confirmed (382s to start)
+[LIVE] Current candle not confirmed (372s to start)
+[LIVE] Current candle not confirmed (362s to start)
+[LIVE] Current candle not confirmed (352s to start)
+[LIVE] Current candle not confirmed (342s to start)
+[LIVE] Current candle not confirmed (331s to start)
+[LIVE] Current candle not confirmed (321s to start)
+[LIVE] Current candle not confirmed (311s to start)
+[LIVE] Current candle not confirmed (301s to start)
+[FV] Current candle effectively UP (bid=0.99, 291s left)
+[LIVE] No signal for 8xUP (not in table) — skip
+[LIVE] Current candle not confirmed (840s to start)
+[LIVE] Current candle not confirmed (830s to start)
+[LIVE] Current candle not confirmed (819s to start)
+[LIVE] Current candle not confirmed (809s to start)
+[LIVE] Current candle not confirmed (799s to start)
+[LIVE] Current candle not confirmed (788s to start)
+[LIVE] Current candle not confirmed (778s to start)
+[LIVE] Current candle not confirmed (768s to start)
+[LIVE] Current candle not confirmed (758s to start)
+[LIVE] Current candle not confirmed (748s to start)
+[LIVE] Current candle not confirmed (737s to start)
+[LIVE] Current candle not confirmed (727s to start)
+[LIVE] Current candle not confirmed (717s to start)
+[LIVE] Current candle not confirmed (707s to start)
+[LIVE] Current candle not confirmed (697s to start)
+[LIVE] Current candle not confirmed (687s to start)
+[LIVE] Current candle not confirmed (676s to start)
+[LIVE] Current candle not confirmed (666s to start)
+[LIVE] Current candle not confirmed (656s to start)
+[LIVE] Current candle not confirmed (646s to start)
+[LIVE] Current candle not confirmed (636s to start)
+[LIVE] Current candle not confirmed (626s to start)
+[LIVE] Current candle not confirmed (615s to start)
+[LIVE] Current candle not confirmed (605s to start)
+[LIVE] Current candle not confirmed (595s to start)
+[LIVE] Current candle not confirmed (585s to start)
+[LIVE] Current candle not confirmed (575s to start)
+[LIVE] Current candle not confirmed (565s to start)
+[LIVE] Current candle not confirmed (554s to start)
+[LIVE] Current candle not confirmed (544s to start)
+[LIVE] Current candle not confirmed (534s to start)
+[LIVE] Current candle not confirmed (524s to start)
+[LIVE] Current candle not confirmed (514s to start)
+[LIVE] Current candle not confirmed (504s to start)
+[LIVE] Current candle not confirmed (493s to start)
+[LIVE] Current candle not confirmed (483s to start)
+[LIVE] Current candle not confirmed (473s to start)
+[LIVE] Current candle not confirmed (463s to start)
+[LIVE] Current candle not confirmed (453s to start)
+[LIVE] Current candle not confirmed (443s to start)
+[LIVE] Current candle not confirmed (432s to start)
+[LIVE] Current candle not confirmed (422s to start)
+[LIVE] Current candle not confirmed (412s to start)
+[LIVE] Current candle not confirmed (402s to start)
+[LIVE] Current candle not confirmed (392s to start)
+[LIVE] Current candle not confirmed (381s to start)
+[LIVE] Current candle not confirmed (371s to start)
+[LIVE] Current candle not confirmed (361s to start)
+[LIVE] Current candle not confirmed (351s to start)
+[LIVE] Current candle not confirmed (341s to start)
+[LIVE] Current candle not confirmed (331s to start)
+[LIVE] Current candle not confirmed (320s to start)
+[LIVE] Current candle not confirmed (310s to start)
+[LIVE] Current candle not confirmed (300s to start)
+[FV] Current candle effectively UP (bid=0.96, 290s left)
+[LIVE] No signal for 8xUP (not in table) — skip
+[LIVE] Current candle not confirmed (840s to start)
+[LIVE] Current candle not confirmed (830s to start)
+[LIVE] Current candle not confirmed (820s to start)
+[LIVE] Current candle not confirmed (809s to start)
+[LIVE] Current candle not confirmed (799s to start)
+[LIVE] Current candle not confirmed (789s to start)
+[LIVE] Current candle not confirmed (779s to start)
+[LIVE] Current candle not confirmed (769s to start)
+[LIVE] Current candle not confirmed (759s to start)
+[LIVE] Current candle not confirmed (748s to start)
+[LIVE] Current candle not confirmed (738s to start)
+[LIVE] Current candle not confirmed (728s to start)
+[LIVE] Current candle not confirmed (718s to start)
+[LIVE] Current candle not confirmed (708s to start)
+[LIVE] Current candle not confirmed (698s to start)
+[LIVE] Current candle not confirmed (687s to start)
+[LIVE] Current candle not confirmed (677s to start)
+[LIVE] Current candle not confirmed (667s to start)
+[LIVE] Current candle not confirmed (657s to start)
+[LIVE] Current candle not confirmed (647s to start)
+[LIVE] Current candle not confirmed (637s to start)
+[LIVE] Current candle not confirmed (626s to start)
+[LIVE] Current candle not confirmed (616s to start)
+[LIVE] Current candle not confirmed (606s to start)
+[LIVE] Current candle not confirmed (596s to start)
+[LIVE] Current candle not confirmed (586s to start)
+[LIVE] Current candle not confirmed (576s to start)
+[LIVE] Current candle not confirmed (565s to start)
+[LIVE] Current candle not confirmed (555s to start)
+[LIVE] Current candle not confirmed (545s to start)
+[LIVE] Current candle not confirmed (535s to start)
+[LIVE] Current candle not confirmed (525s to start)
+[LIVE] Current candle not confirmed (515s to start)
+[LIVE] Current candle not confirmed (504s to start)
+[LIVE] Current candle not confirmed (494s to start)
+[LIVE] Current candle not confirmed (484s to start)
+
+[MM] Signal 15, stopping...

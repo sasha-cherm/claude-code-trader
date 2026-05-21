@@ -1,0 +1,114 @@
+[MM] === BTC 15-min Market Maker ===
+[MM] UTC: 2026-03-30 09:23:42.494188+00:00
+[MM] size=5.0  cancel=5s  poll=1.0s
+[MM] Balance: $14.24
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 5:30AM-5:45AM ET
+[MM] start=2026-03-30T09:30:00+00:00  deadline=2026-03-30T09:29:55+00:00
+[MM] up=6348773178187020...  dn=7762440050566603...
+[MM] Available balance: $14.24
+[UP] BUY 5sh @ 0.54  oid=0x3cfd22fa4e3ba51a120671abb557d48db3b574e338292fae80e99a801d94fed6
+[DN] BUY 5sh @ 0.45  oid=0x6dbd81fb066bb0c9463460fde6d88fe4ee52a46143ffefa88cc61549c8a0c97a
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 361s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 351s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 341s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 332s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 330s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 322s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 320s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 311s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 301s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 291s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 281s
+[MM] DN DONE 5.0@0.45
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=DONE | 272s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=DONE | 270s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=DONE | 262s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=DONE | 260s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=DONE | 251s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=DONE | 250s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=DONE | 241s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=DONE | 240s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=DONE | 231s
+[MM] bb=0.55 ba=0.56 sp=0.01 | UP=0.54 DN=DONE | 221s
+[MM] bb=0.55 ba=0.56 sp=0.01 | UP=0.54 DN=DONE | 211s
+[MM] bb=0.55 ba=0.56 sp=0.01 | UP=0.54 DN=DONE | 201s
+[MM] bb=0.55 ba=0.56 sp=0.01 | UP=0.54 DN=DONE | 192s
+[MM] bb=0.55 ba=0.56 sp=0.01 | UP=0.54 DN=DONE | 191s
+[MM] bb=0.55 ba=0.56 sp=0.01 | UP=0.54 DN=DONE | 182s
+[MM] bb=0.55 ba=0.56 sp=0.01 | UP=0.54 DN=DONE | 180s
+[MM] bb=0.55 ba=0.56 sp=0.01 | UP=0.54 DN=DONE | 172s
+[MM] bb=0.55 ba=0.56 sp=0.01 | UP=0.54 DN=DONE | 170s
+[MM] bb=0.55 ba=0.56 sp=0.01 | UP=0.54 DN=DONE | 161s
+[MM] bb=0.55 ba=0.56 sp=0.01 | UP=0.54 DN=DONE | 160s
+[MM] bb=0.55 ba=0.56 sp=0.01 | UP=0.54 DN=DONE | 151s
+[MM] bb=0.59 ba=0.60 sp=0.01 | UP=0.54 DN=DONE | 142s
+[MM] bb=0.59 ba=0.60 sp=0.01 | UP=0.54 DN=DONE | 140s
+[MM] bb=0.59 ba=0.60 sp=0.01 | UP=0.54 DN=DONE | 132s
+[MM] bb=0.59 ba=0.60 sp=0.01 | UP=0.54 DN=DONE | 131s
+[MM] bb=0.59 ba=0.60 sp=0.01 | UP=0.54 DN=DONE | 122s
+[MM] bb=0.59 ba=0.60 sp=0.01 | UP=0.54 DN=DONE | 120s
+[MM] bb=0.59 ba=0.60 sp=0.01 | UP=0.54 DN=DONE | 112s
+[MM] bb=0.59 ba=0.60 sp=0.01 | UP=0.54 DN=DONE | 110s
+[MM] bb=0.59 ba=0.60 sp=0.01 | UP=0.54 DN=DONE | 101s
+[MM] bb=0.59 ba=0.60 sp=0.01 | UP=0.54 DN=DONE | 100s
+[MM] bb=0.60 ba=0.61 sp=0.01 | UP=0.54 DN=DONE | 91s
+[MM] bb=0.60 ba=0.61 sp=0.01 | UP=0.54 DN=DONE | 90s
+[MM] bb=0.60 ba=0.61 sp=0.01 | UP=0.54 DN=DONE | 81s
+[MM] bb=0.60 ba=0.61 sp=0.01 | UP=0.54 DN=DONE | 71s
+[MM] bb=0.59 ba=0.61 sp=0.02 | UP=0.54 DN=DONE | 62s
+[MM] bb=0.59 ba=0.60 sp=0.01 | UP=0.54 DN=DONE | 61s
+[MM] bb=0.59 ba=0.62 sp=0.03 | UP=0.54 DN=DONE | 52s
+[MM] bb=0.59 ba=0.61 sp=0.02 | UP=0.54 DN=DONE | 50s
+[MM] bb=0.59 ba=0.60 sp=0.01 | UP=0.54 DN=DONE | 42s
+[MM] bb=0.59 ba=0.60 sp=0.01 | UP=0.54 DN=DONE | 40s
+[MM] bb=0.59 ba=0.60 sp=0.01 | UP=0.54 DN=DONE | 31s
+[MM] bb=0.59 ba=0.60 sp=0.01 | UP=0.54 DN=DONE | 30s
+[MM] bb=0.61 ba=0.62 sp=0.01 | UP=0.54 DN=DONE | 21s
+[MM] bb=0.59 ba=0.60 sp=0.01 | UP=0.54 DN=DONE | 20s
+[MM] bb=0.58 ba=0.62 sp=0.04 | UP=0.54 DN=DONE | 11s
+[MM] bb=0.58 ba=0.59 sp=0.01 | UP=0.54 DN=DONE | 1s
+[MM] DEADLINE (4.7s to candle)
+[UP] cancelled 0x3cfd22fa4e3ba5...
+[MM] ONLY DN filled 5.0@0.45, market-buying Up
+[FLAT-UP] MARKET BUY 5.0sh => {'errorMsg': '', 'orderID': '0x49854bd00a6142cdc4dac569fc6dadb2bc085b0144c694d5c1fddd3839f38023', 'takingAmount': '8.389829', 'makingAmount': '4.949999', 'status': 'matched', 'transactionsHashes': ['0x17bc183fac0fc300c8573fb2ae73e799e38d11d095605cc94e0448837a844aa8'], 'success': True}
+[MM] next: Bitcoin Up or Down - March 30, 5:45AM-6:00AM ET in 901s, sleeping 1s
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 5:45AM-6:00AM ET
+[MM] start=2026-03-30T09:45:00+00:00  deadline=2026-03-30T09:44:55+00:00
+[MM] up=1061981986638206...  dn=8007493022971809...
+[MM] Available balance: $7.04
+[UP] BUY 5sh @ 0.50  oid=0x4ef264626074341329498ae06bba31aac8bd41c44a8f90da2d7242e3fc0d4cb2
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 7037918, sum of active orders: 5050000, sum of matched orders: 0, order amount: 2400000'}]
+[UP] cancelled 0x4ef26462607434...
+[UP] BUY 5sh @ 0.52  oid=0xbbec4d271d5e2afb69fb113493c443836422a46af4bfc42a72abae2d95559d8d
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 7037918, sum of active orders: 5200000, sum of matched orders: 0, order amount: 2350000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 7037918, sum of active orders: 5200000, sum of matched orders: 0, order amount: 2350000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 7037918, sum of active orders: 5200000, sum of matched orders: 0, order amount: 2350000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 7037918, sum of active orders: 5200000, sum of matched orders: 0, order amount: 2350000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 7037918, sum of active orders: 5200000, sum of matched orders: 0, order amount: 2350000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 7037918, sum of active orders: 5200000, sum of matched orders: 0, order amount: 2350000'}]
+[UP] cancelled 0xbbec4d271d5e2a...
+[UP] BUY 5sh @ 0.53  oid=0x9adc2c32f5b6ea940c367cb0bdcaeb2e292c7706dcfed2c8ad7cee20131f4bf7
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 7037918, sum of active orders: 5300000, sum of matched orders: 0, order amount: 2300000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 7037918, sum of active orders: 5300000, sum of matched orders: 0, order amount: 2300000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 7037918, sum of active orders: 5300000, sum of matched orders: 0, order amount: 2300000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 7037918, sum of active orders: 5300000, sum of matched orders: 0, order amount: 2300000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 7037918, sum of active orders: 5300000, sum of matched orders: 0, order amount: 2300000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 7037918, sum of active orders: 5300000, sum of matched orders: 0, order amount: 2300000'}]
+[DN] BUY 5sh @ 0.46  oid=0x9e5ccf2377b8ed804657e2df7979f6e80b38c09541d40339a3a8bf40f1325fc0
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.53 DN=0.46(=0.54) | 811s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.53 DN=0.46(=0.54) | 801s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.53 DN=0.46(=0.54) | 792s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.53 DN=0.46(=0.54) | 790s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.53 DN=0.46(=0.54) | 782s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.53 DN=0.46(=0.54) | 780s
+[MM] UP DONE 5.0@0.53
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=DONE DN=0.46(=0.54) | 771s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=DONE DN=0.46(=0.54) | 761s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=DONE DN=0.46(=0.54) | 751s
+
+[MM] Signal 15, stopping...
+[MM] shutdown

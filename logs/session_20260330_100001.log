@@ -1,0 +1,11 @@
+Research agent confirmed what I already found: **no actionable edge** in end-of-month markets. The Elon Musk <$640B play has marginal 5-7% edge but depends on one day of TSLA trading — too uncertain given our poor track record on macro bets (Denmark -$32, Banxico -$20).
+
+Everything is set for today:
+
+- **near_res_mar30.py** (PID 15662) — monitoring 22 tokens across 11 games
+- **btc_hourly_trader.py** (PID 16041) — 12 candle signals, next at 12:00 UTC
+- **Balance**: $15.86
+- **First near-res window**: ~15:25 UTC (Saudi-Serbia)
+- **Best targets tonight**: Celtics-Hawks (coin flip, 01:40 UTC) and Mavs-Bucks ($2.4M vol, 02:10 UTC)
+
+All automated. Next cron at 09:00 UTC will verify monitors and check results.

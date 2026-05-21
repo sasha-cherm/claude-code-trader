@@ -1,0 +1,120 @@
+[LIVE] === BTC 15-min Fair-Value MM — LIVE TRADING ===
+[LIVE] UTC: 2026-04-29 09:50:42.753018+00:00
+[LIVE] size=5.0  poll=1.0s  maker-only  improve=0.0
+[LIVE] No sell orders will be placed — user resolves manually
+[LIVE] Killing old instance PID 129928
+[py_clob_client_v2] request error status=400 url=https://clob.polymarket.com/auth/api-key body={"error":"Could not create api key"}
+
+[py_clob_client_v2] request error status=400 url=https://clob.polymarket.com/auth/api-key body={"error":"Could not create api key"}
+
+[LIVE] USDC balance: $131.82
+[REDEEM] Builder relayer creds incomplete — skipping init
+         Set BUILDER_API_KEY, BUILDER_SECRET, BUILDER_PASS_PHRASE in .env
+[LIVE] Current candle not confirmed (554s to start)
+[LIVE] Current candle not confirmed (544s to start)
+[LIVE] Current candle not confirmed (533s to start)
+[LIVE] Current candle not confirmed (523s to start)
+[LIVE] Current candle not confirmed (513s to start)
+[LIVE] Current candle not confirmed (502s to start)
+[LIVE] Current candle not confirmed (492s to start)
+[LIVE] Current candle not confirmed (482s to start)
+[LIVE] Current candle not confirmed (471s to start)
+[LIVE] Current candle not confirmed (461s to start)
+[LIVE] Current candle not confirmed (451s to start)
+[LIVE] Current candle not confirmed (440s to start)
+[LIVE] Current candle not confirmed (430s to start)
+[LIVE] Current candle not confirmed (420s to start)
+[LIVE] Current candle not confirmed (409s to start)
+[LIVE] Current candle not confirmed (399s to start)
+[LIVE] Current candle not confirmed (389s to start)
+[LIVE] Current candle not confirmed (378s to start)
+[LIVE] Current candle not confirmed (368s to start)
+[LIVE] Current candle not confirmed (358s to start)
+[LIVE] Current candle not confirmed (347s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[LIVE] Current candle not confirmed (324s to start)
+[LIVE] Current candle not confirmed (314s to start)
+[LIVE] Current candle not confirmed (304s to start)
+[FV] Current candle effectively UP (bid=1.00, 294s left)
+
+[LIVE] =======================================================
+[LIVE] Bitcoin Up or Down - April 29, 6:00AM-6:15AM ET
+[LIVE] streak=4xUP  rsi=77.4
+[LIVE] fair: UP=0.337 DN=0.663
+[LIVE] target: UP@0.33 DN@0.65 (improve=0.0)
+[LIVE] USDC: $131.82
+[UP] BUY 5sh @ 0.33  oid=0x7f3b17bcc5aee12716bd437d862ff744216c3a5124d604698fcff2fd874ed0a1
+[LIVE] UP placed @ 0.33  (target=0.33, best_ask=0.43)
+[DN] BUY 5sh @ 0.57  oid=0xee5d70e92e9b16fdb8a3c2c9f478dc93a2ab2c9aec8b221b53ca73f4d1576d7d
+[LIVE] DN placed @ 0.57  (target=0.65, best_ask=0.58) (improved)
+[LIVE] UP:open@0.33 | DN:open@0.57 | 276s to start
+[LIVE] UP:open@0.33 | DN:open@0.57 | 263s to start
+[LIVE] DN FILLED @ 0.57
+[LIVE] UP:open@0.33 | DN:FILLED@0.57 | 248s to start
+[LIVE] UP:open@0.33 | DN:FILLED@0.57 | 236s to start
+[LIVE] UP:open@0.33 | DN:FILLED@0.57 | 225s to start
+[LIVE] UP:open@0.33 | DN:FILLED@0.57 | 214s to start
+[LIVE] UP:open@0.33 | DN:FILLED@0.57 | 202s to start
+[LIVE] UP:open@0.33 | DN:FILLED@0.57 | 191s to start
+[LIVE] UP:open@0.33 | DN:FILLED@0.57 | 180s to start
+[LIVE] UP:open@0.33 | DN:FILLED@0.57 | 168s to start
+[LIVE] UP:open@0.33 | DN:FILLED@0.57 | 157s to start
+[LIVE] UP:open@0.33 | DN:FILLED@0.57 | 145s to start
+[LIVE] UP:open@0.33 | DN:FILLED@0.57 | 134s to start
+[LIVE] UP:open@0.33 | DN:FILLED@0.57 | 123s to start
+[LIVE] UP:open@0.33 | DN:FILLED@0.57 | 111s to start
+[LIVE] UP:open@0.33 | DN:FILLED@0.57 | 100s to start
+[LIVE] UP:open@0.33 | DN:FILLED@0.57 | 89s to start
+[LIVE] UP:open@0.33 | DN:FILLED@0.57 | 77s to start
+[LIVE] UP:open@0.33 | DN:FILLED@0.57 | 66s to start
+[LIVE] UP:open@0.33 | DN:FILLED@0.57 | 55s to start
+[LIVE] UP:open@0.33 | DN:FILLED@0.57 | 43s to start
+[LIVE] UP:open@0.33 | DN:FILLED@0.57 | 32s to start
+[LIVE] UP:open@0.33 | DN:FILLED@0.57 | 20s to start
+[LIVE] UP:open@0.33 | DN:FILLED@0.57 | 9s to start
+[UP] cancelled 0x7f3b17bcc5aee1...
+[LIVE] candle done: DN@0.57
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[LIVE] Current candle not confirmed (840s to start)
+[LIVE] Current candle not confirmed (829s to start)
+[LIVE] Current candle not confirmed (819s to start)
+[LIVE] Current candle not confirmed (809s to start)
+[LIVE] Current candle not confirmed (798s to start)
+[LIVE] Current candle not confirmed (788s to start)
+[LIVE] Current candle not confirmed (778s to start)
+[LIVE] Current candle not confirmed (767s to start)
+[LIVE] Current candle not confirmed (757s to start)
+[LIVE] Current candle not confirmed (747s to start)
+[LIVE] Current candle not confirmed (736s to start)
+[LIVE] Current candle not confirmed (726s to start)
+[LIVE] Current candle not confirmed (716s to start)
+[LIVE] Current candle not confirmed (705s to start)
+[LIVE] Current candle not confirmed (695s to start)
+[LIVE] Current candle not confirmed (685s to start)
+[LIVE] Current candle not confirmed (674s to start)
+[LIVE] Current candle not confirmed (664s to start)
+[LIVE] Current candle not confirmed (653s to start)
+[LIVE] Current candle not confirmed (642s to start)
+[LIVE] Current candle not confirmed (632s to start)
+[LIVE] Current candle not confirmed (621s to start)
+[LIVE] Current candle not confirmed (611s to start)
+[LIVE] Current candle not confirmed (600s to start)
+[LIVE] Current candle not confirmed (589s to start)
+[LIVE] Current candle not confirmed (579s to start)
+[LIVE] Current candle not confirmed (568s to start)
+[LIVE] Current candle not confirmed (558s to start)
+[LIVE] Current candle not confirmed (547s to start)
+[LIVE] Current candle not confirmed (537s to start)
+[LIVE] Current candle not confirmed (527s to start)
+[LIVE] Current candle not confirmed (516s to start)
+[LIVE] Current candle not confirmed (506s to start)
+[LIVE] Current candle not confirmed (496s to start)
+[LIVE] Current candle not confirmed (485s to start)
+[LIVE] Current candle not confirmed (475s to start)
+[LIVE] Current candle not confirmed (465s to start)
+[LIVE] Current candle not confirmed (454s to start)
+[LIVE] Current candle not confirmed (444s to start)
+[LIVE] Current candle not confirmed (434s to start)
+
+[MM] Signal 15, stopping...
+[LIVE] shutdown

@@ -1,0 +1,30 @@
+[MM] Killing old instance PID 48441
+[MM] === BTC 15-min Spread Scalper ===
+[MM] UTC: 2026-03-30 17:50:48.901625+00:00
+[MM] size=6.0  sell_deadline=+0s  poll=1.0s
+[MM] Balance: $10.03
+[MM] Streak: 1x UP → enter 600s before start
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 2:00PM-2:15PM ET
+[MM] start=2026-03-30T18:00:00+00:00  sell_deadline=+0s
+[MM] Side: DN (bid depth DN=3750 vs UP=1450)
+[MM] Trading DN token=85823410280621723313...
+[MM] Balance: $10.03
+[MM] --- Round 1 (DN) EXISTING POSITION: 6.00sh, est buy@0.46 ---
+[SELL] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 6000000, sum of active orders: 6000000, sum of matched orders: 0, order amount: 6000000'}]
+[SELL] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 6000000, sum of active orders: 6000000, sum of matched orders: 0, order amount: 6000000'}]
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 6000000, sum of active orders: 6000000, sum of matched orders: 0, order amount: 6000000'}]
+[MM] SELL place failed, possible pending settlement, waiting...
+[SELL] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 6000000, sum of active orders: 6000000, sum of matched orders: 0, order amount: 6000000'}]
+[SELL] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 6000000, sum of active orders: 6000000, sum of matched orders: 0, order amount: 6000000'}]
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 6000000, sum of active orders: 6000000, sum of matched orders: 0, order amount: 6000000'}]
+[MM] SELL place failed, possible pending settlement, waiting...
+[SELL] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 6000000, sum of active orders: 6000000, sum of matched orders: 0, order amount: 6000000'}]
+[SELL] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 6000000, sum of active orders: 6000000, sum of matched orders: 0, order amount: 6000000'}]
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 6000000, sum of active orders: 6000000, sum of matched orders: 0, order amount: 6000000'}]
+[MM] SELL place failed, possible pending settlement, waiting...
+[SELL] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 6000000, sum of active orders: 6000000, sum of matched orders: 0, order amount: 6000000'}]
+[SELL] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 6000000, sum of active orders: 6000000, sum of matched orders: 0, order amount: 6000000'}]
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 6000000, sum of active orders: 6000000, sum of matched orders: 0, order amount: 6000000'}]
+[MM] SELL place failed, possible pending settlement, waiting...

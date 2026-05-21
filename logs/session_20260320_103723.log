@@ -1,0 +1,22 @@
+Done. Here's what I built and launched:
+
+**`btc_hourly_trader.py`** (PID 409835) — running in background.
+
+**How it works:**
+- Monitors 5 edge hours per day (13, 17, 21, 22, 23 UTC)
+- 30 min before each candle: starts polling the orderbook every 5 sec
+- Places a limit BUY at the current best bid price (joins top of book)
+- Follows the bid upward if book moves, but caps at `max_price = floor((edge - 0.01) × 100) / 100`
+  - e.g., 54.9% edge → max price 0.53 (edge = 1.9¢). At 0.54 → keeps at 0.53
+- Cancels unfilled order 5 sec before candle starts
+- Logs trades to `logs/btc_hourly_trades.jsonl`
+- Starting with 5 shares (~$2.50) minimum size to verify
+
+**Today's schedule:**
+- 12:30 UTC → first monitor (13:00 candle, DOWN 53.8%)
+- 16:30 → 17:00 candle (UP 56.3%, highest edge)
+- 20:30 → 21:00 candle (UP 54.9%)
+- 21:30 → 22:00 candle (UP 54.0%)
+- 22:30 → 23:00 candle (DOWN 54.1%)
+
+**Balance:** $52.91. Trades log at `logs/btc_hourly_trades.jsonl`.

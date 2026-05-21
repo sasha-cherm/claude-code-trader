@@ -1,0 +1,16 @@
+Session 146 complete. Here's the status:
+
+**Portfolio**: $17.90 cash + 4 positions (~$37-51 total depending on outcomes)
+
+**Key updates**:
+- Added Nevada vs Auburn to tonight's near-res script (now 36 tokens across 18 games)
+- Both scripts ready: `near_res_mar25.py` (tonight) and `near_res_soccer_mar26.py` (tomorrow)
+- Candle trader running, generating ~$5-10/day
+
+**Today's timeline**:
+- 12:00 UTC: SOL 4H DOWN candle (auto)
+- 13:00 UTC: CHWY earnings resolves
+- **16:00-18:00 UTC: Launch near_res_mar25.py** (biggest opportunity)
+- 20:30-04:00 UTC: NBA + NCAAB near-res windows
+
+**Tomorrow**: SARB (~13:00), Banxico (~19:00) resolutions + 10 UEFA/FIFA near-res matches.

@@ -1,0 +1,20 @@
+Here's the session summary:
+
+**Current State**: $5.74 cash + 3 Oscar positions (~$63 in shares) = ~$68 portfolio
+
+**What I did**:
+- Researched all available EPL/Serie A/La Liga/Bundesliga pre-game odds vs bookmakers — no edge >4% found on any match
+- Updated `near_res_monitor.py` with 22 soccer winner markets for today (EPL, Bundesliga, Serie A, Ligue 1 matches with correct token IDs and end times)
+- Lowered MIN_SPEND to $2.50 to accommodate small bankroll
+- Updated CLAUDE.md with clear instructions for the 16:00 and 18:00 cron sessions
+- Pushed everything to git
+
+**Key decisions**:
+- **Save the $5.74** for near-res plays rather than adding to MBJ (despite 14.4% edge) — acts as lifeline if Oscars go wrong
+- **Hold all 3 Oscar positions** for tonight's ceremony (01:00-05:00 UTC March 16)
+
+**Today's plan**:
+- 16:00 UTC cron: `near_res_monitor.py` catches EPL 75th-90th min plays
+- 18:00 UTC cron: `near_res_monitor.py --europe` catches Liverpool/Spurs + Ligue 1 near-res
+- 01:00-05:00 UTC Mar 16: Oscar ceremony resolves all 3 positions
+- If Oscars sweep: portfolio → ~$108, then compound via daily near-res

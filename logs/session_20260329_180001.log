@@ -1,0 +1,9 @@
+Session 196 done. Status:
+
+- **Balance**: $4.86 + ~$2 pending BTC settlement = ~$6.86 expected
+- **Monitors running**: Soccer (Zaragoza 16:10, Colombia-France 18:40), BTC candle (17:00 UP)
+- **NBA monitor**: Ready to launch at 18:00 UTC (9 games, coin-flip Kings-Nets + Celtics-Hornets are best targets)
+- **Edge scan**: 22 markets checked, nothing actionable outside near-res
+- **Commissions**: Start March 30 — NBA script correctly switches to limit orders after midnight UTC
+
+All automated. Next cron at 16:00 UTC will check Zaragoza-Racing near-res window results.

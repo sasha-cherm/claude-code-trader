@@ -1,0 +1,1446 @@
+[MM] Killing old instance PID 209596
+[MM] Cancelling 1 stale orders from previous instance
+[MM] === BTC 15-min Fair-Value Market Maker ===
+[MM] UTC: 2026-03-31 09:33:57.372151+00:00
+[MM] size=6.0  poll=1.0s
+[MM] Balance: $13.26
+
+[MM] --- main loop #1 @ 09:33:58 UTC ---
+[MM] Current candle not confirmed, waiting... (661s to start)
+
+[MM] --- main loop #2 @ 09:34:08 UTC ---
+[MM] Current candle not confirmed, waiting... (651s to start)
+
+[MM] --- main loop #3 @ 09:34:18 UTC ---
+[MM] Current candle not confirmed, waiting... (641s to start)
+
+[MM] --- main loop #4 @ 09:34:29 UTC ---
+[MM] Current candle not confirmed, waiting... (630s to start)
+
+[MM] --- main loop #5 @ 09:34:39 UTC ---
+[MM] Current candle not confirmed, waiting... (620s to start)
+
+[MM] --- main loop #6 @ 09:34:50 UTC ---
+[MM] Current candle not confirmed, waiting... (610s to start)
+
+[MM] --- main loop #7 @ 09:35:00 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (587s to start)
+
+[MM] --- main loop #8 @ 09:35:23 UTC ---
+[MM] Current candle not confirmed, waiting... (577s to start)
+
+[MM] --- main loop #9 @ 09:35:33 UTC ---
+[MM] Current candle not confirmed, waiting... (566s to start)
+
+[MM] --- main loop #10 @ 09:35:43 UTC ---
+[MM] Current candle not confirmed, waiting... (556s to start)
+
+[MM] --- main loop #11 @ 09:35:54 UTC ---
+[MM] Current candle not confirmed, waiting... (545s to start)
+
+[MM] --- main loop #12 @ 09:36:04 UTC ---
+[MM] Current candle not confirmed, waiting... (535s to start)
+
+[MM] --- main loop #13 @ 09:36:14 UTC ---
+[MM] Current candle not confirmed, waiting... (525s to start)
+
+[MM] --- main loop #14 @ 09:36:25 UTC ---
+[MM] Current candle not confirmed, waiting... (514s to start)
+
+[MM] --- main loop #15 @ 09:36:35 UTC ---
+[MM] Current candle not confirmed, waiting... (504s to start)
+
+[MM] --- main loop #16 @ 09:36:46 UTC ---
+[MM] Current candle not confirmed, waiting... (493s to start)
+
+[MM] --- main loop #17 @ 09:36:56 UTC ---
+[MM] Current candle not confirmed, waiting... (483s to start)
+
+[MM] --- main loop #18 @ 09:37:06 UTC ---
+[MM] Current candle not confirmed, waiting... (473s to start)
+
+[MM] --- main loop #19 @ 09:37:17 UTC ---
+[MM] Current candle not confirmed, waiting... (462s to start)
+
+[MM] --- main loop #20 @ 09:37:27 UTC ---
+[MM] Current candle not confirmed, waiting... (452s to start)
+
+[MM] --- main loop #21 @ 09:37:38 UTC ---
+[MM] Current candle not confirmed, waiting... (442s to start)
+
+[MM] --- main loop #22 @ 09:37:48 UTC ---
+[MM] Current candle not confirmed, waiting... (431s to start)
+
+[MM] --- main loop #23 @ 09:37:58 UTC ---
+[MM] Current candle not confirmed, waiting... (421s to start)
+
+[MM] --- main loop #24 @ 09:38:09 UTC ---
+[MM] Current candle not confirmed, waiting... (411s to start)
+
+[MM] --- main loop #25 @ 09:38:19 UTC ---
+[MM] Current candle not confirmed, waiting... (400s to start)
+
+[MM] --- main loop #26 @ 09:38:29 UTC ---
+[MM] Current candle not confirmed, waiting... (390s to start)
+
+[MM] --- main loop #27 @ 09:38:40 UTC ---
+[MM] Current candle not confirmed, waiting... (379s to start)
+
+[MM] --- main loop #28 @ 09:38:50 UTC ---
+[MM] Current candle not confirmed, waiting... (369s to start)
+
+[MM] --- main loop #29 @ 09:39:00 UTC ---
+[MM] Current candle not confirmed, waiting... (359s to start)
+
+[MM] --- main loop #30 @ 09:39:11 UTC ---
+[MM] Current candle not confirmed, waiting... (348s to start)
+
+[MM] --- main loop #31 @ 09:39:21 UTC ---
+[MM] Current candle not confirmed, waiting... (338s to start)
+
+[MM] --- main loop #32 @ 09:39:31 UTC ---
+[MM] Current candle not confirmed, waiting... (328s to start)
+
+[MM] --- main loop #33 @ 09:39:42 UTC ---
+[MM] Current candle not confirmed, waiting... (317s to start)
+
+[MM] --- main loop #34 @ 09:39:52 UTC ---
+[MM] Current candle not confirmed, waiting... (307s to start)
+
+[MM] --- main loop #35 @ 09:40:02 UTC ---
+[MM] Current candle not confirmed, waiting... (297s to start)
+
+[MM] --- main loop #36 @ 09:40:14 UTC ---
+[MM] Current candle not confirmed, waiting... (285s to start)
+
+[MM] --- main loop #37 @ 09:40:26 UTC ---
+[MM] Current candle not confirmed, waiting... (274s to start)
+
+[MM] --- main loop #38 @ 09:40:37 UTC ---
+[MM] Current candle not confirmed, waiting... (262s to start)
+
+[MM] --- main loop #39 @ 09:40:48 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (238s to start)
+
+[MM] --- main loop #40 @ 09:41:12 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (227s to start)
+
+[MM] --- main loop #41 @ 09:41:36 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (203s to start)
+
+[MM] --- main loop #42 @ 09:42:00 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[GAMMA] retry 2/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (149s to start)
+
+[MM] --- main loop #43 @ 09:42:41 UTC ---
+[MM] Current candle not confirmed, waiting... (138s to start)
+
+[MM] --- main loop #44 @ 09:42:53 UTC ---
+[MM] Current candle not confirmed, waiting... (126s to start)
+
+[MM] --- main loop #45 @ 09:43:04 UTC ---
+[MM] Current candle not confirmed, waiting... (115s to start)
+
+[MM] --- main loop #46 @ 09:43:16 UTC ---
+[FV] Current candle effectively UP (bid=0.99, 102s left)
+[MM] Streak: 1x UP (current=UP)
+[MM] Fair value: UP=0.520  DN=0.480  RSI=26.42
+
+[MM] =======================================================
+[MM] Bitcoin Up or Down - March 31, 5:45AM-6:00AM ET
+[MM] start=2026-03-31T09:45:00+00:00
+[MM] streak=1xUP RSI=26.42
+[MM] fair: UP=0.520 DN=0.480
+[MM] max:  UP=0.51  DN=0.47  (both fill → 2c+ profit/sh)
+[MM] Balance: $13.26
+[UP] BUY 6sh @ 0.51  oid=0xcdc1fd4a4af078e46bb325bebf6b0af15a5e89724d9e5a3db728d5d9fd72a2c3
+[DN] BUY 6sh @ 0.45  oid=0x7de2767064873c9cb2f636a044179cbc536e59e6c0c021eff835c802ab38e532
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.45(max=0.47) | 82s to start
+[DN] cancelled 0x7de2767064873c...
+[DN] BUY 6sh @ 0.44  oid=0xc324f9b282a0db7500e5bbd0ae8f152de5bbf92f0dc9a3d6e0c817e7d4aa90e9
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.44(max=0.47) | 63s to start
+[DN] cancelled 0xc324f9b282a0db...
+[DN] BUY 6sh @ 0.45  oid=0xe56db120e3822a109db0b42a4b09819ce6c3a3185fc1155613c127bf8f863fe9
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.45(max=0.47) | 43s to start
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.45(max=0.47) | 24s to start
+[BAL] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[MM] DN order matched @ 0.45, waiting settlement...
+[UP] cancelled 0xcdc1fd4a4af078...
+[DN] cancelled 0xe56db120e3822a...
+[MM] Neither leg filled.
+
+[MM] --- main loop #47 @ 09:45:05 UTC ---
+[MM] Current candle not confirmed, waiting... (894s to start)
+
+[MM] --- main loop #48 @ 09:45:15 UTC ---
+[MM] Current candle not confirmed, waiting... (884s to start)
+
+[MM] --- main loop #49 @ 09:45:26 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (859s to start)
+
+[MM] --- main loop #50 @ 09:45:50 UTC ---
+[MM] Current candle not confirmed, waiting... (849s to start)
+
+[MM] --- main loop #51 @ 09:46:00 UTC ---
+[MM] Current candle not confirmed, waiting... (839s to start)
+
+[MM] --- main loop #52 @ 09:46:11 UTC ---
+[MM] Current candle not confirmed, waiting... (828s to start)
+
+[MM] --- main loop #53 @ 09:46:21 UTC ---
+[MM] Current candle not confirmed, waiting... (818s to start)
+
+[MM] --- main loop #54 @ 09:46:32 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=10)
+[GAMMA] retry 2/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=10)
+[GAMMA] retry 3/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=10)
+[MM] discovery btc-updown-15m-1774951200: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /events/slug/btc-updown-15m-1774951200 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x766f0555c050>: Failed to resolve 'gamma-api.polymarket.com' ([Errno -2] Name or service not known)"))
+[MM] Current candle not confirmed, waiting... (1636s to start)
+
+[MM] --- main loop #55 @ 09:47:54 UTC ---
+[MM] Current candle not confirmed, waiting... (726s to start)
+
+[MM] --- main loop #56 @ 09:48:04 UTC ---
+[MM] Current candle not confirmed, waiting... (715s to start)
+
+[MM] --- main loop #57 @ 09:48:14 UTC ---
+[MM] Current candle not confirmed, waiting... (705s to start)
+
+[MM] --- main loop #58 @ 09:48:25 UTC ---
+[MM] Current candle not confirmed, waiting... (694s to start)
+
+[MM] --- main loop #59 @ 09:48:35 UTC ---
+[MM] Current candle not confirmed, waiting... (684s to start)
+
+[MM] --- main loop #60 @ 09:48:45 UTC ---
+[MM] Current candle not confirmed, waiting... (674s to start)
+
+[MM] --- main loop #61 @ 09:48:56 UTC ---
+[MM] Current candle not confirmed, waiting... (663s to start)
+
+[MM] --- main loop #62 @ 09:49:06 UTC ---
+[MM] Current candle not confirmed, waiting... (653s to start)
+
+[MM] --- main loop #63 @ 09:49:17 UTC ---
+[MM] Current candle not confirmed, waiting... (642s to start)
+
+[MM] --- main loop #64 @ 09:49:27 UTC ---
+[MM] Current candle not confirmed, waiting... (632s to start)
+
+[MM] --- main loop #65 @ 09:49:37 UTC ---
+[MM] Current candle not confirmed, waiting... (622s to start)
+
+[MM] --- main loop #66 @ 09:49:48 UTC ---
+[MM] Current candle not confirmed, waiting... (611s to start)
+
+[MM] --- main loop #67 @ 09:49:58 UTC ---
+[MM] Current candle not confirmed, waiting... (601s to start)
+
+[MM] --- main loop #68 @ 09:50:09 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (578s to start)
+
+[MM] --- main loop #69 @ 09:50:31 UTC ---
+[MM] Current candle not confirmed, waiting... (568s to start)
+
+[MM] --- main loop #70 @ 09:50:42 UTC ---
+[MM] Current candle not confirmed, waiting... (557s to start)
+
+[MM] --- main loop #71 @ 09:50:52 UTC ---
+[MM] Current candle not confirmed, waiting... (547s to start)
+
+[MM] --- main loop #72 @ 09:51:03 UTC ---
+[MM] Current candle not confirmed, waiting... (537s to start)
+
+[MM] --- main loop #73 @ 09:51:13 UTC ---
+[MM] Current candle not confirmed, waiting... (526s to start)
+
+[MM] --- main loop #74 @ 09:51:23 UTC ---
+[MM] Current candle not confirmed, waiting... (516s to start)
+
+[MM] --- main loop #75 @ 09:51:34 UTC ---
+[MM] Current candle not confirmed, waiting... (505s to start)
+
+[MM] --- main loop #76 @ 09:51:44 UTC ---
+[MM] Current candle not confirmed, waiting... (495s to start)
+
+[MM] --- main loop #77 @ 09:51:54 UTC ---
+[MM] Current candle not confirmed, waiting... (485s to start)
+
+[MM] --- main loop #78 @ 09:52:05 UTC ---
+[MM] Current candle not confirmed, waiting... (474s to start)
+
+[MM] --- main loop #79 @ 09:52:16 UTC ---
+[MM] Current candle not confirmed, waiting... (463s to start)
+
+[MM] --- main loop #80 @ 09:52:26 UTC ---
+[MM] Current candle not confirmed, waiting... (453s to start)
+
+[MM] --- main loop #81 @ 09:52:37 UTC ---
+[MM] Current candle not confirmed, waiting... (442s to start)
+
+[MM] --- main loop #82 @ 09:52:47 UTC ---
+[MM] Current candle not confirmed, waiting... (432s to start)
+
+[MM] --- main loop #83 @ 09:52:57 UTC ---
+[MM] Current candle not confirmed, waiting... (422s to start)
+
+[MM] --- main loop #84 @ 09:53:08 UTC ---
+[MM] Current candle not confirmed, waiting... (411s to start)
+
+[MM] --- main loop #85 @ 09:53:18 UTC ---
+[MM] Current candle not confirmed, waiting... (401s to start)
+
+[MM] --- main loop #86 @ 09:53:29 UTC ---
+[MM] Current candle not confirmed, waiting... (390s to start)
+
+[MM] --- main loop #87 @ 09:53:39 UTC ---
+[MM] Current candle not confirmed, waiting... (380s to start)
+
+[MM] --- main loop #88 @ 09:53:50 UTC ---
+[MM] Current candle not confirmed, waiting... (369s to start)
+
+[MM] --- main loop #89 @ 09:54:00 UTC ---
+[MM] Current candle not confirmed, waiting... (359s to start)
+
+[MM] --- main loop #90 @ 09:54:10 UTC ---
+[MM] Current candle not confirmed, waiting... (349s to start)
+
+[MM] --- main loop #91 @ 09:54:21 UTC ---
+[MM] Current candle not confirmed, waiting... (338s to start)
+
+[MM] --- main loop #92 @ 09:54:31 UTC ---
+[MM] Current candle not confirmed, waiting... (328s to start)
+
+[MM] --- main loop #93 @ 09:54:42 UTC ---
+[MM] Current candle not confirmed, waiting... (317s to start)
+
+[MM] --- main loop #94 @ 09:54:52 UTC ---
+[MM] Current candle not confirmed, waiting... (301s to start)
+
+[MM] --- main loop #95 @ 09:55:09 UTC ---
+[FV] Current candle effectively DN (bid=0.96, 291s left)
+[MM] Streak: 1x DN (current=DN)
+[MM] Fair value: UP=0.511  DN=0.489  RSI=22.53
+
+[MM] =======================================================
+[MM] Bitcoin Up or Down - March 31, 6:00AM-6:15AM ET
+[MM] start=2026-03-31T10:00:00+00:00
+[MM] streak=1xDN RSI=22.53
+[MM] fair: UP=0.511 DN=0.489
+[MM] max:  UP=0.50  DN=0.48  (both fill → 2c+ profit/sh)
+[MM] Balance: $17.26
+[UP] BUY 6sh @ 0.50  oid=0x8bdfd699a1bdcd958a857bc8efb0c68883d4f1916b0b511e04cbe6b7ae4eaebf
+[DN] BUY 6sh @ 0.45  oid=0xeeefc1b7f0aec8f2c45910977d0687bdac5f735be58ebb461ba469e624e9a45c
+[MM] UP:BUY@0.50(max=0.50) | DN:BUY@0.45(max=0.48) | 270s to start
+[MM] UP:BUY@0.50(max=0.50) | DN:BUY@0.45(max=0.48) | 252s to start
+[MM] UP:BUY@0.50(max=0.50) | DN:BUY@0.45(max=0.48) | 233s to start
+[ORD] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[ORD] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[ORD] retry 2/2: PolyApiException[status_code=None, error_message=Request exception!]
+[BOOK] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[MM] UP:BUY@0.50(max=0.50) | DN:BUY@0.45(max=0.48) | 163s to start
+[BOOK] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[DN] cancelled 0xeeefc1b7f0aec8...
+[MM] DN filled during re-quote @ 0.45
+[BAL] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[MM] UP:BUY@0.50(max=0.50) | DN:FILLED@0.45 | 122s to start
+[MM] UP:BUY@0.50(max=0.50) | DN:FILLED@0.45 | 107s to start
+[MM] UP:BUY@0.50(max=0.50) | DN:FILLED@0.45 | 93s to start
+[MM] UP:BUY@0.50(max=0.50) | DN:FILLED@0.45 | 69s to start
+[MM] UP:BUY@0.50(max=0.50) | DN:FILLED@0.45 | 54s to start
+[BAL] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[BOOK] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[MM] UP:BUY@0.50(max=0.50) | DN:FILLED@0.45 | 18s to start
+[UP] cancelled 0x8bdfd699a1bdcd...
+
+[MM] ╔══════════════════════════════════════════════╗
+[MM] ║  DN FILLED — holding through resolution
+[MM] ║  6sh @ 0.45  (fair=0.489)
+[MM] ║  Edge: 3.9c  |  EV/sh: 3.9c  → $0.234
+[MM] ║  Win: +$3.30  |  Lose: -$2.70
+[MM] ╚══════════════════════════════════════════════╝
+
+[MM] --- main loop #96 @ 10:00:15 UTC ---
+[MM] Current candle not confirmed, waiting... (883s to start)
+
+[MM] --- main loop #97 @ 10:00:27 UTC ---
+[MM] Current candle not confirmed, waiting... (872s to start)
+
+[MM] --- main loop #98 @ 10:00:37 UTC ---
+[MM] Current candle not confirmed, waiting... (852s to start)
+
+[MM] --- main loop #99 @ 10:00:57 UTC ---
+[MM] Current candle not confirmed, waiting... (840s to start)
+
+[MM] --- main loop #100 @ 10:01:10 UTC ---
+[MM] Current candle not confirmed, waiting... (829s to start)
+
+[MM] --- main loop #101 @ 10:01:20 UTC ---
+[MM] Current candle not confirmed, waiting... (819s to start)
+
+[MM] --- main loop #102 @ 10:01:31 UTC ---
+[MM] Current candle not confirmed, waiting... (809s to start)
+
+[MM] --- main loop #103 @ 10:01:41 UTC ---
+[MM] Current candle not confirmed, waiting... (798s to start)
+
+[MM] --- main loop #104 @ 10:01:51 UTC ---
+[MM] Current candle not confirmed, waiting... (788s to start)
+
+[MM] --- main loop #105 @ 10:02:02 UTC ---
+[MM] Current candle not confirmed, waiting... (777s to start)
+
+[MM] --- main loop #106 @ 10:02:12 UTC ---
+[MM] Current candle not confirmed, waiting... (767s to start)
+
+[MM] --- main loop #107 @ 10:02:23 UTC ---
+[MM] Current candle not confirmed, waiting... (756s to start)
+
+[MM] --- main loop #108 @ 10:02:33 UTC ---
+[MM] Current candle not confirmed, waiting... (746s to start)
+
+[MM] --- main loop #109 @ 10:02:43 UTC ---
+[MM] Current candle not confirmed, waiting... (736s to start)
+
+[MM] --- main loop #110 @ 10:02:54 UTC ---
+[MM] Current candle not confirmed, waiting... (725s to start)
+
+[MM] --- main loop #111 @ 10:03:04 UTC ---
+[MM] Current candle not confirmed, waiting... (715s to start)
+
+[MM] --- main loop #112 @ 10:03:15 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (692s to start)
+
+[MM] --- main loop #113 @ 10:03:37 UTC ---
+[MM] Current candle not confirmed, waiting... (682s to start)
+
+[MM] --- main loop #114 @ 10:03:48 UTC ---
+[MM] Current candle not confirmed, waiting... (671s to start)
+
+[MM] --- main loop #115 @ 10:03:58 UTC ---
+[MM] Current candle not confirmed, waiting... (661s to start)
+
+[MM] --- main loop #116 @ 10:04:09 UTC ---
+[MM] Current candle not confirmed, waiting... (651s to start)
+
+[MM] --- main loop #117 @ 10:04:19 UTC ---
+[MM] Current candle not confirmed, waiting... (640s to start)
+
+[MM] --- main loop #118 @ 10:04:29 UTC ---
+[MM] Current candle not confirmed, waiting... (630s to start)
+
+[MM] --- main loop #119 @ 10:04:40 UTC ---
+[MM] Current candle not confirmed, waiting... (620s to start)
+
+[MM] --- main loop #120 @ 10:04:50 UTC ---
+[MM] Current candle not confirmed, waiting... (609s to start)
+
+[MM] --- main loop #121 @ 10:05:00 UTC ---
+[MM] Current candle not confirmed, waiting... (599s to start)
+
+[MM] --- main loop #122 @ 10:05:11 UTC ---
+[MM] Current candle not confirmed, waiting... (588s to start)
+
+[MM] --- main loop #123 @ 10:05:21 UTC ---
+[MM] Current candle not confirmed, waiting... (578s to start)
+
+[MM] --- main loop #124 @ 10:05:32 UTC ---
+[MM] Current candle not confirmed, waiting... (568s to start)
+
+[MM] --- main loop #125 @ 10:05:42 UTC ---
+[MM] Current candle not confirmed, waiting... (557s to start)
+
+[MM] --- main loop #126 @ 10:05:52 UTC ---
+[MM] Current candle not confirmed, waiting... (547s to start)
+
+[MM] --- main loop #127 @ 10:06:03 UTC ---
+[MM] Current candle not confirmed, waiting... (536s to start)
+
+[MM] --- main loop #128 @ 10:06:13 UTC ---
+[MM] Current candle not confirmed, waiting... (526s to start)
+
+[MM] --- main loop #129 @ 10:06:24 UTC ---
+[MM] Current candle not confirmed, waiting... (516s to start)
+
+[MM] --- main loop #130 @ 10:06:34 UTC ---
+[MM] Current candle not confirmed, waiting... (505s to start)
+
+[MM] --- main loop #131 @ 10:06:44 UTC ---
+[MM] Current candle not confirmed, waiting... (495s to start)
+
+[MM] --- main loop #132 @ 10:06:55 UTC ---
+[MM] Current candle not confirmed, waiting... (484s to start)
+
+[MM] --- main loop #133 @ 10:07:05 UTC ---
+[MM] Current candle not confirmed, waiting... (474s to start)
+
+[MM] --- main loop #134 @ 10:07:15 UTC ---
+[MM] Current candle not confirmed, waiting... (464s to start)
+
+[MM] --- main loop #135 @ 10:07:26 UTC ---
+[MM] Current candle not confirmed, waiting... (453s to start)
+
+[MM] --- main loop #136 @ 10:07:36 UTC ---
+[MM] Current candle not confirmed, waiting... (443s to start)
+
+[MM] --- main loop #137 @ 10:07:46 UTC ---
+[MM] Current candle not confirmed, waiting... (433s to start)
+
+[MM] --- main loop #138 @ 10:07:57 UTC ---
+[MM] Current candle not confirmed, waiting... (422s to start)
+
+[MM] --- main loop #139 @ 10:08:07 UTC ---
+[MM] Current candle not confirmed, waiting... (412s to start)
+
+[MM] --- main loop #140 @ 10:08:18 UTC ---
+[MM] Current candle not confirmed, waiting... (401s to start)
+
+[MM] --- main loop #141 @ 10:08:28 UTC ---
+[MM] Current candle not confirmed, waiting... (391s to start)
+
+[MM] --- main loop #142 @ 10:08:39 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (366s to start)
+
+[MM] --- main loop #143 @ 10:09:04 UTC ---
+[MM] Current candle not confirmed, waiting... (355s to start)
+
+[MM] --- main loop #144 @ 10:09:14 UTC ---
+[MM] Current candle not confirmed, waiting... (345s to start)
+
+[MM] --- main loop #145 @ 10:09:25 UTC ---
+[MM] Current candle not confirmed, waiting... (335s to start)
+
+[MM] --- main loop #146 @ 10:09:35 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (312s to start)
+
+[MM] --- main loop #147 @ 10:09:58 UTC ---
+[MM] Current candle not confirmed, waiting... (301s to start)
+
+[MM] --- main loop #148 @ 10:10:08 UTC ---
+[FV] Current candle effectively UP (bid=0.98, 291s left)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Streak: 1x UP (current=UP)
+[MM] Fair value: UP=0.520  DN=0.480  RSI=29.93
+
+[MM] =======================================================
+[MM] Bitcoin Up or Down - March 31, 6:15AM-6:30AM ET
+[MM] start=2026-03-31T10:15:00+00:00
+[MM] streak=1xUP RSI=29.93
+[MM] fair: UP=0.520 DN=0.480
+[MM] max:  UP=0.51  DN=0.47  (both fill → 2c+ profit/sh)
+[MM] Balance: $14.56
+[UP] BUY 6sh @ 0.51  oid=0xeaecfc4c30c95e4f05f4224fccb0c94b3876d6758d353ab28814d9c7d4e5e07d
+[DN] BUY 6sh @ 0.46  oid=0x990ebdc807dabbb70d02b7c9949ee477d831834eec87c8b5e683fb6817b62d2c
+[BAL] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[ORD] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 257s to start
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 226s to start
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 208s to start
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 190s to start
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 168s to start
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 150s to start
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 132s to start
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 114s to start
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 96s to start
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 77s to start
+[MM] UP order matched @ 0.51, waiting settlement...
+[UP] cancelled 0xeaecfc4c30c95e...
+[MM] UP filled: 6.0sh @ 0.51
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 60s to start
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 46s to start
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 32s to start
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 18s to start
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 4s to start
+[DN] cancelled 0x990ebdc807dabb...
+[DN] BUY 6sh @ 0.45  oid=0x42d40b5da0cbf479a19ea07e1dd5c06b68d959e0a056a14e2bc8fbc4d7c4e54d
+[DN] cancelled 0x42d40b5da0cbf4...
+
+[MM] ╔══════════════════════════════════════════════╗
+[MM] ║  UP FILLED — holding through resolution
+[MM] ║  6sh @ 0.51  (fair=0.520)
+[MM] ║  Edge: 1.0c  |  EV/sh: 1.0c  → $0.060
+[MM] ║  Win: +$2.94  |  Lose: -$3.06
+[MM] ╚══════════════════════════════════════════════╝
+
+[MM] --- main loop #149 @ 10:15:05 UTC ---
+[MM] Current candle not confirmed, waiting... (894s to start)
+
+[MM] --- main loop #150 @ 10:15:15 UTC ---
+[MM] Current candle not confirmed, waiting... (883s to start)
+
+[MM] --- main loop #151 @ 10:15:27 UTC ---
+[MM] Current candle not confirmed, waiting... (872s to start)
+
+[MM] --- main loop #152 @ 10:15:38 UTC ---
+[MM] Current candle not confirmed, waiting... (861s to start)
+
+[MM] --- main loop #153 @ 10:15:49 UTC ---
+[MM] Current candle not confirmed, waiting... (849s to start)
+
+[MM] --- main loop #154 @ 10:16:00 UTC ---
+[MM] Current candle not confirmed, waiting... (838s to start)
+
+[MM] --- main loop #155 @ 10:16:12 UTC ---
+[MM] Current candle not confirmed, waiting... (827s to start)
+
+[MM] --- main loop #156 @ 10:16:23 UTC ---
+[MM] Current candle not confirmed, waiting... (816s to start)
+
+[MM] --- main loop #157 @ 10:16:34 UTC ---
+[MM] Current candle not confirmed, waiting... (805s to start)
+
+[MM] --- main loop #158 @ 10:16:45 UTC ---
+[MM] Current candle not confirmed, waiting... (793s to start)
+
+[MM] --- main loop #159 @ 10:16:56 UTC ---
+[MM] Current candle not confirmed, waiting... (782s to start)
+
+[MM] --- main loop #160 @ 10:17:07 UTC ---
+[MM] Current candle not confirmed, waiting... (771s to start)
+
+[MM] --- main loop #161 @ 10:17:18 UTC ---
+[MM] Current candle not confirmed, waiting... (760s to start)
+
+[MM] --- main loop #162 @ 10:17:30 UTC ---
+[MM] Current candle not confirmed, waiting... (748s to start)
+
+[MM] --- main loop #163 @ 10:17:41 UTC ---
+[MM] Current candle not confirmed, waiting... (737s to start)
+
+[MM] --- main loop #164 @ 10:17:52 UTC ---
+[MM] Current candle not confirmed, waiting... (726s to start)
+
+[MM] --- main loop #165 @ 10:18:03 UTC ---
+[MM] Current candle not confirmed, waiting... (715s to start)
+
+[MM] --- main loop #166 @ 10:18:14 UTC ---
+[MM] Current candle not confirmed, waiting... (704s to start)
+
+[MM] --- main loop #167 @ 10:18:25 UTC ---
+[MM] Current candle not confirmed, waiting... (692s to start)
+
+[MM] --- main loop #168 @ 10:18:37 UTC ---
+[MM] Current candle not confirmed, waiting... (681s to start)
+
+[MM] --- main loop #169 @ 10:18:49 UTC ---
+[MM] Current candle not confirmed, waiting... (670s to start)
+
+[MM] --- main loop #170 @ 10:19:00 UTC ---
+[MM] Current candle not confirmed, waiting... (659s to start)
+
+[MM] --- main loop #171 @ 10:19:11 UTC ---
+[MM] Current candle not confirmed, waiting... (647s to start)
+
+[MM] --- main loop #172 @ 10:19:22 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (624s to start)
+
+[MM] --- main loop #173 @ 10:19:46 UTC ---
+[MM] Current candle not confirmed, waiting... (613s to start)
+
+[MM] --- main loop #174 @ 10:19:57 UTC ---
+[MM] Current candle not confirmed, waiting... (601s to start)
+
+[MM] --- main loop #175 @ 10:20:08 UTC ---
+[MM] Current candle not confirmed, waiting... (590s to start)
+
+[MM] --- main loop #176 @ 10:20:19 UTC ---
+[MM] Current candle not confirmed, waiting... (579s to start)
+
+[MM] --- main loop #177 @ 10:20:31 UTC ---
+[MM] Current candle not confirmed, waiting... (568s to start)
+
+[MM] --- main loop #178 @ 10:20:42 UTC ---
+[MM] Current candle not confirmed, waiting... (556s to start)
+
+[MM] --- main loop #179 @ 10:20:53 UTC ---
+[MM] Current candle not confirmed, waiting... (539s to start)
+
+[MM] --- main loop #180 @ 10:21:11 UTC ---
+[MM] Current candle not confirmed, waiting... (522s to start)
+
+[MM] --- main loop #181 @ 10:21:28 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (484s to start)
+
+[MM] --- main loop #182 @ 10:22:05 UTC ---
+[MM] Current candle not confirmed, waiting... (466s to start)
+
+[MM] --- main loop #183 @ 10:22:23 UTC ---
+[MM] Current candle not confirmed, waiting... (454s to start)
+
+[MM] --- main loop #184 @ 10:22:36 UTC ---
+[MM] Current candle not confirmed, waiting... (441s to start)
+
+[MM] --- main loop #185 @ 10:22:49 UTC ---
+[MM] Current candle not confirmed, waiting... (424s to start)
+
+[MM] --- main loop #186 @ 10:23:05 UTC ---
+[MM] Current candle not confirmed, waiting... (413s to start)
+
+[MM] --- main loop #187 @ 10:23:17 UTC ---
+[MM] Current candle not confirmed, waiting... (402s to start)
+
+[MM] --- main loop #188 @ 10:23:28 UTC ---
+[MM] Current candle not confirmed, waiting... (391s to start)
+
+[MM] --- main loop #189 @ 10:23:39 UTC ---
+[MM] Current candle not confirmed, waiting... (380s to start)
+
+[MM] --- main loop #190 @ 10:23:50 UTC ---
+[MM] Current candle not confirmed, waiting... (369s to start)
+
+[MM] --- main loop #191 @ 10:24:01 UTC ---
+[MM] Current candle not confirmed, waiting... (357s to start)
+
+[MM] --- main loop #192 @ 10:24:12 UTC ---
+[MM] Current candle not confirmed, waiting... (346s to start)
+
+[MM] --- main loop #193 @ 10:24:23 UTC ---
+[MM] Current candle not confirmed, waiting... (335s to start)
+
+[MM] --- main loop #194 @ 10:24:34 UTC ---
+[MM] Current candle not confirmed, waiting... (324s to start)
+
+[MM] --- main loop #195 @ 10:24:45 UTC ---
+[MM] Current candle not confirmed, waiting... (313s to start)
+
+[MM] --- main loop #196 @ 10:24:56 UTC ---
+[MM] Current candle not confirmed, waiting... (302s to start)
+
+[MM] --- main loop #197 @ 10:25:07 UTC ---
+[MM] Current candle not confirmed, waiting... (291s to start)
+
+[MM] --- main loop #198 @ 10:25:19 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (265s to start)
+
+[MM] --- main loop #199 @ 10:25:45 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (240s to start)
+
+[MM] --- main loop #200 @ 10:26:10 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (215s to start)
+
+[MM] --- main loop #201 @ 10:26:35 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (189s to start)
+
+[MM] --- main loop #202 @ 10:27:01 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (164s to start)
+
+[MM] --- main loop #203 @ 10:27:26 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (139s to start)
+
+[MM] --- main loop #204 @ 10:27:51 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (114s to start)
+
+[MM] --- main loop #205 @ 10:28:16 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (89s to start)
+
+[MM] --- main loop #206 @ 10:28:41 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (51s to start)
+
+[MM] --- main loop #207 @ 10:29:19 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (25s to start)
+
+[MM] --- main loop #208 @ 10:29:45 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[FV] Current candle effectively UP (bid=0.99, 1s left)
+[MM] Streak: 1x UP (current=UP)
+[MM] Fair value: UP=0.510  DN=0.490  RSI=31.7
+
+[MM] =======================================================
+[MM] Bitcoin Up or Down - March 31, 6:30AM-6:45AM ET
+[MM] start=2026-03-31T10:30:00+00:00
+[MM] streak=1xUP RSI=31.7
+[MM] fair: UP=0.510 DN=0.490
+[MM] max:  UP=0.50  DN=0.48  (both fill → 2c+ profit/sh)
+[MM] Balance: $11.50
+[MM] Neither leg filled.
+
+[MM] --- main loop #209 @ 10:30:07 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (879s to start)
+
+[MM] --- main loop #210 @ 10:30:31 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Current candle not confirmed, waiting... (841s to start)
+
+[MM] --- main loop #211 @ 10:31:08 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (817s to start)
+
+[MM] --- main loop #212 @ 10:31:33 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (792s to start)
+
+[MM] --- main loop #213 @ 10:31:57 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (768s to start)
+
+[MM] --- main loop #214 @ 10:32:21 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (744s to start)
+
+[MM] --- main loop #215 @ 10:32:46 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (720s to start)
+
+[MM] --- main loop #216 @ 10:33:10 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (695s to start)
+
+[MM] --- main loop #217 @ 10:33:34 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (671s to start)
+
+[MM] --- main loop #218 @ 10:33:59 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (646s to start)
+
+[MM] --- main loop #219 @ 10:34:23 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (622s to start)
+
+[MM] --- main loop #220 @ 10:34:47 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (598s to start)
+
+[MM] --- main loop #221 @ 10:35:12 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (573s to start)
+
+[MM] --- main loop #222 @ 10:35:36 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (549s to start)
+
+[MM] --- main loop #223 @ 10:36:01 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (524s to start)
+
+[MM] --- main loop #224 @ 10:36:25 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (500s to start)
+
+[MM] --- main loop #225 @ 10:36:50 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (475s to start)
+
+[MM] --- main loop #226 @ 10:37:15 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (450s to start)
+
+[MM] --- main loop #227 @ 10:37:39 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (426s to start)
+
+[MM] --- main loop #228 @ 10:38:04 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (401s to start)
+
+[MM] --- main loop #229 @ 10:38:28 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (371s to start)
+
+[MM] --- main loop #230 @ 10:38:59 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (346s to start)
+
+[MM] --- main loop #231 @ 10:39:23 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (318s to start)
+
+[MM] --- main loop #232 @ 10:39:51 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (293s to start)
+
+[MM] --- main loop #233 @ 10:40:18 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (267s to start)
+
+[MM] --- main loop #234 @ 10:40:43 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (241s to start)
+
+[MM] --- main loop #235 @ 10:41:09 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (216s to start)
+
+[MM] --- main loop #236 @ 10:41:34 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[FV] Current candle effectively DN (bid=0.95, 191s left)
+[MM] Streak: 1x DN (current=DN)
+[MM] Fair value: UP=0.511  DN=0.489  RSI=29.96
+
+[MM] =======================================================
+[MM] Bitcoin Up or Down - March 31, 6:45AM-7:00AM ET
+[MM] start=2026-03-31T10:45:00+00:00
+[MM] streak=1xDN RSI=29.96
+[MM] fair: UP=0.511 DN=0.489
+[MM] max:  UP=0.50  DN=0.48  (both fill → 2c+ profit/sh)
+[MM] Balance: $17.50
+[UP] BUY 6sh @ 0.50  oid=0xfe9edd176139d51ccd8ce3f350c5514187ac6d80c3cf49808181d6859ab8f021
+[DN] BUY 6sh @ 0.46  oid=0x793119578b7730b6a0a9bab3d35e66d353abcaee8ed2a948423016258ecc2178
+[MM] UP:BUY@0.50(max=0.50) | DN:BUY@0.46(max=0.48) | 171s to start
+[MM] UP:BUY@0.50(max=0.50) | DN:BUY@0.46(max=0.48) | 153s to start
+[MM] DN order matched @ 0.46, waiting settlement...
+[DN] cancelled 0x793119578b7730...
+[MM] DN filled: 6.0sh @ 0.46
+[MM] UP:BUY@0.50(max=0.50) | DN:FILLED@0.46 | 136s to start
+[MM] UP:BUY@0.50(max=0.50) | DN:FILLED@0.46 | 122s to start
+[MM] UP:BUY@0.50(max=0.50) | DN:FILLED@0.46 | 108s to start
+[MM] UP:BUY@0.50(max=0.50) | DN:FILLED@0.46 | 94s to start
+[MM] UP:BUY@0.50(max=0.50) | DN:FILLED@0.46 | 80s to start
+[MM] UP:BUY@0.50(max=0.50) | DN:FILLED@0.46 | 66s to start
+[MM] UP:BUY@0.50(max=0.50) | DN:FILLED@0.46 | 52s to start
+[MM] UP:BUY@0.50(max=0.50) | DN:FILLED@0.46 | 38s to start
+[BAL] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[MM] UP:BUY@0.50(max=0.50) | DN:FILLED@0.46 | 17s to start
+[MM] UP:BUY@0.50(max=0.50) | DN:FILLED@0.46 | 3s to start
+[UP] cancelled 0xfe9edd176139d5...
+
+[MM] ╔══════════════════════════════════════════════╗
+[MM] ║  DN FILLED — holding through resolution
+[MM] ║  6sh @ 0.46  (fair=0.489)
+[MM] ║  Edge: 2.9c  |  EV/sh: 2.9c  → $0.174
+[MM] ║  Win: +$3.24  |  Lose: -$2.76
+[MM] ╚══════════════════════════════════════════════╝
+
+[MM] --- main loop #237 @ 10:45:08 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (876s to start)
+
+[MM] --- main loop #238 @ 10:45:33 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (852s to start)
+
+[MM] --- main loop #239 @ 10:45:58 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (827s to start)
+
+[MM] --- main loop #240 @ 10:46:23 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (802s to start)
+
+[MM] --- main loop #241 @ 10:46:48 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (777s to start)
+
+[MM] --- main loop #242 @ 10:47:13 UTC ---
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN] DN 6.0sh stuck, closing...
+[BOOK] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[BOOK] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[MM] book error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+[ORPHAN-DN] retry 1/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[ORPHAN-DN] market sell fail: PolyApiException[status_code=400, error_message={'error': 'the orderbook 8916081674967071382160738166640376237962494194413132414108755327191652445336 does not exist'}]
+[MM] Current candle not confirmed, waiting... (752s to start)

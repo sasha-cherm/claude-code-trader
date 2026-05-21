@@ -1,0 +1,1664 @@
+=== NCAAB March Madness 2nd Round Near-Res Monitor ===
+=== Started at 15:18 UTC ===
+=== 24 tokens (12 games) ===
+Params: MIN_PRICE=0.88, JUMP=0.2, SPREAD=0.04, MAX_MINS=15
+Sizing: MAX_SPEND=$14.0, PCT=0.22, MIN_SPEND=$1.0
+
+Capturing pre-game prices...
+  Texas Tech     pre-game: 0.510
+  Alabama        pre-game: 0.480
+  Tennessee      pre-game: 0.510
+  Virginia       pre-game: 0.480
+  Utah State     pre-game: 0.140
+  Arizona        pre-game: 0.850
+  Iowa           pre-game: 0.160
+  Florida        pre-game: 0.830
+  UCLA           pre-game: 0.350
+  UConn          pre-game: 0.640
+  Illinois St    pre-game: 0.240
+  Wake Forest    pre-game: 0.750
+  St Johns       pre-game: 0.610
+  Kansas         pre-game: 0.380
+  Seattle        pre-game: 0.110
+  Auburn         pre-game: 0.880
+  UNLV           pre-game: 0.340
+  Tulsa          pre-game: 0.640
+  G Washington   pre-game: 0.250
+  New Mexico     pre-game: 0.740
+  Wichita St     pre-game: 0.420
+  OK State       pre-game: 0.570
+  St Josephs     pre-game: 0.310
+  California     pre-game: 0.680
+
+--- NCAAB Check #1 at 15:18:33 UTC ---
+  Balance: $52.01
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=176 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=566 
+
+--- NCAAB Check #2 at 15:19:39 UTC ---
+  Balance: $52.01
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=175 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=565 
+
+--- NCAAB Check #3 at 15:20:47 UTC ---
+  Balance: $52.01
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=174 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=564 
+
+--- NCAAB Check #4 at 15:21:54 UTC ---
+  Balance: $52.01
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=173 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=563 
+
+--- NCAAB Check #5 at 15:23:02 UTC ---
+  Balance: $52.01
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=172 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=562 
+
+--- NCAAB Check #6 at 15:24:09 UTC ---
+  Balance: $52.01
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=171 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=561 
+
+--- NCAAB Check #7 at 15:25:17 UTC ---
+  Balance: $52.01
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=170 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=560 
+
+--- NCAAB Check #8 at 15:26:24 UTC ---
+  Balance: $52.01
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=169 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=559 
+
+--- NCAAB Check #9 at 15:27:31 UTC ---
+  Balance: $52.01
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=167 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=557 
+
+--- NCAAB Check #10 at 15:28:38 UTC ---
+  Balance: $52.01
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=166 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=556 
+
+--- NCAAB Check #11 at 15:29:45 UTC ---
+  Balance: $52.01
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=165 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=555 
+
+--- NCAAB Check #12 at 15:30:52 UTC ---
+  Balance: $52.01
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=164 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=554 
+
+--- NCAAB Check #13 at 15:31:59 UTC ---
+  Balance: $52.01
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=163 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=553 
+
+--- NCAAB Check #14 at 15:33:06 UTC ---
+  Balance: $52.01
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=162 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=552 
+
+--- NCAAB Check #15 at 15:34:16 UTC ---
+  Balance: $52.01
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=161 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=551 
+
+--- NCAAB Check #16 at 15:35:23 UTC ---
+  Balance: $52.01
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=160 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=550 
+
+--- NCAAB Check #17 at 15:36:30 UTC ---
+  Balance: $52.01
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=158 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=548 
+
+--- NCAAB Check #18 at 15:37:38 UTC ---
+  Balance: $52.01
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=157 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=547 
+
+--- NCAAB Check #19 at 15:38:47 UTC ---
+  Balance: $52.01
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=156 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=546 
+
+--- NCAAB Check #20 at 15:39:55 UTC ---
+  Balance: $52.01
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=155 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=545 
+
+--- NCAAB Check #21 at 15:41:02 UTC ---
+  Balance: $22.89
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=154 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=544 
+
+--- NCAAB Check #22 at 15:42:10 UTC ---
+  Balance: $22.89
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=153 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=543 
+
+--- NCAAB Check #23 at 15:43:18 UTC ---
+  Balance: $16.49
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=152 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=542 
+
+--- NCAAB Check #24 at 15:44:25 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=151 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=541 
+
+--- NCAAB Check #25 at 15:45:32 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=149 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=539 
+
+--- NCAAB Check #26 at 15:46:40 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=148 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=538 
+
+--- NCAAB Check #27 at 15:47:48 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=147 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=537 
+
+--- NCAAB Check #28 at 15:48:55 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=146 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=536 
+
+--- NCAAB Check #29 at 15:50:03 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=145 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=535 
+
+--- NCAAB Check #30 at 15:51:11 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=144 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=534 
+
+--- NCAAB Check #31 at 15:52:19 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=143 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=533 
+
+--- NCAAB Check #32 at 15:53:28 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=142 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=532 
+
+--- NCAAB Check #33 at 15:54:36 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=140 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=530 
+
+--- NCAAB Check #34 at 15:55:45 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=139 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=529 
+
+--- NCAAB Check #35 at 15:56:52 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=138 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=528 
+
+--- NCAAB Check #36 at 15:57:59 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=137 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=527 
+
+--- NCAAB Check #37 at 15:59:07 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=136 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=526 
+
+--- NCAAB Check #38 at 16:00:15 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=135 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=525 
+
+--- NCAAB Check #39 at 16:01:23 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=134 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=524 
+
+--- NCAAB Check #40 at 16:02:30 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=132 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=522 
+
+--- NCAAB Check #41 at 16:03:38 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=131 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=521 
+
+--- NCAAB Check #42 at 16:04:45 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=130 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=520 
+
+--- NCAAB Check #43 at 16:05:53 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=129 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=519 
+
+--- NCAAB Check #44 at 16:07:01 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=128 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=518 
+
+--- NCAAB Check #45 at 16:08:14 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=127 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=517 
+
+--- NCAAB Check #46 at 16:09:23 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=126 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=516 
+
+--- NCAAB Check #47 at 16:10:34 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=124 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=514 
+[BALANCE] Error: PolyApiException[status_code=None, error_message=Request exception!]
+
+--- NCAAB Check #48 at 16:11:46 UTC ---
+  Balance: $0.00
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=123 
+  Auburn         buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=513 
+
+--- NCAAB Check #49 at 16:12:59 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=122 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=512 
+
+--- NCAAB Check #50 at 16:14:09 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=121 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=511 
+
+--- NCAAB Check #51 at 16:15:21 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=120 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=510 
+
+--- NCAAB Check #52 at 16:16:31 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=118 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=508 
+
+--- NCAAB Check #53 at 16:17:42 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=117 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=507 
+
+--- NCAAB Check #54 at 16:18:54 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=116 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=506 
+
+--- NCAAB Check #55 at 16:20:05 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=115 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=505 
+
+--- NCAAB Check #56 at 16:21:15 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=114 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=504 
+
+--- NCAAB Check #57 at 16:22:22 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=113 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=503 
+
+--- NCAAB Check #58 at 16:23:28 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=112 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=502 
+
+--- NCAAB Check #59 at 16:24:35 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=110 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=500 
+
+--- NCAAB Check #60 at 16:25:42 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=109 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=499 
+
+--- NCAAB Check #61 at 16:26:49 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=108 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=498 
+
+--- NCAAB Check #62 at 16:27:56 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=107 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=497 
+
+--- NCAAB Check #63 at 16:29:03 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=106 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=496 
+
+--- NCAAB Check #64 at 16:30:10 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=105 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=495 
+
+--- NCAAB Check #65 at 16:31:18 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=104 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=494 
+
+--- NCAAB Check #66 at 16:32:25 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=103 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=493 
+
+--- NCAAB Check #67 at 16:33:33 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=101 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=491 
+
+--- NCAAB Check #68 at 16:34:41 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=100 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=490 
+
+--- NCAAB Check #69 at 16:35:48 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=99 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=489 
+
+--- NCAAB Check #70 at 16:36:54 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=98 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=488 
+
+--- NCAAB Check #71 at 16:38:01 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=97 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=487 
+
+--- NCAAB Check #72 at 16:39:08 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=96 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=486 
+
+--- NCAAB Check #73 at 16:40:15 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=95 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=485 
+
+--- NCAAB Check #74 at 16:41:22 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=94 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=484 
+
+--- NCAAB Check #75 at 16:42:33 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=92 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=482 
+
+--- NCAAB Check #76 at 16:43:40 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=91 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=481 
+
+--- NCAAB Check #77 at 16:44:47 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=90 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=480 
+
+--- NCAAB Check #78 at 16:45:54 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=89 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=479 
+
+--- NCAAB Check #79 at 16:47:01 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=88 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=478 
+
+--- NCAAB Check #80 at 16:48:09 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=87 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=477 
+
+--- NCAAB Check #81 at 16:49:16 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=86 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=476 
+
+--- NCAAB Check #82 at 16:50:23 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=85 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=475 
+
+--- NCAAB Check #83 at 16:51:32 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=83 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=473 
+
+--- NCAAB Check #84 at 16:52:39 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=82 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=472 
+
+--- NCAAB Check #85 at 16:53:46 UTC ---
+  Balance: $11.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=81 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=471 
+
+--- NCAAB Check #86 at 16:54:54 UTC ---
+  Balance: $9.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=80 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=470 
+
+--- NCAAB Check #87 at 16:56:01 UTC ---
+  Balance: $6.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=79 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=469 
+
+--- NCAAB Check #88 at 16:57:08 UTC ---
+  Balance: $6.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=78 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=468 
+
+--- NCAAB Check #89 at 16:58:20 UTC ---
+  Balance: $6.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=77 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=467 
+
+--- NCAAB Check #90 at 16:59:27 UTC ---
+  Balance: $6.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=76 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=466 
+
+--- NCAAB Check #91 at 17:00:36 UTC ---
+  Balance: $6.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=74 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=464 
+
+--- NCAAB Check #92 at 17:01:43 UTC ---
+  Balance: $6.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=73 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=463 
+
+--- NCAAB Check #93 at 17:02:52 UTC ---
+  Balance: $6.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=72 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=462 
+
+--- NCAAB Check #94 at 17:04:01 UTC ---
+  Balance: $6.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=71 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=461 
+
+--- NCAAB Check #95 at 17:05:11 UTC ---
+  Balance: $6.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=70 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=460 
+
+--- NCAAB Check #96 at 17:06:22 UTC ---
+  Balance: $6.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=69 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=459 
+
+--- NCAAB Check #97 at 17:07:30 UTC ---
+  Balance: $6.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=67 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=457 
+
+--- NCAAB Check #98 at 17:08:38 UTC ---
+  Balance: $6.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=66 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=456 
+
+--- NCAAB Check #99 at 17:09:45 UTC ---
+  Balance: $6.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=65 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=455 
+
+--- NCAAB Check #100 at 17:10:54 UTC ---
+  Balance: $4.96
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=64 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=454 
+
+--- NCAAB Check #101 at 17:12:02 UTC ---
+  Balance: $4.96
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=63 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=453 
+
+--- NCAAB Check #102 at 17:13:11 UTC ---
+  Balance: $4.96
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=62 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=452 
+
+--- NCAAB Check #103 at 17:14:19 UTC ---
+  Balance: $4.96
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=61 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=451 
+
+--- NCAAB Check #104 at 17:15:28 UTC ---
+  Balance: $4.96
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=60 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=450 
+
+--- NCAAB Check #105 at 17:16:38 UTC ---
+  Balance: $4.96
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=58 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=448 
+
+--- NCAAB Check #106 at 17:17:47 UTC ---
+  Balance: $4.96
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=57 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=447 
+
+--- NCAAB Check #107 at 17:18:59 UTC ---
+  Balance: $4.96
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=56 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=446 
+
+--- NCAAB Check #108 at 17:20:07 UTC ---
+  Balance: $4.96
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=55 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=445 
+
+--- NCAAB Check #109 at 17:21:18 UTC ---
+  Balance: $4.96
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=54 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=444 
+
+--- NCAAB Check #110 at 17:22:26 UTC ---
+  Balance: $4.96
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=53 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=443 
+
+--- NCAAB Check #111 at 17:23:34 UTC ---
+  Balance: $4.96
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=51 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=441 
+
+--- NCAAB Check #112 at 17:24:43 UTC ---
+  Balance: $4.96
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=50 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=440 
+
+--- NCAAB Check #113 at 17:25:51 UTC ---
+  Balance: $4.96
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=49 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=439 
+
+--- NCAAB Check #114 at 17:26:59 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=48 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=438 
+
+--- NCAAB Check #115 at 17:28:07 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=47 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=437 
+
+--- NCAAB Check #116 at 17:29:15 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=46 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=436 
+
+--- NCAAB Check #117 at 17:30:23 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=45 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=435 
+
+--- NCAAB Check #118 at 17:31:31 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=43 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=433 
+
+--- NCAAB Check #119 at 17:32:39 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=42 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=432 
+
+--- NCAAB Check #120 at 17:33:48 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=41 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=431 
+
+--- NCAAB Check #121 at 17:34:56 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=40 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=430 
+
+--- NCAAB Check #122 at 17:36:03 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=39 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=429 
+
+--- NCAAB Check #123 at 17:37:12 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=38 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=428 
+
+--- NCAAB Check #124 at 17:38:20 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=37 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=427 
+
+--- NCAAB Check #125 at 17:39:28 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=36 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=426 
+
+--- NCAAB Check #126 at 17:40:38 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=34 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=424 
+
+--- NCAAB Check #127 at 17:41:48 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=33 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=423 
+
+--- NCAAB Check #128 at 17:42:59 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=32 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=422 
+
+--- NCAAB Check #129 at 17:44:08 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=31 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=421 
+
+--- NCAAB Check #130 at 17:45:19 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=30 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=420 
+
+--- NCAAB Check #131 at 17:46:28 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=29 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=419 
+
+--- NCAAB Check #132 at 17:47:37 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=27 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=417 
+
+--- NCAAB Check #133 at 17:48:46 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=26 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=416 
+
+--- NCAAB Check #134 at 17:49:55 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=25 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=415 
+
+--- NCAAB Check #135 at 17:51:04 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=24 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=414 
+
+--- NCAAB Check #136 at 17:52:12 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=23 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=413 
+
+--- NCAAB Check #137 at 17:53:23 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=22 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=412 
+
+--- NCAAB Check #138 at 17:54:32 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=20 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=410 
+
+--- NCAAB Check #139 at 17:55:41 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=19 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=409 
+
+--- NCAAB Check #140 at 17:56:51 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=18 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=408 
+
+--- NCAAB Check #141 at 17:58:01 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=17 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=407 
+
+--- NCAAB Check #142 at 17:59:12 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=16 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=406 
+
+--- NCAAB Check #143 at 18:00:22 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=15 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=405 
+
+--- NCAAB Check #144 at 18:01:31 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=13 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=403 
+
+--- NCAAB Check #145 at 18:02:39 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=12 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=402 
+
+--- NCAAB Check #146 at 18:03:48 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=11 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=401 
+
+--- NCAAB Check #147 at 18:04:56 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=10 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=400 
+
+--- NCAAB Check #148 at 18:06:05 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=9 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=399 
+
+--- NCAAB Check #149 at 18:07:13 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=8 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=398 
+
+--- NCAAB Check #150 at 18:08:22 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=7 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=397 
+
+--- NCAAB Check #151 at 18:09:29 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=6 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=396 
+
+--- NCAAB Check #152 at 18:10:36 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=4 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=394 
+
+--- NCAAB Check #153 at 18:11:43 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=3 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=393 
+
+--- NCAAB Check #154 at 18:12:51 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=2 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=392 
+
+--- NCAAB Check #155 at 18:13:58 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=1 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=391 
+
+--- NCAAB Check #156 at 18:15:07 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-0 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=390 
+
+--- NCAAB Check #157 at 18:16:14 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-1 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=389 
+
+--- NCAAB Check #158 at 18:17:22 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-2 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=388 
+
+--- NCAAB Check #159 at 18:18:30 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-4 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=386 
+
+--- NCAAB Check #160 at 18:19:39 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-5 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=385 
+
+--- NCAAB Check #161 at 18:20:46 UTC ---
+  Balance: $3.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-6 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=384 
+
+--- NCAAB Check #162 at 18:21:55 UTC ---
+  Balance: $22.30
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-7 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=383 
+
+--- NCAAB Check #163 at 18:23:02 UTC ---
+  Balance: $22.30
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-8 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=382 
+
+--- NCAAB Check #164 at 18:24:12 UTC ---
+  Balance: $22.30
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-9 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=381 
+
+--- NCAAB Check #165 at 18:25:20 UTC ---
+  Balance: $22.30
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-10 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=380 
+
+--- NCAAB Check #166 at 18:26:29 UTC ---
+  Balance: $22.30
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-11 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=379 
+
+--- NCAAB Check #167 at 18:27:37 UTC ---
+  Balance: $22.30
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-13 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=377 
+
+--- NCAAB Check #168 at 18:28:45 UTC ---
+  Balance: $22.30
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-14 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=376 
+
+--- NCAAB Check #169 at 18:29:53 UTC ---
+  Balance: $22.30
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-15 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=375 
+
+--- NCAAB Check #170 at 18:31:02 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-16 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=374 
+
+--- NCAAB Check #171 at 18:32:10 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-17 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=373 
+
+--- NCAAB Check #172 at 18:33:19 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-18 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=372 
+
+--- NCAAB Check #173 at 18:34:27 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-19 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=371 
+
+--- NCAAB Check #174 at 18:35:34 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-21 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=369 
+
+--- NCAAB Check #175 at 18:36:42 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-22 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=368 
+
+--- NCAAB Check #176 at 18:37:50 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-23 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=367 
+
+--- NCAAB Check #177 at 18:38:58 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-24 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=366 
+
+--- NCAAB Check #178 at 18:40:05 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-25 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=365 
+
+--- NCAAB Check #179 at 18:41:13 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-26 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=364 
+
+--- NCAAB Check #180 at 18:42:21 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-27 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=363 
+
+--- NCAAB Check #181 at 18:43:30 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-29 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=361 
+
+--- NCAAB Check #182 at 18:44:38 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-30 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=360 
+
+--- NCAAB Check #183 at 18:45:46 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-31 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=359 
+
+--- NCAAB Check #184 at 18:46:57 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-32 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=358 
+
+--- NCAAB Check #185 at 18:48:05 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-33 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=357 
+
+--- NCAAB Check #186 at 18:49:13 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-34 
+  Auburn         buy=0.890 sell=0.900 spread=-0.010 jump=+0.010 mins=356 
+
+--- NCAAB Check #187 at 18:50:20 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-35 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=355 
+
+--- NCAAB Check #188 at 18:51:28 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-36 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=354 
+
+--- NCAAB Check #189 at 18:52:36 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-38 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=352 
+
+--- NCAAB Check #190 at 18:53:43 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-39 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=351 
+
+--- NCAAB Check #191 at 18:54:50 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-40 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=350 
+
+--- NCAAB Check #192 at 18:55:58 UTC ---
+  Balance: $16.06
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-41 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=349 
+
+--- NCAAB Check #193 at 18:57:05 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-42 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=348 
+
+--- NCAAB Check #194 at 18:58:13 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-43 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=347 
+
+--- NCAAB Check #195 at 18:59:21 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-44 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=346 
+
+--- NCAAB Check #196 at 19:00:29 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-45 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=345 
+
+--- NCAAB Check #197 at 19:01:37 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-47 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=343 
+
+--- NCAAB Check #198 at 19:02:45 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-48 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=342 
+
+--- NCAAB Check #199 at 19:03:54 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-49 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=341 
+
+--- NCAAB Check #200 at 19:05:01 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-50 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=340 
+
+--- NCAAB Check #201 at 19:06:10 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-51 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=339 
+
+--- NCAAB Check #202 at 19:07:17 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-52 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=338 
+
+--- NCAAB Check #203 at 19:08:25 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-53 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=337 
+
+--- NCAAB Check #204 at 19:09:33 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-55 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=335 
+
+--- NCAAB Check #205 at 19:10:40 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-56 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=334 
+
+--- NCAAB Check #206 at 19:11:49 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-57 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=333 
+
+--- NCAAB Check #207 at 19:12:57 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-58 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=332 
+
+--- NCAAB Check #208 at 19:14:04 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-59 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=331 
+
+--- NCAAB Check #209 at 19:15:12 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-60 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=330 
+
+--- NCAAB Check #210 at 19:16:20 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-61 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=329 
+
+--- NCAAB Check #211 at 19:17:28 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-62 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=328 
+
+--- NCAAB Check #212 at 19:18:35 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-64 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=326 
+
+--- NCAAB Check #213 at 19:19:43 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-65 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=325 
+
+--- NCAAB Check #214 at 19:20:51 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-66 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=324 
+
+--- NCAAB Check #215 at 19:21:59 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-67 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=323 
+
+--- NCAAB Check #216 at 19:23:07 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-68 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=322 
+
+--- NCAAB Check #217 at 19:24:16 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-69 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=321 
+
+--- NCAAB Check #218 at 19:25:25 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-70 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=320 
+
+--- NCAAB Check #219 at 19:26:34 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-72 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=318 
+
+--- NCAAB Check #220 at 19:27:42 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-73 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=317 
+
+--- NCAAB Check #221 at 19:28:49 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-74 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=316 
+
+--- NCAAB Check #222 at 19:29:56 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-75 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=315 
+
+--- NCAAB Check #223 at 19:31:04 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-76 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=314 
+
+--- NCAAB Check #224 at 19:32:12 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-77 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=313 
+
+--- NCAAB Check #225 at 19:33:19 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-78 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=312 
+
+--- NCAAB Check #226 at 19:34:27 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-79 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=311 
+
+--- NCAAB Check #227 at 19:35:35 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-81 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=309 
+
+--- NCAAB Check #228 at 19:36:42 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-82 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=308 
+
+--- NCAAB Check #229 at 19:37:53 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-83 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=307 
+
+--- NCAAB Check #230 at 19:39:02 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-84 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=306 
+
+--- NCAAB Check #231 at 19:40:10 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-85 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=305 
+
+--- NCAAB Check #232 at 19:41:20 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-86 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=304 
+
+--- NCAAB Check #233 at 19:42:29 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-87 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=303 
+
+--- NCAAB Check #234 at 19:43:37 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-89 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=301 
+
+--- NCAAB Check #235 at 19:44:45 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-90 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=300 
+
+--- NCAAB Check #236 at 19:45:53 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-91 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=299 
+
+--- NCAAB Check #237 at 19:47:03 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-92 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=298 
+
+--- NCAAB Check #238 at 19:48:13 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-93 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=297 
+
+--- NCAAB Check #239 at 19:49:22 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-94 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=296 
+
+--- NCAAB Check #240 at 19:50:29 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-95 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=295 
+
+--- NCAAB Check #241 at 19:51:36 UTC ---
+  Balance: $11.57
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-97 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=293 
+
+--- NCAAB Check #242 at 19:52:43 UTC ---
+  Balance: $11.57
+  Utah State     buy=0.300 sell=0.310 spread=-0.010 jump=+0.160 mins=-98 
+  Arizona        buy=0.690 sell=0.700 spread=-0.010 jump=-0.160 mins=-98 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=292 
+
+--- NCAAB Check #243 at 19:53:50 UTC ---
+  Balance: $11.57
+  Utah State     buy=0.300 sell=0.310 spread=-0.010 jump=+0.160 mins=-99 
+  Arizona        buy=0.690 sell=0.700 spread=-0.010 jump=-0.160 mins=-99 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=291 
+
+--- NCAAB Check #244 at 19:54:59 UTC ---
+  Balance: $11.57
+  Utah State     buy=0.300 sell=0.310 spread=-0.010 jump=+0.160 mins=-100 
+  Arizona        buy=0.690 sell=0.700 spread=-0.010 jump=-0.160 mins=-100 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=290 
+
+--- NCAAB Check #245 at 19:56:07 UTC ---
+  Balance: $11.57
+  Utah State     buy=0.300 sell=0.310 spread=-0.010 jump=+0.160 mins=-101 
+  Arizona        buy=0.690 sell=0.700 spread=-0.010 jump=-0.160 mins=-101 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=289 
+
+--- NCAAB Check #246 at 19:57:15 UTC ---
+  Balance: $11.57
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=288 
+
+--- NCAAB Check #247 at 19:58:23 UTC ---
+  Balance: $11.57
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=287 
+
+--- NCAAB Check #248 at 19:59:31 UTC ---
+  Balance: $11.57
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=285 
+
+--- NCAAB Check #249 at 20:00:39 UTC ---
+  Balance: $6.77
+  Utah State     buy=0.500 sell=0.510 spread=-0.010 jump=+0.360 mins=-106 
+  Arizona        buy=0.490 sell=0.500 spread=-0.010 jump=-0.360 mins=-106 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=284 
+
+--- NCAAB Check #250 at 20:01:47 UTC ---
+  Balance: $6.77
+  Utah State     buy=0.250 sell=0.260 spread=-0.010 jump=+0.110 mins=-107 
+  Arizona        buy=0.740 sell=0.750 spread=-0.010 jump=-0.110 mins=-107 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=283 
+
+--- NCAAB Check #251 at 20:02:55 UTC ---
+  Balance: $6.77
+  Utah State     buy=0.200 sell=0.210 spread=-0.010 jump=+0.060 mins=-108 
+  Arizona        buy=0.790 sell=0.800 spread=-0.010 jump=-0.060 mins=-108 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=282 
+
+--- NCAAB Check #252 at 20:04:02 UTC ---
+  Balance: $4.88
+  Utah State     buy=0.200 sell=0.210 spread=-0.010 jump=+0.060 mins=-109 
+  Arizona        buy=0.790 sell=0.800 spread=-0.010 jump=-0.060 mins=-109 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=281 
+
+--- NCAAB Check #253 at 20:05:09 UTC ---
+  Balance: $4.88
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=280 
+
+--- NCAAB Check #254 at 20:06:21 UTC ---
+  Balance: $4.88
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=279 
+
+--- NCAAB Check #255 at 20:07:29 UTC ---
+  Balance: $4.88
+  Utah State     buy=0.200 sell=0.210 spread=-0.010 jump=+0.060 mins=-112 
+  Arizona        buy=0.790 sell=0.800 spread=-0.010 jump=-0.060 mins=-112 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=278 
+
+--- NCAAB Check #256 at 20:08:36 UTC ---
+  Balance: $4.88
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=276 
+
+--- NCAAB Check #257 at 20:09:44 UTC ---
+  Balance: $4.88
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=275 
+
+--- NCAAB Check #258 at 20:10:51 UTC ---
+  Balance: $4.88
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=274 
+
+--- NCAAB Check #259 at 20:11:59 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.860 sell=0.870 spread=-0.010 jump=+0.010 mins=-117 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=273 
+
+--- NCAAB Check #260 at 20:13:07 UTC ---
+  Balance: $4.88
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=272 
+
+--- NCAAB Check #261 at 20:14:14 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.870 spread=-0.020 jump=+0.000 mins=-119 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=271 
+
+--- NCAAB Check #262 at 20:15:23 UTC ---
+  Balance: $4.88
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=270 
+
+--- NCAAB Check #263 at 20:16:30 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-122 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=268 
+
+--- NCAAB Check #264 at 20:17:37 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-123 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=267 
+
+--- NCAAB Check #265 at 20:18:46 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-124 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=266 
+
+--- NCAAB Check #266 at 20:19:54 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-125 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=265 
+
+--- NCAAB Check #267 at 20:21:00 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-126 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=264 
+
+--- NCAAB Check #268 at 20:22:08 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-127 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=263 
+
+--- NCAAB Check #269 at 20:23:15 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-128 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=262 
+
+--- NCAAB Check #270 at 20:24:23 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-129 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=261 
+
+--- NCAAB Check #271 at 20:25:30 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-131 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=259 
+
+--- NCAAB Check #272 at 20:26:38 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-132 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=258 
+
+--- NCAAB Check #273 at 20:27:45 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-133 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=257 
+
+--- NCAAB Check #274 at 20:28:52 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-134 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=256 
+
+--- NCAAB Check #275 at 20:30:00 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-135 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=255 
+
+--- NCAAB Check #276 at 20:31:07 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-136 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=254 
+
+--- NCAAB Check #277 at 20:32:14 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-137 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=253 
+
+--- NCAAB Check #278 at 20:33:22 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-138 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=252 
+
+--- NCAAB Check #279 at 20:34:29 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-139 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=251 
+
+--- NCAAB Check #280 at 20:35:35 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-141 
+  UCLA           buy=0.400 sell=0.410 spread=-0.010 jump=+0.050 mins=-141 
+  UConn          buy=0.590 sell=0.600 spread=-0.010 jump=-0.050 mins=-141 
+  Wake Forest    buy=0.800 sell=0.810 spread=-0.010 jump=+0.050 mins=129 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=249 
+
+--- NCAAB Check #281 at 20:36:42 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-142 
+  Illinois St    buy=0.140 sell=0.160 spread=-0.020 jump=-0.100 mins=128 
+  Wake Forest    buy=0.840 sell=0.850 spread=-0.010 jump=+0.090 mins=128 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=248 
+
+--- NCAAB Check #282 at 20:37:49 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-143 
+  Illinois St    buy=0.150 sell=0.160 spread=-0.010 jump=-0.090 mins=127 
+  Wake Forest    buy=0.840 sell=0.850 spread=-0.010 jump=+0.090 mins=127 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=247 
+
+--- NCAAB Check #283 at 20:38:56 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-144 
+  UCLA           buy=0.400 sell=0.410 spread=-0.010 jump=+0.050 mins=-144 
+  UConn          buy=0.590 sell=0.600 spread=-0.010 jump=-0.050 mins=-144 
+  Illinois St    buy=0.140 sell=0.160 spread=-0.020 jump=-0.100 mins=126 
+  Wake Forest    buy=0.840 sell=0.860 spread=-0.020 jump=+0.090 mins=126 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=246 
+
+--- NCAAB Check #284 at 20:40:03 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-145 
+  Illinois St    buy=0.150 sell=0.160 spread=-0.010 jump=-0.090 mins=125 
+  Wake Forest    buy=0.840 sell=0.850 spread=-0.010 jump=+0.090 mins=125 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=245 
+
+--- NCAAB Check #285 at 20:41:10 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-146 
+  Illinois St    buy=0.150 sell=0.160 spread=-0.010 jump=-0.090 mins=124 
+  Wake Forest    buy=0.840 sell=0.850 spread=-0.010 jump=+0.090 mins=124 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=244 
+
+--- NCAAB Check #286 at 20:42:16 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-147 
+  Illinois St    buy=0.140 sell=0.150 spread=-0.010 jump=-0.100 mins=123 
+  Wake Forest    buy=0.850 sell=0.860 spread=-0.010 jump=+0.100 mins=123 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=243 
+
+--- NCAAB Check #287 at 20:43:23 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-148 
+  Illinois St    buy=0.150 sell=0.170 spread=-0.020 jump=-0.090 mins=122 
+  Wake Forest    buy=0.830 sell=0.850 spread=-0.020 jump=+0.080 mins=122 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=242 
+
+--- NCAAB Check #288 at 20:44:30 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-150 
+  Illinois St    buy=0.150 sell=0.170 spread=-0.020 jump=-0.090 mins=120 
+  Wake Forest    buy=0.830 sell=0.850 spread=-0.020 jump=+0.080 mins=120 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=240 
+
+--- NCAAB Check #289 at 20:45:37 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-151 
+  Illinois St    buy=0.150 sell=0.170 spread=-0.020 jump=-0.090 mins=119 
+  Wake Forest    buy=0.830 sell=0.850 spread=-0.020 jump=+0.080 mins=119 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=239 
+
+--- NCAAB Check #290 at 20:46:44 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-152 
+  Illinois St    buy=0.180 sell=0.200 spread=-0.020 jump=-0.060 mins=118 
+  Wake Forest    buy=0.800 sell=0.820 spread=-0.020 jump=+0.050 mins=118 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=238 
+
+--- NCAAB Check #291 at 20:47:51 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-153 
+  Illinois St    buy=0.180 sell=0.200 spread=-0.020 jump=-0.060 mins=117 
+  Wake Forest    buy=0.800 sell=0.820 spread=-0.020 jump=+0.050 mins=117 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=237 
+
+--- NCAAB Check #292 at 20:48:58 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-154 
+  Illinois St    buy=0.180 sell=0.200 spread=-0.020 jump=-0.060 mins=116 
+  Wake Forest    buy=0.800 sell=0.820 spread=-0.020 jump=+0.050 mins=116 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=236 
+
+--- NCAAB Check #293 at 20:50:05 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-155 
+  Illinois St    buy=0.180 sell=0.190 spread=-0.010 jump=-0.060 mins=115 
+  Wake Forest    buy=0.810 sell=0.820 spread=-0.010 jump=+0.060 mins=115 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=235 
+
+--- NCAAB Check #294 at 20:51:12 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-156 
+  Illinois St    buy=0.160 sell=0.170 spread=-0.010 jump=-0.080 mins=114 
+  Wake Forest    buy=0.830 sell=0.840 spread=-0.010 jump=+0.080 mins=114 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=234 
+
+--- NCAAB Check #295 at 20:52:25 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-157 
+  Illinois St    buy=0.120 sell=0.140 spread=-0.020 jump=-0.120 mins=113 
+  Wake Forest    buy=0.860 sell=0.880 spread=-0.020 jump=+0.110 mins=113 
+  Auburn         buy=0.900 sell=0.910 spread=-0.010 jump=+0.020 mins=233 
+
+--- NCAAB Check #296 at 20:53:32 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-159 
+  Illinois St    buy=0.120 sell=0.130 spread=-0.010 jump=-0.120 mins=111 
+  Wake Forest    buy=0.870 sell=0.880 spread=-0.010 jump=+0.120 mins=111 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=231 
+
+--- NCAAB Check #297 at 20:54:39 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-160 
+  Illinois St    buy=0.130 sell=0.140 spread=-0.010 jump=-0.110 mins=110 
+  Wake Forest    buy=0.860 sell=0.870 spread=-0.010 jump=+0.110 mins=110 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=230 
+
+--- NCAAB Check #298 at 20:55:46 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-161 
+  Illinois St    buy=0.120 sell=0.140 spread=-0.020 jump=-0.120 mins=109 
+  Wake Forest    buy=0.860 sell=0.880 spread=-0.020 jump=+0.110 mins=109 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=229 
+
+--- NCAAB Check #299 at 20:56:55 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-162 
+  Illinois St    buy=0.120 sell=0.130 spread=-0.010 jump=-0.120 mins=108 
+  Wake Forest    buy=0.870 sell=0.880 spread=-0.010 jump=+0.120 mins=108 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=228 
+
+--- NCAAB Check #300 at 20:58:02 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-163 
+  Illinois St    buy=0.170 sell=0.190 spread=-0.020 jump=-0.070 mins=107 
+  Wake Forest    buy=0.810 sell=0.830 spread=-0.020 jump=+0.060 mins=107 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=227 
+
+--- NCAAB Check #301 at 20:59:10 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-164 
+  Wake Forest    buy=0.800 sell=0.810 spread=-0.010 jump=+0.050 mins=106 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=226 
+
+--- NCAAB Check #302 at 21:00:17 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-165 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=225 
+
+--- NCAAB Check #303 at 21:01:24 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-166 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=224 
+
+--- NCAAB Check #304 at 21:02:31 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-168 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=222 
+
+--- NCAAB Check #305 at 21:03:38 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-169 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=221 
+
+--- NCAAB Check #306 at 21:04:45 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-170 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=220 
+
+--- NCAAB Check #307 at 21:05:52 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-171 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=219 
+
+--- NCAAB Check #308 at 21:06:59 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-172 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=218 
+
+--- NCAAB Check #309 at 21:08:06 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-173 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=217 
+
+--- NCAAB Check #310 at 21:09:13 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-174 
+  Illinois St    buy=0.300 sell=0.310 spread=-0.010 jump=+0.060 mins=96 
+  Wake Forest    buy=0.690 sell=0.700 spread=-0.010 jump=-0.060 mins=96 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=216 
+
+--- NCAAB Check #311 at 21:10:20 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-175 
+  Illinois St    buy=0.330 sell=0.340 spread=-0.010 jump=+0.090 mins=95 
+  Wake Forest    buy=0.660 sell=0.670 spread=-0.010 jump=-0.090 mins=95 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=215 
+
+--- NCAAB Check #312 at 21:11:27 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-176 
+  Illinois St    buy=0.360 sell=0.380 spread=-0.020 jump=+0.120 mins=94 
+  Wake Forest    buy=0.620 sell=0.640 spread=-0.020 jump=-0.130 mins=94 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=214 
+
+--- NCAAB Check #313 at 21:12:34 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-178 
+  Illinois St    buy=0.340 sell=0.360 spread=-0.020 jump=+0.100 mins=92 
+  Wake Forest    buy=0.640 sell=0.660 spread=-0.020 jump=-0.110 mins=92 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=212 
+
+--- NCAAB Check #314 at 21:13:41 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-179 
+  Illinois St    buy=0.360 sell=0.370 spread=-0.010 jump=+0.120 mins=91 
+  Wake Forest    buy=0.630 sell=0.640 spread=-0.010 jump=-0.120 mins=91 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=211 
+
+--- NCAAB Check #315 at 21:14:48 UTC ---
+  Balance: $4.88
+  Arizona        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=-180 
+  Illinois St    buy=0.390 sell=0.400 spread=-0.010 jump=+0.150 mins=90 
+  Wake Forest    buy=0.600 sell=0.610 spread=-0.010 jump=-0.150 mins=90 
+  Auburn         buy=0.890 sell=0.910 spread=-0.020 jump=+0.010 mins=210 

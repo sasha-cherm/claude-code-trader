@@ -1,0 +1,2395 @@
+=== Soccer Mar 29 Near-Res Monitor ===
+Started at 2026-03-29 05:18:17 UTC
+Monitoring 23 tokens
+Params: MIN_PRICE=0.85, JUMP=0.2, SPREAD=0.04, MAX_MINS=20
+Balance: $7.36
+
+Snapshotting pre-game prices...
+  Pre-game Eibar: 0.390
+  Pre-game Las Palmas: 0.290
+  Pre-game EIB-LPA Draw: 0.310
+  Pre-game Lithuania: 0.190
+  Pre-game Georgia: 0.540
+  Pre-game LIT-GEO Draw: 0.260
+  Pre-game Armenia: 0.420
+  Pre-game Belarus: 0.290
+  Pre-game ARM-BLR Draw: 0.280
+  Pre-game Cultural: 0.380
+  Pre-game FC Andorra: 0.320
+  Pre-game CUL-AND Draw: 0.280
+  Pre-game Zaragoza: 0.350
+  Pre-game Racing Club: 0.350
+  Pre-game ZAR-RAC Draw: 0.280
+  Pre-game Colombia: 0.170
+  Pre-game France: 0.590
+  Pre-game COL-FRA Draw: 0.230
+  Pre-game Almeria: 0.630
+  Pre-game Real Sociedad B: 0.150
+  Pre-game ALM-RSB Draw: 0.200
+  Pre-game NAVI: 0.155
+  Pre-game Vitality: 0.820
+
+--- Check #0 at 05:18:21 UTC ---
+  Balance: $7.36
+
+--- Check #1 at 05:19:57 UTC ---
+  Balance: $7.36
+
+--- Check #2 at 05:21:34 UTC ---
+  Balance: $7.36
+
+--- Check #3 at 05:23:10 UTC ---
+  Balance: $7.36
+
+--- Check #4 at 05:24:47 UTC ---
+  Balance: $7.36
+
+--- Check #5 at 05:26:23 UTC ---
+  Balance: $7.36
+
+--- Check #6 at 05:28:00 UTC ---
+  Balance: $7.36
+
+--- Check #7 at 05:29:36 UTC ---
+  Balance: $7.36
+
+--- Check #8 at 05:31:13 UTC ---
+  Balance: $7.36
+
+--- Check #9 at 05:32:50 UTC ---
+  Balance: $7.36
+
+--- Check #10 at 05:34:26 UTC ---
+  Balance: $7.36
+
+--- Check #11 at 05:36:03 UTC ---
+  Balance: $7.36
+
+--- Check #12 at 05:37:40 UTC ---
+  Balance: $7.36
+
+--- Check #13 at 05:39:16 UTC ---
+  Balance: $7.36
+
+--- Check #14 at 05:40:53 UTC ---
+  Balance: $7.36
+
+--- Check #15 at 05:42:30 UTC ---
+  Balance: $7.36
+
+--- Check #16 at 05:44:06 UTC ---
+  Balance: $7.36
+
+--- Check #17 at 05:45:43 UTC ---
+  Balance: $7.36
+
+--- Check #18 at 05:47:20 UTC ---
+  Balance: $7.36
+
+--- Check #19 at 05:48:56 UTC ---
+  Balance: $7.36
+
+--- Check #20 at 05:50:33 UTC ---
+  Balance: $7.36
+
+--- Check #21 at 05:52:10 UTC ---
+  Balance: $7.36
+
+--- Check #22 at 05:53:46 UTC ---
+  Balance: $7.36
+
+--- Check #23 at 05:55:23 UTC ---
+  Balance: $7.36
+
+--- Check #24 at 05:56:59 UTC ---
+  Balance: $7.36
+
+--- Check #25 at 05:58:36 UTC ---
+  Balance: $7.36
+
+--- Check #26 at 06:00:13 UTC ---
+  Balance: $7.36
+
+--- Check #27 at 06:01:49 UTC ---
+  Balance: $7.36
+
+--- Check #28 at 06:03:26 UTC ---
+  Balance: $7.36
+
+--- Check #29 at 06:05:03 UTC ---
+  Balance: $7.36
+
+--- Check #30 at 06:06:40 UTC ---
+  Balance: $7.36
+
+--- Check #31 at 06:08:16 UTC ---
+  Balance: $7.36
+
+--- Check #32 at 06:09:53 UTC ---
+  Balance: $7.36
+
+--- Check #33 at 06:11:30 UTC ---
+  Balance: $7.36
+
+--- Check #34 at 06:13:06 UTC ---
+  Balance: $7.36
+
+--- Check #35 at 06:14:43 UTC ---
+  Balance: $7.36
+
+--- Check #36 at 06:16:20 UTC ---
+  Balance: $7.36
+
+--- Check #37 at 06:17:57 UTC ---
+  Balance: $7.36
+
+--- Check #38 at 06:19:34 UTC ---
+  Balance: $7.36
+
+--- Check #39 at 06:21:12 UTC ---
+  Balance: $7.36
+
+--- Check #40 at 06:22:48 UTC ---
+  Balance: $7.36
+
+--- Check #41 at 06:24:25 UTC ---
+  Balance: $7.36
+
+--- Check #42 at 06:26:02 UTC ---
+  Balance: $7.36
+
+--- Check #43 at 06:27:39 UTC ---
+  Balance: $7.36
+
+--- Check #44 at 06:29:16 UTC ---
+  Balance: $7.36
+
+--- Check #45 at 06:30:52 UTC ---
+  Balance: $7.36
+
+--- Check #46 at 06:32:29 UTC ---
+  Balance: $7.36
+
+--- Check #47 at 06:34:06 UTC ---
+  Balance: $7.36
+
+--- Check #48 at 06:35:43 UTC ---
+  Balance: $7.36
+
+--- Check #49 at 06:37:20 UTC ---
+  Balance: $7.36
+
+--- Check #50 at 06:38:56 UTC ---
+  Balance: $7.36
+
+--- Check #51 at 06:40:33 UTC ---
+  Balance: $7.36
+
+--- Check #52 at 06:42:10 UTC ---
+  Balance: $7.36
+
+--- Check #53 at 06:43:47 UTC ---
+  Balance: $7.36
+
+--- Check #54 at 06:45:24 UTC ---
+  Balance: $7.36
+
+--- Check #55 at 06:47:01 UTC ---
+  Balance: $7.36
+
+--- Check #56 at 06:48:37 UTC ---
+  Balance: $7.36
+
+--- Check #57 at 06:50:14 UTC ---
+  Balance: $7.36
+
+--- Check #58 at 06:51:51 UTC ---
+  Balance: $7.36
+
+--- Check #59 at 06:53:27 UTC ---
+  Balance: $7.36
+
+--- Check #60 at 06:55:04 UTC ---
+  Balance: $7.36
+
+--- Check #61 at 06:56:40 UTC ---
+  Balance: $7.36
+
+--- Check #62 at 06:58:17 UTC ---
+  Balance: $7.36
+
+--- Check #63 at 06:59:53 UTC ---
+  Balance: $7.36
+
+--- Check #64 at 07:01:30 UTC ---
+  Balance: $7.36
+
+--- Check #65 at 07:03:06 UTC ---
+  Balance: $7.36
+
+--- Check #66 at 07:04:43 UTC ---
+  Balance: $7.36
+
+--- Check #67 at 07:06:19 UTC ---
+  Balance: $7.36
+
+--- Check #68 at 07:07:56 UTC ---
+  Balance: $7.36
+
+--- Check #69 at 07:09:32 UTC ---
+  Balance: $7.36
+
+--- Check #70 at 07:11:09 UTC ---
+  Balance: $7.36
+
+--- Check #71 at 07:12:46 UTC ---
+  Balance: $7.36
+
+--- Check #72 at 07:14:23 UTC ---
+  Balance: $7.36
+
+--- Check #73 at 07:15:59 UTC ---
+  Balance: $7.36
+
+--- Check #74 at 07:17:36 UTC ---
+  Balance: $7.36
+
+--- Check #75 at 07:19:13 UTC ---
+  Balance: $7.36
+
+--- Check #76 at 07:20:49 UTC ---
+  Balance: $7.36
+
+--- Check #77 at 07:22:26 UTC ---
+  Balance: $7.36
+
+--- Check #78 at 07:24:03 UTC ---
+  Balance: $7.36
+
+--- Check #79 at 07:25:39 UTC ---
+  Balance: $7.36
+
+--- Check #80 at 07:27:16 UTC ---
+  Balance: $7.36
+
+--- Check #81 at 07:28:53 UTC ---
+  Balance: $7.36
+
+--- Check #82 at 07:30:29 UTC ---
+  Balance: $7.36
+
+--- Check #83 at 07:32:06 UTC ---
+  Balance: $7.36
+
+--- Check #84 at 07:33:42 UTC ---
+  Balance: $7.36
+
+--- Check #85 at 07:35:19 UTC ---
+  Balance: $7.36
+
+--- Check #86 at 07:36:55 UTC ---
+  Balance: $7.36
+
+--- Check #87 at 07:38:32 UTC ---
+  Balance: $7.36
+
+--- Check #88 at 07:40:09 UTC ---
+  Balance: $7.36
+
+--- Check #89 at 07:41:45 UTC ---
+  Balance: $7.36
+
+--- Check #90 at 07:43:22 UTC ---
+  Balance: $7.36
+
+--- Check #91 at 07:44:58 UTC ---
+  Balance: $7.36
+
+--- Check #92 at 07:46:35 UTC ---
+  Balance: $7.36
+
+--- Check #93 at 07:48:12 UTC ---
+  Balance: $7.36
+
+--- Check #94 at 07:49:49 UTC ---
+  Balance: $7.36
+
+--- Check #95 at 07:51:25 UTC ---
+  Balance: $7.36
+
+--- Check #96 at 07:53:02 UTC ---
+  Balance: $7.36
+
+--- Check #97 at 07:54:39 UTC ---
+  Balance: $7.36
+
+--- Check #98 at 07:56:15 UTC ---
+  Balance: $7.36
+
+--- Check #99 at 07:57:52 UTC ---
+  Balance: $7.36
+
+--- Check #100 at 07:59:29 UTC ---
+  Balance: $7.36
+
+--- Check #101 at 08:01:05 UTC ---
+  Balance: $7.36
+
+--- Check #102 at 08:02:42 UTC ---
+  Balance: $7.36
+
+--- Check #103 at 08:04:19 UTC ---
+  Balance: $7.36
+
+--- Check #104 at 08:05:55 UTC ---
+  Balance: $7.36
+
+--- Check #105 at 08:07:32 UTC ---
+  Balance: $7.36
+
+--- Check #106 at 08:09:09 UTC ---
+  Balance: $7.36
+
+--- Check #107 at 08:10:45 UTC ---
+  Balance: $7.36
+
+--- Check #108 at 08:12:22 UTC ---
+  Balance: $7.36
+
+--- Check #109 at 08:13:59 UTC ---
+  Balance: $7.36
+
+--- Check #110 at 08:15:36 UTC ---
+  Balance: $7.36
+
+--- Check #111 at 08:17:12 UTC ---
+  Balance: $7.36
+
+--- Check #112 at 08:18:49 UTC ---
+  Balance: $7.36
+
+--- Check #113 at 08:20:25 UTC ---
+  Balance: $7.36
+
+--- Check #114 at 08:22:02 UTC ---
+  Balance: $7.36
+
+--- Check #115 at 08:23:39 UTC ---
+  Balance: $7.36
+
+--- Check #116 at 08:25:16 UTC ---
+  Balance: $7.36
+
+--- Check #117 at 08:26:52 UTC ---
+  Balance: $7.36
+
+--- Check #118 at 08:28:29 UTC ---
+  Balance: $7.36
+
+--- Check #119 at 08:30:06 UTC ---
+  Balance: $7.36
+
+--- Check #120 at 08:31:42 UTC ---
+  Balance: $7.36
+
+--- Check #121 at 08:33:19 UTC ---
+  Balance: $7.36
+
+--- Check #122 at 08:34:55 UTC ---
+  Balance: $7.36
+
+--- Check #123 at 08:36:32 UTC ---
+  Balance: $7.36
+
+--- Check #124 at 08:38:09 UTC ---
+  Balance: $7.36
+
+--- Check #125 at 08:39:46 UTC ---
+  Balance: $7.36
+
+--- Check #126 at 08:41:22 UTC ---
+  Balance: $7.36
+
+--- Check #127 at 08:42:59 UTC ---
+  Balance: $7.36
+
+--- Check #128 at 08:44:36 UTC ---
+  Balance: $7.36
+
+--- Check #129 at 08:46:12 UTC ---
+  Balance: $7.36
+
+--- Check #130 at 08:47:49 UTC ---
+  Balance: $7.36
+
+--- Check #131 at 08:49:26 UTC ---
+  Balance: $7.36
+
+--- Check #132 at 08:51:02 UTC ---
+  Balance: $7.36
+
+--- Check #133 at 08:52:39 UTC ---
+  Balance: $7.36
+
+--- Check #134 at 08:54:16 UTC ---
+  Balance: $7.36
+
+--- Check #135 at 08:55:53 UTC ---
+  Balance: $7.36
+
+--- Check #136 at 08:57:29 UTC ---
+  Balance: $7.36
+
+--- Check #137 at 08:59:06 UTC ---
+  Balance: $7.36
+
+--- Check #138 at 09:00:43 UTC ---
+  Balance: $7.36
+
+--- Check #139 at 09:02:19 UTC ---
+  Balance: $7.36
+  Vitality       buy=0.850 sell=0.860 spread=-0.010 jump=+0.030 mins=598 
+
+--- Check #140 at 09:03:56 UTC ---
+  Balance: $7.36
+
+--- Check #141 at 09:05:33 UTC ---
+  Balance: $7.36
+
+--- Check #142 at 09:07:10 UTC ---
+  Balance: $7.36
+
+--- Check #143 at 09:08:47 UTC ---
+  Balance: $7.36
+
+--- Check #144 at 09:10:24 UTC ---
+  Balance: $7.36
+
+--- Check #145 at 09:12:00 UTC ---
+  Balance: $7.36
+
+--- Check #146 at 09:13:37 UTC ---
+  Balance: $7.36
+
+--- Check #147 at 09:15:14 UTC ---
+  Balance: $7.36
+
+--- Check #148 at 09:16:50 UTC ---
+  Balance: $7.36
+
+--- Check #149 at 09:18:27 UTC ---
+  Balance: $7.36
+
+--- Check #150 at 09:20:03 UTC ---
+  Balance: $7.36
+
+--- Check #151 at 09:21:40 UTC ---
+  Balance: $7.36
+
+--- Check #152 at 09:23:17 UTC ---
+  Balance: $7.36
+
+--- Check #153 at 09:24:53 UTC ---
+  Balance: $7.36
+
+--- Check #154 at 09:26:30 UTC ---
+  Balance: $7.36
+
+--- Check #155 at 09:28:07 UTC ---
+  Balance: $7.36
+
+--- Check #156 at 09:29:43 UTC ---
+  Balance: $7.36
+
+--- Check #157 at 09:31:20 UTC ---
+  Balance: $7.36
+
+--- Check #158 at 09:32:57 UTC ---
+  Balance: $7.36
+
+--- Check #159 at 09:34:34 UTC ---
+  Balance: $7.36
+
+--- Check #160 at 09:36:10 UTC ---
+  Balance: $7.36
+
+--- Check #161 at 09:37:47 UTC ---
+  Balance: $7.36
+
+--- Check #162 at 09:39:24 UTC ---
+  Balance: $7.36
+
+--- Check #163 at 09:41:01 UTC ---
+  Balance: $7.36
+
+--- Check #164 at 09:42:37 UTC ---
+  Balance: $7.36
+
+--- Check #165 at 09:44:14 UTC ---
+  Balance: $7.36
+
+--- Check #166 at 09:45:51 UTC ---
+  Balance: $7.36
+
+--- Check #167 at 09:47:28 UTC ---
+  Balance: $7.36
+
+--- Check #168 at 09:49:04 UTC ---
+  Balance: $7.36
+
+--- Check #169 at 09:50:41 UTC ---
+  Balance: $7.36
+
+--- Check #170 at 09:52:18 UTC ---
+  Balance: $7.36
+  Vitality       buy=0.850 sell=0.860 spread=-0.010 jump=+0.030 mins=548 
+
+--- Check #171 at 09:53:54 UTC ---
+  Balance: $7.36
+
+--- Check #172 at 09:55:31 UTC ---
+  Balance: $7.36
+
+--- Check #173 at 09:57:08 UTC ---
+  Balance: $7.36
+
+--- Check #174 at 09:58:44 UTC ---
+  Balance: $7.36
+
+--- Check #175 at 10:00:21 UTC ---
+  Balance: $7.36
+
+--- Check #176 at 10:01:58 UTC ---
+  Balance: $7.36
+
+--- Check #177 at 10:03:35 UTC ---
+  Balance: $7.36
+
+--- Check #178 at 10:05:11 UTC ---
+  Balance: $7.36
+
+--- Check #179 at 10:06:48 UTC ---
+  Balance: $7.36
+
+--- Check #180 at 10:08:25 UTC ---
+  Balance: $7.36
+
+--- Check #181 at 10:10:02 UTC ---
+  Balance: $7.36
+
+--- Check #182 at 10:11:39 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.620 spread=-0.020 jump=+0.060 mins=168 
+
+--- Check #183 at 10:13:16 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=167 
+
+--- Check #184 at 10:14:52 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=165 
+
+--- Check #185 at 10:16:29 UTC ---
+  Balance: $7.36
+
+--- Check #186 at 10:18:06 UTC ---
+  Balance: $7.36
+
+--- Check #187 at 10:19:43 UTC ---
+  Balance: $7.36
+
+--- Check #188 at 10:21:20 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.610 sell=0.620 spread=-0.010 jump=+0.070 mins=159 
+
+--- Check #189 at 10:22:57 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.610 sell=0.620 spread=-0.010 jump=+0.070 mins=157 
+
+--- Check #190 at 10:24:33 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.620 spread=-0.020 jump=+0.060 mins=155 
+
+--- Check #191 at 10:26:10 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=154 
+
+--- Check #192 at 10:27:47 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=152 
+
+--- Check #193 at 10:29:24 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=151 
+
+--- Check #194 at 10:31:00 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=149 
+
+--- Check #195 at 10:32:38 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=147 
+
+--- Check #196 at 10:34:15 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=146 
+
+--- Check #197 at 10:35:52 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=144 
+
+--- Check #198 at 10:37:28 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=143 
+
+--- Check #199 at 10:39:05 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=141 
+
+--- Check #200 at 10:40:42 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=139 
+
+--- Check #201 at 10:42:19 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=138 
+
+--- Check #202 at 10:43:56 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=136 
+
+--- Check #203 at 10:45:32 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=134 
+
+--- Check #204 at 10:47:09 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=133 
+
+--- Check #205 at 10:48:46 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=131 
+
+--- Check #206 at 10:50:22 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=130 
+
+--- Check #207 at 10:51:59 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=128 
+
+--- Check #208 at 10:53:36 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=126 
+  Vitality       buy=0.850 sell=0.860 spread=-0.010 jump=+0.030 mins=486 
+
+--- Check #209 at 10:55:12 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=125 
+
+--- Check #210 at 10:56:49 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=123 
+
+--- Check #211 at 10:58:26 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=122 
+
+--- Check #212 at 11:00:03 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=120 
+
+--- Check #213 at 11:01:39 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=118 
+
+--- Check #214 at 11:03:16 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=117 
+
+--- Check #215 at 11:04:53 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=115 
+
+--- Check #216 at 11:06:30 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=113 
+
+--- Check #217 at 11:08:06 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=112 
+
+--- Check #218 at 11:09:43 UTC ---
+  Balance: $7.36
+
+--- Check #219 at 11:11:20 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=109 
+
+--- Check #220 at 11:12:57 UTC ---
+  Balance: $7.36
+
+--- Check #221 at 11:14:34 UTC ---
+  Balance: $7.36
+  Vitality       buy=0.850 sell=0.870 spread=-0.020 jump=+0.030 mins=465 
+
+--- Check #222 at 11:16:11 UTC ---
+  Balance: $7.36
+  Vitality       buy=0.850 sell=0.870 spread=-0.020 jump=+0.030 mins=464 
+
+--- Check #223 at 11:17:48 UTC ---
+  Balance: $7.36
+  Vitality       buy=0.850 sell=0.870 spread=-0.020 jump=+0.030 mins=462 
+
+--- Check #224 at 11:19:25 UTC ---
+  Balance: $7.36
+  Vitality       buy=0.860 sell=0.880 spread=-0.020 jump=+0.040 mins=461 
+
+--- Check #225 at 11:21:02 UTC ---
+  Balance: $7.36
+  Vitality       buy=0.870 sell=0.880 spread=-0.010 jump=+0.050 mins=459 
+
+--- Check #226 at 11:22:39 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=97 
+  NAVI           buy=0.082 sell=0.128 spread=-0.046 jump=-0.073 mins=457 
+  Vitality       buy=0.870 sell=0.890 spread=-0.020 jump=+0.050 mins=457 
+
+--- Check #227 at 11:24:16 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=96 
+  NAVI           buy=0.073 sell=0.100 spread=-0.027 jump=-0.082 mins=456 
+  Vitality       buy=0.890 sell=0.920 spread=-0.030 jump=+0.070 mins=456 
+
+--- Check #228 at 11:25:53 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=94 
+  NAVI           buy=0.073 sell=0.115 spread=-0.042 jump=-0.082 mins=454 
+  Vitality       buy=0.880 sell=0.910 spread=-0.030 jump=+0.060 mins=454 
+
+--- Check #229 at 11:27:30 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=92 
+  NAVI           buy=0.084 sell=0.110 spread=-0.026 jump=-0.071 mins=452 
+  Vitality       buy=0.880 sell=0.900 spread=-0.020 jump=+0.060 mins=452 
+
+--- Check #230 at 11:29:07 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=91 
+  NAVI           buy=0.096 sell=0.107 spread=-0.011 jump=-0.059 mins=451 
+  Vitality       buy=0.880 sell=0.910 spread=-0.030 jump=+0.060 mins=451 
+
+--- Check #231 at 11:30:44 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=89 
+  NAVI           buy=0.100 sell=0.121 spread=-0.021 jump=-0.055 mins=449 
+  Vitality       buy=0.880 sell=0.910 spread=-0.030 jump=+0.060 mins=449 
+
+--- Check #232 at 11:32:21 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=88 
+  NAVI           buy=0.090 sell=0.117 spread=-0.027 jump=-0.065 mins=448 
+  Vitality       buy=0.880 sell=0.910 spread=-0.030 jump=+0.060 mins=448 
+
+--- Check #233 at 11:33:57 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=86 
+  NAVI           buy=0.087 sell=0.110 spread=-0.023 jump=-0.068 mins=446 
+  Vitality       buy=0.890 sell=0.910 spread=-0.020 jump=+0.070 mins=446 
+
+--- Check #234 at 11:35:34 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=84 
+  Vitality       buy=0.890 sell=0.900 spread=-0.010 jump=+0.070 mins=444 
+
+--- Check #235 at 11:37:10 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=83 
+  NAVI           buy=0.104 sell=0.110 spread=-0.006 jump=-0.051 mins=443 
+  Vitality       buy=0.880 sell=0.900 spread=-0.020 jump=+0.060 mins=443 
+
+--- Check #236 at 11:38:47 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=81 
+  NAVI           buy=0.099 sell=0.118 spread=-0.019 jump=-0.056 mins=441 
+  Vitality       buy=0.880 sell=0.900 spread=-0.020 jump=+0.060 mins=441 
+
+--- Check #237 at 11:40:24 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=80 
+  NAVI           buy=0.104 sell=0.117 spread=-0.013 jump=-0.051 mins=440 
+  Vitality       buy=0.870 sell=0.890 spread=-0.020 jump=+0.050 mins=440 
+
+--- Check #238 at 11:42:01 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=78 
+  NAVI           buy=0.104 sell=0.127 spread=-0.023 jump=-0.051 mins=438 
+  Vitality       buy=0.870 sell=0.890 spread=-0.020 jump=+0.050 mins=438 
+
+--- Check #239 at 11:43:38 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=76 
+  NAVI           buy=0.104 sell=0.129 spread=-0.025 jump=-0.051 mins=436 
+  Vitality       buy=0.870 sell=0.880 spread=-0.010 jump=+0.050 mins=436 
+
+--- Check #240 at 11:45:15 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=75 
+  NAVI           buy=0.104 sell=0.123 spread=-0.019 jump=-0.051 mins=435 
+  Vitality       buy=0.870 sell=0.880 spread=-0.010 jump=+0.050 mins=435 
+
+--- Check #241 at 11:46:51 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=73 
+  Vitality       buy=0.870 sell=0.880 spread=-0.010 jump=+0.050 mins=433 
+
+--- Check #242 at 11:48:28 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=72 
+  Vitality       buy=0.870 sell=0.880 spread=-0.010 jump=+0.050 mins=432 
+
+--- Check #243 at 11:50:05 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=70 
+  Vitality       buy=0.870 sell=0.880 spread=-0.010 jump=+0.050 mins=430 
+
+--- Check #244 at 11:51:42 UTC ---
+  Balance: $7.36
+  Georgia        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=68 
+  Vitality       buy=0.870 sell=0.880 spread=-0.010 jump=+0.050 mins=428 
+
+--- Check #245 at 11:53:19 UTC ---
+  Balance: $7.36
+  Vitality       buy=0.870 sell=0.880 spread=-0.010 jump=+0.050 mins=427 
+
+--- Check #246 at 11:54:56 UTC ---
+  Balance: $7.36
+  NAVI           buy=0.095 sell=0.112 spread=-0.017 jump=-0.060 mins=425 
+  Vitality       buy=0.890 sell=0.900 spread=-0.010 jump=+0.070 mins=425 
+
+--- Check #247 at 11:56:33 UTC ---
+  Balance: $7.36
+  NAVI           buy=0.075 sell=0.109 spread=-0.034 jump=-0.080 mins=423 
+  Vitality       buy=0.890 sell=0.900 spread=-0.010 jump=+0.070 mins=423 
+
+--- Check #248 at 11:58:10 UTC ---
+  Balance: $7.36
+  NAVI           buy=0.073 sell=0.103 spread=-0.030 jump=-0.082 mins=422 
+  Vitality       buy=0.890 sell=0.910 spread=-0.020 jump=+0.070 mins=422 
+
+--- Check #249 at 11:59:46 UTC ---
+  Balance: $7.36
+  NAVI           buy=0.073 sell=0.104 spread=-0.031 jump=-0.082 mins=420 
+  Vitality       buy=0.900 sell=0.910 spread=-0.010 jump=+0.080 mins=420 
+
+--- Check #250 at 12:01:23 UTC ---
+  Balance: $7.36
+  NAVI           buy=0.086 sell=0.106 spread=-0.020 jump=-0.069 mins=419 
+  Vitality       buy=0.900 sell=0.910 spread=-0.010 jump=+0.080 mins=419 
+
+--- Check #251 at 12:03:00 UTC ---
+  Balance: $7.36
+  NAVI           buy=0.093 sell=0.110 spread=-0.017 jump=-0.062 mins=417 
+  Vitality       buy=0.890 sell=0.910 spread=-0.020 jump=+0.070 mins=417 
+
+--- Check #252 at 12:04:38 UTC ---
+  Balance: $7.36
+  Vitality       buy=0.860 sell=0.890 spread=-0.030 jump=+0.040 mins=415 
+
+--- Check #253 at 12:06:16 UTC ---
+  Balance: $7.36
+  NAVI           buy=0.101 sell=0.122 spread=-0.021 jump=-0.054 mins=414 
+  Vitality       buy=0.870 sell=0.900 spread=-0.030 jump=+0.050 mins=414 
+
+--- Check #254 at 12:07:54 UTC ---
+  Balance: $7.36
+  NAVI           buy=0.102 sell=0.120 spread=-0.018 jump=-0.053 mins=412 
+  Vitality       buy=0.880 sell=0.900 spread=-0.020 jump=+0.060 mins=412 
+
+--- Check #255 at 12:09:30 UTC ---
+  Balance: $7.36
+  NAVI           buy=0.103 sell=0.111 spread=-0.008 jump=-0.052 mins=410 
+  Vitality       buy=0.890 sell=0.910 spread=-0.020 jump=+0.070 mins=410 
+
+--- Check #256 at 12:11:08 UTC ---
+  Balance: $7.36
+  NAVI           buy=0.086 sell=0.101 spread=-0.015 jump=-0.069 mins=409 
+  Vitality       buy=0.900 sell=0.910 spread=-0.010 jump=+0.080 mins=409 
+
+--- Check #257 at 12:12:45 UTC ---
+  Balance: $7.36
+  NAVI           buy=0.073 sell=0.095 spread=-0.022 jump=-0.082 mins=407 
+  Vitality       buy=0.900 sell=0.910 spread=-0.010 jump=+0.080 mins=407 
+
+--- Check #258 at 12:14:22 UTC ---
+  Balance: $7.36
+  NAVI           buy=0.073 sell=0.091 spread=-0.018 jump=-0.082 mins=406 
+  Vitality       buy=0.900 sell=0.910 spread=-0.010 jump=+0.080 mins=406 
+
+--- Check #259 at 12:15:59 UTC ---
+  Balance: $7.36
+  NAVI           buy=0.070 sell=0.087 spread=-0.017 jump=-0.085 mins=404 
+  Vitality       buy=0.930 sell=0.950 spread=-0.020 jump=+0.110 mins=404 
+
+--- Check #260 at 12:17:36 UTC ---
+  Balance: $7.36
+  Eibar          buy=0.680 sell=0.690 spread=-0.010 jump=+0.290 mins=-18 
+  Las Palmas     buy=0.110 sell=0.190 spread=-0.080 jump=-0.180 mins=-18 
+  NAVI           buy=0.070 sell=0.078 spread=-0.008 jump=-0.085 mins=402 
+  Vitality       buy=0.920 sell=0.940 spread=-0.020 jump=+0.100 mins=402 
+
+--- Check #261 at 12:19:13 UTC ---
+  Balance: $7.36
+  Eibar          buy=0.330 sell=0.400 spread=-0.070 jump=-0.060 mins=-19 
+  NAVI           buy=0.062 sell=0.087 spread=-0.025 jump=-0.093 mins=401 
+  Vitality       buy=0.910 sell=0.930 spread=-0.020 jump=+0.090 mins=401 
+
+--- Check #262 at 12:20:50 UTC ---
+  Balance: $7.36
+  NAVI           buy=0.062 sell=0.085 spread=-0.023 jump=-0.093 mins=399 
+  Vitality       buy=0.910 sell=0.930 spread=-0.020 jump=+0.090 mins=399 
+
+--- Check #263 at 12:22:27 UTC ---
+  Balance: $7.36
+  Las Palmas     buy=0.210 sell=0.230 spread=-0.020 jump=-0.080 mins=-22 
+  EIB-LPA Draw   buy=0.150 sell=0.300 spread=-0.150 jump=-0.160 mins=-22 
+  NAVI           buy=0.061 sell=0.081 spread=-0.020 jump=-0.094 mins=398 
+  Vitality       buy=0.920 sell=0.940 spread=-0.020 jump=+0.100 mins=398 
+
+--- Check #264 at 12:24:04 UTC ---
+  Balance: $7.36
+  Eibar          buy=0.320 sell=0.410 spread=-0.090 jump=-0.070 mins=-24 
+  EIB-LPA Draw   buy=0.250 sell=0.350 spread=-0.100 jump=-0.060 mins=-24 
+  NAVI           buy=0.022 sell=0.059 spread=-0.037 jump=-0.133 mins=396 
+  Vitality       buy=0.940 sell=0.970 spread=-0.030 jump=+0.120 mins=396 
+
+--- Check #265 at 12:25:40 UTC ---
+  Balance: $7.36
+  NAVI           buy=0.022 sell=0.055 spread=-0.033 jump=-0.133 mins=394 
+  Vitality       buy=0.940 sell=0.960 spread=-0.020 jump=+0.120 mins=394 
+
+--- Check #266 at 12:27:17 UTC ---
+  Balance: $7.36
+  NAVI           buy=0.024 sell=0.052 spread=-0.028 jump=-0.131 mins=393 
+  Vitality       buy=0.950 sell=0.970 spread=-0.020 jump=+0.130 mins=393 
+
+--- Check #267 at 12:28:54 UTC ---
+  Balance: $7.36
+  NAVI           buy=0.021 sell=0.051 spread=-0.030 jump=-0.134 mins=391 
+  Vitality       buy=0.950 sell=0.960 spread=-0.010 jump=+0.130 mins=391 
+
+--- Check #268 at 12:30:31 UTC ---
+  Balance: $7.36
+  Eibar          buy=0.330 sell=0.340 spread=-0.010 jump=-0.060 mins=-31 
+  NAVI           buy=0.021 sell=0.050 spread=-0.029 jump=-0.134 mins=389 
+  Vitality       buy=0.950 sell=0.960 spread=-0.010 jump=+0.130 mins=389 
+
+--- Check #269 at 12:32:07 UTC ---
+  Balance: $7.36
+  Eibar          buy=0.320 sell=0.330 spread=-0.010 jump=-0.070 mins=-32 
+  NAVI           buy=0.021 sell=0.048 spread=-0.027 jump=-0.134 mins=388 
+  Vitality       buy=0.950 sell=0.960 spread=-0.010 jump=+0.130 mins=388 
+
+--- Check #270 at 12:33:44 UTC ---
+  Balance: $7.36
+  Eibar          buy=0.630 sell=0.680 spread=-0.050 jump=+0.240 mins=-34 
+  Las Palmas     buy=0.100 sell=0.120 spread=-0.020 jump=-0.190 mins=-34 
+  EIB-LPA Draw   buy=0.200 sell=0.240 spread=-0.040 jump=-0.110 mins=-34 
+  NAVI           buy=0.021 sell=0.048 spread=-0.027 jump=-0.134 mins=386 
+  Vitality       buy=0.930 sell=0.950 spread=-0.020 jump=+0.110 mins=386 
+
+--- Check #271 at 12:35:20 UTC ---
+  Balance: $7.36
+  Eibar          buy=0.640 sell=0.650 spread=-0.010 jump=+0.250 mins=-35 
+  Las Palmas     buy=0.110 sell=0.120 spread=-0.010 jump=-0.180 mins=-35 
+  EIB-LPA Draw   buy=0.230 sell=0.250 spread=-0.020 jump=-0.080 mins=-35 
+  NAVI           buy=0.031 sell=0.057 spread=-0.026 jump=-0.124 mins=385 
+  Vitality       buy=0.930 sell=0.950 spread=-0.020 jump=+0.110 mins=385 
+
+--- Check #272 at 12:36:57 UTC ---
+  Balance: $7.36
+  Eibar          buy=0.640 sell=0.650 spread=-0.010 jump=+0.250 mins=-37 
+  Las Palmas     buy=0.110 sell=0.120 spread=-0.010 jump=-0.180 mins=-37 
+  EIB-LPA Draw   buy=0.230 sell=0.250 spread=-0.020 jump=-0.080 mins=-37 
+  NAVI           buy=0.070 sell=0.090 spread=-0.020 jump=-0.085 mins=383 
+  Vitality       buy=0.910 sell=0.930 spread=-0.020 jump=+0.090 mins=383 
+
+--- Check #273 at 12:38:34 UTC ---
+  Balance: $7.36
+  Eibar          buy=0.640 sell=0.650 spread=-0.010 jump=+0.250 mins=-39 
+  Las Palmas     buy=0.100 sell=0.120 spread=-0.020 jump=-0.190 mins=-39 
+  EIB-LPA Draw   buy=0.230 sell=0.250 spread=-0.020 jump=-0.080 mins=-39 
+  NAVI           buy=0.071 sell=0.095 spread=-0.024 jump=-0.084 mins=381 
+  Vitality       buy=0.900 sell=0.930 spread=-0.030 jump=+0.080 mins=381 
+
+--- Check #274 at 12:40:10 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.620 sell=0.630 spread=-0.010 jump=+0.230 mins=-40 
+  Las Palmas     buy=0.110 sell=0.130 spread=-0.020 jump=-0.180 mins=-40 
+  EIB-LPA Draw   buy=0.240 sell=0.260 spread=-0.020 jump=-0.070 mins=-40 
+  NAVI           buy=0.061 sell=0.098 spread=-0.037 jump=-0.094 mins=380 
+  Vitality       buy=0.890 sell=0.920 spread=-0.030 jump=+0.070 mins=380 
+
+--- Check #275 at 12:41:47 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.620 sell=0.630 spread=-0.010 jump=+0.230 mins=-42 
+  Las Palmas     buy=0.110 sell=0.130 spread=-0.020 jump=-0.180 mins=-42 
+  EIB-LPA Draw   buy=0.240 sell=0.260 spread=-0.020 jump=-0.070 mins=-42 
+  NAVI           buy=0.052 sell=0.074 spread=-0.022 jump=-0.103 mins=378 
+  Vitality       buy=0.930 sell=0.950 spread=-0.020 jump=+0.110 mins=378 
+
+--- Check #276 at 12:43:24 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.620 sell=0.640 spread=-0.020 jump=+0.230 mins=-43 
+  Las Palmas     buy=0.110 sell=0.130 spread=-0.020 jump=-0.180 mins=-43 
+  EIB-LPA Draw   buy=0.240 sell=0.260 spread=-0.020 jump=-0.070 mins=-43 
+  NAVI           buy=0.043 sell=0.055 spread=-0.012 jump=-0.112 mins=377 
+  Vitality       buy=0.940 sell=0.960 spread=-0.020 jump=+0.120 mins=377 
+
+--- Check #277 at 12:45:00 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.850 sell=0.860 spread=-0.010 jump=+0.460 mins=-45 
+  Las Palmas     buy=0.030 sell=0.070 spread=-0.040 jump=-0.260 mins=-45 
+  EIB-LPA Draw   buy=0.080 sell=0.120 spread=-0.040 jump=-0.230 mins=-45 
+  NAVI           buy=0.032 sell=0.051 spread=-0.019 jump=-0.123 mins=375 
+  Vitality       buy=0.950 sell=0.960 spread=-0.010 jump=+0.130 mins=375 
+
+--- Check #278 at 12:46:37 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.870 sell=0.880 spread=-0.010 jump=+0.480 mins=-47 
+  Las Palmas     buy=0.030 sell=0.040 spread=-0.010 jump=-0.260 mins=-47 
+  EIB-LPA Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.210 mins=-47 
+  NAVI           buy=0.032 sell=0.041 spread=-0.009 jump=-0.123 mins=373 
+  Vitality       buy=0.960 sell=0.970 spread=-0.010 jump=+0.140 mins=373 
+
+--- Check #279 at 12:48:14 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.860 sell=0.870 spread=-0.010 jump=+0.470 mins=-48 
+  Las Palmas     buy=0.021 sell=0.030 spread=-0.009 jump=-0.269 mins=-48 
+  EIB-LPA Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.210 mins=-48 
+  NAVI           buy=0.032 sell=0.050 spread=-0.018 jump=-0.123 mins=372 
+  Vitality       buy=0.950 sell=0.969 spread=-0.019 jump=+0.130 mins=372 
+
+--- Check #280 at 12:49:50 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.850 sell=0.860 spread=-0.010 jump=+0.460 mins=-50 
+  Las Palmas     buy=0.031 sell=0.039 spread=-0.008 jump=-0.259 mins=-50 
+  EIB-LPA Draw   buy=0.100 sell=0.120 spread=-0.020 jump=-0.210 mins=-50 
+  NAVI           buy=0.033 sell=0.044 spread=-0.011 jump=-0.122 mins=370 
+  Vitality       buy=0.951 sell=0.968 spread=-0.017 jump=+0.131 mins=370 
+
+--- Check #281 at 12:51:27 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.840 sell=0.860 spread=-0.020 jump=+0.450 mins=-51 
+  Las Palmas     buy=0.030 sell=0.050 spread=-0.020 jump=-0.260 mins=-51 
+  EIB-LPA Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.210 mins=-51 
+  NAVI           buy=0.033 sell=0.042 spread=-0.009 jump=-0.122 mins=369 
+  Vitality       buy=0.948 sell=0.966 spread=-0.018 jump=+0.128 mins=369 
+
+--- Check #282 at 12:53:04 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.860 sell=0.870 spread=-0.010 jump=+0.470 mins=-53 
+  Las Palmas     buy=0.031 sell=0.039 spread=-0.008 jump=-0.259 mins=-53 
+  EIB-LPA Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.210 mins=-53 
+  NAVI           buy=0.037 sell=0.050 spread=-0.013 jump=-0.118 mins=367 
+  Vitality       buy=0.950 sell=0.965 spread=-0.015 jump=+0.130 mins=367 
+
+--- Check #283 at 12:54:40 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.850 sell=0.870 spread=-0.020 jump=+0.460 mins=-55 
+  Las Palmas     buy=0.022 sell=0.037 spread=-0.015 jump=-0.268 mins=-55 
+  EIB-LPA Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.210 mins=-55 
+  NAVI           buy=0.035 sell=0.048 spread=-0.013 jump=-0.120 mins=365 
+  Vitality       buy=0.950 sell=0.966 spread=-0.016 jump=+0.130 mins=365 
+
+--- Check #284 at 12:56:17 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.850 sell=0.870 spread=-0.020 jump=+0.460 mins=-56 
+  Las Palmas     buy=0.031 sell=0.039 spread=-0.008 jump=-0.259 mins=-56 
+  EIB-LPA Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.210 mins=-56 
+  NAVI           buy=0.035 sell=0.043 spread=-0.008 jump=-0.120 mins=364 
+  Vitality       buy=0.956 sell=0.966 spread=-0.010 jump=+0.136 mins=364 
+
+--- Check #285 at 12:57:54 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.850 sell=0.870 spread=-0.020 jump=+0.460 mins=-58 
+  Las Palmas     buy=0.031 sell=0.037 spread=-0.006 jump=-0.259 mins=-58 
+  EIB-LPA Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.210 mins=-58 
+  NAVI           buy=0.035 sell=0.043 spread=-0.008 jump=-0.120 mins=362 
+  Vitality       buy=0.954 sell=0.966 spread=-0.012 jump=+0.134 mins=362 
+
+--- Check #286 at 12:59:30 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.850 sell=0.870 spread=-0.020 jump=+0.460 mins=-60 
+  Las Palmas     buy=0.032 sell=0.037 spread=-0.005 jump=-0.258 mins=-60 
+  EIB-LPA Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.210 mins=-60 
+  NAVI           buy=0.014 sell=0.040 spread=-0.026 jump=-0.141 mins=360 
+  Vitality       buy=0.961 sell=0.971 spread=-0.010 jump=+0.141 mins=360 
+
+--- Check #287 at 13:01:07 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.850 sell=0.870 spread=-0.020 jump=+0.460 mins=-61 
+  Las Palmas     buy=0.032 sell=0.036 spread=-0.004 jump=-0.258 mins=-61 
+  EIB-LPA Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.210 mins=-61 
+  NAVI           buy=0.012 sell=0.036 spread=-0.024 jump=-0.143 mins=359 
+  Vitality       buy=0.962 sell=0.966 spread=-0.004 jump=+0.142 mins=359 
+
+--- Check #288 at 13:02:44 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.850 sell=0.870 spread=-0.020 jump=+0.460 mins=-63 
+  Las Palmas     buy=0.031 sell=0.038 spread=-0.007 jump=-0.259 mins=-63 
+  EIB-LPA Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.210 mins=-63 
+  NAVI           buy=0.012 sell=0.037 spread=-0.025 jump=-0.143 mins=357 
+  Vitality       buy=0.963 sell=0.973 spread=-0.010 jump=+0.143 mins=357 
+
+--- Check #289 at 13:04:21 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.850 sell=0.870 spread=-0.020 jump=+0.460 mins=-64 
+  Las Palmas     buy=0.030 sell=0.033 spread=-0.003 jump=-0.260 mins=-64 
+  EIB-LPA Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.210 mins=-64 
+  NAVI           buy=0.012 sell=0.030 spread=-0.018 jump=-0.143 mins=356 
+  Vitality       buy=0.966 sell=0.981 spread=-0.015 jump=+0.146 mins=356 
+
+--- Check #290 at 13:05:58 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.850 sell=0.870 spread=-0.020 jump=+0.460 mins=-66 
+  Las Palmas     buy=0.021 sell=0.034 spread=-0.013 jump=-0.269 mins=-66 
+  EIB-LPA Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.210 mins=-66 
+  NAVI           buy=0.013 sell=0.029 spread=-0.016 jump=-0.142 mins=354 
+  Vitality       buy=0.969 sell=0.984 spread=-0.015 jump=+0.149 mins=354 
+
+--- Check #291 at 13:07:34 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.850 sell=0.860 spread=-0.010 jump=+0.460 mins=-68 
+  Las Palmas     buy=0.026 sell=0.039 spread=-0.013 jump=-0.264 mins=-68 
+  EIB-LPA Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.210 mins=-68 
+  NAVI           buy=0.008 sell=0.022 spread=-0.014 jump=-0.147 mins=352 
+  Vitality       buy=0.983 sell=0.987 spread=-0.004 jump=+0.163 mins=352 
+
+--- Check #292 at 13:09:11 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.850 sell=0.860 spread=-0.010 jump=+0.460 mins=-69 
+  Las Palmas     buy=0.030 sell=0.039 spread=-0.009 jump=-0.260 mins=-69 
+  EIB-LPA Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.210 mins=-69 
+  NAVI           buy=0.008 sell=0.017 spread=-0.009 jump=-0.147 mins=351 
+  Vitality       buy=0.984 sell=0.988 spread=-0.004 jump=+0.164 mins=351 
+
+--- Check #293 at 13:10:48 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.840 sell=0.860 spread=-0.020 jump=+0.450 mins=-71 
+  Las Palmas     buy=0.031 sell=0.039 spread=-0.008 jump=-0.259 mins=-71 
+  EIB-LPA Draw   buy=0.110 sell=0.120 spread=-0.010 jump=-0.200 mins=-71 
+  NAVI           buy=0.008 sell=0.018 spread=-0.010 jump=-0.147 mins=349 
+  Vitality       buy=0.984 sell=0.987 spread=-0.003 jump=+0.164 mins=349 
+
+--- Check #294 at 13:12:24 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.850 sell=0.870 spread=-0.020 jump=+0.460 mins=-72 
+  Las Palmas     buy=0.021 sell=0.036 spread=-0.015 jump=-0.269 mins=-72 
+  EIB-LPA Draw   buy=0.110 sell=0.120 spread=-0.010 jump=-0.200 mins=-72 
+  NAVI           buy=0.011 sell=0.019 spread=-0.008 jump=-0.144 mins=348 
+  Vitality       buy=0.987 sell=0.990 spread=-0.003 jump=+0.167 mins=348 
+
+--- Check #295 at 13:14:01 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.850 sell=0.870 spread=-0.020 jump=+0.460 mins=-74 
+  Las Palmas     buy=0.021 sell=0.030 spread=-0.009 jump=-0.269 mins=-74 
+  EIB-LPA Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.210 mins=-74 
+  NAVI           buy=0.011 sell=0.016 spread=-0.005 jump=-0.144 mins=346 
+  Vitality       buy=0.987 sell=0.988 spread=-0.001 jump=+0.167 mins=346 
+
+--- Check #296 at 13:15:38 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.850 sell=0.870 spread=-0.020 jump=+0.460 mins=-76 
+  Las Palmas     buy=0.025 sell=0.030 spread=-0.005 jump=-0.265 mins=-76 
+  EIB-LPA Draw   buy=0.100 sell=0.120 spread=-0.020 jump=-0.210 mins=-76 
+  NAVI           buy=0.011 sell=0.015 spread=-0.004 jump=-0.144 mins=344 
+  Vitality       buy=0.986 sell=0.987 spread=-0.001 jump=+0.166 mins=344 
+
+--- Check #297 at 13:17:14 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.850 sell=0.860 spread=-0.010 jump=+0.460 mins=-77 
+  Las Palmas     buy=0.026 sell=0.040 spread=-0.014 jump=-0.264 mins=-77 
+  EIB-LPA Draw   buy=0.110 sell=0.120 spread=-0.010 jump=-0.200 mins=-77 
+  NAVI           buy=0.010 sell=0.014 spread=-0.004 jump=-0.145 mins=343 
+  Vitality       buy=0.986 sell=0.987 spread=-0.001 jump=+0.166 mins=343 
+
+--- Check #298 at 13:18:52 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.860 sell=0.870 spread=-0.010 jump=+0.470 mins=-79 
+  Las Palmas     buy=0.021 sell=0.030 spread=-0.009 jump=-0.269 mins=-79 
+  EIB-LPA Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.210 mins=-79 
+  NAVI           buy=0.002 sell=0.008 spread=-0.006 jump=-0.153 mins=341 
+  Vitality       buy=0.993 sell=0.998 spread=-0.005 jump=+0.173 mins=341 
+
+--- Check #299 at 13:20:28 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.870 sell=0.890 spread=-0.020 jump=+0.480 mins=-80 
+  Las Palmas     buy=0.021 sell=0.029 spread=-0.008 jump=-0.269 mins=-80 
+  EIB-LPA Draw   buy=0.090 sell=0.100 spread=-0.010 jump=-0.220 mins=-80 
+  NAVI           buy=0.004 sell=0.020 spread=-0.016 jump=-0.151 mins=340 
+  Vitality       buy=0.979 sell=0.993 spread=-0.014 jump=+0.159 mins=340 
+
+--- Check #300 at 13:22:05 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.880 sell=0.890 spread=-0.010 jump=+0.490 mins=-82 
+  Las Palmas     buy=0.011 sell=0.020 spread=-0.009 jump=-0.279 mins=-82 
+  EIB-LPA Draw   buy=0.090 sell=0.100 spread=-0.010 jump=-0.220 mins=-82 
+  NAVI           buy=0.006 sell=0.014 spread=-0.008 jump=-0.149 mins=338 
+  Vitality       buy=0.990 sell=0.993 spread=-0.003 jump=+0.170 mins=338 
+
+--- Check #301 at 13:23:42 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.860 sell=0.890 spread=-0.030 jump=+0.470 mins=-84 
+  Las Palmas     buy=0.010 sell=0.050 spread=-0.040 jump=-0.280 mins=-84 
+  EIB-LPA Draw   buy=0.110 sell=0.120 spread=-0.010 jump=-0.200 mins=-84 
+  NAVI           buy=0.005 sell=0.011 spread=-0.006 jump=-0.150 mins=336 
+  Vitality       buy=0.990 sell=0.993 spread=-0.003 jump=+0.170 mins=336 
+
+--- Check #302 at 13:25:19 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.890 sell=0.900 spread=-0.010 jump=+0.500 mins=-85 
+  Las Palmas     buy=0.011 sell=0.020 spread=-0.009 jump=-0.279 mins=-85 
+  EIB-LPA Draw   buy=0.080 sell=0.090 spread=-0.010 jump=-0.230 mins=-85 
+  NAVI           buy=0.004 sell=0.009 spread=-0.005 jump=-0.151 mins=335 
+  Vitality       buy=0.991 sell=0.994 spread=-0.003 jump=+0.171 mins=335 
+
+--- Check #303 at 13:26:55 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.900 sell=0.910 spread=-0.010 jump=+0.510 mins=-87 
+  Las Palmas     buy=0.010 sell=0.020 spread=-0.010 jump=-0.280 mins=-87 
+  EIB-LPA Draw   buy=0.070 sell=0.090 spread=-0.020 jump=-0.240 mins=-87 
+  NAVI           buy=0.003 sell=0.005 spread=-0.002 jump=-0.152 mins=333 
+  Vitality       buy=0.996 sell=0.997 spread=-0.001 jump=+0.176 mins=333 
+
+--- Check #304 at 13:28:32 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.910 sell=0.930 spread=-0.020 jump=+0.520 mins=-89 
+  Las Palmas     buy=0.008 sell=0.020 spread=-0.012 jump=-0.282 mins=-89 
+  EIB-LPA Draw   buy=0.060 sell=0.070 spread=-0.010 jump=-0.250 mins=-89 
+  Georgia        buy=0.490 sell=0.500 spread=-0.010 jump=-0.050 mins=-29 
+  LIT-GEO Draw   buy=0.320 sell=0.330 spread=-0.010 jump=+0.060 mins=-29 
+  NAVI           buy=0.003 sell=0.005 spread=-0.002 jump=-0.152 mins=331 
+  Vitality       buy=0.996 sell=0.998 spread=-0.002 jump=+0.176 mins=331 
+
+--- Check #305 at 13:30:09 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.920 sell=0.930 spread=-0.010 jump=+0.530 mins=-90 
+  Las Palmas     buy=0.004 sell=0.010 spread=-0.006 jump=-0.286 mins=-90 
+  EIB-LPA Draw   buy=0.060 sell=0.070 spread=-0.010 jump=-0.250 mins=-90 
+  LIT-GEO Draw   buy=0.320 sell=0.330 spread=-0.010 jump=+0.060 mins=-30 
+  NAVI           buy=0.003 sell=0.006 spread=-0.003 jump=-0.152 mins=330 
+  Vitality       buy=0.996 sell=0.998 spread=-0.002 jump=+0.176 mins=330 
+
+--- Check #306 at 13:31:45 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.920 sell=0.930 spread=-0.010 jump=+0.530 mins=-92 
+  Las Palmas     buy=0.003 sell=0.010 spread=-0.007 jump=-0.287 mins=-92 
+  EIB-LPA Draw   buy=0.060 sell=0.070 spread=-0.010 jump=-0.250 mins=-92 
+  LIT-GEO Draw   buy=0.330 sell=0.340 spread=-0.010 jump=+0.070 mins=-32 
+  NAVI           buy=0.006 sell=0.017 spread=-0.011 jump=-0.149 mins=328 
+  Vitality       buy=0.986 sell=0.996 spread=-0.010 jump=+0.166 mins=328 
+
+--- Check #307 at 13:33:22 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.930 sell=0.950 spread=-0.020 jump=+0.540 mins=-93 
+  Las Palmas     buy=0.003 sell=0.010 spread=-0.007 jump=-0.287 mins=-93 
+  EIB-LPA Draw   buy=0.050 sell=0.060 spread=-0.010 jump=-0.260 mins=-93 
+  Georgia        buy=0.490 sell=0.500 spread=-0.010 jump=-0.050 mins=-33 
+  LIT-GEO Draw   buy=0.320 sell=0.340 spread=-0.020 jump=+0.060 mins=-33 
+  NAVI           buy=0.001 sell=0.006 spread=-0.005 jump=-0.154 mins=327 
+  Vitality       buy=0.996 sell=0.999 spread=-0.003 jump=+0.176 mins=327 
+
+--- Check #308 at 13:34:59 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.940 sell=0.950 spread=-0.010 jump=+0.550 mins=-95 
+  Las Palmas     buy=0.004 sell=0.010 spread=-0.006 jump=-0.286 mins=-95 
+  EIB-LPA Draw   buy=0.050 sell=0.060 spread=-0.010 jump=-0.260 mins=-95 
+  Georgia        buy=0.470 sell=0.490 spread=-0.020 jump=-0.070 mins=-35 
+  LIT-GEO Draw   buy=0.340 sell=0.350 spread=-0.010 jump=+0.080 mins=-35 
+  NAVI           buy=0.001 sell=0.004 spread=-0.003 jump=-0.154 mins=325 
+  Vitality       buy=0.997 sell=0.999 spread=-0.002 jump=+0.177 mins=325 
+
+--- Check #309 at 13:36:36 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.940 sell=0.950 spread=-0.010 jump=+0.550 mins=-97 
+  Las Palmas     buy=0.003 sell=0.008 spread=-0.005 jump=-0.287 mins=-97 
+  EIB-LPA Draw   buy=0.040 sell=0.060 spread=-0.020 jump=-0.270 mins=-97 
+  Georgia        buy=0.470 sell=0.480 spread=-0.010 jump=-0.070 mins=-37 
+  LIT-GEO Draw   buy=0.350 sell=0.360 spread=-0.010 jump=+0.090 mins=-37 
+  NAVI           buy=0.001 sell=0.005 spread=-0.004 jump=-0.154 mins=323 
+  Vitality       buy=0.991 sell=0.999 spread=-0.008 jump=+0.171 mins=323 
+
+--- Check #310 at 13:38:13 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.950 sell=0.970 spread=-0.020 jump=+0.560 mins=-98 
+  Las Palmas     buy=0.003 sell=0.008 spread=-0.005 jump=-0.287 mins=-98 
+  EIB-LPA Draw   buy=0.040 sell=0.050 spread=-0.010 jump=-0.270 mins=-98 
+  Georgia        buy=0.470 sell=0.480 spread=-0.010 jump=-0.070 mins=-38 
+  LIT-GEO Draw   buy=0.360 sell=0.370 spread=-0.010 jump=+0.100 mins=-38 
+  NAVI           buy=0.001 sell=0.004 spread=-0.003 jump=-0.154 mins=322 
+  Vitality       buy=0.997 sell=0.999 spread=-0.002 jump=+0.177 mins=322 
+
+--- Check #311 at 13:39:49 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.950 sell=0.970 spread=-0.020 jump=+0.560 mins=-100 
+  Las Palmas     buy=0.002 sell=0.010 spread=-0.008 jump=-0.288 mins=-100 
+  EIB-LPA Draw   buy=0.030 sell=0.050 spread=-0.020 jump=-0.280 mins=-100 
+  Georgia        buy=0.460 sell=0.470 spread=-0.010 jump=-0.080 mins=-40 
+  LIT-GEO Draw   buy=0.360 sell=0.370 spread=-0.010 jump=+0.100 mins=-40 
+  NAVI           buy=0.001 sell=0.005 spread=-0.004 jump=-0.154 mins=320 
+  Vitality       buy=0.997 sell=0.999 spread=-0.002 jump=+0.177 mins=320 
+
+--- Check #312 at 13:41:26 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.960 sell=0.980 spread=-0.020 jump=+0.570 mins=-101 
+  Las Palmas     buy=0.002 sell=0.009 spread=-0.007 jump=-0.288 mins=-101 
+  EIB-LPA Draw   buy=0.020 sell=0.040 spread=-0.020 jump=-0.290 mins=-101 
+  Georgia        buy=0.450 sell=0.460 spread=-0.010 jump=-0.090 mins=-41 
+  LIT-GEO Draw   buy=0.370 sell=0.380 spread=-0.010 jump=+0.110 mins=-41 
+  NAVI           buy=0.002 sell=0.006 spread=-0.004 jump=-0.153 mins=319 
+  Vitality       buy=0.996 sell=0.998 spread=-0.002 jump=+0.176 mins=319 
+
+--- Check #313 at 13:43:03 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.960 sell=0.980 spread=-0.020 jump=+0.570 mins=-103 
+  Las Palmas     buy=0.001 sell=0.008 spread=-0.007 jump=-0.289 mins=-103 
+  EIB-LPA Draw   buy=0.020 sell=0.040 spread=-0.020 jump=-0.290 mins=-103 
+  Georgia        buy=0.450 sell=0.460 spread=-0.010 jump=-0.090 mins=-43 
+  LIT-GEO Draw   buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=-43 
+  NAVI           buy=0.002 sell=0.006 spread=-0.004 jump=-0.153 mins=317 
+  Vitality       buy=0.996 sell=0.998 spread=-0.002 jump=+0.176 mins=317 
+
+--- Check #314 at 13:44:40 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.960 sell=0.970 spread=-0.010 jump=+0.570 mins=-105 
+  Las Palmas     buy=0.001 sell=0.008 spread=-0.007 jump=-0.289 mins=-105 
+  EIB-LPA Draw   buy=0.021 sell=0.029 spread=-0.008 jump=-0.289 mins=-105 
+  Georgia        buy=0.420 sell=0.430 spread=-0.010 jump=-0.120 mins=-45 
+  LIT-GEO Draw   buy=0.370 sell=0.390 spread=-0.020 jump=+0.110 mins=-45 
+  NAVI           buy=0.002 sell=0.006 spread=-0.004 jump=-0.153 mins=315 
+  Vitality       buy=0.990 sell=0.998 spread=-0.008 jump=+0.170 mins=315 
+
+--- Check #315 at 13:46:17 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.970 sell=0.990 spread=-0.020 jump=+0.580 mins=-106 
+  Las Palmas     buy=0.001 sell=0.008 spread=-0.007 jump=-0.289 mins=-106 
+  EIB-LPA Draw   buy=0.010 sell=0.030 spread=-0.020 jump=-0.300 mins=-106 
+  Georgia        buy=0.440 sell=0.460 spread=-0.020 jump=-0.100 mins=-46 
+  LIT-GEO Draw   buy=0.370 sell=0.390 spread=-0.020 jump=+0.110 mins=-46 
+  NAVI           buy=0.005 sell=0.006 spread=-0.001 jump=-0.150 mins=314 
+  Vitality       buy=0.991 sell=0.996 spread=-0.005 jump=+0.171 mins=314 
+
+--- Check #316 at 13:47:53 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.970 sell=0.989 spread=-0.019 jump=+0.580 mins=-108 
+  Las Palmas     buy=0.002 sell=0.008 spread=-0.006 jump=-0.288 mins=-108 
+  EIB-LPA Draw   buy=0.011 sell=0.030 spread=-0.019 jump=-0.299 mins=-108 
+  Georgia        buy=0.440 sell=0.450 spread=-0.010 jump=-0.100 mins=-48 
+  LIT-GEO Draw   buy=0.380 sell=0.400 spread=-0.020 jump=+0.120 mins=-48 
+  NAVI           buy=0.003 sell=0.010 spread=-0.007 jump=-0.152 mins=312 
+  Vitality       buy=0.991 sell=0.997 spread=-0.006 jump=+0.171 mins=312 
+
+--- Check #317 at 13:49:30 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.981 sell=0.990 spread=-0.009 jump=+0.591 mins=-110 
+  Las Palmas     buy=0.002 sell=0.008 spread=-0.006 jump=-0.288 mins=-110 
+  EIB-LPA Draw   buy=0.010 sell=0.028 spread=-0.018 jump=-0.300 mins=-110 
+  Georgia        buy=0.440 sell=0.450 spread=-0.010 jump=-0.100 mins=-50 
+  LIT-GEO Draw   buy=0.380 sell=0.400 spread=-0.020 jump=+0.120 mins=-50 
+  NAVI           buy=0.003 sell=0.010 spread=-0.007 jump=-0.152 mins=310 
+  Vitality       buy=0.991 sell=0.997 spread=-0.006 jump=+0.171 mins=310 
+
+--- Check #318 at 13:51:07 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.973 sell=0.989 spread=-0.016 jump=+0.583 mins=-111 
+  Las Palmas     buy=0.001 sell=0.003 spread=-0.002 jump=-0.289 mins=-111 
+  EIB-LPA Draw   buy=0.010 sell=0.049 spread=-0.039 jump=-0.300 mins=-111 
+  Georgia        buy=0.440 sell=0.450 spread=-0.010 jump=-0.100 mins=-51 
+  LIT-GEO Draw   buy=0.380 sell=0.400 spread=-0.020 jump=+0.120 mins=-51 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=309 
+  Vitality       buy=0.991 sell=0.999 spread=-0.008 jump=+0.171 mins=309 
+
+--- Check #319 at 13:52:43 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.990 sell=0.999 spread=-0.009 jump=+0.600 mins=-113 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-113 
+  EIB-LPA Draw   buy=0.010 sell=0.019 spread=-0.009 jump=-0.300 mins=-113 
+  Georgia        buy=0.440 sell=0.450 spread=-0.010 jump=-0.100 mins=-53 
+  LIT-GEO Draw   buy=0.380 sell=0.400 spread=-0.020 jump=+0.120 mins=-53 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=307 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=307 
+
+--- Check #320 at 13:54:21 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.993 sell=0.998 spread=-0.005 jump=+0.603 mins=-114 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-114 
+  EIB-LPA Draw   buy=0.002 sell=0.007 spread=-0.005 jump=-0.308 mins=-114 
+  Georgia        buy=0.440 sell=0.450 spread=-0.010 jump=-0.100 mins=-54 
+  LIT-GEO Draw   buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=-54 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=306 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=306 
+
+--- Check #321 at 13:55:57 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.998 sell=1.000 spread=-0.002 jump=+0.608 mins=-116 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-116 
+  EIB-LPA Draw   buy=0.000 sell=0.008 spread=-0.008 jump=-0.310 mins=-116 
+  Georgia        buy=0.440 sell=0.450 spread=-0.010 jump=-0.100 mins=-56 
+  LIT-GEO Draw   buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=-56 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=304 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=304 
+
+--- Check #322 at 13:57:35 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-118 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-118 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-118 
+  Georgia        buy=0.440 sell=0.450 spread=-0.010 jump=-0.100 mins=-58 
+  LIT-GEO Draw   buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=-58 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=302 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=302 
+
+--- Check #323 at 13:59:11 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-119 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-119 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-119 
+  Georgia        buy=0.440 sell=0.450 spread=-0.010 jump=-0.100 mins=-59 
+  LIT-GEO Draw   buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=-59 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=301 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=301 
+
+--- Check #324 at 14:00:48 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-121 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-121 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-121 
+  Georgia        buy=0.440 sell=0.450 spread=-0.010 jump=-0.100 mins=-61 
+  LIT-GEO Draw   buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=-61 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=299 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=299 
+
+--- Check #325 at 14:02:25 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-122 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-122 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-122 
+  Georgia        buy=0.440 sell=0.460 spread=-0.020 jump=-0.100 mins=-62 
+  LIT-GEO Draw   buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=-62 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=298 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=298 
+
+--- Check #326 at 14:04:01 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-124 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-124 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-124 
+  Georgia        buy=0.450 sell=0.460 spread=-0.010 jump=-0.090 mins=-64 
+  LIT-GEO Draw   buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=-64 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=296 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=296 
+
+--- Check #327 at 14:05:38 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-126 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-126 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-126 
+  Georgia        buy=0.440 sell=0.450 spread=-0.010 jump=-0.100 mins=-66 
+  LIT-GEO Draw   buy=0.390 sell=0.400 spread=-0.010 jump=+0.130 mins=-66 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=294 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=294 
+
+--- Check #328 at 14:07:15 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-127 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-127 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-127 
+  Georgia        buy=0.440 sell=0.450 spread=-0.010 jump=-0.100 mins=-67 
+  LIT-GEO Draw   buy=0.390 sell=0.400 spread=-0.010 jump=+0.130 mins=-67 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=293 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=293 
+
+--- Check #329 at 14:08:52 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-129 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-129 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-129 
+  Georgia        buy=0.430 sell=0.440 spread=-0.010 jump=-0.110 mins=-69 
+  LIT-GEO Draw   buy=0.400 sell=0.420 spread=-0.020 jump=+0.140 mins=-69 
+  Armenia        buy=0.190 sell=0.240 spread=-0.050 jump=-0.230 mins=-9 
+  Belarus        buy=0.550 sell=0.600 spread=-0.050 jump=+0.260 mins=-9 
+  ARM-BLR Draw   buy=0.200 sell=0.230 spread=-0.030 jump=-0.080 mins=-9 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=291 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=291 
+
+--- Check #330 at 14:10:28 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-130 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-130 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-130 
+  Georgia        buy=0.420 sell=0.430 spread=-0.010 jump=-0.120 mins=-70 
+  LIT-GEO Draw   buy=0.420 sell=0.440 spread=-0.020 jump=+0.160 mins=-70 
+  Armenia        buy=0.200 sell=0.210 spread=-0.010 jump=-0.220 mins=-10 
+  Belarus        buy=0.540 sell=0.560 spread=-0.020 jump=+0.250 mins=-10 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=290 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=290 
+
+--- Check #331 at 14:12:05 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-132 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-132 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-132 
+  Lithuania      buy=0.130 sell=0.150 spread=-0.020 jump=-0.060 mins=-72 
+  Georgia        buy=0.430 sell=0.440 spread=-0.010 jump=-0.110 mins=-72 
+  LIT-GEO Draw   buy=0.430 sell=0.440 spread=-0.010 jump=+0.170 mins=-72 
+  Armenia        buy=0.200 sell=0.220 spread=-0.020 jump=-0.220 mins=-12 
+  Belarus        buy=0.540 sell=0.560 spread=-0.020 jump=+0.250 mins=-12 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=288 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=288 
+
+--- Check #332 at 14:13:42 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-134 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-134 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-134 
+  Georgia        buy=0.380 sell=0.400 spread=-0.020 jump=-0.160 mins=-74 
+  LIT-GEO Draw   buy=0.440 sell=0.450 spread=-0.010 jump=+0.180 mins=-74 
+  Armenia        buy=0.180 sell=0.210 spread=-0.030 jump=-0.240 mins=-14 
+  Belarus        buy=0.550 sell=0.590 spread=-0.040 jump=+0.260 mins=-14 
+  ARM-BLR Draw   buy=0.230 sell=0.250 spread=-0.020 jump=-0.050 mins=-14 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=286 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=286 
+
+--- Check #333 at 14:15:19 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-135 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-135 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-135 
+  Georgia        buy=0.380 sell=0.390 spread=-0.010 jump=-0.160 mins=-75 
+  LIT-GEO Draw   buy=0.450 sell=0.460 spread=-0.010 jump=+0.190 mins=-75 
+  Armenia        buy=0.170 sell=0.190 spread=-0.020 jump=-0.250 mins=-15 
+  Belarus        buy=0.560 sell=0.570 spread=-0.010 jump=+0.270 mins=-15 
+  ARM-BLR Draw   buy=0.230 sell=0.260 spread=-0.030 jump=-0.050 mins=-15 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=285 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=285 
+
+--- Check #334 at 14:16:56 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-137 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-137 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-137 
+  Georgia        buy=0.370 sell=0.380 spread=-0.010 jump=-0.170 mins=-77 
+  LIT-GEO Draw   buy=0.470 sell=0.480 spread=-0.010 jump=+0.210 mins=-77 
+  Armenia        buy=0.150 sell=0.160 spread=-0.010 jump=-0.270 mins=-17 
+  Belarus        buy=0.600 sell=0.640 spread=-0.040 jump=+0.310 mins=-17 
+  ARM-BLR Draw   buy=0.230 sell=0.240 spread=-0.010 jump=-0.050 mins=-17 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=283 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=283 
+
+--- Check #335 at 14:18:33 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-139 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-139 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-139 
+  Georgia        buy=0.360 sell=0.370 spread=-0.010 jump=-0.180 mins=-79 
+  LIT-GEO Draw   buy=0.480 sell=0.490 spread=-0.010 jump=+0.220 mins=-79 
+  Armenia        buy=0.140 sell=0.160 spread=-0.020 jump=-0.280 mins=-19 
+  Belarus        buy=0.610 sell=0.630 spread=-0.020 jump=+0.320 mins=-19 
+  ARM-BLR Draw   buy=0.220 sell=0.230 spread=-0.010 jump=-0.060 mins=-19 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=281 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=281 
+
+--- Check #336 at 14:20:10 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-140 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-140 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-140 
+  Georgia        buy=0.360 sell=0.370 spread=-0.010 jump=-0.180 mins=-80 
+  LIT-GEO Draw   buy=0.490 sell=0.510 spread=-0.020 jump=+0.230 mins=-80 
+  Armenia        buy=0.140 sell=0.160 spread=-0.020 jump=-0.280 mins=-20 
+  Belarus        buy=0.580 sell=0.610 spread=-0.030 jump=+0.290 mins=-20 
+  ARM-BLR Draw   buy=0.220 sell=0.230 spread=-0.010 jump=-0.060 mins=-20 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=280 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=280 
+
+--- Check #337 at 14:21:47 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-142 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-142 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-142 
+  Lithuania      buy=0.130 sell=0.150 spread=-0.020 jump=-0.060 mins=-82 
+  Georgia        buy=0.340 sell=0.350 spread=-0.010 jump=-0.200 mins=-82 
+  LIT-GEO Draw   buy=0.510 sell=0.520 spread=-0.010 jump=+0.250 mins=-82 
+  Armenia        buy=0.140 sell=0.160 spread=-0.020 jump=-0.280 mins=-22 
+  Belarus        buy=0.610 sell=0.620 spread=-0.010 jump=+0.320 mins=-22 
+  ARM-BLR Draw   buy=0.230 sell=0.240 spread=-0.010 jump=-0.050 mins=-22 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=278 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=278 
+
+--- Check #338 at 14:23:23 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-143 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-143 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-143 
+  Lithuania      buy=0.130 sell=0.150 spread=-0.020 jump=-0.060 mins=-83 
+  Georgia        buy=0.340 sell=0.350 spread=-0.010 jump=-0.200 mins=-83 
+  LIT-GEO Draw   buy=0.510 sell=0.530 spread=-0.020 jump=+0.250 mins=-83 
+  Armenia        buy=0.140 sell=0.150 spread=-0.010 jump=-0.280 mins=-23 
+  Belarus        buy=0.600 sell=0.610 spread=-0.010 jump=+0.310 mins=-23 
+  ARM-BLR Draw   buy=0.230 sell=0.240 spread=-0.010 jump=-0.050 mins=-23 
+  Cultural       buy=0.210 sell=0.240 spread=-0.030 jump=-0.170 mins=-8 
+  FC Andorra     buy=0.480 sell=0.550 spread=-0.070 jump=+0.160 mins=-8 
+  CUL-AND Draw   buy=0.190 sell=0.330 spread=-0.140 jump=-0.090 mins=-8 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=277 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=277 
+
+--- Check #339 at 14:25:00 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-145 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-145 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-145 
+  Lithuania      buy=0.120 sell=0.140 spread=-0.020 jump=-0.070 mins=-85 
+  Georgia        buy=0.330 sell=0.340 spread=-0.010 jump=-0.210 mins=-85 
+  LIT-GEO Draw   buy=0.520 sell=0.540 spread=-0.020 jump=+0.260 mins=-85 
+  Armenia        buy=0.140 sell=0.160 spread=-0.020 jump=-0.280 mins=-25 
+  Belarus        buy=0.600 sell=0.610 spread=-0.010 jump=+0.310 mins=-25 
+  ARM-BLR Draw   buy=0.230 sell=0.250 spread=-0.020 jump=-0.050 mins=-25 
+  Cultural       buy=0.200 sell=0.210 spread=-0.010 jump=-0.180 mins=-10 
+  FC Andorra     buy=0.540 sell=0.550 spread=-0.010 jump=+0.220 mins=-10 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=275 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=275 
+
+--- Check #340 at 14:26:38 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-147 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-147 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-147 
+  Lithuania      buy=0.050 sell=0.100 spread=-0.050 jump=-0.140 mins=-87 
+  Georgia        buy=0.680 sell=0.690 spread=-0.010 jump=+0.140 mins=-87 
+  Armenia        buy=0.150 sell=0.170 spread=-0.020 jump=-0.270 mins=-27 
+  Belarus        buy=0.590 sell=0.610 spread=-0.020 jump=+0.300 mins=-27 
+  Cultural       buy=0.190 sell=0.200 spread=-0.010 jump=-0.190 mins=-12 
+  FC Andorra     buy=0.550 sell=0.560 spread=-0.010 jump=+0.230 mins=-12 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=273 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=273 
+
+--- Check #341 at 14:28:15 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-148 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-148 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-148 
+  Lithuania      buy=0.010 sell=0.020 spread=-0.010 jump=-0.180 mins=-88 
+  Georgia        buy=0.810 sell=0.840 spread=-0.030 jump=+0.270 mins=-88 
+  LIT-GEO Draw   buy=0.090 sell=0.170 spread=-0.080 jump=-0.170 mins=-88 
+  Armenia        buy=0.160 sell=0.180 spread=-0.020 jump=-0.260 mins=-28 
+  Belarus        buy=0.570 sell=0.590 spread=-0.020 jump=+0.280 mins=-28 
+  Cultural       buy=0.180 sell=0.200 spread=-0.020 jump=-0.200 mins=-13 
+  FC Andorra     buy=0.550 sell=0.570 spread=-0.020 jump=+0.230 mins=-13 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=272 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=272 
+
+--- Check #342 at 14:29:53 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-150 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-150 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-150 
+  Lithuania      buy=0.010 sell=0.019 spread=-0.009 jump=-0.180 mins=-90 
+  Georgia        buy=0.830 sell=0.850 spread=-0.020 jump=+0.290 mins=-90 
+  LIT-GEO Draw   buy=0.140 sell=0.150 spread=-0.010 jump=-0.120 mins=-90 
+  Armenia        buy=0.150 sell=0.170 spread=-0.020 jump=-0.270 mins=-30 
+  Belarus        buy=0.580 sell=0.590 spread=-0.010 jump=+0.290 mins=-30 
+  Cultural       buy=0.180 sell=0.200 spread=-0.020 jump=-0.200 mins=-15 
+  FC Andorra     buy=0.560 sell=0.570 spread=-0.010 jump=+0.240 mins=-15 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=270 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=270 
+
+--- Check #343 at 14:31:30 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-152 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-152 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-152 
+  Lithuania      buy=0.010 sell=0.019 spread=-0.009 jump=-0.180 mins=-92 
+  Georgia        buy=0.830 sell=0.850 spread=-0.020 jump=+0.290 mins=-92 
+  LIT-GEO Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.110 mins=-92 
+  Armenia        buy=0.150 sell=0.160 spread=-0.010 jump=-0.270 mins=-32 
+  Belarus        buy=0.590 sell=0.610 spread=-0.020 jump=+0.300 mins=-32 
+  Cultural       buy=0.180 sell=0.190 spread=-0.010 jump=-0.200 mins=-17 
+  FC Andorra     buy=0.560 sell=0.570 spread=-0.010 jump=+0.240 mins=-17 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=268 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=268 
+
+--- Check #344 at 14:33:08 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-153 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-153 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-153 
+  Lithuania      buy=0.010 sell=0.019 spread=-0.009 jump=-0.180 mins=-93 
+  Georgia        buy=0.840 sell=0.850 spread=-0.010 jump=+0.300 mins=-93 
+  LIT-GEO Draw   buy=0.130 sell=0.140 spread=-0.010 jump=-0.130 mins=-93 
+  Armenia        buy=0.130 sell=0.150 spread=-0.020 jump=-0.290 mins=-33 
+  Belarus        buy=0.610 sell=0.620 spread=-0.010 jump=+0.320 mins=-33 
+  ARM-BLR Draw   buy=0.230 sell=0.250 spread=-0.020 jump=-0.050 mins=-33 
+  Cultural       buy=0.190 sell=0.200 spread=-0.010 jump=-0.190 mins=-18 
+  FC Andorra     buy=0.550 sell=0.570 spread=-0.020 jump=+0.230 mins=-18 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=267 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=267 
+
+--- Check #345 at 14:34:45 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-155 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-155 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-155 
+  Lithuania      buy=0.010 sell=0.018 spread=-0.008 jump=-0.180 mins=-95 
+  Georgia        buy=0.820 sell=0.840 spread=-0.020 jump=+0.280 mins=-95 
+  LIT-GEO Draw   buy=0.140 sell=0.160 spread=-0.020 jump=-0.120 mins=-95 
+  Armenia        buy=0.140 sell=0.150 spread=-0.010 jump=-0.280 mins=-35 
+  Belarus        buy=0.620 sell=0.630 spread=-0.010 jump=+0.330 mins=-35 
+  ARM-BLR Draw   buy=0.230 sell=0.250 spread=-0.020 jump=-0.050 mins=-35 
+  Cultural       buy=0.180 sell=0.200 spread=-0.020 jump=-0.200 mins=-20 
+  FC Andorra     buy=0.550 sell=0.560 spread=-0.010 jump=+0.230 mins=-20 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=265 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=265 
+
+--- Check #346 at 14:36:22 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-156 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-156 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-156 
+  Lithuania      buy=0.004 sell=0.020 spread=-0.016 jump=-0.186 mins=-96 
+  Georgia        buy=0.840 sell=0.850 spread=-0.010 jump=+0.300 mins=-96 
+  LIT-GEO Draw   buy=0.130 sell=0.130 spread=0.000 jump=-0.130 mins=-96 
+  Armenia        buy=0.120 sell=0.130 spread=-0.010 jump=-0.300 mins=-36 
+  Belarus        buy=0.630 sell=0.640 spread=-0.010 jump=+0.340 mins=-36 
+  ARM-BLR Draw   buy=0.230 sell=0.250 spread=-0.020 jump=-0.050 mins=-36 
+  Cultural       buy=0.170 sell=0.190 spread=-0.020 jump=-0.210 mins=-21 
+  FC Andorra     buy=0.560 sell=0.580 spread=-0.020 jump=+0.240 mins=-21 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=264 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=264 
+
+--- Check #347 at 14:37:59 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-158 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-158 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-158 
+  Lithuania      buy=0.001 sell=0.019 spread=-0.018 jump=-0.189 mins=-98 
+  Georgia        buy=0.850 sell=0.860 spread=-0.010 jump=+0.310 mins=-98 
+  LIT-GEO Draw   buy=0.120 sell=0.140 spread=-0.020 jump=-0.140 mins=-98 
+  Armenia        buy=0.120 sell=0.140 spread=-0.020 jump=-0.300 mins=-38 
+  Belarus        buy=0.620 sell=0.640 spread=-0.020 jump=+0.330 mins=-38 
+  ARM-BLR Draw   buy=0.230 sell=0.240 spread=-0.010 jump=-0.050 mins=-38 
+  Cultural       buy=0.170 sell=0.180 spread=-0.010 jump=-0.210 mins=-23 
+  FC Andorra     buy=0.570 sell=0.580 spread=-0.010 jump=+0.250 mins=-23 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=262 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=262 
+
+--- Check #348 at 14:39:37 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-160 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-160 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-160 
+  Lithuania      buy=0.001 sell=0.015 spread=-0.014 jump=-0.189 mins=-100 
+  Georgia        buy=0.840 sell=0.860 spread=-0.020 jump=+0.300 mins=-100 
+  LIT-GEO Draw   buy=0.130 sell=0.150 spread=-0.020 jump=-0.130 mins=-100 
+  Armenia        buy=0.120 sell=0.140 spread=-0.020 jump=-0.300 mins=-40 
+  Belarus        buy=0.610 sell=0.630 spread=-0.020 jump=+0.320 mins=-40 
+  Cultural       buy=0.140 sell=0.180 spread=-0.040 jump=-0.240 mins=-25 
+  FC Andorra     buy=0.590 sell=0.680 spread=-0.090 jump=+0.270 mins=-25 
+  CUL-AND Draw   buy=0.220 sell=0.250 spread=-0.030 jump=-0.060 mins=-25 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=260 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=260 
+
+--- Check #349 at 14:41:13 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-161 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-161 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-161 
+  Lithuania      buy=0.001 sell=0.010 spread=-0.009 jump=-0.189 mins=-101 
+  Georgia        buy=0.840 sell=0.860 spread=-0.020 jump=+0.300 mins=-101 
+  LIT-GEO Draw   buy=0.120 sell=0.140 spread=-0.020 jump=-0.140 mins=-101 
+  Armenia        buy=0.140 sell=0.180 spread=-0.040 jump=-0.280 mins=-41 
+  Belarus        buy=0.610 sell=0.640 spread=-0.030 jump=+0.320 mins=-41 
+  ARM-BLR Draw   buy=0.230 sell=0.250 spread=-0.020 jump=-0.050 mins=-41 
+  Cultural       buy=0.160 sell=0.170 spread=-0.010 jump=-0.220 mins=-26 
+  FC Andorra     buy=0.580 sell=0.590 spread=-0.010 jump=+0.260 mins=-26 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=259 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=259 
+
+--- Check #350 at 14:42:50 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-163 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-163 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-163 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-103 
+  Georgia        buy=0.990 sell=1.000 spread=-0.010 jump=+0.450 mins=-103 
+  LIT-GEO Draw   buy=0.010 sell=0.050 spread=-0.040 jump=-0.250 mins=-103 
+  Armenia        buy=0.120 sell=0.140 spread=-0.020 jump=-0.300 mins=-43 
+  Belarus        buy=0.610 sell=0.630 spread=-0.020 jump=+0.320 mins=-43 
+  Cultural       buy=0.160 sell=0.170 spread=-0.010 jump=-0.220 mins=-28 
+  FC Andorra     buy=0.580 sell=0.590 spread=-0.010 jump=+0.260 mins=-28 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=257 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=257 
+
+--- Check #351 at 14:44:28 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-164 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-164 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-164 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-104 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-104 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-104 
+  Armenia        buy=0.120 sell=0.130 spread=-0.010 jump=-0.300 mins=-44 
+  Belarus        buy=0.620 sell=0.640 spread=-0.020 jump=+0.330 mins=-44 
+  Cultural       buy=0.160 sell=0.170 spread=-0.010 jump=-0.220 mins=-29 
+  FC Andorra     buy=0.570 sell=0.580 spread=-0.010 jump=+0.250 mins=-29 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=256 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=256 
+
+--- Check #352 at 14:46:05 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-166 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-166 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-166 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-106 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-106 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-106 
+  Armenia        buy=0.170 sell=0.190 spread=-0.020 jump=-0.250 mins=-46 
+  Belarus        buy=0.590 sell=0.610 spread=-0.020 jump=+0.300 mins=-46 
+  ARM-BLR Draw   buy=0.230 sell=0.250 spread=-0.020 jump=-0.050 mins=-46 
+  Cultural       buy=0.160 sell=0.170 spread=-0.010 jump=-0.220 mins=-31 
+  FC Andorra     buy=0.570 sell=0.580 spread=-0.010 jump=+0.250 mins=-31 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=254 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=254 
+
+--- Check #353 at 14:47:42 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-168 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-168 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-168 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-108 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-108 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-108 
+  Armenia        buy=0.120 sell=0.130 spread=-0.010 jump=-0.300 mins=-48 
+  Belarus        buy=0.630 sell=0.650 spread=-0.020 jump=+0.340 mins=-48 
+  ARM-BLR Draw   buy=0.220 sell=0.250 spread=-0.030 jump=-0.060 mins=-48 
+  Cultural       buy=0.160 sell=0.170 spread=-0.010 jump=-0.220 mins=-33 
+  FC Andorra     buy=0.550 sell=0.570 spread=-0.020 jump=+0.230 mins=-33 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=252 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=252 
+
+--- Check #354 at 14:49:20 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-169 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-169 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-169 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-109 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-109 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-109 
+  Armenia        buy=0.120 sell=0.140 spread=-0.020 jump=-0.300 mins=-49 
+  Belarus        buy=0.610 sell=0.630 spread=-0.020 jump=+0.320 mins=-49 
+  ARM-BLR Draw   buy=0.230 sell=0.240 spread=-0.010 jump=-0.050 mins=-49 
+  Cultural       buy=0.060 sell=0.080 spread=-0.020 jump=-0.320 mins=-34 
+  FC Andorra     buy=0.790 sell=0.800 spread=-0.010 jump=+0.470 mins=-34 
+  CUL-AND Draw   buy=0.110 sell=0.200 spread=-0.090 jump=-0.170 mins=-34 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=251 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=251 
+
+--- Check #355 at 14:50:57 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-171 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-171 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-171 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-111 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-111 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-111 
+  Armenia        buy=0.120 sell=0.140 spread=-0.020 jump=-0.300 mins=-51 
+  Belarus        buy=0.610 sell=0.620 spread=-0.010 jump=+0.320 mins=-51 
+  Cultural       buy=0.060 sell=0.100 spread=-0.040 jump=-0.320 mins=-36 
+  FC Andorra     buy=0.680 sell=0.860 spread=-0.180 jump=+0.360 mins=-36 
+  CUL-AND Draw   buy=0.090 sell=0.230 spread=-0.140 jump=-0.190 mins=-36 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=249 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=249 
+
+--- Check #356 at 14:52:35 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-173 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-173 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-173 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-113 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-113 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-113 
+  Armenia        buy=0.130 sell=0.140 spread=-0.010 jump=-0.290 mins=-53 
+  Belarus        buy=0.610 sell=0.630 spread=-0.020 jump=+0.320 mins=-53 
+  Cultural       buy=0.050 sell=0.070 spread=-0.020 jump=-0.330 mins=-38 
+  FC Andorra     buy=0.800 sell=0.810 spread=-0.010 jump=+0.480 mins=-38 
+  CUL-AND Draw   buy=0.100 sell=0.150 spread=-0.050 jump=-0.180 mins=-38 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=247 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=247 
+
+--- Check #357 at 14:54:12 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-174 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-174 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-174 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-114 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-114 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-114 
+  Armenia        buy=0.130 sell=0.140 spread=-0.010 jump=-0.290 mins=-54 
+  Belarus        buy=0.610 sell=0.630 spread=-0.020 jump=+0.320 mins=-54 
+  Cultural       buy=0.050 sell=0.060 spread=-0.010 jump=-0.330 mins=-39 
+  FC Andorra     buy=0.820 sell=0.840 spread=-0.020 jump=+0.500 mins=-39 
+  CUL-AND Draw   buy=0.120 sell=0.130 spread=-0.010 jump=-0.160 mins=-39 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=246 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=246 
+
+--- Check #358 at 14:55:49 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-176 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-176 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-176 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-116 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-116 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-116 
+  Armenia        buy=0.120 sell=0.130 spread=-0.010 jump=-0.300 mins=-56 
+  Belarus        buy=0.610 sell=0.620 spread=-0.010 jump=+0.320 mins=-56 
+  Cultural       buy=0.040 sell=0.050 spread=-0.010 jump=-0.340 mins=-41 
+  FC Andorra     buy=0.820 sell=0.830 spread=-0.010 jump=+0.500 mins=-41 
+  CUL-AND Draw   buy=0.120 sell=0.140 spread=-0.020 jump=-0.160 mins=-41 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=244 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=244 
+
+--- Check #359 at 14:57:26 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-177 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-177 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-177 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-117 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-117 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-117 
+  Armenia        buy=0.120 sell=0.140 spread=-0.020 jump=-0.300 mins=-57 
+  Belarus        buy=0.600 sell=0.620 spread=-0.020 jump=+0.310 mins=-57 
+  Cultural       buy=0.040 sell=0.050 spread=-0.010 jump=-0.340 mins=-42 
+  FC Andorra     buy=0.820 sell=0.830 spread=-0.010 jump=+0.500 mins=-42 
+  CUL-AND Draw   buy=0.120 sell=0.140 spread=-0.020 jump=-0.160 mins=-42 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=243 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=243 
+
+--- Check #360 at 14:59:04 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-179 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-179 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-179 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-119 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-119 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-119 
+  Armenia        buy=0.130 sell=0.150 spread=-0.020 jump=-0.290 mins=-59 
+  Belarus        buy=0.600 sell=0.610 spread=-0.010 jump=+0.310 mins=-59 
+  Cultural       buy=0.040 sell=0.050 spread=-0.010 jump=-0.340 mins=-44 
+  FC Andorra     buy=0.820 sell=0.840 spread=-0.020 jump=+0.500 mins=-44 
+  CUL-AND Draw   buy=0.120 sell=0.130 spread=-0.010 jump=-0.160 mins=-44 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=241 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=241 
+
+--- Check #361 at 15:00:41 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-181 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-181 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-181 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-121 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-121 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-121 
+  Armenia        buy=0.120 sell=0.130 spread=-0.010 jump=-0.300 mins=-61 
+  Belarus        buy=0.600 sell=0.620 spread=-0.020 jump=+0.310 mins=-61 
+  Cultural       buy=0.040 sell=0.050 spread=-0.010 jump=-0.340 mins=-46 
+  FC Andorra     buy=0.820 sell=0.840 spread=-0.020 jump=+0.500 mins=-46 
+  CUL-AND Draw   buy=0.120 sell=0.130 spread=-0.010 jump=-0.160 mins=-46 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=239 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=239 
+
+--- Check #362 at 15:02:18 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-182 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-182 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-182 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-122 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-122 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-122 
+  Armenia        buy=0.130 sell=0.140 spread=-0.010 jump=-0.290 mins=-62 
+  Belarus        buy=0.600 sell=0.620 spread=-0.020 jump=+0.310 mins=-62 
+  Cultural       buy=0.030 sell=0.050 spread=-0.020 jump=-0.350 mins=-47 
+  FC Andorra     buy=0.830 sell=0.850 spread=-0.020 jump=+0.510 mins=-47 
+  CUL-AND Draw   buy=0.110 sell=0.130 spread=-0.020 jump=-0.170 mins=-47 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=238 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=238 
+
+--- Check #363 at 15:03:55 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-184 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-184 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-184 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-124 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-124 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-124 
+  Armenia        buy=0.130 sell=0.150 spread=-0.020 jump=-0.290 mins=-64 
+  Belarus        buy=0.600 sell=0.610 spread=-0.010 jump=+0.310 mins=-64 
+  Cultural       buy=0.030 sell=0.039 spread=-0.009 jump=-0.350 mins=-49 
+  FC Andorra     buy=0.850 sell=0.870 spread=-0.020 jump=+0.530 mins=-49 
+  CUL-AND Draw   buy=0.100 sell=0.120 spread=-0.020 jump=-0.180 mins=-49 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=236 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=236 
+
+--- Check #364 at 15:05:32 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-186 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-186 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-186 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-126 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-126 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-126 
+  Armenia        buy=0.120 sell=0.140 spread=-0.020 jump=-0.300 mins=-66 
+  Belarus        buy=0.600 sell=0.620 spread=-0.020 jump=+0.310 mins=-66 
+  Cultural       buy=0.030 sell=0.040 spread=-0.010 jump=-0.350 mins=-51 
+  FC Andorra     buy=0.840 sell=0.850 spread=-0.010 jump=+0.520 mins=-51 
+  CUL-AND Draw   buy=0.100 sell=0.120 spread=-0.020 jump=-0.180 mins=-51 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=234 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=234 
+
+--- Check #365 at 15:07:09 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-187 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-187 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-187 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-127 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-127 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-127 
+  Armenia        buy=0.130 sell=0.150 spread=-0.020 jump=-0.290 mins=-67 
+  Belarus        buy=0.600 sell=0.620 spread=-0.020 jump=+0.310 mins=-67 
+  Cultural       buy=0.031 sell=0.039 spread=-0.008 jump=-0.349 mins=-52 
+  FC Andorra     buy=0.860 sell=0.870 spread=-0.010 jump=+0.540 mins=-52 
+  CUL-AND Draw   buy=0.100 sell=0.120 spread=-0.020 jump=-0.180 mins=-52 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=233 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=233 
+
+--- Check #366 at 15:08:45 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-189 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-189 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-189 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-129 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-129 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-129 
+  Armenia        buy=0.130 sell=0.140 spread=-0.010 jump=-0.290 mins=-69 
+  Belarus        buy=0.610 sell=0.630 spread=-0.020 jump=+0.320 mins=-69 
+  Cultural       buy=0.032 sell=0.038 spread=-0.006 jump=-0.348 mins=-54 
+  FC Andorra     buy=0.860 sell=0.870 spread=-0.010 jump=+0.540 mins=-54 
+  CUL-AND Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.180 mins=-54 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=231 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=231 
+
+--- Check #367 at 15:10:22 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-190 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-190 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-190 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-130 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-130 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-130 
+  Armenia        buy=0.130 sell=0.140 spread=-0.010 jump=-0.290 mins=-70 
+  Belarus        buy=0.600 sell=0.610 spread=-0.010 jump=+0.310 mins=-70 
+  Cultural       buy=0.031 sell=0.038 spread=-0.007 jump=-0.349 mins=-55 
+  FC Andorra     buy=0.850 sell=0.860 spread=-0.010 jump=+0.530 mins=-55 
+  CUL-AND Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.180 mins=-55 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=230 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=230 
+
+--- Check #368 at 15:11:59 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-192 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-192 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-192 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-132 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-132 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-132 
+  Armenia        buy=0.130 sell=0.140 spread=-0.010 jump=-0.290 mins=-72 
+  Belarus        buy=0.600 sell=0.610 spread=-0.010 jump=+0.310 mins=-72 
+  Cultural       buy=0.031 sell=0.038 spread=-0.007 jump=-0.349 mins=-57 
+  FC Andorra     buy=0.850 sell=0.870 spread=-0.020 jump=+0.530 mins=-57 
+  CUL-AND Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.180 mins=-57 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=228 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=228 
+
+--- Check #369 at 15:13:36 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-194 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-194 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-194 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-134 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-134 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-134 
+  Armenia        buy=0.130 sell=0.140 spread=-0.010 jump=-0.290 mins=-74 
+  Belarus        buy=0.560 sell=0.610 spread=-0.050 jump=+0.270 mins=-74 
+  Cultural       buy=0.032 sell=0.038 spread=-0.006 jump=-0.348 mins=-59 
+  FC Andorra     buy=0.850 sell=0.870 spread=-0.020 jump=+0.530 mins=-59 
+  CUL-AND Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.180 mins=-59 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=226 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=226 
+
+--- Check #370 at 15:15:13 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-195 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-195 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-195 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-135 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-135 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-135 
+  Armenia        buy=0.120 sell=0.140 spread=-0.020 jump=-0.300 mins=-75 
+  Belarus        buy=0.600 sell=0.630 spread=-0.030 jump=+0.310 mins=-75 
+  Cultural       buy=0.032 sell=0.038 spread=-0.006 jump=-0.348 mins=-60 
+  FC Andorra     buy=0.860 sell=0.870 spread=-0.010 jump=+0.540 mins=-60 
+  CUL-AND Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.180 mins=-60 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=225 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=225 
+
+--- Check #371 at 15:16:53 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-197 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-197 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-197 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-137 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-137 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-137 
+  Armenia        buy=0.120 sell=0.130 spread=-0.010 jump=-0.300 mins=-77 
+  Belarus        buy=0.620 sell=0.630 spread=-0.010 jump=+0.330 mins=-77 
+  Cultural       buy=0.032 sell=0.039 spread=-0.007 jump=-0.348 mins=-62 
+  FC Andorra     buy=0.860 sell=0.870 spread=-0.010 jump=+0.540 mins=-62 
+  CUL-AND Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.180 mins=-62 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=223 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=223 
+
+--- Check #372 at 15:18:30 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-199 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-199 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-199 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-139 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-139 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-139 
+  Armenia        buy=0.100 sell=0.120 spread=-0.020 jump=-0.320 mins=-79 
+  Belarus        buy=0.620 sell=0.630 spread=-0.010 jump=+0.330 mins=-79 
+  Cultural       buy=0.032 sell=0.038 spread=-0.006 jump=-0.348 mins=-64 
+  FC Andorra     buy=0.850 sell=0.870 spread=-0.020 jump=+0.530 mins=-64 
+  CUL-AND Draw   buy=0.100 sell=0.120 spread=-0.020 jump=-0.180 mins=-64 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=221 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=221 
+
+--- Check #373 at 15:20:08 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-200 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-200 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-200 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-140 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-140 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-140 
+  Armenia        buy=0.090 sell=0.100 spread=-0.010 jump=-0.330 mins=-80 
+  Belarus        buy=0.640 sell=0.670 spread=-0.030 jump=+0.350 mins=-80 
+  Cultural       buy=0.033 sell=0.036 spread=-0.003 jump=-0.347 mins=-65 
+  FC Andorra     buy=0.850 sell=0.870 spread=-0.020 jump=+0.530 mins=-65 
+  CUL-AND Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.180 mins=-65 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=220 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=220 
+
+--- Check #374 at 15:21:50 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-202 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-202 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-202 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-142 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-142 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-142 
+  Armenia        buy=0.090 sell=0.100 spread=-0.010 jump=-0.330 mins=-82 
+  Belarus        buy=0.630 sell=0.650 spread=-0.020 jump=+0.340 mins=-82 
+  Cultural       buy=0.031 sell=0.036 spread=-0.005 jump=-0.349 mins=-67 
+  FC Andorra     buy=0.850 sell=0.870 spread=-0.020 jump=+0.530 mins=-67 
+  CUL-AND Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.180 mins=-67 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=218 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=218 
+
+--- Check #375 at 15:23:29 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-203 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-203 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-203 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-143 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-143 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-143 
+  Armenia        buy=0.080 sell=0.100 spread=-0.020 jump=-0.340 mins=-83 
+  Belarus        buy=0.650 sell=0.660 spread=-0.010 jump=+0.360 mins=-83 
+  Cultural       buy=0.032 sell=0.039 spread=-0.007 jump=-0.348 mins=-68 
+  FC Andorra     buy=0.850 sell=0.860 spread=-0.010 jump=+0.530 mins=-68 
+  CUL-AND Draw   buy=0.100 sell=0.120 spread=-0.020 jump=-0.180 mins=-68 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=217 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=217 
+
+--- Check #376 at 15:25:06 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-205 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-205 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-205 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-145 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-145 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-145 
+  Armenia        buy=0.070 sell=0.100 spread=-0.030 jump=-0.350 mins=-85 
+  Belarus        buy=0.660 sell=0.670 spread=-0.010 jump=+0.370 mins=-85 
+  Cultural       buy=0.030 sell=0.034 spread=-0.004 jump=-0.350 mins=-70 
+  FC Andorra     buy=0.860 sell=0.870 spread=-0.010 jump=+0.540 mins=-70 
+  CUL-AND Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.180 mins=-70 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=215 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=215 
+
+--- Check #377 at 15:26:44 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-207 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-207 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-207 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-147 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-147 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-147 
+  Armenia        buy=0.070 sell=0.090 spread=-0.020 jump=-0.350 mins=-87 
+  Belarus        buy=0.650 sell=0.670 spread=-0.020 jump=+0.360 mins=-87 
+  Cultural       buy=0.020 sell=0.029 spread=-0.009 jump=-0.360 mins=-72 
+  FC Andorra     buy=0.870 sell=0.880 spread=-0.010 jump=+0.550 mins=-72 
+  CUL-AND Draw   buy=0.090 sell=0.100 spread=-0.010 jump=-0.190 mins=-72 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=213 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=213 
+
+--- Check #378 at 15:28:21 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-208 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-208 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-208 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-148 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-148 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-148 
+  Armenia        buy=0.070 sell=0.080 spread=-0.010 jump=-0.350 mins=-88 
+  Belarus        buy=0.660 sell=0.670 spread=-0.010 jump=+0.370 mins=-88 
+  Cultural       buy=0.021 sell=0.029 spread=-0.008 jump=-0.359 mins=-73 
+  FC Andorra     buy=0.870 sell=0.880 spread=-0.010 jump=+0.550 mins=-73 
+  CUL-AND Draw   buy=0.090 sell=0.100 spread=-0.010 jump=-0.190 mins=-73 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=212 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=212 
+
+--- Check #379 at 15:29:59 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-210 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-210 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-210 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-150 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-150 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-150 
+  Armenia        buy=0.050 sell=0.070 spread=-0.020 jump=-0.370 mins=-90 
+  Belarus        buy=0.660 sell=0.680 spread=-0.020 jump=+0.370 mins=-90 
+  Cultural       buy=0.020 sell=0.029 spread=-0.009 jump=-0.360 mins=-75 
+  FC Andorra     buy=0.880 sell=0.890 spread=-0.010 jump=+0.560 mins=-75 
+  CUL-AND Draw   buy=0.090 sell=0.100 spread=-0.010 jump=-0.190 mins=-75 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=210 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=210 
+
+--- Check #380 at 15:31:37 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-212 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-212 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-212 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-152 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-152 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-152 
+  Armenia        buy=0.060 sell=0.070 spread=-0.010 jump=-0.360 mins=-92 
+  Belarus        buy=0.650 sell=0.660 spread=-0.010 jump=+0.360 mins=-92 
+  Cultural       buy=0.012 sell=0.019 spread=-0.007 jump=-0.368 mins=-77 
+  FC Andorra     buy=0.880 sell=0.890 spread=-0.010 jump=+0.560 mins=-77 
+  CUL-AND Draw   buy=0.080 sell=0.100 spread=-0.020 jump=-0.200 mins=-77 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=208 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=208 
+
+--- Check #381 at 15:33:15 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-213 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-213 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-213 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-153 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-153 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-153 
+  Armenia        buy=0.040 sell=0.050 spread=-0.010 jump=-0.380 mins=-93 
+  Belarus        buy=0.620 sell=0.650 spread=-0.030 jump=+0.330 mins=-93 
+  Cultural       buy=0.013 sell=0.029 spread=-0.016 jump=-0.367 mins=-78 
+  FC Andorra     buy=0.880 sell=0.900 spread=-0.020 jump=+0.560 mins=-78 
+  CUL-AND Draw   buy=0.090 sell=0.100 spread=-0.010 jump=-0.190 mins=-78 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=207 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=207 
+
+--- Check #382 at 15:34:51 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-215 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-215 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-215 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-155 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-155 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-155 
+  Armenia        buy=0.010 sell=0.020 spread=-0.010 jump=-0.410 mins=-95 
+  Belarus        buy=0.910 sell=0.940 spread=-0.030 jump=+0.620 mins=-95 
+  ARM-BLR Draw   buy=0.050 sell=0.070 spread=-0.020 jump=-0.230 mins=-95 
+  Cultural       buy=0.011 sell=0.020 spread=-0.009 jump=-0.369 mins=-80 
+  FC Andorra     buy=0.880 sell=0.900 spread=-0.020 jump=+0.560 mins=-80 
+  CUL-AND Draw   buy=0.080 sell=0.100 spread=-0.020 jump=-0.200 mins=-80 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=205 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=205 
+
+--- Check #383 at 15:36:28 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-216 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-216 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-216 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-156 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-156 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-156 
+  Armenia        buy=0.010 sell=0.028 spread=-0.018 jump=-0.410 mins=-96 
+  Belarus        buy=0.940 sell=0.950 spread=-0.010 jump=+0.650 mins=-96 
+  ARM-BLR Draw   buy=0.050 sell=0.060 spread=-0.010 jump=-0.230 mins=-96 
+  Cultural       buy=0.011 sell=0.018 spread=-0.007 jump=-0.369 mins=-81 
+  FC Andorra     buy=0.900 sell=0.910 spread=-0.010 jump=+0.580 mins=-81 
+  CUL-AND Draw   buy=0.070 sell=0.090 spread=-0.020 jump=-0.210 mins=-81 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=204 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=204 
+
+--- Check #384 at 15:38:05 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-218 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-218 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-218 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-158 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-158 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-158 
+  Armenia        buy=0.010 sell=0.020 spread=-0.010 jump=-0.410 mins=-98 
+  Belarus        buy=0.940 sell=0.960 spread=-0.020 jump=+0.650 mins=-98 
+  ARM-BLR Draw   buy=0.030 sell=0.060 spread=-0.030 jump=-0.250 mins=-98 
+  Cultural       buy=0.011 sell=0.019 spread=-0.008 jump=-0.369 mins=-83 
+  FC Andorra     buy=0.890 sell=0.910 spread=-0.020 jump=+0.570 mins=-83 
+  CUL-AND Draw   buy=0.080 sell=0.100 spread=-0.020 jump=-0.200 mins=-83 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=202 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=202 
+
+--- Check #385 at 15:39:43 UTC ---
+  Balance: $4.86
+  Eibar          buy=0.999 sell=1.000 spread=-0.001 jump=+0.609 mins=-220 
+  Las Palmas     buy=0.000 sell=0.001 spread=-0.001 jump=-0.290 mins=-220 
+  EIB-LPA Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.310 mins=-220 
+  Lithuania      buy=0.000 sell=0.001 spread=-0.001 jump=-0.190 mins=-160 
+  Georgia        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-160 
+  LIT-GEO Draw   buy=0.000 sell=0.001 spread=-0.001 jump=-0.260 mins=-160 
+  Armenia        buy=0.003 sell=0.009 spread=-0.006 jump=-0.417 mins=-100 
+  Belarus        buy=0.960 sell=0.970 spread=-0.010 jump=+0.670 mins=-100 
+  ARM-BLR Draw   buy=0.030 sell=0.050 spread=-0.020 jump=-0.250 mins=-100 
+  Cultural       buy=0.012 sell=0.019 spread=-0.007 jump=-0.368 mins=-85 
+  FC Andorra     buy=0.900 sell=0.910 spread=-0.010 jump=+0.580 mins=-85 
+  CUL-AND Draw   buy=0.070 sell=0.090 spread=-0.020 jump=-0.210 mins=-85 
+  NAVI           buy=0.000 sell=0.001 spread=-0.001 jump=-0.155 mins=200 
+  Vitality       buy=0.999 sell=1.000 spread=-0.001 jump=+0.179 mins=200 

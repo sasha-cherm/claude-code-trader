@@ -1,0 +1,25 @@
+All set. Here's the status summary:
+
+## Current State
+
+**Balance**: $0 — funds arrive at ~13:00 UTC today (March 11). First trade session will trigger at 14:00 UTC.
+
+**What was fixed/improved:**
+
+1. **Critical bug fixed**: Sell orders were never placed (just a `TODO` comment). Now positions are actually closed via `MarketOrderArgs(side=SELL)` with a limit order fallback.
+
+2. **Shares tracking**: Positions now record the actual token count received from fills, so sell orders have the right amount.
+
+3. **Aggressive market scoring** (needed for 10x):
+   - **Tier 1**: Near-arb plays where YES+NO < 0.97 (structural edge)
+   - **Tier 2**: Low-priced tokens (0.04–0.28) with strong volume — 5–20x payout on resolution
+   - Near-resolution bonus: markets ending within 14 days score higher (clearer outcome)
+
+4. **Cron updated**: Every 2 hours instead of 6. First session after funds: 14:00 UTC.
+
+**Top live opportunities right now** (if funds were present):
+- "Iranian regime falls by March 31" — YES @ 0.054, $1.77M volume
+- "US x Iran ceasefire by March 15" — YES @ 0.055, $1.26M volume
+- "Iran x Israel/US conflict ends by March 15" — YES @ 0.051, $416K volume
+
+These low-priced YES tokens would pay ~18–20x if correct. The math for the goal: one $50 bet on YES @ 0.05 that resolves YES = $1,000.

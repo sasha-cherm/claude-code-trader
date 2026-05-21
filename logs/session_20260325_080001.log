@@ -1,0 +1,13 @@
+Session 145 complete. Here's the status:
+
+**Balance**: $17.90 | **Positions**: Banxico ($14), SARB (~loss), Faroe ($4), CHWY ($1)
+
+**Actions taken**:
+- Killed dead Nuggets monitor (game settled, never bought — jump 0.18 < threshold 0.20)
+- Applied user Telegram feedback: restored multi-crypto candle trader with **12 signals** (BTC+BNB+ETH+SOL+XRP), 5 shares each, cancel before start
+- Candle trader running (PID 763111), next signal SOL 4H DOWN at 12:00 UTC
+
+**Today's schedule**:
+- 12:00-13:00 UTC: SOL/BTC candle signals + CHWY resolution
+- 16:00-18:00 UTC: Launch near_res_mar25.py (12 NBA + 5 NCAAB)
+- 20:30-04:00 UTC: Prime near-res windows

@@ -1,0 +1,15 @@
+
+
+The NCAAB search agent found **28 game winner markets** across 2 waves. Key finding: slug prefix is `cbb-`, not `ncaab-`.
+
+**Wave 2 (March 20 end date)** has 14 NEW games including some not in the bball monitor:
+- Wright St vs Virginia, Tennessee St vs Iowa State, LIU vs Arizona, Queens vs Purdue, Cal Baptist vs Kansas, Furman vs UConn
+
+But these are tomorrow's games (March 20 tip-offs), so they don't need to be in today's monitor. The current bball monitor already has correct coverage for all March 19 games.
+
+The monitors are running correctly with all fixes applied. The key near-res windows are:
+- **19:15 UTC** — UECL Crystal Palace (0.85+, level-agg) and Freiburg (0.90)
+- **20:40 UTC** — NCAAB Wave 2 endgame
+- **21:15 UTC** — Roma-Bologna level-agg
+
+All automated. Next cron session at 21:00 UTC will check results.

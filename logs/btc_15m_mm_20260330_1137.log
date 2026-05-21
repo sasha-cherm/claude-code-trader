@@ -1,0 +1,68 @@
+[MM] === BTC 15-min Spread Scalper ===
+[MM] UTC: 2026-03-30 11:37:32.381143+00:00
+[MM] size=6.0  sell_deadline=+3s  poll=1.0s
+[MM] Balance: $13.91
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 7:45AM-8:00AM ET
+[MM] start=2026-03-30T11:45:00+00:00  sell_deadline=+3s
+[MM] token=88863912794148215606...
+[MM] Balance: $13.91
+[MM] --- Round 1 ---
+[BUY] BUY 6sh @ 0.48  oid=0xc0946ad7adf28dd96165399866cf3f348a32aeee9a4a8c1fad9852a19315e16e
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 441s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 440s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 431s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 430s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 421s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 411s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 401s to start
+[MM] BUY FILLED @ 0.48
+[MM] Waiting for settlement... bal=5.89 (30s left)
+[MM] Waiting for settlement... bal=5.89 (28s left)
+[MM] Waiting for settlement... bal=5.89 (26s left)
+[MM] Token balance settled: 11.89 shares
+[SELL] SELL 6sh @ 0.48  oid=0x8e74d10c60b32014b821385a892d839df8d7b412639591a2fc6eb041ff89b911
+[MM] bb=0.47 ba=0.49 | SELL@0.48 bought@0.48 | 392.1s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 390.8s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 389.6s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 388.3s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 387.0s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 385.8s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 384.5s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 383.2s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 382.0s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 380.7s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 379.4s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 378.2s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 376.6s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 375.4s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 374.1s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 372.8s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 371.6s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 370.3s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 369.1s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 367.8s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 366.5s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 365.3s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 364.0s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 362.7s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 361.4s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 360.2s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 358.9s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 357.6s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 356.4s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 355.1s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 353.8s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 352.6s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 351.3s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 350.0s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 345.2s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 344.0s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 342.7s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.48 | 341.5s left
+[MM] SELL FILLED @ 0.48  profit=$0.0
+[MM] Round 1 done, waiting for sell settlement...
+
+[MM] Signal 15, stopping...
+[MM] shutdown

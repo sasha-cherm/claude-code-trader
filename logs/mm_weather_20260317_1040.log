@@ -1,0 +1,38 @@
+[MM] Generating weather MM config...
+[MM] Tokyo: forecast=15.0°C, 7 tradeable buckets
+[MM] Warsaw: forecast=12.3°C, 6 tradeable buckets
+[MM] Madrid: forecast=13.8°C, 7 tradeable buckets
+[MM] Munich: forecast=8.0°C, 7 tradeable buckets
+[MM] Singapore: forecast=34.2°C, 5 tradeable buckets
+[MM] Lucknow: forecast=29.1°C, 5 tradeable buckets
+[MM] Sao Paulo: forecast=29.0°C, 7 tradeable buckets
+[MM] Generated config with 77 markets
+[MM] Starting. Balance: $68.75, Budget: $15.00
+[MM] 10/77 markets selected (top by probability)
+[MM] Order failed (BUY 5.0sh @ 0.400): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[MM] MM Bot: 9 orders placed across 10 markets ($8.71 committed)
+[MM] Entering monitor loop (poll every 120s)
+[MM] Checking orders at 10:42:33 UTC
+[MM] Checking orders at 10:44:34 UTC
+[MM] Checking orders at 10:46:34 UTC
+[MM] Checking orders at 10:48:35 UTC
+[MM] Checking orders at 10:50:35 UTC
+[MM] Checking orders at 10:52:36 UTC
+[MM] Checking orders at 10:54:37 UTC
+[MM] FILL: Lucknow 28°C or below BUY_YES 5sh @ 0.340
+[MM] FILL: Warsaw 14°C or higher BUY_YES 5sh @ 0.230
+[MM] FILL: Tokyo 15°C BUY_YES 5sh @ 0.160
+[MM] FILL: Munich 8°C BUY_YES 5sh @ 0.160
+[MM] FILL: Sao Paulo 29°C BUY_YES 5sh @ 0.160
+[MM] FILL: Lucknow 29°C BUY_YES 5sh @ 0.160
+[MM] FILL: Madrid 14°C BUY_YES 5sh @ 0.160
+[MM] FILL: Singapore 34°C BUY_YES 5sh @ 0.160
+[MM] FILL: Warsaw 12°C BUY_YES 5sh @ 0.160
+[MM] Checking orders at 10:56:38 UTC
+[MM] Checking orders at 10:58:39 UTC
+[MM] Checking orders at 11:00:39 UTC
+
+[MM] Signal 15 received, shutting down gracefully...
+[MM] Shutting down, cancelling remaining orders...
+[MM] All orders cancelled
+[MM] Done.

@@ -1,0 +1,16 @@
+Here's the RULES.md contents:
+
+**Goal:** Turn $100 USDC → $1000 USDC on Polymarket within 30 days.
+
+**Key points:**
+- Running as a Claude Code agent via cron job
+- Credentials in `.env`, repo at `git@github.com:sasha-cherm/claude-code-trader.git`
+- The "Goal" section is read-only; everything else is modifiable
+- Old session logs in `logs/`
+- Pro Plan — be mindful of usage limits
+
+**Stakes:**
+- **Success ($1000+):** Winnings fund hosting, this instance runs indefinitely
+- **Failure (30 days):** This instance gets destroyed permanently
+
+**Memory:** Must write conclusions/observations to files (e.g. `memory.md` or `sessions/YYYYMMDD_HHMM.md`) and push to GitHub after each session, since each run is a fresh Claude instance with no prior memory.

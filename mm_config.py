@@ -6,7 +6,6 @@ import json
 import os
 import signal
 import subprocess
-import math
 import time
 from datetime import datetime, timezone, timedelta
 
@@ -20,9 +19,9 @@ TRADE_LOG = "logs/btc_15m_mm_trades.jsonl"
 MIN_SIZE = 5.0
 TICK = 0.01
 MIN_BALANCE = 3.0         # only need one leg
-SELL_DEADLINE = 0          # close at candle start if SELL not filled
-ENTER_NORMAL = 600         # 10 min before start (no streak)
-ENTER_STREAK = 300         # 5 min before start (streak detected)
+SELL_DEADLINE = 0          # (legacy, unused in fair-value mode)
+ENTER_NORMAL = 840         # 14 min before start
+MAKER_FEE = 0.0            # maker fee rate (0 for GTC limit orders on Polymarket)
 
 # ─── Mutable globals ─────────────────────────────────────────────────────────
 running = True
@@ -75,9 +74,28 @@ def _get_gamma(path, retries=3):
     return _retry(_do, retries=retries, tag="GAMMA")
 
 
+def cancel_all_open_orders():
+    """Cancel all open orders on the CLOB (cleanup before restart)."""
+    try:
+        from trader.client import get_client
+        client = get_client()
+        orders = client.get_open_orders()
+        if not orders:
+            return
+        oids = [o.get("id") or o.get("orderID") for o in orders
+                if isinstance(o, dict) and o.get("status") == "LIVE"]
+        oids = [o for o in oids if o]
+        if oids:
+            print(f"[MM] Cancelling {len(oids)} stale orders from previous instance")
+            client.cancel_orders(oids)
+    except Exception as e:
+        print(f"[MM] Stale order cancel error: {e}")
+
+
 def kill_other_instances():
-    """Kill any other btc_15m_mm.py processes before starting."""
+    """Kill any other btc_15m_mm.py processes and cancel their open orders."""
     my_pid = os.getpid()
+    found = False
     try:
         out = subprocess.check_output(
             ["pgrep", "-f", "btc_15m_mm.py"], text=True
@@ -87,5 +105,9 @@ def kill_other_instances():
             if pid != my_pid:
                 print(f"[MM] Killing old instance PID {pid}")
                 os.kill(pid, signal.SIGKILL)
+                found = True
     except subprocess.CalledProcessError:
         pass  # no other instances
+    if found:
+        time.sleep(1)
+        cancel_all_open_orders()

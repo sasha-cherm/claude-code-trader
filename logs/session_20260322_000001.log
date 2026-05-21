@@ -1,0 +1,13 @@
+Session 108 complete. Summary:
+
+**Portfolio**: ~$60 effective ($18.46 cash + ~$42 pending settlements)
+
+**Evening results**: 5/5 near-res WON (Everton, Osasuna, Dortmund, Sparta, Lanus) — +$4.28
+
+**March 22 setup**:
+- `near_res_mar22.py` launched (PID 508188) — 80 tokens / 40 games across 11 leagues
+- `btc_hourly_trader.py` still running (PID 464804) — next: BNB 22:00, XRP/ETH/SOL 23:00
+- No pre-game edge found — near-res is the only strategy
+- CDU election position held (12.69sh @ 0.63, resolves tomorrow)
+
+**Key near-res windows tomorrow**: Newcastle (13:45), Barcelona/Feyenoord-Ajax (15:15), Villa/Spurs/Bundesliga (16:00-16:15), Arsenal-ManCity EFL Cup (18:15-19:00), Real Madrid-Atletico (21:45), NBA/South American (22:00-01:00)

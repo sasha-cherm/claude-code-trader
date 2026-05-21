@@ -1,0 +1,1251 @@
+[CMM] Balance: $43.55
+[CMM] Continuous MM starting | budget=$8 | dates=['2026-03-18']
+[CMM] Discovered 90 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.8°C
+[CMM] london (2026-03-18): forecast 17.1°C
+[CMM] singapore (2026-03-18): forecast 31.3°C
+[CMM] tokyo (2026-03-18): forecast 14.4°C
+[CMM] seoul (2026-03-18): forecast 8.1°C
+[CMM] shanghai (2026-03-18): forecast 12.6°C
+[CMM] munich (2026-03-18): forecast 10.5°C
+[CMM] warsaw (2026-03-19): forecast 10.7°C
+[CMM] madrid (2026-03-19): forecast 17.7°C
+[CMM] lucknow (2026-03-18): forecast 34.2°C
+[CMM] sao-paulo (2026-03-18): forecast 31.4°C
+[CMM] 4 tradeable markets selected
+  shanghai 11°C: fair=0.151 vol=$14682
+  shanghai 12°C: fair=0.242 vol=$8964
+  shanghai 10°C: fair=0.061 vol=$8103
+  seoul 7°C: fair=0.202 vol=$7437
+[CMM] Order fail (BUY 33sh @ 0.12): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 9sh @ 0.21): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] 13:17:41 | cycle 1 | $43.55 | 2 orders | 0 positions | +2 new | ~0 adjusted
+[CMM] 13:22:48 | cycle 6 | $43.55 | 2 orders | 0 positions | +0 new | ~0 adjusted
+[CMM] 13:27:52 | cycle 11 | $43.55 | 2 orders | 0 positions | +0 new | ~0 adjusted
+[CMM] 13:32:55 | cycle 16 | $43.55 | 2 orders | 0 positions | +0 new | ~0 adjusted
+[CMM] 13:38:01 | cycle 21 | $43.55 | 2 orders | 0 positions | +0 new | ~0 adjusted
+[CMM] 13:43:05 | cycle 26 | $37.02 | 2 orders | 0 positions | +0 new | ~0 adjusted
+[CMM] FILL VERIFIED: shanghai 12°C BUY_NO 5sh @ 0.73 (on-chain: 5.00sh)
+[CMM] Re-discovering markets...
+[CMM] Discovered 90 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.8°C
+[CMM] london (2026-03-18): forecast 17.1°C
+[CMM] singapore (2026-03-18): forecast 31.3°C
+[CMM] tokyo (2026-03-18): forecast 14.4°C
+[CMM] seoul (2026-03-18): forecast 8.1°C
+[CMM] shanghai (2026-03-18): forecast 12.6°C
+[CMM] munich (2026-03-18): forecast 10.1°C
+[CMM] warsaw (2026-03-19): forecast 10.7°C
+[CMM] madrid (2026-03-19): forecast 17.7°C
+[CMM] lucknow (2026-03-18): forecast 34.2°C
+[CMM] sao-paulo (2026-03-18): forecast 31.4°C
+[CMM] 4 tradeable markets selected
+  shanghai 11°C: fair=0.151 vol=$15704
+  shanghai 10°C: fair=0.061 vol=$10353
+  shanghai 12°C: fair=0.242 vol=$9203
+  seoul 7°C: fair=0.202 vol=$7600
+[CMM] 13:49:55 | cycle 31 | $33.37 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 13:55:02 | cycle 36 | $33.37 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 14:00:06 | cycle 41 | $33.37 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 14:05:10 | cycle 46 | $33.37 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 14:10:14 | cycle 51 | $33.37 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 14:15:19 | cycle 56 | $33.37 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 89 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.8°C
+[CMM] london (2026-03-18): forecast 17.6°C
+[CMM] singapore (2026-03-18): forecast 31.3°C
+[CMM] tokyo (2026-03-18): forecast 14.4°C
+[CMM] seoul (2026-03-18): forecast 8.1°C
+[CMM] shanghai (2026-03-18): forecast 12.6°C
+[CMM] munich (2026-03-18): forecast 10.1°C
+[CMM] warsaw (2026-03-19): forecast 10.7°C
+[CMM] madrid (2026-03-19): forecast 17.7°C
+[CMM] lucknow (2026-03-18): forecast 34.2°C
+[CMM] sao-paulo (2026-03-18): forecast 31.4°C
+[CMM] 4 tradeable markets selected
+  shanghai 11°C: fair=0.151 vol=$16703
+  shanghai 10°C: fair=0.061 vol=$10954
+  shanghai 12°C: fair=0.242 vol=$10069
+  seoul 7°C: fair=0.202 vol=$7643
+[CMM] 14:21:25 | cycle 61 | $33.37 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 14:26:29 | cycle 66 | $33.37 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 14:31:34 | cycle 71 | $33.37 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 14:36:38 | cycle 76 | $33.37 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 14:41:42 | cycle 81 | $33.37 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 14:46:46 | cycle 86 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 89 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.8°C
+[CMM] london (2026-03-18): forecast 17.6°C
+[CMM] singapore (2026-03-18): forecast 31.3°C
+[CMM] tokyo (2026-03-18): forecast 14.4°C
+[CMM] seoul (2026-03-18): forecast 8.1°C
+[CMM] shanghai (2026-03-18): forecast 12.6°C
+[CMM] munich (2026-03-18): forecast 10.1°C
+[CMM] warsaw (2026-03-19): forecast 10.7°C
+[CMM] madrid (2026-03-19): forecast 17.7°C
+[CMM] lucknow (2026-03-18): forecast 34.2°C
+[CMM] sao-paulo (2026-03-18): forecast 31.4°C
+[CMM] 4 tradeable markets selected
+  shanghai 11°C: fair=0.151 vol=$17860
+  shanghai 12°C: fair=0.242 vol=$12081
+  shanghai 10°C: fair=0.061 vol=$11098
+  shanghai 13°C: fair=0.252 vol=$8265
+[CMM] 14:52:53 | cycle 91 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 14:57:59 | cycle 96 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 15:03:06 | cycle 101 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 15:08:13 | cycle 106 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 15:13:16 | cycle 111 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 15:18:19 | cycle 116 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 89 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.8°C
+[CMM] london (2026-03-18): forecast 17.6°C
+[CMM] singapore (2026-03-18): forecast 31.3°C
+[CMM] tokyo (2026-03-18): forecast 14.4°C
+[CMM] seoul (2026-03-18): forecast 8.1°C
+[CMM] shanghai (2026-03-18): forecast 12.6°C
+[CMM] munich (2026-03-18): forecast 10.1°C
+[CMM] warsaw (2026-03-19): forecast 10.6°C
+[CMM] madrid (2026-03-19): forecast 17.7°C
+[CMM] lucknow (2026-03-18): forecast 34.2°C
+[CMM] sao-paulo (2026-03-18): forecast 31.4°C
+[CMM] 4 tradeable markets selected
+  shanghai 11°C: fair=0.151 vol=$19058
+  shanghai 12°C: fair=0.242 vol=$16726
+  shanghai 10°C: fair=0.061 vol=$11908
+  shanghai 13°C: fair=0.252 vol=$8963
+[CMM] 15:24:32 | cycle 121 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 15:29:36 | cycle 126 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 15:34:40 | cycle 131 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 15:39:45 | cycle 136 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 15:44:49 | cycle 141 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 15:49:54 | cycle 146 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 89 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.8°C
+[CMM] london (2026-03-18): forecast 17.6°C
+[CMM] singapore (2026-03-18): forecast 30.9°C
+[CMM] tokyo (2026-03-18): forecast 14.4°C
+[CMM] seoul (2026-03-18): forecast 8.1°C
+[CMM] shanghai (2026-03-18): forecast 12.3°C
+[CMM] munich (2026-03-18): forecast 10.1°C
+[CMM] warsaw (2026-03-19): forecast 10.6°C
+[CMM] madrid (2026-03-19): forecast 17.9°C
+[CMM] lucknow (2026-03-18): forecast 34.6°C
+[CMM] sao-paulo (2026-03-18): forecast 31.5°C
+[CMM] 4 tradeable markets selected
+  shanghai 11°C: fair=0.182 vol=$19994
+  shanghai 12°C: fair=0.256 vol=$17215
+  shanghai 10°C: fair=0.084 vol=$12394
+  shanghai 13°C: fair=0.235 vol=$9408
+[CMM] Adjusted: shanghai 11°C 0.82 -> 0.79
+[CMM] 15:56:12 | cycle 151 | $28.36 | 1 orders | 1 positions | +0 new | ~1 adjusted
+[BALANCE] Error: PolyApiException[status_code=None, error_message=Request exception!]
+[CMM] get_orders error: PolyApiException[status_code=None, error_message=Request exception!]
+[CMM] 16:02:06 | cycle 156 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 16:07:11 | cycle 161 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[BALANCE] Error: PolyApiException[status_code=None, error_message=Request exception!]
+[CMM] 16:12:15 | cycle 166 | $0.00 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 16:17:43 | cycle 171 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 16:22:52 | cycle 176 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 89 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.8°C
+[CMM] london (2026-03-18): forecast 17.6°C
+[CMM] singapore (2026-03-18): forecast 30.9°C
+[CMM] tokyo (2026-03-18): forecast 14.4°C
+[CMM] seoul (2026-03-18): forecast 8.1°C
+[CMM] shanghai (2026-03-18): forecast 12.3°C
+[CMM] munich (2026-03-18): forecast 10.3°C
+[CMM] warsaw (2026-03-19): forecast 10.6°C
+[CMM] madrid (2026-03-19): forecast 17.9°C
+[CMM] lucknow (2026-03-18): forecast 34.6°C
+[CMM] sao-paulo (2026-03-18): forecast 31.5°C
+[CMM] 4 tradeable markets selected
+  shanghai 11°C: fair=0.182 vol=$29262
+  shanghai 12°C: fair=0.256 vol=$18607
+  shanghai 10°C: fair=0.084 vol=$12800
+  seoul 7°C: fair=0.202 vol=$9937
+[CMM] 16:29:05 | cycle 181 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 16:34:09 | cycle 186 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 16:39:13 | cycle 191 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 16:44:17 | cycle 196 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 16:49:21 | cycle 201 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 16:54:24 | cycle 206 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 88 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.8°C
+[CMM] london (2026-03-18): forecast 17.6°C
+[CMM] singapore (2026-03-18): forecast 30.9°C
+[CMM] tokyo (2026-03-18): forecast 14.4°C
+[CMM] seoul (2026-03-18): forecast 8.1°C
+[CMM] shanghai (2026-03-18): forecast 12.3°C
+[CMM] munich (2026-03-18): forecast 10.3°C
+[CMM] warsaw (2026-03-19): forecast 10.6°C
+[CMM] madrid (2026-03-19): forecast 17.9°C
+[CMM] lucknow (2026-03-18): forecast 34.6°C
+[CMM] sao-paulo (2026-03-18): forecast 31.5°C
+[CMM] 4 tradeable markets selected
+  shanghai 11°C: fair=0.182 vol=$50372
+  shanghai 12°C: fair=0.256 vol=$19476
+  shanghai 10°C: fair=0.084 vol=$12850
+  seoul 7°C: fair=0.202 vol=$10492
+[CMM] 17:00:47 | cycle 211 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 17:05:51 | cycle 216 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 17:10:55 | cycle 221 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 17:15:59 | cycle 226 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 17:21:04 | cycle 231 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 17:26:07 | cycle 236 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 88 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.8°C
+[CMM] london (2026-03-18): forecast 17.6°C
+[CMM] singapore (2026-03-18): forecast 30.9°C
+[CMM] tokyo (2026-03-18): forecast 13.7°C
+[CMM] seoul (2026-03-18): forecast 7.7°C
+[CMM] shanghai (2026-03-18): forecast 12.3°C
+[CMM] munich (2026-03-18): forecast 10.3°C
+[CMM] warsaw (2026-03-19): forecast 10.6°C
+[CMM] madrid (2026-03-19): forecast 17.9°C
+[CMM] lucknow (2026-03-18): forecast 34.6°C
+[CMM] sao-paulo (2026-03-18): forecast 31.5°C
+[CMM] 4 tradeable markets selected
+  shanghai 11°C: fair=0.182 vol=$50631
+  shanghai 12°C: fair=0.256 vol=$20082
+  shanghai 10°C: fair=0.084 vol=$13733
+  shanghai 14°C: fair=0.141 vol=$10757
+[CMM] 17:32:15 | cycle 241 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 17:37:18 | cycle 246 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 17:42:24 | cycle 251 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 17:47:29 | cycle 256 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 17:52:37 | cycle 261 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 17:57:41 | cycle 266 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 88 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.8°C
+[CMM] london (2026-03-18): forecast 17.6°C
+[CMM] singapore (2026-03-18): forecast 30.9°C
+[CMM] tokyo (2026-03-18): forecast 13.7°C
+[CMM] seoul (2026-03-18): forecast 7.7°C
+[CMM] shanghai (2026-03-18): forecast 12.3°C
+[CMM] munich (2026-03-18): forecast 10.3°C
+[CMM] warsaw (2026-03-19): forecast 10.6°C
+[CMM] madrid (2026-03-19): forecast 17.9°C
+[CMM] lucknow (2026-03-18): forecast 34.6°C
+[CMM] sao-paulo (2026-03-18): forecast 31.5°C
+[CMM] 4 tradeable markets selected
+  shanghai 11°C: fair=0.182 vol=$50782
+  shanghai 12°C: fair=0.256 vol=$20831
+  shanghai 10°C: fair=0.084 vol=$13732
+  shanghai 14°C: fair=0.141 vol=$11171
+[CMM] 18:04:39 | cycle 271 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] 18:09:43 | cycle 276 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] Order gone but 0 shares on-chain: shanghai 11°C (cancelled, not filled)
+[CMM] Order fail (BUY 14sh @ 0.15): PolyApiException[status_code=400, error_message={'error': 'the orderbook 106503707773082395273664903133352113982346534228933917972700423587805128916617 does not exist'}]
+[CMM] Order fail (BUY 5sh @ 0.79): PolyApiException[status_code=400, error_message={'error': 'the orderbook 72349180786425341460660364874843202775662990212535350194503923040975479194031 does not exist'}]
+[CMM] Order fail (BUY 22sh @ 0.05): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 10sh @ 0.11): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] 18:14:48 | cycle 281 | $28.36 | 1 orders | 1 positions | +1 new | ~0 adjusted
+[CMM] Order fail (BUY 7sh @ 0.15): PolyApiException[status_code=400, error_message={'error': 'the orderbook 106503707773082395273664903133352113982346534228933917972700423587805128916617 does not exist'}]
+[CMM] Order fail (BUY 22sh @ 0.05): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 10sh @ 0.11): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 7sh @ 0.15): PolyApiException[status_code=400, error_message={'error': 'the orderbook 106503707773082395273664903133352113982346534228933917972700423587805128916617 does not exist'}]
+[CMM] Order fail (BUY 22sh @ 0.05): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 10sh @ 0.11): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 7sh @ 0.15): PolyApiException[status_code=400, error_message={'error': 'the orderbook 106503707773082395273664903133352113982346534228933917972700423587805128916617 does not exist'}]
+[CMM] Order fail (BUY 22sh @ 0.05): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 10sh @ 0.11): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 7sh @ 0.15): PolyApiException[status_code=400, error_message={'error': 'the orderbook 106503707773082395273664903133352113982346534228933917972700423587805128916617 does not exist'}]
+[CMM] Order fail (BUY 22sh @ 0.05): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 10sh @ 0.11): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 7sh @ 0.15): PolyApiException[status_code=400, error_message={'error': 'the orderbook 106503707773082395273664903133352113982346534228933917972700423587805128916617 does not exist'}]
+[CMM] Order fail (BUY 22sh @ 0.05): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 10sh @ 0.11): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] 18:20:04 | cycle 286 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] Order fail (BUY 7sh @ 0.15): PolyApiException[status_code=400, error_message={'error': 'the orderbook 106503707773082395273664903133352113982346534228933917972700423587805128916617 does not exist'}]
+[CMM] Order fail (BUY 22sh @ 0.05): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 10sh @ 0.11): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 7sh @ 0.15): PolyApiException[status_code=400, error_message={'error': 'the orderbook 106503707773082395273664903133352113982346534228933917972700423587805128916617 does not exist'}]
+[CMM] Order fail (BUY 22sh @ 0.05): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 10sh @ 0.11): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 7sh @ 0.15): PolyApiException[status_code=400, error_message={'error': 'the orderbook 106503707773082395273664903133352113982346534228933917972700423587805128916617 does not exist'}]
+[CMM] Order fail (BUY 22sh @ 0.05): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 10sh @ 0.11): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 7sh @ 0.15): PolyApiException[status_code=400, error_message={'error': 'the orderbook 106503707773082395273664903133352113982346534228933917972700423587805128916617 does not exist'}]
+[CMM] Order fail (BUY 22sh @ 0.05): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 10sh @ 0.11): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 7sh @ 0.15): PolyApiException[status_code=400, error_message={'error': 'the orderbook 106503707773082395273664903133352113982346534228933917972700423587805128916617 does not exist'}]
+[CMM] Order fail (BUY 22sh @ 0.05): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 10sh @ 0.11): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] 18:25:19 | cycle 291 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] Order fail (BUY 7sh @ 0.15): PolyApiException[status_code=400, error_message={'error': 'the orderbook 106503707773082395273664903133352113982346534228933917972700423587805128916617 does not exist'}]
+[CMM] Order fail (BUY 22sh @ 0.05): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 10sh @ 0.11): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 7sh @ 0.15): PolyApiException[status_code=400, error_message={'error': 'the orderbook 106503707773082395273664903133352113982346534228933917972700423587805128916617 does not exist'}]
+[CMM] Order fail (BUY 22sh @ 0.05): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 10sh @ 0.11): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 7sh @ 0.15): PolyApiException[status_code=400, error_message={'error': 'the orderbook 106503707773082395273664903133352113982346534228933917972700423587805128916617 does not exist'}]
+[CMM] Order fail (BUY 22sh @ 0.05): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 10sh @ 0.11): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 7sh @ 0.15): PolyApiException[status_code=400, error_message={'error': 'the orderbook 106503707773082395273664903133352113982346534228933917972700423587805128916617 does not exist'}]
+[CMM] Order fail (BUY 22sh @ 0.05): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 10sh @ 0.11): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 7sh @ 0.15): PolyApiException[status_code=400, error_message={'error': 'the orderbook 106503707773082395273664903133352113982346534228933917972700423587805128916617 does not exist'}]
+[CMM] Order fail (BUY 22sh @ 0.05): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 10sh @ 0.11): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] 18:30:35 | cycle 296 | $28.36 | 1 orders | 1 positions | +0 new | ~0 adjusted
+[CMM] Order fail (BUY 7sh @ 0.15): PolyApiException[status_code=400, error_message={'error': 'the orderbook 106503707773082395273664903133352113982346534228933917972700423587805128916617 does not exist'}]
+[CMM] Order fail (BUY 22sh @ 0.05): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 10sh @ 0.11): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 7sh @ 0.15): PolyApiException[status_code=400, error_message={'error': 'the orderbook 106503707773082395273664903133352113982346534228933917972700423587805128916617 does not exist'}]
+[CMM] Order fail (BUY 22sh @ 0.05): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 10sh @ 0.11): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 7sh @ 0.15): PolyApiException[status_code=400, error_message={'error': 'the orderbook 106503707773082395273664903133352113982346534228933917972700423587805128916617 does not exist'}]
+[CMM] Order fail (BUY 22sh @ 0.05): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 10sh @ 0.11): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] FILL VERIFIED: shanghai 12°C BUY_YES 9sh @ 0.23 (on-chain: 9.44sh)
+[CMM] Order fail (BUY 7sh @ 0.15): PolyApiException[status_code=400, error_message={'error': 'the orderbook 106503707773082395273664903133352113982346534228933917972700423587805128916617 does not exist'}]
+[CMM] Order fail (BUY 5sh @ 0.23): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Order fail (BUY 22sh @ 0.05): PolyApiException[status_code=400, error_message={'error': 'invalid post-only order: order crosses book'}]
+[CMM] Re-discovering markets...
+[CMM] Discovered 86 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.8°C
+[CMM] london (2026-03-18): forecast 17.6°C
+[CMM] singapore (2026-03-18): forecast 30.9°C
+[CMM] tokyo (2026-03-18): forecast 13.7°C
+[CMM] seoul (2026-03-18): forecast 7.7°C
+[CMM] shanghai (2026-03-18): forecast 12.3°C
+[CMM] munich (2026-03-18): forecast 10.3°C
+[CMM] warsaw (2026-03-19): forecast 11.0°C
+[CMM] madrid (2026-03-19): forecast 17.9°C
+[CMM] lucknow (2026-03-18): forecast 34.6°C
+[CMM] sao-paulo (2026-03-18): forecast 31.5°C
+[CMM] 4 tradeable markets selected
+  shanghai 12°C: fair=0.256 vol=$22665
+  shanghai 10°C: fair=0.084 vol=$13761
+  shanghai 14°C: fair=0.141 vol=$13427
+  shanghai 13°C: fair=0.235 vol=$11605
+[CMM] Order fail (BUY 11sh @ 0.05): PolyApiException[status_code=400, error_message={'error': 'invalid amount for a marketable BUY order ($0.5445), min size: $1'}]
+[CMM] 18:37:08 | cycle 301 | $26.19 | 2 orders | 2 positions | +1 new | ~0 adjusted
+[CMM] 18:42:15 | cycle 306 | $26.19 | 2 orders | 2 positions | +0 new | ~0 adjusted
+[BALANCE] Error: PolyApiException[status_code=None, error_message=Request exception!]
+[CMM] 18:47:20 | cycle 311 | $26.19 | 2 orders | 2 positions | +0 new | ~0 adjusted
+[CMM] 18:52:25 | cycle 316 | $26.19 | 2 orders | 2 positions | +0 new | ~0 adjusted
+[CMM] 18:57:31 | cycle 321 | $26.19 | 2 orders | 2 positions | +0 new | ~0 adjusted
+[CMM] 19:02:36 | cycle 326 | $26.19 | 2 orders | 2 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 83 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.8°C
+[CMM] london (2026-03-18): forecast 17.6°C
+[CMM] singapore (2026-03-18): forecast 30.9°C
+[CMM] tokyo (2026-03-18): forecast 13.7°C
+[CMM] seoul (2026-03-18): forecast 7.2°C
+[CMM] shanghai (2026-03-18): forecast 12.3°C
+[CMM] munich (2026-03-18): forecast 10.3°C
+[CMM] warsaw (2026-03-19): forecast 11.0°C
+[CMM] madrid (2026-03-19): forecast 17.9°C
+[CMM] lucknow (2026-03-18): forecast 34.6°C
+[CMM] sao-paulo (2026-03-18): forecast 31.5°C
+[CMM] 4 tradeable markets selected
+  shanghai 12°C: fair=0.256 vol=$34945
+  shanghai 14°C: fair=0.141 vol=$14264
+  shanghai 13°C: fair=0.235 vol=$12231
+  seoul 7°C: fair=0.259 vol=$10871
+[CMM] 19:08:58 | cycle 331 | $26.19 | 2 orders | 2 positions | +0 new | ~0 adjusted
+[CMM] 19:14:02 | cycle 336 | $26.19 | 2 orders | 2 positions | +0 new | ~0 adjusted
+[CMM] 19:19:06 | cycle 341 | $26.19 | 2 orders | 2 positions | +0 new | ~0 adjusted
+[CMM] 19:24:11 | cycle 346 | $26.19 | 2 orders | 2 positions | +0 new | ~0 adjusted
+[CMM] 19:29:16 | cycle 351 | $34.15 | 2 orders | 2 positions | +0 new | ~0 adjusted
+[CMM] 19:34:21 | cycle 356 | $34.15 | 2 orders | 2 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 83 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.8°C
+[CMM] london (2026-03-18): forecast 17.6°C
+[CMM] singapore (2026-03-18): forecast 30.9°C
+[CMM] tokyo (2026-03-18): forecast 13.7°C
+[CMM] seoul (2026-03-18): forecast 7.2°C
+[CMM] shanghai (2026-03-18): forecast 12.3°C
+[CMM] munich (2026-03-18): forecast 10.0°C
+[CMM] warsaw (2026-03-19): forecast 11.0°C
+[CMM] madrid (2026-03-19): forecast 17.9°C
+[CMM] lucknow (2026-03-18): forecast 34.6°C
+[CMM] sao-paulo (2026-03-18): forecast 31.5°C
+[CMM] 4 tradeable markets selected
+  shanghai 12°C: fair=0.256 vol=$41184
+  shanghai 14°C: fair=0.141 vol=$15199
+  shanghai 13°C: fair=0.235 vol=$12976
+  seoul 7°C: fair=0.259 vol=$11128
+[CMM] 19:40:42 | cycle 361 | $33.88 | 2 orders | 2 positions | +0 new | ~0 adjusted
+[CMM] 19:45:46 | cycle 366 | $33.86 | 2 orders | 2 positions | +0 new | ~0 adjusted
+[CMM] 19:50:51 | cycle 371 | $33.86 | 2 orders | 2 positions | +0 new | ~0 adjusted
+[CMM] 19:55:55 | cycle 376 | $33.74 | 2 orders | 2 positions | +0 new | ~0 adjusted
+[CMM] 20:01:00 | cycle 381 | $33.74 | 2 orders | 2 positions | +0 new | ~0 adjusted
+[CMM] 20:06:04 | cycle 386 | $33.74 | 2 orders | 2 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 83 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.8°C
+[CMM] london (2026-03-18): forecast 17.6°C
+[CMM] singapore (2026-03-18): forecast 30.9°C
+[CMM] tokyo (2026-03-18): forecast 13.7°C
+[CMM] seoul (2026-03-18): forecast 7.2°C
+[CMM] shanghai (2026-03-18): forecast 12.3°C
+[CMM] munich (2026-03-18): forecast 10.0°C
+[CMM] warsaw (2026-03-19): forecast 11.0°C
+[CMM] madrid (2026-03-19): forecast 17.9°C
+[CMM] lucknow (2026-03-18): forecast 34.6°C
+[CMM] sao-paulo (2026-03-18): forecast 31.5°C
+[CMM] 4 tradeable markets selected
+  shanghai 12°C: fair=0.256 vol=$41724
+  shanghai 14°C: fair=0.141 vol=$15342
+  shanghai 13°C: fair=0.235 vol=$13143
+  london 15°C: fair=0.061 vol=$11182
+[CMM] 20:12:23 | cycle 391 | $33.16 | 2 orders | 2 positions | +0 new | ~0 adjusted
+[CMM] 20:17:28 | cycle 396 | $33.16 | 2 orders | 2 positions | +0 new | ~0 adjusted
+[CMM] FILL VERIFIED: shanghai 14°C BUY_YES 10sh @ 0.11 (on-chain: 8.99sh)
+[CMM] 20:22:33 | cycle 401 | $33.06 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 20:27:37 | cycle 406 | $33.06 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 20:32:41 | cycle 411 | $33.06 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 20:37:45 | cycle 416 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 83 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.8°C
+[CMM] london (2026-03-18): forecast 17.7°C
+[CMM] singapore (2026-03-18): forecast 30.9°C
+[CMM] tokyo (2026-03-18): forecast 13.7°C
+[CMM] seoul (2026-03-18): forecast 7.2°C
+[CMM] shanghai (2026-03-18): forecast 12.3°C
+[CMM] munich (2026-03-18): forecast 10.0°C
+[CMM] warsaw (2026-03-19): forecast 11.0°C
+[CMM] madrid (2026-03-19): forecast 17.9°C
+[CMM] lucknow (2026-03-18): forecast 34.6°C
+[CMM] sao-paulo (2026-03-18): forecast 31.5°C
+[CMM] 4 tradeable markets selected
+  shanghai 12°C: fair=0.256 vol=$41693
+  shanghai 14°C: fair=0.141 vol=$15456
+  shanghai 13°C: fair=0.235 vol=$13201
+  seoul 7°C: fair=0.259 vol=$11231
+[CMM] 20:44:01 | cycle 421 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 20:49:05 | cycle 426 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 20:54:10 | cycle 431 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 20:59:15 | cycle 436 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 21:04:20 | cycle 441 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 21:09:24 | cycle 446 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 81 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.8°C
+[CMM] london (2026-03-18): forecast 17.7°C
+[CMM] singapore (2026-03-18): forecast 30.9°C
+[CMM] tokyo (2026-03-18): forecast 13.7°C
+[CMM] seoul (2026-03-18): forecast 7.2°C
+[CMM] shanghai (2026-03-18): forecast 12.3°C
+[CMM] munich (2026-03-18): forecast 10.0°C
+[CMM] warsaw (2026-03-19): forecast 11.0°C
+[CMM] madrid (2026-03-19): forecast 17.9°C
+[CMM] lucknow (2026-03-18): forecast 34.6°C
+[CMM] sao-paulo (2026-03-18): forecast 31.5°C
+[CMM] 4 tradeable markets selected
+  shanghai 14°C: fair=0.141 vol=$15709
+  shanghai 13°C: fair=0.235 vol=$13782
+  seoul 7°C: fair=0.259 vol=$11191
+  seoul 6°C: fair=0.192 vol=$10566
+[CMM] 21:15:41 | cycle 451 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 21:20:46 | cycle 456 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 21:25:49 | cycle 461 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 21:30:53 | cycle 466 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 21:35:57 | cycle 471 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 21:41:01 | cycle 476 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 81 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.7°C
+[CMM] london (2026-03-18): forecast 17.7°C
+[CMM] singapore (2026-03-18): forecast 31.7°C
+[CMM] tokyo (2026-03-18): forecast 13.7°C
+[CMM] seoul (2026-03-18): forecast 7.2°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.0°C
+[CMM] warsaw (2026-03-19): forecast 10.9°C
+[CMM] madrid (2026-03-19): forecast 17.9°C
+[CMM] lucknow (2026-03-18): forecast 33.2°C
+[CMM] sao-paulo (2026-03-18): forecast 31.2°C
+[CMM] 4 tradeable markets selected
+  shanghai 14°C: fair=0.120 vol=$15840
+  shanghai 13°C: fair=0.220 vol=$14010
+  seoul 7°C: fair=0.259 vol=$11105
+  seoul 6°C: fair=0.192 vol=$11053
+[CMM] 21:47:07 | cycle 481 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 21:52:09 | cycle 486 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 21:57:13 | cycle 491 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 22:02:17 | cycle 496 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 22:07:21 | cycle 501 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 22:12:24 | cycle 506 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 81 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.7°C
+[CMM] london (2026-03-18): forecast 17.7°C
+[CMM] singapore (2026-03-18): forecast 31.7°C
+[CMM] tokyo (2026-03-18): forecast 13.7°C
+[CMM] seoul (2026-03-18): forecast 7.2°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.0°C
+[CMM] warsaw (2026-03-19): forecast 10.9°C
+[CMM] madrid (2026-03-19): forecast 18.4°C
+[CMM] lucknow (2026-03-18): forecast 33.2°C
+[CMM] sao-paulo (2026-03-18): forecast 31.2°C
+[CMM] 4 tradeable markets selected
+  shanghai 14°C: fair=0.120 vol=$20879
+  shanghai 13°C: fair=0.220 vol=$17374
+  seoul 6°C: fair=0.192 vol=$11251
+  seoul 7°C: fair=0.259 vol=$10709
+[CMM] 22:18:31 | cycle 511 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 22:23:34 | cycle 516 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 22:28:38 | cycle 521 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 22:33:42 | cycle 526 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 22:38:46 | cycle 531 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] 22:43:50 | cycle 536 | $26.45 | 1 orders | 3 positions | +0 new | ~0 adjusted
+[CMM] FILL VERIFIED: shanghai 13°C BUY_YES 5sh @ 0.21 (on-chain: 5.00sh)
+[CMM] Re-discovering markets...
+[CMM] Discovered 81 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.7°C
+[CMM] london (2026-03-18): forecast 17.9°C
+[CMM] singapore (2026-03-18): forecast 31.7°C
+[CMM] tokyo (2026-03-18): forecast 13.7°C
+[CMM] seoul (2026-03-18): forecast 7.2°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.5°C
+[CMM] warsaw (2026-03-19): forecast 10.9°C
+[CMM] madrid (2026-03-19): forecast 18.4°C
+[CMM] lucknow (2026-03-18): forecast 33.2°C
+[CMM] sao-paulo (2026-03-18): forecast 31.2°C
+[CMM] 4 tradeable markets selected
+  shanghai 14°C: fair=0.120 vol=$21511
+  shanghai 13°C: fair=0.220 vol=$17996
+  seoul 6°C: fair=0.192 vol=$11347
+  seoul 7°C: fair=0.259 vol=$10866
+[CMM] 22:49:56 | cycle 541 | $25.40 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 22:54:59 | cycle 546 | $25.40 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 23:00:03 | cycle 551 | $25.40 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 23:05:06 | cycle 556 | $25.40 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 23:10:10 | cycle 561 | $25.40 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 23:15:14 | cycle 566 | $26.79 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 80 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.7°C
+[CMM] london (2026-03-18): forecast 17.9°C
+[CMM] singapore (2026-03-18): forecast 31.7°C
+[CMM] tokyo (2026-03-18): forecast 13.7°C
+[CMM] seoul (2026-03-18): forecast 7.2°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.5°C
+[CMM] warsaw (2026-03-19): forecast 10.9°C
+[CMM] madrid (2026-03-19): forecast 18.4°C
+[CMM] lucknow (2026-03-18): forecast 33.2°C
+[CMM] sao-paulo (2026-03-18): forecast 31.2°C
+[CMM] 4 tradeable markets selected
+  shanghai 14°C: fair=0.120 vol=$21946
+  shanghai 13°C: fair=0.220 vol=$18222
+  seoul 6°C: fair=0.192 vol=$11625
+  seoul 7°C: fair=0.259 vol=$10987
+[CMM] 23:21:18 | cycle 571 | $26.79 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 23:26:21 | cycle 576 | $26.79 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 23:31:25 | cycle 581 | $26.79 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 23:36:29 | cycle 586 | $26.79 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 23:41:33 | cycle 591 | $26.79 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 23:46:37 | cycle 596 | $26.79 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 80 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.7°C
+[CMM] london (2026-03-18): forecast 17.9°C
+[CMM] singapore (2026-03-18): forecast 31.7°C
+[CMM] tokyo (2026-03-18): forecast 14.6°C
+[CMM] seoul (2026-03-18): forecast 7.5°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.5°C
+[CMM] warsaw (2026-03-19): forecast 10.9°C
+[CMM] madrid (2026-03-19): forecast 18.4°C
+[CMM] lucknow (2026-03-18): forecast 33.2°C
+[CMM] sao-paulo (2026-03-18): forecast 31.2°C
+[CMM] 4 tradeable markets selected
+  shanghai 14°C: fair=0.120 vol=$22689
+  shanghai 13°C: fair=0.220 vol=$19891
+  seoul 6°C: fair=0.161 vol=$12375
+  seoul 7°C: fair=0.247 vol=$11012
+[CMM] 23:52:44 | cycle 601 | $26.79 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 23:57:48 | cycle 606 | $26.79 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 00:02:52 | cycle 611 | $26.79 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 00:07:55 | cycle 616 | $26.79 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 00:12:59 | cycle 621 | $26.79 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 00:18:03 | cycle 626 | $26.79 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 79 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.7°C
+[CMM] london (2026-03-18): forecast 17.9°C
+[CMM] singapore (2026-03-18): forecast 31.7°C
+[CMM] tokyo (2026-03-18): forecast 14.6°C
+[CMM] seoul (2026-03-18): forecast 7.5°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.5°C
+[CMM] warsaw (2026-03-19): forecast 11.0°C
+[CMM] madrid (2026-03-19): forecast 18.4°C
+[CMM] lucknow (2026-03-18): forecast 33.2°C
+[CMM] sao-paulo (2026-03-18): forecast 31.2°C
+[CMM] 4 tradeable markets selected
+  wellington 20°C: fair=0.182 vol=$24869
+  shanghai 14°C: fair=0.120 vol=$23287
+  shanghai 13°C: fair=0.220 vol=$20304
+  seoul 6°C: fair=0.161 vol=$13213
+[CMM] 00:24:06 | cycle 631 | $26.79 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 00:29:10 | cycle 636 | $26.79 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 00:34:14 | cycle 641 | $26.79 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 00:39:18 | cycle 646 | $26.79 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 00:44:22 | cycle 651 | $26.79 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 00:49:25 | cycle 656 | $20.10 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 79 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.7°C
+[CMM] london (2026-03-18): forecast 17.9°C
+[CMM] singapore (2026-03-18): forecast 31.7°C
+[CMM] tokyo (2026-03-18): forecast 14.5°C
+[CMM] seoul (2026-03-18): forecast 7.4°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.5°C
+[CMM] warsaw (2026-03-19): forecast 11.0°C
+[CMM] madrid (2026-03-19): forecast 18.4°C
+[CMM] lucknow (2026-03-18): forecast 33.2°C
+[CMM] sao-paulo (2026-03-18): forecast 31.2°C
+[CMM] 4 tradeable markets selected
+  wellington 20°C: fair=0.182 vol=$29834
+  shanghai 14°C: fair=0.120 vol=$23347
+  shanghai 13°C: fair=0.220 vol=$21077
+  seoul 6°C: fair=0.172 vol=$13620
+[CMM] 00:55:30 | cycle 661 | $20.10 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 01:00:34 | cycle 666 | $20.10 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 01:05:38 | cycle 671 | $15.32 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 01:10:41 | cycle 676 | $15.32 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 01:15:44 | cycle 681 | $15.32 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 01:20:48 | cycle 686 | $15.32 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 79 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.7°C
+[CMM] london (2026-03-18): forecast 17.9°C
+[CMM] singapore (2026-03-18): forecast 31.7°C
+[CMM] tokyo (2026-03-18): forecast 14.5°C
+[CMM] seoul (2026-03-18): forecast 7.4°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.5°C
+[CMM] warsaw (2026-03-19): forecast 11.0°C
+[CMM] madrid (2026-03-19): forecast 18.4°C
+[CMM] lucknow (2026-03-18): forecast 33.2°C
+[CMM] sao-paulo (2026-03-18): forecast 31.2°C
+[CMM] 4 tradeable markets selected
+  wellington 19°C: fair=0.256 vol=$43220
+  wellington 20°C: fair=0.182 vol=$33881
+  shanghai 14°C: fair=0.120 vol=$22637
+  shanghai 13°C: fair=0.220 vol=$20991
+[CMM] 01:26:56 | cycle 691 | $15.32 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 01:32:00 | cycle 696 | $15.32 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 01:37:03 | cycle 701 | $15.32 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 01:42:07 | cycle 706 | $15.32 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 01:47:11 | cycle 711 | $15.32 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 01:52:15 | cycle 716 | $20.32 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 79 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.7°C
+[CMM] london (2026-03-18): forecast 17.9°C
+[CMM] singapore (2026-03-18): forecast 31.7°C
+[CMM] tokyo (2026-03-18): forecast 14.5°C
+[CMM] seoul (2026-03-18): forecast 7.4°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.5°C
+[CMM] warsaw (2026-03-19): forecast 11.0°C
+[CMM] madrid (2026-03-19): forecast 18.4°C
+[CMM] lucknow (2026-03-18): forecast 33.2°C
+[CMM] sao-paulo (2026-03-18): forecast 31.2°C
+[CMM] 4 tradeable markets selected
+  wellington 19°C: fair=0.256 vol=$43215
+  wellington 20°C: fair=0.182 vol=$33901
+  shanghai 14°C: fair=0.120 vol=$23396
+  shanghai 13°C: fair=0.220 vol=$21134
+[CMM] 01:58:22 | cycle 721 | $20.32 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 02:03:26 | cycle 726 | $15.24 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 02:08:30 | cycle 731 | $15.24 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 02:13:34 | cycle 736 | $15.24 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 02:18:37 | cycle 741 | $15.24 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 02:23:41 | cycle 746 | $15.24 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 78 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.7°C
+[CMM] london (2026-03-18): forecast 17.8°C
+[CMM] singapore (2026-03-18): forecast 31.7°C
+[CMM] tokyo (2026-03-18): forecast 14.5°C
+[CMM] seoul (2026-03-18): forecast 7.4°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.5°C
+[CMM] warsaw (2026-03-19): forecast 11.0°C
+[CMM] madrid (2026-03-19): forecast 18.4°C
+[CMM] lucknow (2026-03-18): forecast 33.2°C
+[CMM] sao-paulo (2026-03-18): forecast 31.2°C
+[CMM] 4 tradeable markets selected
+  wellington 20°C: fair=0.182 vol=$33893
+  shanghai 13°C: fair=0.220 vol=$24949
+  shanghai 14°C: fair=0.120 vol=$23516
+  seoul 6°C: fair=0.172 vol=$17103
+[CMM] 02:29:44 | cycle 751 | $15.24 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 02:34:48 | cycle 756 | $15.24 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 02:39:52 | cycle 761 | $15.24 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 02:44:55 | cycle 766 | $15.24 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 02:49:59 | cycle 771 | $15.24 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 02:55:03 | cycle 776 | $15.24 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 78 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.7°C
+[CMM] london (2026-03-18): forecast 17.8°C
+[CMM] singapore (2026-03-18): forecast 31.7°C
+[CMM] tokyo (2026-03-18): forecast 14.5°C
+[CMM] seoul (2026-03-18): forecast 7.4°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.5°C
+[CMM] warsaw (2026-03-19): forecast 11.0°C
+[CMM] madrid (2026-03-19): forecast 18.4°C
+[CMM] lucknow (2026-03-18): forecast 33.2°C
+[CMM] sao-paulo (2026-03-18): forecast 31.2°C
+[CMM] 4 tradeable markets selected
+  wellington 20°C: fair=0.182 vol=$33888
+  shanghai 13°C: fair=0.220 vol=$28613
+  shanghai 14°C: fair=0.120 vol=$24947
+  london 18°C: fair=0.259 vol=$18358
+[CMM] 03:01:16 | cycle 781 | $15.24 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 03:06:19 | cycle 786 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 03:11:22 | cycle 791 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 03:16:26 | cycle 796 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 03:21:30 | cycle 801 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 03:26:33 | cycle 806 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 75 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 18.7°C
+[CMM] london (2026-03-18): forecast 17.8°C
+[CMM] singapore (2026-03-18): forecast 31.7°C
+[CMM] tokyo (2026-03-18): forecast 14.5°C
+[CMM] seoul (2026-03-18): forecast 7.4°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.5°C
+[CMM] warsaw (2026-03-19): forecast 10.9°C
+[CMM] madrid (2026-03-19): forecast 18.4°C
+[CMM] lucknow (2026-03-18): forecast 33.2°C
+[CMM] sao-paulo (2026-03-18): forecast 31.2°C
+[CMM] 4 tradeable markets selected
+  shanghai 14°C: fair=0.120 vol=$37716
+  shanghai 13°C: fair=0.220 vol=$33107
+  seoul 6°C: fair=0.172 vol=$20105
+  london 18°C: fair=0.259 vol=$18265
+[CMM] 03:32:45 | cycle 811 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 03:37:49 | cycle 816 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 03:42:53 | cycle 821 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 03:47:57 | cycle 826 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 03:53:01 | cycle 831 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 03:58:06 | cycle 836 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 75 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 19.0°C
+[CMM] london (2026-03-18): forecast 17.8°C
+[CMM] singapore (2026-03-18): forecast 31.8°C
+[CMM] tokyo (2026-03-18): forecast 14.5°C
+[CMM] seoul (2026-03-18): forecast 7.4°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.5°C
+[CMM] warsaw (2026-03-19): forecast 10.9°C
+[CMM] madrid (2026-03-19): forecast 18.4°C
+[CMM] lucknow (2026-03-18): forecast 33.9°C
+[CMM] 4 tradeable markets selected
+  shanghai 14°C: fair=0.120 vol=$38272
+  shanghai 13°C: fair=0.220 vol=$34074
+  seoul 6°C: fair=0.172 vol=$21793
+  london 18°C: fair=0.259 vol=$18309
+[CMM] 04:04:27 | cycle 841 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 04:09:31 | cycle 846 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 04:14:35 | cycle 851 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 04:19:39 | cycle 856 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 04:24:43 | cycle 861 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 04:29:48 | cycle 866 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 75 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 19.0°C
+[CMM] london (2026-03-18): forecast 17.8°C
+[CMM] singapore (2026-03-18): forecast 31.8°C
+[CMM] tokyo (2026-03-18): forecast 14.5°C
+[CMM] seoul (2026-03-18): forecast 7.4°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.4°C
+[CMM] warsaw (2026-03-19): forecast 10.9°C
+[CMM] madrid (2026-03-19): forecast 18.4°C
+[CMM] lucknow (2026-03-18): forecast 33.9°C
+[CMM] sao-paulo (2026-03-18): forecast 30.1°C
+[CMM] 4 tradeable markets selected
+  shanghai 14°C: fair=0.120 vol=$39476
+  shanghai 13°C: fair=0.220 vol=$37335
+  seoul 6°C: fair=0.172 vol=$22162
+  london 18°C: fair=0.259 vol=$18636
+[CMM] 04:36:03 | cycle 871 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 04:41:07 | cycle 876 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 04:46:11 | cycle 881 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 04:51:16 | cycle 886 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 04:56:19 | cycle 891 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 05:01:24 | cycle 896 | $21.01 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 73 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 19.0°C
+[CMM] london (2026-03-18): forecast 17.8°C
+[CMM] singapore (2026-03-18): forecast 31.8°C
+[CMM] tokyo (2026-03-18): forecast 14.5°C
+[CMM] seoul (2026-03-18): forecast 7.4°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.4°C
+[CMM] warsaw (2026-03-19): forecast 10.9°C
+[CMM] madrid (2026-03-19): forecast 18.4°C
+[CMM] lucknow (2026-03-18): forecast 33.9°C
+[CMM] sao-paulo (2026-03-18): forecast 30.1°C
+[CMM] 4 tradeable markets selected
+  shanghai 14°C: fair=0.120 vol=$42087
+  shanghai 13°C: fair=0.220 vol=$40466
+  seoul 6°C: fair=0.172 vol=$26153
+  london 18°C: fair=0.259 vol=$18793
+[CMM] 05:07:32 | cycle 901 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 05:12:36 | cycle 906 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 05:17:40 | cycle 911 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 05:22:44 | cycle 916 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 05:27:49 | cycle 921 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 05:32:53 | cycle 926 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 73 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 19.0°C
+[CMM] london (2026-03-18): forecast 17.8°C
+[CMM] singapore (2026-03-18): forecast 31.8°C
+[CMM] tokyo (2026-03-18): forecast 14.8°C
+[CMM] seoul (2026-03-18): forecast 7.1°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.4°C
+[CMM] warsaw (2026-03-19): forecast 10.9°C
+[CMM] madrid (2026-03-19): forecast 18.4°C
+[CMM] lucknow (2026-03-18): forecast 33.9°C
+[CMM] sao-paulo (2026-03-18): forecast 30.1°C
+[CMM] 4 tradeable markets selected
+  shanghai 14°C: fair=0.120 vol=$42145
+  shanghai 13°C: fair=0.220 vol=$40888
+  seoul 6°C: fair=0.202 vol=$31783
+  seoul 9°C: fair=0.120 vol=$19642
+[CMM] 05:39:05 | cycle 931 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 05:44:09 | cycle 936 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 05:49:17 | cycle 941 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 05:54:22 | cycle 946 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 05:59:27 | cycle 951 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 06:04:31 | cycle 956 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 72 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 19.0°C
+[CMM] london (2026-03-18): forecast 17.8°C
+[CMM] singapore (2026-03-18): forecast 31.8°C
+[CMM] tokyo (2026-03-18): forecast 14.8°C
+[CMM] seoul (2026-03-18): forecast 7.1°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.4°C
+[CMM] warsaw (2026-03-19): forecast 10.9°C
+[CMM] madrid (2026-03-19): forecast 18.4°C
+[CMM] lucknow (2026-03-18): forecast 33.9°C
+[CMM] sao-paulo (2026-03-18): forecast 30.1°C
+[CMM] 4 tradeable markets selected
+  shanghai 13°C: fair=0.220 vol=$44414
+  shanghai 14°C: fair=0.120 vol=$43193
+  seoul 6°C: fair=0.202 vol=$35291
+  seoul 7°C: fair=0.261 vol=$22474
+[CMM] 06:10:43 | cycle 961 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 06:15:47 | cycle 966 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 06:20:52 | cycle 971 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 06:25:56 | cycle 976 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 06:31:03 | cycle 981 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 06:36:07 | cycle 986 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 70 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 19.0°C
+[CMM] london (2026-03-18): forecast 17.8°C
+[CMM] singapore (2026-03-18): forecast 31.8°C
+[CMM] tokyo (2026-03-18): forecast 14.8°C
+[CMM] seoul (2026-03-18): forecast 7.1°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.4°C
+[CMM] warsaw (2026-03-19): forecast 11.3°C
+[CMM] madrid (2026-03-19): forecast 18.4°C
+[CMM] lucknow (2026-03-18): forecast 33.9°C
+[CMM] sao-paulo (2026-03-18): forecast 30.1°C
+[CMM] 4 tradeable markets selected
+  shanghai 13°C: fair=0.220 vol=$45869
+  seoul 7°C: fair=0.261 vol=$45559
+  shanghai 14°C: fair=0.120 vol=$44082
+  seoul 6°C: fair=0.202 vol=$34897
+[CMM] 06:42:15 | cycle 991 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 06:47:19 | cycle 996 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 06:52:23 | cycle 1001 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 06:57:27 | cycle 1006 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 07:02:32 | cycle 1011 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 07:07:36 | cycle 1016 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 70 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 19.0°C
+[CMM] london (2026-03-18): forecast 17.8°C
+[CMM] singapore (2026-03-18): forecast 31.8°C
+[CMM] tokyo (2026-03-18): forecast 15.5°C
+[CMM] seoul (2026-03-18): forecast 7.9°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.4°C
+[CMM] warsaw (2026-03-19): forecast 11.3°C
+[CMM] madrid (2026-03-19): forecast 18.4°C
+[CMM] lucknow (2026-03-18): forecast 33.9°C
+[CMM] sao-paulo (2026-03-18): forecast 30.1°C
+[CMM] 4 tradeable markets selected
+  seoul 7°C: fair=0.220 vol=$47455
+  shanghai 13°C: fair=0.220 vol=$47065
+  shanghai 14°C: fair=0.120 vol=$44457
+  seoul 6°C: fair=0.120 vol=$34551
+[CMM] 07:13:51 | cycle 1021 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 07:18:55 | cycle 1026 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 07:24:00 | cycle 1031 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 07:29:04 | cycle 1036 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 07:34:09 | cycle 1041 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 07:39:13 | cycle 1046 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 68 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 19.0°C
+[CMM] london (2026-03-18): forecast 17.8°C
+[CMM] singapore (2026-03-18): forecast 31.8°C
+[CMM] tokyo (2026-03-18): forecast 15.5°C
+[CMM] seoul (2026-03-18): forecast 7.9°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.3°C
+[CMM] warsaw (2026-03-19): forecast 11.3°C
+[CMM] madrid (2026-03-19): forecast 18.4°C
+[CMM] lucknow (2026-03-18): forecast 33.9°C
+[CMM] sao-paulo (2026-03-18): forecast 30.1°C
+[CMM] 4 tradeable markets selected
+  seoul 7°C: fair=0.220 vol=$47386
+  shanghai 13°C: fair=0.220 vol=$46778
+  shanghai 14°C: fair=0.120 vol=$44451
+  seoul 9°C: fair=0.202 vol=$36649
+[CMM] 07:45:25 | cycle 1051 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 07:50:29 | cycle 1056 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 07:55:33 | cycle 1061 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 08:00:37 | cycle 1066 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 08:05:42 | cycle 1071 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 08:10:46 | cycle 1076 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 67 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 19.0°C
+[CMM] london (2026-03-18): forecast 17.7°C
+[CMM] singapore (2026-03-18): forecast 31.8°C
+[CMM] tokyo (2026-03-18): forecast 15.5°C
+[CMM] seoul (2026-03-18): forecast 7.9°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.3°C
+[CMM] warsaw (2026-03-19): forecast 11.3°C
+[CMM] madrid (2026-03-19): forecast 18.4°C
+[CMM] lucknow (2026-03-18): forecast 33.9°C
+[CMM] sao-paulo (2026-03-18): forecast 30.1°C
+[CMM] 4 tradeable markets selected
+  shanghai 13°C: fair=0.220 vol=$54664
+  shanghai 14°C: fair=0.120 vol=$51097
+  seoul 7°C: fair=0.220 vol=$47287
+  seoul 9°C: fair=0.202 vol=$40002
+[CMM] 08:16:58 | cycle 1081 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 08:22:02 | cycle 1086 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 08:27:06 | cycle 1091 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 08:32:10 | cycle 1096 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 08:37:14 | cycle 1101 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 08:42:19 | cycle 1106 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 66 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 19.0°C
+[CMM] london (2026-03-18): forecast 17.6°C
+[CMM] singapore (2026-03-18): forecast 31.8°C
+[CMM] tokyo (2026-03-18): forecast 15.5°C
+[CMM] seoul (2026-03-18): forecast 7.9°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.3°C
+[CMM] warsaw (2026-03-19): forecast 11.3°C
+[CMM] madrid (2026-03-19): forecast 18.4°C
+[CMM] lucknow (2026-03-18): forecast 33.9°C
+[CMM] sao-paulo (2026-03-18): forecast 30.1°C
+[CMM] 4 tradeable markets selected
+  shanghai 13°C: fair=0.220 vol=$55709
+  shanghai 14°C: fair=0.120 vol=$51301
+  seoul 9°C: fair=0.202 vol=$43859
+  seoul 8°C: fair=0.261 vol=$30045
+[CMM] 08:48:30 | cycle 1111 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 08:53:35 | cycle 1116 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 08:58:40 | cycle 1121 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 09:03:43 | cycle 1126 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 09:08:47 | cycle 1131 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 09:13:52 | cycle 1136 | $34.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 66 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 19.0°C
+[CMM] london (2026-03-18): forecast 17.6°C
+[CMM] singapore (2026-03-18): forecast 31.8°C
+[CMM] tokyo (2026-03-18): forecast 15.5°C
+[CMM] seoul (2026-03-18): forecast 7.9°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.3°C
+[CMM] warsaw (2026-03-19): forecast 11.0°C
+[CMM] madrid (2026-03-19): forecast 18.4°C
+[CMM] lucknow (2026-03-18): forecast 33.9°C
+[CMM] sao-paulo (2026-03-18): forecast 30.1°C
+[CMM] 4 tradeable markets selected
+  shanghai 13°C: fair=0.220 vol=$55588
+  shanghai 14°C: fair=0.120 vol=$51146
+  seoul 9°C: fair=0.202 vol=$45446
+  seoul 8°C: fair=0.261 vol=$31423
+[CMM] 09:20:43 | cycle 1141 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 09:25:48 | cycle 1146 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 09:30:55 | cycle 1151 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 09:36:00 | cycle 1156 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 09:41:06 | cycle 1161 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 09:46:14 | cycle 1166 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 65 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 19.0°C
+[CMM] london (2026-03-18): forecast 17.7°C
+[CMM] singapore (2026-03-18): forecast 32.1°C
+[CMM] tokyo (2026-03-18): forecast 15.5°C
+[CMM] seoul (2026-03-18): forecast 7.9°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.3°C
+[CMM] warsaw (2026-03-19): forecast 11.0°C
+[CMM] madrid (2026-03-19): forecast 18.3°C
+[CMM] lucknow (2026-03-18): forecast 33.6°C
+[CMM] sao-paulo (2026-03-18): forecast 29.7°C
+[CMM] 4 tradeable markets selected
+  shanghai 13°C: fair=0.220 vol=$60515
+  shanghai 14°C: fair=0.120 vol=$51017
+  seoul 9°C: fair=0.202 vol=$46118
+  seoul 8°C: fair=0.261 vol=$32539
+[CMM] 09:52:36 | cycle 1171 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 09:57:39 | cycle 1176 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 10:02:44 | cycle 1181 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 10:07:49 | cycle 1186 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 10:12:53 | cycle 1191 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 10:17:57 | cycle 1196 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 65 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 19.0°C
+[CMM] london (2026-03-18): forecast 17.7°C
+[CMM] singapore (2026-03-18): forecast 32.1°C
+[CMM] tokyo (2026-03-18): forecast 15.5°C
+[CMM] seoul (2026-03-18): forecast 7.9°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.3°C
+[CMM] warsaw (2026-03-19): forecast 11.0°C
+[CMM] madrid (2026-03-19): forecast 18.3°C
+[CMM] lucknow (2026-03-18): forecast 33.6°C
+[CMM] sao-paulo (2026-03-18): forecast 29.7°C
+[CMM] 4 tradeable markets selected
+  shanghai 13°C: fair=0.220 vol=$67189
+  shanghai 14°C: fair=0.120 vol=$50852
+  seoul 9°C: fair=0.202 vol=$46342
+  seoul 8°C: fair=0.261 vol=$32739
+[CMM] 10:24:25 | cycle 1201 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 10:29:28 | cycle 1206 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 10:34:33 | cycle 1211 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 10:39:37 | cycle 1216 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 10:44:42 | cycle 1221 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 10:49:46 | cycle 1226 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 64 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 19.0°C
+[CMM] london (2026-03-18): forecast 17.7°C
+[CMM] singapore (2026-03-18): forecast 32.1°C
+[CMM] tokyo (2026-03-18): forecast 15.5°C
+[CMM] seoul (2026-03-18): forecast 7.9°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.2°C
+[CMM] warsaw (2026-03-19): forecast 11.0°C
+[CMM] madrid (2026-03-19): forecast 18.3°C
+[CMM] lucknow (2026-03-18): forecast 33.6°C
+[CMM] sao-paulo (2026-03-18): forecast 29.7°C
+[CMM] 4 tradeable markets selected
+  shanghai 13°C: fair=0.220 vol=$68928
+  shanghai 14°C: fair=0.120 vol=$50764
+  seoul 9°C: fair=0.202 vol=$46319
+  seoul 8°C: fair=0.261 vol=$34319
+[CMM] 10:55:51 | cycle 1231 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 11:00:55 | cycle 1236 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 11:05:59 | cycle 1241 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 11:11:03 | cycle 1246 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 11:16:07 | cycle 1251 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 11:21:11 | cycle 1256 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 64 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 19.0°C
+[CMM] london (2026-03-18): forecast 17.8°C
+[CMM] singapore (2026-03-18): forecast 32.1°C
+[CMM] tokyo (2026-03-18): forecast 15.5°C
+[CMM] seoul (2026-03-18): forecast 8.2°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.2°C
+[CMM] warsaw (2026-03-19): forecast 11.0°C
+[CMM] madrid (2026-03-19): forecast 18.3°C
+[CMM] lucknow (2026-03-18): forecast 33.6°C
+[CMM] sao-paulo (2026-03-18): forecast 29.7°C
+[CMM] 4 tradeable markets selected
+  shanghai 13°C: fair=0.220 vol=$69659
+  shanghai 14°C: fair=0.120 vol=$50516
+  seoul 9°C: fair=0.228 vol=$47200
+  seoul 8°C: fair=0.259 vol=$35201
+[CMM] 11:27:18 | cycle 1261 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 11:32:22 | cycle 1266 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 11:37:27 | cycle 1271 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 11:42:31 | cycle 1276 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 11:47:34 | cycle 1281 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 11:52:39 | cycle 1286 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 61 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 19.0°C
+[CMM] london (2026-03-18): forecast 17.8°C
+[CMM] singapore (2026-03-18): forecast 32.1°C
+[CMM] tokyo (2026-03-18): forecast 15.5°C
+[CMM] seoul (2026-03-18): forecast 8.2°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.2°C
+[CMM] warsaw (2026-03-19): forecast 11.0°C
+[CMM] madrid (2026-03-19): forecast 18.3°C
+[CMM] lucknow (2026-03-18): forecast 33.6°C
+[CMM] sao-paulo (2026-03-18): forecast 29.7°C
+[CMM] 4 tradeable markets selected
+  shanghai 13°C: fair=0.220 vol=$70712
+  shanghai 14°C: fair=0.120 vol=$50619
+  seoul 9°C: fair=0.228 vol=$47865
+  seoul 8°C: fair=0.259 vol=$36303
+[CMM] 11:59:11 | cycle 1291 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 12:04:20 | cycle 1296 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 12:09:25 | cycle 1301 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 12:14:34 | cycle 1306 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 12:19:42 | cycle 1311 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 12:24:49 | cycle 1316 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 60 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 19.0°C
+[CMM] london (2026-03-18): forecast 18.2°C
+[CMM] singapore (2026-03-18): forecast 32.1°C
+[CMM] tokyo (2026-03-18): forecast 15.5°C
+[CMM] seoul (2026-03-18): forecast 8.2°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.2°C
+[CMM] warsaw (2026-03-19): forecast 11.5°C
+[CMM] madrid (2026-03-19): forecast 18.2°C
+[CMM] lucknow (2026-03-18): forecast 33.6°C
+[CMM] sao-paulo (2026-03-18): forecast 29.7°C
+[CMM] 4 tradeable markets selected
+  shanghai 13°C: fair=0.220 vol=$70388
+  seoul 9°C: fair=0.228 vol=$51349
+  shanghai 14°C: fair=0.120 vol=$50055
+  london 16°C: fair=0.093 vol=$43658
+[CMM] 12:31:29 | cycle 1321 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 12:36:35 | cycle 1326 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 12:41:40 | cycle 1331 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 12:46:44 | cycle 1336 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 12:51:50 | cycle 1341 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 12:56:58 | cycle 1346 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 58 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 19.0°C
+[CMM] london (2026-03-18): forecast 18.2°C
+[CMM] singapore (2026-03-18): forecast 32.1°C
+[CMM] tokyo (2026-03-18): forecast 15.5°C
+[CMM] seoul (2026-03-18): forecast 8.2°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 10.2°C
+[CMM] warsaw (2026-03-19): forecast 11.5°C
+[CMM] madrid (2026-03-19): forecast 18.2°C
+[CMM] lucknow (2026-03-18): forecast 33.6°C
+[CMM] sao-paulo (2026-03-18): forecast 29.7°C
+[CMM] 4 tradeable markets selected
+  shanghai 13°C: fair=0.220 vol=$70068
+  seoul 9°C: fair=0.228 vol=$51509
+  london 16°C: fair=0.093 vol=$50993
+  shanghai 14°C: fair=0.120 vol=$49669
+[CMM] 13:03:22 | cycle 1351 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 13:08:28 | cycle 1356 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 13:13:33 | cycle 1361 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 13:18:37 | cycle 1366 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 13:23:42 | cycle 1371 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 13:28:48 | cycle 1376 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 54 markets across 1 dates
+[CMM] wellington (2026-03-18): forecast 19.0°C
+[CMM] london (2026-03-18): forecast 18.2°C
+[CMM] singapore (2026-03-18): forecast 32.1°C
+[CMM] tokyo (2026-03-18): forecast 15.5°C
+[CMM] seoul (2026-03-18): forecast 8.2°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 9.5°C
+[CMM] warsaw (2026-03-19): forecast 11.5°C
+[CMM] madrid (2026-03-19): forecast 18.2°C
+[CMM] lucknow (2026-03-18): forecast 33.6°C
+[CMM] sao-paulo (2026-03-18): forecast 29.7°C
+[CMM] 4 tradeable markets selected
+  shanghai 13°C: fair=0.220 vol=$69718
+  london 16°C: fair=0.093 vol=$51959
+  seoul 9°C: fair=0.228 vol=$51512
+  shanghai 14°C: fair=0.120 vol=$49286
+[CMM] 13:35:21 | cycle 1381 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 13:40:26 | cycle 1386 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 13:45:30 | cycle 1391 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 13:50:34 | cycle 1396 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 13:55:39 | cycle 1401 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 14:00:43 | cycle 1406 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 52 markets across 1 dates
+[CMM] london (2026-03-18): forecast 18.3°C
+[CMM] singapore (2026-03-18): forecast 32.1°C
+[CMM] tokyo (2026-03-18): forecast 15.5°C
+[CMM] seoul (2026-03-18): forecast 8.2°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 9.5°C
+[CMM] warsaw (2026-03-19): forecast 11.5°C
+[CMM] madrid (2026-03-19): forecast 18.2°C
+[CMM] lucknow (2026-03-18): forecast 33.6°C
+[CMM] sao-paulo (2026-03-18): forecast 29.7°C
+[CMM] 4 tradeable markets selected
+  shanghai 13°C: fair=0.220 vol=$70084
+  london 16°C: fair=0.084 vol=$52931
+  seoul 9°C: fair=0.228 vol=$52664
+  shanghai 14°C: fair=0.120 vol=$48010
+[CMM] 14:06:58 | cycle 1411 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 14:12:05 | cycle 1416 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 14:17:09 | cycle 1421 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 14:22:13 | cycle 1426 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 14:27:17 | cycle 1431 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 14:32:21 | cycle 1436 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] Re-discovering markets...
+[CMM] Discovered 49 markets across 1 dates
+[CMM] london (2026-03-18): forecast 18.4°C
+[CMM] singapore (2026-03-18): forecast 32.1°C
+[CMM] tokyo (2026-03-18): forecast 15.5°C
+[CMM] seoul (2026-03-18): forecast 8.2°C
+[CMM] shanghai (2026-03-18): forecast 12.1°C
+[CMM] munich (2026-03-18): forecast 9.5°C
+[CMM] warsaw (2026-03-19): forecast 11.5°C
+[CMM] madrid (2026-03-19): forecast 18.2°C
+[CMM] lucknow (2026-03-18): forecast 33.6°C
+[CMM] sao-paulo (2026-03-18): forecast 29.7°C
+[CMM] 4 tradeable markets selected
+  shanghai 13°C: fair=0.220 vol=$72463
+  london 16°C: fair=0.076 vol=$54738
+  seoul 9°C: fair=0.228 vol=$52448
+  shanghai 14°C: fair=0.120 vol=$47497
+[CMM] 14:38:29 | cycle 1441 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 14:43:33 | cycle 1446 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 14:48:36 | cycle 1451 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 14:53:40 | cycle 1456 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+[CMM] 14:58:43 | cycle 1461 | $31.65 | 0 orders | 4 positions | +0 new | ~0 adjusted
+
+[CMM] Signal 15, shutting down...
+[CMM] Shutting down, cancelling orders...
+[CMM] Done.

@@ -1,0 +1,19 @@
+Everything is in order. Here's the session wrap-up:
+
+**Session 160 Complete — 13:20 UTC March 26**
+
+**Running:**
+- Soccer near-res monitor (14 matches) — scanning every 75s
+- BTC candle trader — next signal 17:00 UTC (BTC 1H UP)
+
+**Prepared for March 27:**
+- `near_res_soccer_mar27.py` — 11 FIFA friendlies, 22 tokens
+- `near_res_bball_mar27.py` — 10 NBA + 3 NCAAB Sweet 16, 26 tokens
+- All token IDs verified, scripts committed and pushed
+
+**Today's critical moments:**
+- **19:00 UTC: BANXICO** — if hold: +$27, if cut: -$20
+- **19:45 UTC: Slovakia vs Kosovo** — soccer monitor watching
+- **21:00 UTC: Launch bball_mar26.py** (next cron session handles this)
+
+**No pre-game edge found** on any March 27 match (all within 3% of sportsbook odds). Near-res remains the strategy.

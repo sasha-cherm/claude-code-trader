@@ -1,0 +1,64 @@
+=== Mar 30 NBA Near-Res Monitor ===
+Started at 2026-03-30 09:22:29 UTC
+Monitoring 14 tokens / 7 games
+Params: MIN_PRICE=0.85, JUMP=0.2, SPREAD=0.04, MAX_MINS=20
+Using LIMIT ORDERS (maker, no commission)
+Balance: $14.24
+
+Snapshotting pre-game prices...
+  Pre-game 76ers: 0.560
+  Pre-game Heat: 0.430
+  Pre-game Celtics: 0.480
+  Pre-game Hawks: 0.510
+  Pre-game Bulls: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+  Pre-game Spurs: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+  Pre-game Timberwolves: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+  Pre-game Mavericks: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+  Pre-game Cavaliers: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+  Pre-game Jazz: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+  Pre-game Pistons: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+  Pre-game Thunder: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+  Pre-game Wizards: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+  Pre-game Lakers: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+
+--- Check #0 at 09:22:32 UTC ---
+  Balance: $14.24
+
+--- Check #1 at 09:23:49 UTC ---
+  Balance: $14.24
+
+--- Check #2 at 09:25:07 UTC ---
+  Balance: $14.24
+
+--- Check #3 at 09:26:25 UTC ---
+  Balance: $11.99
+
+--- Check #4 at 09:27:43 UTC ---
+  Balance: $11.99
+
+--- Check #5 at 09:29:01 UTC ---
+  Balance: $11.99
+
+--- Check #6 at 09:30:19 UTC ---
+  Balance: $7.04
+
+--- Check #7 at 09:31:37 UTC ---
+  Balance: $12.04
+
+--- Check #8 at 09:32:55 UTC ---
+  Balance: $9.39
+
+--- Check #9 at 09:34:13 UTC ---
+  Balance: $9.39
+
+--- Check #10 at 09:35:31 UTC ---
+  Balance: $9.39
+
+--- Check #11 at 09:36:49 UTC ---
+  Balance: $9.39
+
+--- Check #12 at 09:38:07 UTC ---
+  Balance: $9.39
+
+--- Check #13 at 09:39:25 UTC ---
+  Balance: $9.39

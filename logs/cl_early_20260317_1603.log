@@ -1,0 +1,1090 @@
+=== CL Near-Resolution Monitor (CL: Sporting vs Bodo/Glimt) Started at 16:03 UTC ===
+Balance: $28.36
+Capturing pre-game prices...
+  Pre-game Bodo/Glimt: 0.180
+  Pre-game Sporting CP: 0.640
+  Pre-game Sporting/BG Draw: 0.170
+
+--- Check #1 at 16:03:30 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=206 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=206 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=206 
+
+--- Check #2 at 16:04:31 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=205 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=205 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=205 
+
+--- Check #3 at 16:05:34 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=204 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=204 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=204 
+
+--- Check #4 at 16:06:35 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=203 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=203 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=203 
+
+--- Check #5 at 16:07:37 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=202 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=202 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=202 
+
+--- Check #6 at 16:08:39 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=201 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=201 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=201 
+
+--- Check #7 at 16:09:40 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=200 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=200 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=200 
+
+--- Check #8 at 16:10:42 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=199 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=199 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=199 
+
+--- Check #9 at 16:11:43 UTC ---
+[BALANCE] Error: PolyApiException[status_code=None, error_message=Request exception!]
+  Balance: $0.00
+  Bodo/Glimt         ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Sporting CP        ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Sporting/BG Draw   ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  (API error, retrying next cycle)
+
+--- Check #10 at 16:14:14 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=196 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=196 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=196 
+
+--- Check #11 at 16:15:18 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=195 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=195 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=195 
+
+--- Check #12 at 16:16:20 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=194 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=194 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=194 
+
+--- Check #13 at 16:17:23 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=193 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=193 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=193 
+
+--- Check #14 at 16:18:24 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=192 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=192 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=191 
+
+--- Check #15 at 16:19:30 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=190 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=190 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=190 
+
+--- Check #16 at 16:20:32 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=189 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=189 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=189 
+
+--- Check #17 at 16:21:33 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=188 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=188 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=188 
+
+--- Check #18 at 16:22:35 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=187 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=187 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=187 
+
+--- Check #19 at 16:23:36 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=186 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=186 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=186 
+
+--- Check #20 at 16:24:38 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=185 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=185 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=185 
+
+--- Check #21 at 16:25:39 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=184 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=184 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=184 
+
+--- Check #22 at 16:26:41 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=183 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=183 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=183 
+
+--- Check #23 at 16:27:42 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=182 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=182 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=182 
+
+--- Check #24 at 16:28:44 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=181 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=181 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=181 
+
+--- Check #25 at 16:29:45 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=180 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=180 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=180 
+
+--- Check #26 at 16:30:47 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=179 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=179 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=179 
+
+--- Check #27 at 16:31:48 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=178 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=178 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=178 
+
+--- Check #28 at 16:32:51 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=177 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=177 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=177 
+
+--- Check #29 at 16:33:53 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=176 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=176 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=176 
+
+--- Check #30 at 16:34:54 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=175 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=175 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=175 
+
+--- Check #31 at 16:35:56 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=174 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=174 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=174 
+
+--- Check #32 at 16:36:57 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=173 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=173 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=173 
+
+--- Check #33 at 16:37:59 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=172 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=172 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=172 
+
+--- Check #34 at 16:39:00 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=171 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=171 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=171 
+
+--- Check #35 at 16:40:02 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=170 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=170 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=170 
+
+--- Check #36 at 16:41:04 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=169 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=169 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=169 
+
+--- Check #37 at 16:42:05 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=168 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=168 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=168 
+
+--- Check #38 at 16:43:07 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=167 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=167 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=167 
+
+--- Check #39 at 16:44:09 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=166 
+  Sporting CP        buy=0.630 sell=0.640 spread=-0.010 jump=-0.010 mins_left=166 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=166 
+
+--- Check #40 at 16:45:11 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=165 
+  Sporting CP        buy=0.630 sell=0.640 spread=-0.010 jump=-0.010 mins_left=165 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=165 
+
+--- Check #41 at 16:46:12 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=164 
+  Sporting CP        buy=0.630 sell=0.640 spread=-0.010 jump=-0.010 mins_left=164 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=164 
+
+--- Check #42 at 16:47:14 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=163 
+  Sporting CP        buy=0.630 sell=0.640 spread=-0.010 jump=-0.010 mins_left=163 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=163 
+
+--- Check #43 at 16:48:15 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=162 
+  Sporting CP        buy=0.630 sell=0.640 spread=-0.010 jump=-0.010 mins_left=162 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=162 
+
+--- Check #44 at 16:49:17 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=161 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=161 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=161 
+
+--- Check #45 at 16:50:18 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=160 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=160 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=160 
+
+--- Check #46 at 16:51:20 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=159 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=159 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=159 
+
+--- Check #47 at 16:52:21 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=158 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=158 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=158 
+
+--- Check #48 at 16:53:22 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=157 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=157 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=157 
+
+--- Check #49 at 16:54:23 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=156 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=156 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=156 
+
+--- Check #50 at 16:55:25 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=155 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=155 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=155 
+
+--- Check #51 at 16:56:26 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=154 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=154 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=154 
+
+--- Check #52 at 16:57:28 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=153 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=153 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=152 
+
+--- Check #53 at 16:58:30 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=151 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=151 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=151 
+
+--- Check #54 at 16:59:31 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=150 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=150 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=150 
+
+--- Check #55 at 17:00:32 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=149 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=149 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=149 
+
+--- Check #56 at 17:01:34 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=148 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=148 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=148 
+
+--- Check #57 at 17:02:36 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=147 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=147 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=147 
+
+--- Check #58 at 17:03:38 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=146 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=146 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=146 
+
+--- Check #59 at 17:04:40 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=145 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=145 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=145 
+
+--- Check #60 at 17:05:42 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=144 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=144 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=144 
+
+--- Check #61 at 17:06:44 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=143 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=143 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=143 
+
+--- Check #62 at 17:07:45 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=142 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=142 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=142 
+
+--- Check #63 at 17:08:48 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=141 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=141 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=141 
+
+--- Check #64 at 17:09:50 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=140 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=140 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=140 
+
+--- Check #65 at 17:10:51 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=139 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=139 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=139 
+
+--- Check #66 at 17:11:52 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=138 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=138 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=138 
+
+--- Check #67 at 17:12:54 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=137 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=137 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=137 
+
+--- Check #68 at 17:13:55 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=136 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=136 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=136 
+
+--- Check #69 at 17:14:57 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=135 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=135 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=135 
+
+--- Check #70 at 17:15:59 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=134 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=134 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=134 
+
+--- Check #71 at 17:17:01 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=133 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=133 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=133 
+
+--- Check #72 at 17:18:02 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=132 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=132 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=132 
+
+--- Check #73 at 17:19:04 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=131 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=131 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=131 
+
+--- Check #74 at 17:20:05 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=130 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=130 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=130 
+
+--- Check #75 at 17:21:07 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=129 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=129 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=129 
+
+--- Check #76 at 17:22:08 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=128 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=128 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=128 
+
+--- Check #77 at 17:23:10 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=127 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=127 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=127 
+
+--- Check #78 at 17:24:11 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=126 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=126 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=126 
+
+--- Check #79 at 17:25:13 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=125 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=125 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=125 
+
+--- Check #80 at 17:26:15 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=124 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=124 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=124 
+
+--- Check #81 at 17:27:17 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=123 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=123 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=123 
+
+--- Check #82 at 17:28:18 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=122 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=122 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=122 
+
+--- Check #83 at 17:29:20 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=121 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=121 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=121 
+
+--- Check #84 at 17:30:21 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=120 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=120 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=120 
+
+--- Check #85 at 17:31:22 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=119 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=119 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=119 
+
+--- Check #86 at 17:32:24 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=118 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=118 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=118 
+
+--- Check #87 at 17:33:25 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=117 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=117 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=117 
+
+--- Check #88 at 17:34:26 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=116 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=116 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=116 
+
+--- Check #89 at 17:35:28 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=115 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=115 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=115 
+
+--- Check #90 at 17:36:29 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=113 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=113 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=113 
+
+--- Check #91 at 17:37:31 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=112 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=112 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=112 
+
+--- Check #92 at 17:38:32 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=111 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=111 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=111 
+
+--- Check #93 at 17:39:34 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=110 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=110 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=110 
+
+--- Check #94 at 17:40:39 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=109 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=109 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=109 
+
+--- Check #95 at 17:41:42 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=108 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=108 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=108 
+
+--- Check #96 at 17:42:44 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=107 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=107 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=107 
+
+--- Check #97 at 17:43:46 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=106 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=106 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=106 
+
+--- Check #98 at 17:44:47 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.180 sell=0.190 spread=-0.010 jump=+0.000 mins_left=105 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=105 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=105 
+
+--- Check #99 at 17:45:49 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.170 sell=0.180 spread=-0.010 jump=-0.010 mins_left=104 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=104 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=104 
+
+--- Check #100 at 17:46:50 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.160 sell=0.170 spread=-0.010 jump=-0.020 mins_left=103 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=103 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=103 
+
+--- Check #101 at 17:47:56 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.150 sell=0.160 spread=-0.010 jump=-0.030 mins_left=102 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=102 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=102 
+
+--- Check #102 at 17:48:58 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.150 sell=0.160 spread=-0.010 jump=-0.030 mins_left=101 
+  Sporting CP        buy=0.670 sell=0.680 spread=-0.010 jump=+0.030 mins_left=101 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=101 
+
+--- Check #103 at 17:49:59 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.150 sell=0.160 spread=-0.010 jump=-0.030 mins_left=100 
+  Sporting CP        buy=0.670 sell=0.680 spread=-0.010 jump=+0.030 mins_left=100 
+  Sporting/BG Draw   buy=0.160 sell=0.180 spread=-0.020 jump=-0.010 mins_left=100 
+
+--- Check #104 at 17:51:01 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.140 sell=0.150 spread=-0.010 jump=-0.040 mins_left=99 
+  Sporting CP        buy=0.670 sell=0.690 spread=-0.020 jump=+0.030 mins_left=99 
+  Sporting/BG Draw   buy=0.160 sell=0.180 spread=-0.020 jump=-0.010 mins_left=99 
+
+--- Check #105 at 17:52:02 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.140 sell=0.150 spread=-0.010 jump=-0.040 mins_left=98 
+  Sporting CP        buy=0.680 sell=0.690 spread=-0.010 jump=+0.040 mins_left=98 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=98 
+
+--- Check #106 at 17:53:04 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.140 sell=0.150 spread=-0.010 jump=-0.040 mins_left=97 
+  Sporting CP        buy=0.680 sell=0.690 spread=-0.010 jump=+0.040 mins_left=97 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=97 
+
+--- Check #107 at 17:54:05 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.130 sell=0.140 spread=-0.010 jump=-0.050 mins_left=96 
+  Sporting CP        buy=0.700 sell=0.710 spread=-0.010 jump=+0.060 mins_left=96 
+  Sporting/BG Draw   buy=0.150 sell=0.170 spread=-0.020 jump=-0.020 mins_left=96 
+
+--- Check #108 at 17:55:07 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.130 sell=0.140 spread=-0.010 jump=-0.050 mins_left=95 
+  Sporting CP        buy=0.700 sell=0.710 spread=-0.010 jump=+0.060 mins_left=95 
+  Sporting/BG Draw   buy=0.160 sell=0.170 spread=-0.010 jump=-0.010 mins_left=95 
+
+--- Check #109 at 17:56:08 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.130 sell=0.140 spread=-0.010 jump=-0.050 mins_left=94 
+  Sporting CP        buy=0.700 sell=0.710 spread=-0.010 jump=+0.060 mins_left=94 
+  Sporting/BG Draw   buy=0.160 sell=0.170 spread=-0.010 jump=-0.010 mins_left=94 
+
+--- Check #110 at 17:57:10 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.130 sell=0.140 spread=-0.010 jump=-0.050 mins_left=93 
+  Sporting CP        buy=0.690 sell=0.700 spread=-0.010 jump=+0.050 mins_left=93 
+  Sporting/BG Draw   buy=0.160 sell=0.170 spread=-0.010 jump=-0.010 mins_left=93 
+
+--- Check #111 at 17:58:11 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.130 sell=0.140 spread=-0.010 jump=-0.050 mins_left=92 
+  Sporting CP        buy=0.700 sell=0.710 spread=-0.010 jump=+0.060 mins_left=92 
+  Sporting/BG Draw   buy=0.160 sell=0.170 spread=-0.010 jump=-0.010 mins_left=92 
+
+--- Check #112 at 17:59:13 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.130 sell=0.140 spread=-0.010 jump=-0.050 mins_left=91 
+  Sporting CP        buy=0.700 sell=0.710 spread=-0.010 jump=+0.060 mins_left=91 
+  Sporting/BG Draw   buy=0.150 sell=0.170 spread=-0.020 jump=-0.020 mins_left=91 
+
+--- Check #113 at 18:00:14 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.130 sell=0.140 spread=-0.010 jump=-0.050 mins_left=90 
+  Sporting CP        buy=0.710 sell=0.720 spread=-0.010 jump=+0.070 mins_left=90 
+  Sporting/BG Draw   buy=0.160 sell=0.170 spread=-0.010 jump=-0.010 mins_left=90 
+
+--- Check #114 at 18:01:15 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.130 sell=0.140 spread=-0.010 jump=-0.050 mins_left=89 
+  Sporting CP        buy=0.700 sell=0.710 spread=-0.010 jump=+0.060 mins_left=89 
+  Sporting/BG Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.020 mins_left=89 
+
+--- Check #115 at 18:02:18 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.140 sell=0.150 spread=-0.010 jump=-0.040 mins_left=88 
+  Sporting CP        buy=0.700 sell=0.710 spread=-0.010 jump=+0.060 mins_left=88 
+  Sporting/BG Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.020 mins_left=88 
+
+--- Check #116 at 18:03:20 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.140 sell=0.150 spread=-0.010 jump=-0.040 mins_left=87 
+  Sporting CP        buy=0.700 sell=0.710 spread=-0.010 jump=+0.060 mins_left=87 
+  Sporting/BG Draw   buy=0.160 sell=0.170 spread=-0.010 jump=-0.010 mins_left=87 
+
+--- Check #117 at 18:04:21 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.130 sell=0.140 spread=-0.010 jump=-0.050 mins_left=86 
+  Sporting CP        buy=0.710 sell=0.720 spread=-0.010 jump=+0.070 mins_left=86 
+  Sporting/BG Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.020 mins_left=86 
+
+--- Check #118 at 18:05:23 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.140 sell=0.150 spread=-0.010 jump=-0.040 mins_left=85 
+  Sporting CP        buy=0.700 sell=0.710 spread=-0.010 jump=+0.060 mins_left=85 
+  Sporting/BG Draw   buy=0.150 sell=0.160 spread=-0.010 jump=-0.020 mins_left=85 
+
+--- Check #119 at 18:06:25 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.130 sell=0.150 spread=-0.020 jump=-0.050 mins_left=84 
+  Sporting CP        buy=0.690 sell=0.700 spread=-0.010 jump=+0.050 mins_left=84 
+  Sporting/BG Draw   buy=0.150 sell=0.170 spread=-0.020 jump=-0.020 mins_left=84 
+
+--- Check #120 at 18:07:26 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.130 sell=0.140 spread=-0.010 jump=-0.050 mins_left=83 
+  Sporting CP        buy=0.700 sell=0.710 spread=-0.010 jump=+0.060 mins_left=83 
+  Sporting/BG Draw   buy=0.150 sell=0.170 spread=-0.020 jump=-0.020 mins_left=83 
+
+--- Check #121 at 18:08:28 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.140 sell=0.150 spread=-0.010 jump=-0.040 mins_left=82 
+  Sporting CP        buy=0.690 sell=0.700 spread=-0.010 jump=+0.050 mins_left=82 
+  Sporting/BG Draw   buy=0.160 sell=0.170 spread=-0.010 jump=-0.010 mins_left=82 
+
+--- Check #122 at 18:09:29 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.140 sell=0.150 spread=-0.010 jump=-0.040 mins_left=80 
+  Sporting CP        buy=0.680 sell=0.690 spread=-0.010 jump=+0.040 mins_left=80 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=80 
+
+--- Check #123 at 18:10:31 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.130 sell=0.140 spread=-0.010 jump=-0.050 mins_left=79 
+  Sporting CP        buy=0.680 sell=0.690 spread=-0.010 jump=+0.040 mins_left=79 
+  Sporting/BG Draw   buy=0.170 sell=0.180 spread=-0.010 jump=+0.000 mins_left=79 
+
+--- Check #124 at 18:11:32 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.140 sell=0.150 spread=-0.010 jump=-0.040 mins_left=78 
+  Sporting CP        buy=0.670 sell=0.680 spread=-0.010 jump=+0.030 mins_left=78 
+  Sporting/BG Draw   buy=0.180 sell=0.190 spread=-0.010 jump=+0.010 mins_left=78 
+
+--- Check #125 at 18:12:34 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.140 sell=0.150 spread=-0.010 jump=-0.040 mins_left=77 
+  Sporting CP        buy=0.660 sell=0.670 spread=-0.010 jump=+0.020 mins_left=77 
+  Sporting/BG Draw   buy=0.190 sell=0.200 spread=-0.010 jump=+0.020 mins_left=77 
+
+--- Check #126 at 18:13:35 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.150 sell=0.160 spread=-0.010 jump=-0.030 mins_left=76 
+  Sporting CP        buy=0.660 sell=0.670 spread=-0.010 jump=+0.020 mins_left=76 
+  Sporting/BG Draw   buy=0.180 sell=0.200 spread=-0.020 jump=+0.010 mins_left=76 
+
+--- Check #127 at 18:14:37 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.150 sell=0.160 spread=-0.010 jump=-0.030 mins_left=75 
+  Sporting CP        buy=0.640 sell=0.650 spread=-0.010 jump=+0.000 mins_left=75 
+  Sporting/BG Draw   buy=0.190 sell=0.200 spread=-0.010 jump=+0.020 mins_left=75 
+
+--- Check #128 at 18:15:38 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.140 sell=0.160 spread=-0.020 jump=-0.040 mins_left=74 
+  Sporting CP        buy=0.660 sell=0.670 spread=-0.010 jump=+0.020 mins_left=74 
+  Sporting/BG Draw   buy=0.190 sell=0.200 spread=-0.010 jump=+0.020 mins_left=74 
+
+--- Check #129 at 18:16:40 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.150 sell=0.160 spread=-0.010 jump=-0.030 mins_left=73 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=73 
+  Sporting/BG Draw   buy=0.190 sell=0.200 spread=-0.010 jump=+0.020 mins_left=73 
+
+--- Check #130 at 18:17:41 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.140 sell=0.150 spread=-0.010 jump=-0.040 mins_left=72 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=72 
+  Sporting/BG Draw   buy=0.190 sell=0.210 spread=-0.020 jump=+0.020 mins_left=72 
+
+--- Check #131 at 18:18:43 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.140 sell=0.150 spread=-0.010 jump=-0.040 mins_left=71 
+  Sporting CP        buy=0.650 sell=0.660 spread=-0.010 jump=+0.010 mins_left=71 
+  Sporting/BG Draw   buy=0.190 sell=0.200 spread=-0.010 jump=+0.020 mins_left=71 
+
+--- Check #132 at 18:19:45 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.050 sell=0.060 spread=-0.010 jump=-0.130 mins_left=70 
+  Sporting CP        buy=0.840 sell=0.850 spread=-0.010 jump=+0.200 mins_left=70 
+  Sporting/BG Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.070 mins_left=70 
+
+--- Check #133 at 18:20:46 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.050 sell=0.060 spread=-0.010 jump=-0.130 mins_left=69 
+  Sporting CP        buy=0.840 sell=0.850 spread=-0.010 jump=+0.200 mins_left=69 
+  Sporting/BG Draw   buy=0.090 sell=0.110 spread=-0.020 jump=-0.080 mins_left=69 
+
+--- Check #134 at 18:21:48 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.050 sell=0.060 spread=-0.010 jump=-0.130 mins_left=68 
+  Sporting CP        buy=0.850 sell=0.860 spread=-0.010 jump=+0.210 mins_left=68 
+  Sporting/BG Draw   buy=0.090 sell=0.100 spread=-0.010 jump=-0.080 mins_left=68 
+
+--- Check #135 at 18:22:49 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.040 sell=0.060 spread=-0.020 jump=-0.140 mins_left=67 
+  Sporting CP        buy=0.850 sell=0.860 spread=-0.010 jump=+0.210 mins_left=67 
+  Sporting/BG Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.070 mins_left=67 
+
+--- Check #136 at 18:23:50 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.050 sell=0.060 spread=-0.010 jump=-0.130 mins_left=66 
+  Sporting CP        buy=0.850 sell=0.860 spread=-0.010 jump=+0.210 mins_left=66 
+  Sporting/BG Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.070 mins_left=66 
+
+--- Check #137 at 18:24:52 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=65 
+  Sporting CP        buy=0.850 sell=0.860 spread=-0.010 jump=+0.210 mins_left=65 
+  Sporting/BG Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.070 mins_left=65 
+
+--- Check #138 at 18:25:53 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=64 
+  Sporting CP        buy=0.860 sell=0.870 spread=-0.010 jump=+0.220 mins_left=64 
+  Sporting/BG Draw   buy=0.090 sell=0.100 spread=-0.010 jump=-0.080 mins_left=64 
+
+--- Check #139 at 18:26:54 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=63 
+  Sporting CP        buy=0.840 sell=0.850 spread=-0.010 jump=+0.200 mins_left=63 
+  Sporting/BG Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.070 mins_left=63 
+
+--- Check #140 at 18:27:56 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=62 
+  Sporting CP        buy=0.850 sell=0.860 spread=-0.010 jump=+0.210 mins_left=62 
+  Sporting/BG Draw   buy=0.100 sell=0.120 spread=-0.020 jump=-0.070 mins_left=62 
+
+--- Check #141 at 18:28:58 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=61 
+  Sporting CP        buy=0.850 sell=0.860 spread=-0.010 jump=+0.210 mins_left=61 
+  Sporting/BG Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.070 mins_left=61 
+
+--- Check #142 at 18:29:59 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=60 
+  Sporting CP        buy=0.850 sell=0.860 spread=-0.010 jump=+0.210 mins_left=60 
+  Sporting/BG Draw   buy=0.100 sell=0.120 spread=-0.020 jump=-0.070 mins_left=60 
+
+--- Check #143 at 18:31:01 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=59 
+  Sporting CP        buy=0.850 sell=0.860 spread=-0.010 jump=+0.210 mins_left=59 
+  Sporting/BG Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.070 mins_left=59 
+
+--- Check #144 at 18:32:03 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=58 
+  Sporting CP        buy=0.840 sell=0.850 spread=-0.010 jump=+0.200 mins_left=58 
+  Sporting/BG Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.070 mins_left=58 
+
+--- Check #145 at 18:33:04 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=57 
+  Sporting CP        buy=0.840 sell=0.850 spread=-0.010 jump=+0.200 mins_left=57 
+  Sporting/BG Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.070 mins_left=57 
+
+--- Check #146 at 18:34:06 UTC ---
+  Balance: $28.36
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=56 
+  Sporting CP        buy=0.840 sell=0.850 spread=-0.010 jump=+0.200 mins_left=56 
+  Sporting/BG Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.070 mins_left=56 
+
+--- Check #147 at 18:35:07 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=55 
+  Sporting CP        buy=0.840 sell=0.850 spread=-0.010 jump=+0.200 mins_left=55 
+  Sporting/BG Draw   buy=0.100 sell=0.120 spread=-0.020 jump=-0.070 mins_left=55 
+
+--- Check #148 at 18:36:09 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=54 
+  Sporting CP        buy=0.840 sell=0.850 spread=-0.010 jump=+0.200 mins_left=54 
+  Sporting/BG Draw   buy=0.110 sell=0.120 spread=-0.010 jump=-0.060 mins_left=54 
+
+--- Check #149 at 18:37:11 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=53 
+  Sporting CP        buy=0.840 sell=0.850 spread=-0.010 jump=+0.200 mins_left=53 
+  Sporting/BG Draw   buy=0.110 sell=0.120 spread=-0.010 jump=-0.060 mins_left=53 
+
+--- Check #150 at 18:38:12 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=52 
+  Sporting CP        buy=0.840 sell=0.850 spread=-0.010 jump=+0.200 mins_left=52 
+  Sporting/BG Draw   buy=0.110 sell=0.120 spread=-0.010 jump=-0.060 mins_left=52 
+
+--- Check #151 at 18:39:14 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=51 
+  Sporting CP        buy=0.840 sell=0.850 spread=-0.010 jump=+0.200 mins_left=51 
+  Sporting/BG Draw   buy=0.110 sell=0.120 spread=-0.010 jump=-0.060 mins_left=51 
+
+--- Check #152 at 18:40:16 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=50 
+  Sporting CP        buy=0.840 sell=0.850 spread=-0.010 jump=+0.200 mins_left=50 
+  Sporting/BG Draw   buy=0.110 sell=0.120 spread=-0.010 jump=-0.060 mins_left=50 
+
+--- Check #153 at 18:41:17 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.050 sell=0.060 spread=-0.010 jump=-0.130 mins_left=49 
+  Sporting CP        buy=0.830 sell=0.840 spread=-0.010 jump=+0.190 mins_left=49 
+  Sporting/BG Draw   buy=0.100 sell=0.120 spread=-0.020 jump=-0.070 mins_left=49 
+
+--- Check #154 at 18:42:20 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=48 
+  Sporting CP        buy=0.820 sell=0.830 spread=-0.010 jump=+0.180 mins_left=48 
+  Sporting/BG Draw   buy=0.100 sell=0.120 spread=-0.020 jump=-0.070 mins_left=48 
+
+--- Check #155 at 18:43:22 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=47 
+  Sporting CP        buy=0.830 sell=0.840 spread=-0.010 jump=+0.190 mins_left=47 
+  Sporting/BG Draw   buy=0.100 sell=0.110 spread=-0.010 jump=-0.070 mins_left=47 
+
+--- Check #156 at 18:44:23 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=46 
+  Sporting CP        buy=0.830 sell=0.840 spread=-0.010 jump=+0.190 mins_left=46 
+  Sporting/BG Draw   buy=0.100 sell=0.120 spread=-0.020 jump=-0.070 mins_left=46 
+
+--- Check #157 at 18:45:25 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=45 
+  Sporting CP        buy=0.830 sell=0.840 spread=-0.010 jump=+0.190 mins_left=45 
+  Sporting/BG Draw   buy=0.100 sell=0.120 spread=-0.020 jump=-0.070 mins_left=45 
+
+--- Check #158 at 18:46:26 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.060 spread=-0.020 jump=-0.140 mins_left=44 
+  Sporting CP        buy=0.830 sell=0.840 spread=-0.010 jump=+0.190 mins_left=44 
+  Sporting/BG Draw   buy=0.100 sell=0.120 spread=-0.020 jump=-0.070 mins_left=44 
+
+--- Check #159 at 18:47:27 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=43 
+  Sporting CP        buy=0.830 sell=0.840 spread=-0.010 jump=+0.190 mins_left=43 
+  Sporting/BG Draw   buy=0.100 sell=0.120 spread=-0.020 jump=-0.070 mins_left=43 
+
+--- Check #160 at 18:48:29 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=41 
+  Sporting CP        buy=0.830 sell=0.840 spread=-0.010 jump=+0.190 mins_left=41 
+  Sporting/BG Draw   buy=0.100 sell=0.120 spread=-0.020 jump=-0.070 mins_left=41 
+
+--- Check #161 at 18:49:31 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=40 
+  Sporting CP        buy=0.820 sell=0.830 spread=-0.010 jump=+0.180 mins_left=40 
+  Sporting/BG Draw   buy=0.110 sell=0.120 spread=-0.010 jump=-0.060 mins_left=40 
+
+--- Check #162 at 18:50:32 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.050 sell=0.060 spread=-0.010 jump=-0.130 mins_left=39 
+  Sporting CP        buy=0.820 sell=0.840 spread=-0.020 jump=+0.180 mins_left=39 
+  Sporting/BG Draw   buy=0.110 sell=0.130 spread=-0.020 jump=-0.060 mins_left=39 
+
+--- Check #163 at 18:51:34 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=38 
+  Sporting CP        buy=0.830 sell=0.840 spread=-0.010 jump=+0.190 mins_left=38 
+  Sporting/BG Draw   buy=0.110 sell=0.130 spread=-0.020 jump=-0.060 mins_left=38 
+
+--- Check #164 at 18:52:35 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.050 sell=0.060 spread=-0.010 jump=-0.130 mins_left=37 
+  Sporting CP        buy=0.820 sell=0.830 spread=-0.010 jump=+0.180 mins_left=37 
+  Sporting/BG Draw   buy=0.120 sell=0.130 spread=-0.010 jump=-0.050 mins_left=37 
+
+--- Check #165 at 18:53:37 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.050 sell=0.060 spread=-0.010 jump=-0.130 mins_left=36 
+  Sporting CP        buy=0.810 sell=0.820 spread=-0.010 jump=+0.170 mins_left=36 
+  Sporting/BG Draw   buy=0.120 sell=0.130 spread=-0.010 jump=-0.050 mins_left=36 
+
+--- Check #166 at 18:54:39 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.060 spread=-0.020 jump=-0.140 mins_left=35 
+  Sporting CP        buy=0.820 sell=0.830 spread=-0.010 jump=+0.180 mins_left=35 
+  Sporting/BG Draw   buy=0.120 sell=0.130 spread=-0.010 jump=-0.050 mins_left=35 
+
+--- Check #167 at 18:55:40 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=34 
+  Sporting CP        buy=0.810 sell=0.820 spread=-0.010 jump=+0.170 mins_left=34 
+  Sporting/BG Draw   buy=0.120 sell=0.130 spread=-0.010 jump=-0.050 mins_left=34 
+
+--- Check #168 at 18:56:43 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=33 
+  Sporting CP        buy=0.810 sell=0.820 spread=-0.010 jump=+0.170 mins_left=33 
+  Sporting/BG Draw   buy=0.130 sell=0.140 spread=-0.010 jump=-0.040 mins_left=33 
+
+--- Check #169 at 18:57:45 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=32 
+  Sporting CP        buy=0.820 sell=0.830 spread=-0.010 jump=+0.180 mins_left=32 
+  Sporting/BG Draw   buy=0.130 sell=0.140 spread=-0.010 jump=-0.040 mins_left=32 
+
+--- Check #170 at 18:58:47 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=31 
+  Sporting CP        buy=0.820 sell=0.840 spread=-0.020 jump=+0.180 mins_left=31 
+  Sporting/BG Draw   buy=0.120 sell=0.130 spread=-0.010 jump=-0.050 mins_left=31 
+
+--- Check #171 at 18:59:49 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=30 
+  Sporting CP        buy=0.810 sell=0.820 spread=-0.010 jump=+0.170 mins_left=30 
+  Sporting/BG Draw   buy=0.120 sell=0.130 spread=-0.010 jump=-0.050 mins_left=30 
+
+--- Check #172 at 19:00:50 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=29 
+  Sporting CP        buy=0.830 sell=0.840 spread=-0.010 jump=+0.190 mins_left=29 
+  Sporting/BG Draw   buy=0.120 sell=0.130 spread=-0.010 jump=-0.050 mins_left=29 
+
+--- Check #173 at 19:01:52 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=28 
+  Sporting CP        buy=0.820 sell=0.830 spread=-0.010 jump=+0.180 mins_left=28 
+  Sporting/BG Draw   buy=0.130 sell=0.140 spread=-0.010 jump=-0.040 mins_left=28 
+
+--- Check #174 at 19:02:54 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=27 
+  Sporting CP        buy=0.820 sell=0.840 spread=-0.020 jump=+0.180 mins_left=27 
+  Sporting/BG Draw   buy=0.130 sell=0.140 spread=-0.010 jump=-0.040 mins_left=27 
+
+--- Check #175 at 19:03:56 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.040 sell=0.050 spread=-0.010 jump=-0.140 mins_left=26 
+  Sporting CP        buy=0.820 sell=0.830 spread=-0.010 jump=+0.180 mins_left=26 
+  Sporting/BG Draw   buy=0.130 sell=0.140 spread=-0.010 jump=-0.040 mins_left=26 
+
+--- Check #176 at 19:04:57 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.000 sell=0.020 spread=-0.020 jump=-0.180 mins_left=25 
+  Sporting CP        buy=0.950 sell=0.960 spread=-0.010 jump=+0.310 mins_left=25 
+  Sporting/BG Draw   buy=0.030 sell=0.040 spread=-0.010 jump=-0.140 mins_left=25 
+
+--- Check #177 at 19:05:58 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.003 sell=0.008 spread=-0.005 jump=-0.177 mins_left=24 
+  Sporting CP        buy=0.960 sell=0.970 spread=-0.010 jump=+0.320 mins_left=24 
+  Sporting/BG Draw   buy=0.020 sell=0.030 spread=-0.010 jump=-0.150 mins_left=24 
+
+--- Check #178 at 19:07:00 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.001 sell=0.008 spread=-0.007 jump=-0.179 mins_left=23 
+  Sporting CP        buy=0.960 sell=0.980 spread=-0.020 jump=+0.320 mins_left=23 
+  Sporting/BG Draw   buy=0.020 sell=0.030 spread=-0.010 jump=-0.150 mins_left=23 
+
+--- Check #179 at 19:08:03 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.002 sell=0.003 spread=-0.001 jump=-0.178 mins_left=22 
+  Sporting CP        buy=0.970 sell=0.980 spread=-0.010 jump=+0.330 mins_left=22 
+  Sporting/BG Draw   buy=0.021 sell=0.027 spread=-0.006 jump=-0.149 mins_left=22 
+
+--- Check #180 at 19:09:04 UTC ---
+  Balance: $26.19
+  Bodo/Glimt         buy=0.002 sell=0.003 spread=-0.001 jump=-0.178 mins_left=21 
+  Sporting CP        buy=0.970 sell=0.972 spread=-0.002 jump=+0.330 mins_left=21 
+  Sporting/BG Draw   buy=0.015 sell=0.020 spread=-0.005 jump=-0.155 mins_left=21 
+
+=== CL Monitor finished at 19:10 UTC ===

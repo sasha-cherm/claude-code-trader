@@ -1,0 +1,45 @@
+[LIVE] === BTC 15-min Fair-Value MM — LIVE TRADING ===
+[LIVE] UTC: 2026-04-29 10:08:06.052540+00:00
+[LIVE] size=5.0  poll=1.0s  maker-only  improve=0.0
+[LIVE] No sell orders will be placed — user resolves manually
+[LIVE] Killing old instance PID 130809
+[py_clob_client_v2] request error status=400 url=https://clob.polymarket.com/auth/api-key body={"error":"Could not create api key"}
+
+[py_clob_client_v2] request error status=400 url=https://clob.polymarket.com/auth/api-key body={"error":"Could not create api key"}
+
+[LIVE] USDC balance: $143.97
+[REDEEM] Relayer ready (PROXY tx type, key=019dd8ae...)
+[LIVE] Current candle not confirmed (411s to start)
+[LIVE] Current candle not confirmed (401s to start)
+[LIVE] Current candle not confirmed (390s to start)
+[LIVE] Current candle not confirmed (380s to start)
+[LIVE] Current candle not confirmed (370s to start)
+[LIVE] Current candle not confirmed (359s to start)
+[LIVE] Current candle not confirmed (349s to start)
+[LIVE] Current candle not confirmed (338s to start)
+[LIVE] Current candle not confirmed (328s to start)
+[LIVE] Current candle not confirmed (318s to start)
+[LIVE] Current candle not confirmed (308s to start)
+[LIVE] Current candle not confirmed (297s to start)
+[FV] Current candle effectively UP (bid=0.96, 286s left)
+
+[LIVE] =======================================================
+[LIVE] Bitcoin Up or Down - April 29, 6:15AM-6:30AM ET
+[LIVE] streak=5xUP  rsi=77.83
+[LIVE] fair: UP=0.380 DN=0.620
+[LIVE] target: UP@0.37 DN@0.61 (improve=0.0)
+[LIVE] USDC: $143.97
+[UP] BUY 5sh @ 0.37  oid=0x7d9c23bf0d41387dc33166c9c20a5fc0e94f55491fb51b403997df8f13ce1934
+[LIVE] UP placed @ 0.37  (target=0.37, best_ask=0.41)
+[DN] BUY 5sh @ 0.61  oid=0x1448b816cba5404d8d4212c4749e5ad1f616ec7bda17652ee86893899b4659aa
+[LIVE] DN placed @ 0.61  (target=0.61, best_ask=0.62)
+[LIVE] UP:open@0.37 | DN:open@0.61 | 268s to start
+[LIVE] DN FILLED @ 0.61
+[LIVE] UP:open@0.37 | DN:FILLED@0.61 | 253s to start
+[LIVE] UP:open@0.37 | DN:FILLED@0.61 | 242s to start
+[LIVE] UP:open@0.37 | DN:FILLED@0.61 | 231s to start
+
+[MM] Signal 15, stopping...
+[UP] cancelled 0x7d9c23bf0d4138...
+[LIVE] candle done: DN@0.61
+[LIVE] shutdown

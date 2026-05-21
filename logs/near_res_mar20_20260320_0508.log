@@ -1,0 +1,1166 @@
+=== Near-Res Monitor: March 20 (NCAAB Day 2 + NBA) ===
+=== Started at 05:08 UTC ===
+=== 64 tokens (32 games) ===
+Params: MIN_PRICE=0.85, JUMP=0.2, SPREAD=0.04, MAX_MINS=20
+Sizing: MAX_SPEND=$15.0, PCT=0.28, MIN_SPEND=$1.0
+
+Capturing pre-game prices...
+  Pre-game Bournemouth: 0.280
+  Pre-game Man Utd: 0.460
+  Pre-game RB Leipzig: 0.490
+  Pre-game Hoffenheim: 0.270
+  Pre-game Villarreal: 0.490
+  Pre-game Real Sociedad: 0.247
+  Pre-game Preston: 0.360
+  Pre-game Stoke: 0.330
+  Pre-game Heracles: 0.360
+  Pre-game Excelsior: 0.340
+  Pre-game Genoa: 0.440
+  Pre-game Udinese: 0.240
+  Pre-game Cagliari: 0.170
+  Pre-game Napoli: 0.550
+  Pre-game Lens: 0.770
+  Pre-game Angers: 0.070
+  Pre-game B8: 0.600
+  Pre-game NRG: 0.390
+  Pre-game FaZe: 0.650
+  Pre-game TYLOO2: 0.340
+  Pre-game Falcons: 0.610
+  Pre-game NAVI: 0.380
+  Pre-game FURIA2: 0.600
+  Pre-game Aurora: 0.390
+  Pre-game Utah State: 0.530
+  Pre-game Villanova: 0.460
+  Pre-game Iowa: 0.540
+  Pre-game Clemson: 0.450
+  Pre-game UCF: 0.320
+  Pre-game UCLA: 0.670
+  Pre-game Missouri: 0.450
+  Pre-game Miami: 0.540
+  Pre-game Santa Clara: 0.410
+  Pre-game Kentucky: 0.580
+  Pre-game Akron: 0.250
+  Pre-game Texas Tech: 0.740
+  Pre-game N. Iowa: 0.170
+  Pre-game St. John's: 0.820
+  Pre-game Hofstra: 0.140
+  Pre-game Alabama2: 0.850
+  Pre-game Wright State: 0.060
+  Pre-game Virginia: 0.930
+  Pre-game Tennessee St: 0.037
+  Pre-game Iowa State: 0.962
+  Pre-game LIU: 0.015
+  Pre-game Arizona: 0.984
+  Pre-game Queens NC: 0.029
+  Pre-game Purdue: 0.970
+  Pre-game Cal Baptist: 0.100
+  Pre-game Kansas: 0.890
+  Pre-game Furman: 0.049
+  Pre-game UConn: 0.950
+  Pre-game Knicks: 0.940
+  Pre-game Nets: 0.050
+  Pre-game Warriors: 0.310
+  Pre-game Pistons: 0.680
+  Pre-game Hawks: 0.390
+  Pre-game Rockets: 0.600
+  Pre-game Celtics: 0.900
+  Pre-game Grizzlies: 0.090
+  Pre-game Trail Blazers: 0.420
+  Pre-game Timberwolves: 0.570
+  Pre-game Raptors: 0.280
+  Pre-game Nuggets: 0.710
+
+--- Check #1 at 05:08:24 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=982 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=897 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=957 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=882 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1242 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1372 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1387 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1252 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1282 
+
+--- Check #2 at 05:09:40 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=980 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=895 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=955 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=880 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1240 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1370 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1385 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1250 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1280 
+
+--- Check #3 at 05:10:57 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=979 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=894 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=954 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=879 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1239 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1369 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1384 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1249 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1279 
+
+--- Check #4 at 05:12:14 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=978 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=893 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=953 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=878 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1238 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1368 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1383 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1248 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1278 
+
+--- Check #5 at 05:13:32 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=976 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=891 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=951 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=876 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1236 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1366 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1381 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1246 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1276 
+
+--- Check #6 at 05:14:49 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=975 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=890 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=950 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=875 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1235 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1365 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1380 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1245 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1275 
+
+--- Check #7 at 05:16:06 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=974 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=889 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=949 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=874 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1234 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1364 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1379 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1244 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1274 
+
+--- Check #8 at 05:17:23 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=973 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=888 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=948 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=873 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1233 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1363 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1378 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1243 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1273 
+
+--- Check #9 at 05:18:41 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=971 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=886 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=946 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=871 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1231 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1361 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1376 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1241 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1271 
+
+--- Check #10 at 05:19:58 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=970 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=885 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=945 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=870 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1230 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1360 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1375 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1240 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1270 
+
+--- Check #11 at 05:21:16 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=969 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=884 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=944 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=869 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1229 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1359 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1374 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1239 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1269 
+
+--- Check #12 at 05:22:33 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=967 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=882 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=942 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=867 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1227 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1357 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1372 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1237 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1267 
+
+--- Check #13 at 05:23:50 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=966 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=881 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=941 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=866 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1226 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1356 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1371 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1236 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1266 
+
+--- Check #14 at 05:25:08 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=965 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=880 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=940 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=865 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1225 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1355 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1370 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1235 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1265 
+
+--- Check #15 at 05:26:25 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=964 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=879 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=939 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=864 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1224 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1354 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1369 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1234 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1264 
+
+--- Check #16 at 05:27:42 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=962 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=877 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=937 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=862 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1222 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1352 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1367 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1232 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1262 
+
+--- Check #17 at 05:29:00 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=961 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=876 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=936 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=861 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1221 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1351 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1366 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1231 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1261 
+
+--- Check #18 at 05:30:17 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=960 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=875 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=935 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=860 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1220 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1350 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1365 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1230 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1260 
+
+--- Check #19 at 05:31:35 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=958 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=873 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=933 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=858 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1218 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1348 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1363 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1228 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1258 
+
+--- Check #20 at 05:32:53 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=957 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=872 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=932 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=857 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1217 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1347 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1362 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1227 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1257 
+
+--- Check #21 at 05:34:10 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=956 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=871 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=931 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=856 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1216 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1346 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1361 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1226 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1256 
+
+--- Check #22 at 05:35:27 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=955 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=870 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=930 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=855 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1215 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1345 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1360 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1225 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1255 
+
+--- Check #23 at 05:36:45 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=953 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=868 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=928 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=853 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1213 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1343 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1358 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1223 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1253 
+
+--- Check #24 at 05:38:02 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=952 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=867 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=927 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=852 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1212 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1342 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1357 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1222 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1252 
+
+--- Check #25 at 05:39:19 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=951 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=866 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=926 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=851 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1211 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1341 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1356 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1221 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1251 
+
+--- Check #26 at 05:40:37 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=949 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=864 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=924 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=849 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1209 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1339 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1354 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1219 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1249 
+
+--- Check #27 at 05:41:54 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=948 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=863 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=923 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=848 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1208 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1338 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1353 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1218 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1248 
+
+--- Check #28 at 05:43:11 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=947 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=862 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=922 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=847 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1207 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1337 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1352 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1217 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1247 
+
+--- Check #29 at 05:44:29 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=946 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=861 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=921 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=846 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1206 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1336 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1351 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1216 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1246 
+
+--- Check #30 at 05:45:46 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=944 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=859 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=919 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=844 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1204 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1334 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1349 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1214 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1244 
+
+--- Check #31 at 05:47:04 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=943 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=858 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=918 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=843 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1203 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1333 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1348 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1213 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1243 
+
+--- Check #32 at 05:48:21 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=942 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=857 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=917 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=842 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1202 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1332 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1347 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1212 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1242 
+
+--- Check #33 at 05:49:38 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=940 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=855 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=915 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=840 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1200 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1330 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1345 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1210 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1240 
+
+--- Check #34 at 05:50:55 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=939 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=854 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=914 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=839 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1199 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1329 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1344 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1209 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1239 
+
+--- Check #35 at 05:52:13 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=938 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=853 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=913 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=838 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1198 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1328 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1343 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1208 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1238 
+
+--- Check #36 at 05:53:30 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=936 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=851 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=911 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=836 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1196 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1326 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1341 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1206 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1236 
+
+--- Check #37 at 05:54:47 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=935 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=850 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=910 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=835 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1195 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1325 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1340 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1205 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1235 
+
+--- Check #38 at 05:56:23 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=934 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=849 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=909 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=834 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1194 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1324 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1339 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1204 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1234 
+
+--- Check #39 at 05:57:41 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=932 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=847 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=907 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=832 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1192 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1322 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1337 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1202 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1232 
+
+--- Check #40 at 05:58:58 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=931 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=846 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=906 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=831 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1191 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1321 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1336 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1201 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1231 
+
+--- Check #41 at 06:00:15 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=930 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=845 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=905 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=830 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1190 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1320 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1335 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1200 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1230 
+
+--- Check #42 at 06:01:32 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=928 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=843 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=903 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=828 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1188 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1318 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1333 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1198 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1228 
+
+--- Check #43 at 06:02:50 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=927 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=842 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=902 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=827 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1187 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1317 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1332 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1197 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1227 
+
+--- Check #44 at 06:04:08 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=926 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=841 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=901 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=826 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1186 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1316 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1331 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1196 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1226 
+
+--- Check #45 at 06:05:25 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=925 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=840 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=900 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=825 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1185 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1315 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1330 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1195 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1225 
+
+--- Check #46 at 06:06:42 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=923 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=838 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=898 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=823 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1183 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1313 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1328 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1193 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1223 
+
+--- Check #47 at 06:07:59 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=922 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=837 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=897 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=822 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1182 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1312 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1327 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1192 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1222 
+
+--- Check #48 at 06:09:16 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=921 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=836 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=896 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=821 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1181 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1311 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1326 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1191 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1221 
+
+--- Check #49 at 06:10:34 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=919 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=834 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=894 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=819 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1179 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1309 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1324 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1189 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1219 
+
+--- Check #50 at 06:11:51 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=918 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=833 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=893 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=818 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1178 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1308 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1323 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1188 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1218 
+
+--- Check #51 at 06:13:09 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=917 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=832 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=892 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=817 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1177 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1307 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1322 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1187 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1217 
+
+--- Check #52 at 06:14:26 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=916 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=831 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=891 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=816 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1176 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1306 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1321 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1186 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1216 
+
+--- Check #53 at 06:15:43 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=914 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=829 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=889 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=814 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1174 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1304 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1319 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1184 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1214 
+
+--- Check #54 at 06:17:01 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=913 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=828 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=888 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=813 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1173 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1303 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1318 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1183 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1213 
+
+--- Check #55 at 06:18:18 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=912 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=827 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=887 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=812 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1172 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1302 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1317 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1182 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1212 
+
+--- Check #56 at 06:19:36 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=910 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=825 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=885 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=810 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1170 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1300 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1315 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1180 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1210 
+
+--- Check #57 at 06:20:53 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=909 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=824 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=884 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=809 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1169 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1299 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1314 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1179 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1209 
+
+--- Check #58 at 06:22:10 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=908 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=823 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=883 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=808 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1168 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1298 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1313 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1178 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1208 
+
+--- Check #59 at 06:23:27 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=907 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=822 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=882 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=807 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1167 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1297 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1312 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1177 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1207 
+
+--- Check #60 at 06:24:45 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=905 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=820 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=880 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=805 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1165 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1295 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1310 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1175 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1205 
+
+--- Check #61 at 06:26:02 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=904 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=819 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=879 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=804 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1164 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1294 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1309 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1174 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1204 
+
+--- Check #62 at 06:27:20 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=903 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=818 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=878 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=803 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1163 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1293 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1308 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1173 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1203 
+
+--- Check #63 at 06:28:37 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=901 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=816 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=876 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=801 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1161 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1291 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1306 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1171 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1201 
+
+--- Check #64 at 06:29:55 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=900 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=815 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=875 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=800 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1160 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1290 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1305 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1170 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1200 
+
+--- Check #65 at 06:31:12 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=899 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=814 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=874 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=799 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1159 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1289 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1304 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1169 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1199 
+
+--- Check #66 at 06:32:30 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=897 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=812 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=872 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=797 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1157 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1287 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1302 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1167 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1197 
+
+--- Check #67 at 06:33:48 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=896 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=811 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=871 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=796 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1156 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1286 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1301 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1166 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1196 
+
+--- Check #68 at 06:35:05 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=895 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=810 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=870 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=795 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1155 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1285 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1300 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1165 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1195 
+
+--- Check #69 at 06:36:22 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=894 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=809 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=869 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=794 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1154 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1284 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1299 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1164 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1194 
+
+--- Check #70 at 06:37:39 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=892 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=807 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=867 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=792 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1152 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1282 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1297 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1162 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1192 
+
+--- Check #71 at 06:38:57 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=891 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=806 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=866 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=791 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1151 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1281 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1296 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1161 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1191 
+
+--- Check #72 at 06:40:14 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=890 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=805 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=865 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=790 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1150 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1280 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1295 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1160 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1190 
+
+--- Check #73 at 06:41:32 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=888 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=803 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=863 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=788 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1148 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1278 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1293 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1158 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1188 
+
+--- Check #74 at 06:42:49 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=887 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=802 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=862 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=787 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1147 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1277 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1292 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1157 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1187 
+
+--- Check #75 at 06:44:07 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=886 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=801 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=861 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=786 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1146 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1276 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1291 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1156 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1186 
+
+--- Check #76 at 06:45:24 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=885 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=800 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=860 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=785 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1145 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1275 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1290 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1155 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1185 
+
+--- Check #77 at 06:46:41 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=883 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=798 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=858 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=783 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1143 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1273 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1288 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1153 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1183 
+
+--- Check #78 at 06:47:59 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=882 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=797 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=857 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=782 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1142 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1272 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1287 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1152 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1182 
+
+--- Check #79 at 06:49:17 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=881 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=796 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=856 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=781 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1141 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1271 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1286 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1151 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1181 
+
+--- Check #80 at 06:50:34 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=879 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=794 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=854 
+  Arizona        buy=0.984 sell=0.985 spread=-0.001 jump=+0.000 mins=779 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1139 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1269 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1284 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1149 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1179 
+
+--- Check #81 at 06:51:52 UTC ---
+  Balance: $31.59
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=878 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=793 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=853 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=778 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1138 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1268 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1283 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1148 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1178 
+
+--- Check #82 at 06:53:10 UTC ---
+  Balance: $41.70
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=877 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=792 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=852 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=777 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1137 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1267 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1282 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1147 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1177 
+
+--- Check #83 at 06:54:27 UTC ---
+  Balance: $41.70
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=876 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=791 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=851 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=776 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1136 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1266 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1281 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1146 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1176 
+
+--- Check #84 at 06:55:45 UTC ---
+  Balance: $41.70
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=874 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=789 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=849 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=774 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1134 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1264 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1279 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1144 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1174 
+
+--- Check #85 at 06:57:02 UTC ---
+  Balance: $41.70
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=873 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=788 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=848 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=773 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1133 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1263 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1278 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1143 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1173 
+
+--- Check #86 at 06:58:20 UTC ---
+  Balance: $41.70
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=872 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=787 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=847 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=772 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1132 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1262 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1277 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1142 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1172 
+
+--- Check #87 at 06:59:38 UTC ---
+  Balance: $41.70
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=870 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=785 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=845 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=770 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1130 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1260 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1275 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1140 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1170 
+
+--- Check #88 at 07:00:55 UTC ---
+  Balance: $41.70
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=869 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=784 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=844 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=769 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1129 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1259 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1274 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1139 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1169 
+
+--- Check #89 at 07:02:12 UTC ---
+  Balance: $41.70
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=868 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=783 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=843 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=768 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1128 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1258 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1273 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1138 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1168 
+
+--- Check #90 at 07:03:29 UTC ---
+  Balance: $41.70
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=867 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=782 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=842 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=767 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1127 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1257 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1272 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1137 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1167 
+
+--- Check #91 at 07:04:47 UTC ---
+  Balance: $41.70
+  Alabama2       buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=865 
+  Virginia       buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=780 
+  Iowa State     buy=0.962 sell=0.963 spread=-0.001 jump=+0.000 mins=840 
+  Arizona        buy=0.983 sell=0.985 spread=-0.002 jump=-0.001 mins=765 
+  Purdue         buy=0.970 sell=0.971 spread=-0.001 jump=+0.000 mins=1125 
+  Kansas         buy=0.890 sell=0.900 spread=-0.010 jump=+0.000 mins=1255 
+  UConn          buy=0.950 sell=0.951 spread=-0.001 jump=+0.000 mins=1270 
+  Knicks         buy=0.940 sell=0.950 spread=-0.010 jump=+0.000 mins=1135 
+  Celtics        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1165 
+
+--- Check #92 at 07:06:04 UTC ---
+  Balance: $41.70

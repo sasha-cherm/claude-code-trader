@@ -1,0 +1,3151 @@
+=== NBA+NCAAB Mar 26 Near-Res Monitor ===
+Started at 2026-03-26 21:03:13 UTC
+Monitoring 10 tokens (5 games)
+Params: MIN_PRICE=0.85, JUMP=0.2, SPREAD=0.04, MAX_MINS=20
+Balance: $17.28
+
+Snapshotting pre-game prices...
+  Pre-game Knicks: 0.450
+  Pre-game Hornets: 0.540
+  Pre-game Pelicans: 0.360
+  Pre-game Pistons: 0.630
+  Pre-game Kings: 0.090
+  Pre-game Magic: 0.900
+  Pre-game Illinois: 0.430
+  Pre-game Houston: 0.560
+  Pre-game Tennessee: 0.370
+  Pre-game Iowa State: 0.620
+
+--- Check #0 at 21:03:15 UTC ---
+  Balance: $17.28
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=267 
+
+--- Check #1 at 21:04:28 UTC ---
+  Balance: $17.28
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=266 
+
+--- Check #2 at 21:05:41 UTC ---
+  Balance: $17.28
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=264 
+
+--- Check #3 at 21:06:54 UTC ---
+  Balance: $17.28
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=263 
+
+--- Check #4 at 21:08:07 UTC ---
+  Balance: $17.28
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=262 
+
+--- Check #5 at 21:09:20 UTC ---
+  Balance: $17.28
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=261 
+
+--- Check #6 at 21:10:33 UTC ---
+  Balance: $12.44
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=259 
+
+--- Check #7 at 21:11:46 UTC ---
+  Balance: $12.44
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=258 
+
+--- Check #8 at 21:13:00 UTC ---
+  Balance: $12.44
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=257 
+
+--- Check #9 at 21:14:13 UTC ---
+  Balance: $12.44
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=256 
+
+--- Check #10 at 21:15:26 UTC ---
+  Balance: $12.44
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=255 
+
+--- Check #11 at 21:16:40 UTC ---
+  Balance: $8.96
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=253 
+
+--- Check #12 at 21:17:53 UTC ---
+  Balance: $8.96
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=252 
+
+--- Check #13 at 21:19:06 UTC ---
+  Balance: $8.96
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=251 
+
+--- Check #14 at 21:20:20 UTC ---
+  Balance: $8.96
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=250 
+
+--- Check #15 at 21:21:33 UTC ---
+  Balance: $8.96
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=248 
+
+--- Check #16 at 21:22:47 UTC ---
+  Balance: $8.96
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=247 
+
+--- Check #17 at 21:24:00 UTC ---
+  Balance: $6.46
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=246 
+
+--- Check #18 at 21:25:13 UTC ---
+  Balance: $6.46
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=245 
+
+--- Check #19 at 21:26:27 UTC ---
+  Balance: $6.46
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=244 
+
+--- Check #20 at 21:27:40 UTC ---
+  Balance: $6.46
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=242 
+
+--- Check #21 at 21:28:53 UTC ---
+  Balance: $6.46
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=241 
+
+--- Check #22 at 21:30:06 UTC ---
+  Balance: $6.46
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=240 
+
+--- Check #23 at 21:31:20 UTC ---
+  Balance: $6.46
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=239 
+
+--- Check #24 at 21:32:33 UTC ---
+  Balance: $6.46
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=237 
+
+--- Check #25 at 21:33:46 UTC ---
+  Balance: $6.46
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=236 
+
+--- Check #26 at 21:35:00 UTC ---
+  Balance: $6.46
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=235 
+
+--- Check #27 at 21:36:13 UTC ---
+  Balance: $4.66
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=234 
+
+--- Check #28 at 21:37:27 UTC ---
+  Balance: $4.66
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=233 
+
+--- Check #29 at 21:38:40 UTC ---
+  Balance: $4.66
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=231 
+
+--- Check #30 at 21:39:53 UTC ---
+  Balance: $4.66
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=230 
+
+--- Check #31 at 21:41:07 UTC ---
+  Balance: $4.66
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=229 
+
+--- Check #32 at 21:42:20 UTC ---
+  Balance: $4.66
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=228 
+
+--- Check #33 at 21:43:33 UTC ---
+  Balance: $4.66
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=226 
+
+--- Check #34 at 21:44:46 UTC ---
+  Balance: $4.66
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=225 
+
+--- Check #35 at 21:45:59 UTC ---
+  Balance: $4.66
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=224 
+
+--- Check #36 at 21:47:12 UTC ---
+  Balance: $4.66
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=223 
+
+--- Check #37 at 21:48:25 UTC ---
+  Balance: $4.66
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=222 
+
+--- Check #38 at 21:49:39 UTC ---
+  Balance: $4.66
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=220 
+
+--- Check #39 at 21:50:52 UTC ---
+  Balance: $4.66
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=219 
+
+--- Check #40 at 21:52:06 UTC ---
+  Balance: $4.66
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=218 
+
+--- Check #41 at 21:53:19 UTC ---
+  Balance: $4.66
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=217 
+
+--- Check #42 at 21:54:32 UTC ---
+  Balance: $4.66
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=215 
+
+--- Check #43 at 21:55:45 UTC ---
+  Balance: $4.66
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=214 
+
+--- Check #44 at 21:56:59 UTC ---
+  Balance: $4.66
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=213 
+
+--- Check #45 at 21:58:12 UTC ---
+  Balance: $4.66
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=212 
+
+--- Check #46 at 21:59:25 UTC ---
+  Balance: $4.66
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=211 
+
+--- Check #47 at 22:00:39 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=209 
+
+--- Check #48 at 22:01:52 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=208 
+
+--- Check #49 at 22:03:05 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=207 
+
+--- Check #50 at 22:04:18 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=206 
+
+--- Check #51 at 22:05:32 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=204 
+
+--- Check #52 at 22:06:45 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=203 
+
+--- Check #53 at 22:07:58 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=202 
+
+--- Check #54 at 22:09:11 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=201 
+
+--- Check #55 at 22:10:24 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=200 
+
+--- Check #56 at 22:11:38 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=198 
+
+--- Check #57 at 22:12:51 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=197 
+
+--- Check #58 at 22:14:04 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=196 
+
+--- Check #59 at 22:15:17 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=195 
+
+--- Check #60 at 22:16:31 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=193 
+
+--- Check #61 at 22:17:44 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=192 
+
+--- Check #62 at 22:18:57 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=191 
+
+--- Check #63 at 22:20:10 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=190 
+
+--- Check #64 at 22:21:23 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=189 
+
+--- Check #65 at 22:22:36 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=187 
+
+--- Check #66 at 22:23:49 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=186 
+
+--- Check #67 at 22:25:02 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=185 
+
+--- Check #68 at 22:26:15 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=184 
+
+--- Check #69 at 22:27:29 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=183 
+
+--- Check #70 at 22:28:42 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=181 
+
+--- Check #71 at 22:29:55 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=180 
+
+--- Check #72 at 22:31:08 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=179 
+
+--- Check #73 at 22:32:21 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=178 
+
+--- Check #74 at 22:33:35 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=176 
+
+--- Check #75 at 22:34:48 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=175 
+
+--- Check #76 at 22:36:01 UTC ---
+  Balance: $2.11
+  Magic          buy=0.890 sell=0.900 spread=-0.010 jump=-0.010 mins=174 
+
+--- Check #77 at 22:37:14 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=173 
+
+--- Check #78 at 22:38:28 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=172 
+
+--- Check #79 at 22:39:41 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=170 
+
+--- Check #80 at 22:40:54 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=169 
+
+--- Check #81 at 22:42:07 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=168 
+
+--- Check #82 at 22:43:21 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=167 
+
+--- Check #83 at 22:44:34 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=165 
+
+--- Check #84 at 22:45:47 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=164 
+
+--- Check #85 at 22:47:00 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=163 
+
+--- Check #86 at 22:48:13 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=162 
+
+--- Check #87 at 22:49:27 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=161 
+
+--- Check #88 at 22:50:40 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=159 
+
+--- Check #89 at 22:51:53 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=158 
+
+--- Check #90 at 22:53:06 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=157 
+
+--- Check #91 at 22:54:19 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=156 
+
+--- Check #92 at 22:55:32 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=154 
+
+--- Check #93 at 22:56:45 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=153 
+
+--- Check #94 at 22:57:58 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=152 
+
+--- Check #95 at 22:59:11 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=151 
+
+--- Check #96 at 23:00:24 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=150 
+
+--- Check #97 at 23:01:38 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=148 
+
+--- Check #98 at 23:02:51 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=147 
+
+--- Check #99 at 23:04:04 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=146 
+
+--- Check #100 at 23:05:17 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=145 
+
+--- Check #101 at 23:06:31 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=143 
+
+--- Check #102 at 23:07:44 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=142 
+
+--- Check #103 at 23:08:57 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=141 
+
+--- Check #104 at 23:10:10 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=140 
+
+--- Check #105 at 23:11:23 UTC ---
+  Balance: $2.11
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=139 
+
+--- Check #106 at 23:12:36 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.370 sell=0.380 spread=-0.010 jump=-0.080 mins=137 
+  Hornets        buy=0.610 sell=0.620 spread=-0.010 jump=+0.070 mins=137 
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=137 
+
+--- Check #107 at 23:13:49 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.370 sell=0.380 spread=-0.010 jump=-0.080 mins=136 
+  Hornets        buy=0.620 sell=0.630 spread=-0.010 jump=+0.080 mins=136 
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=136 
+
+--- Check #108 at 23:15:02 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.370 sell=0.380 spread=-0.010 jump=-0.080 mins=135 
+  Hornets        buy=0.620 sell=0.630 spread=-0.010 jump=+0.080 mins=135 
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=135 
+
+--- Check #109 at 23:16:16 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.360 sell=0.370 spread=-0.010 jump=-0.090 mins=134 
+  Hornets        buy=0.630 sell=0.640 spread=-0.010 jump=+0.090 mins=134 
+  Magic          buy=0.910 sell=0.920 spread=-0.010 jump=+0.010 mins=134 
+
+--- Check #110 at 23:17:29 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.360 sell=0.370 spread=-0.010 jump=-0.090 mins=133 
+  Hornets        buy=0.630 sell=0.640 spread=-0.010 jump=+0.090 mins=133 
+  Magic          buy=0.910 sell=0.920 spread=-0.010 jump=+0.010 mins=133 
+
+--- Check #111 at 23:18:42 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.340 sell=0.350 spread=-0.010 jump=-0.110 mins=131 
+  Hornets        buy=0.650 sell=0.660 spread=-0.010 jump=+0.110 mins=131 
+  Magic          buy=0.910 sell=0.920 spread=-0.010 jump=+0.010 mins=131 
+
+--- Check #112 at 23:19:55 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.390 sell=0.400 spread=-0.010 jump=-0.060 mins=130 
+  Hornets        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=130 
+  Magic          buy=0.910 sell=0.920 spread=-0.010 jump=+0.010 mins=130 
+
+--- Check #113 at 23:21:08 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.320 sell=0.330 spread=-0.010 jump=-0.130 mins=129 
+  Hornets        buy=0.670 sell=0.680 spread=-0.010 jump=+0.130 mins=129 
+  Magic          buy=0.910 sell=0.920 spread=-0.010 jump=+0.010 mins=129 
+
+--- Check #114 at 23:22:21 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.280 sell=0.290 spread=-0.010 jump=-0.170 mins=128 
+  Hornets        buy=0.710 sell=0.720 spread=-0.010 jump=+0.170 mins=128 
+  Magic          buy=0.910 sell=0.920 spread=-0.010 jump=+0.010 mins=128 
+
+--- Check #115 at 23:23:35 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.280 sell=0.290 spread=-0.010 jump=-0.170 mins=126 
+  Hornets        buy=0.710 sell=0.720 spread=-0.010 jump=+0.170 mins=126 
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=126 
+
+--- Check #116 at 23:24:48 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.290 sell=0.300 spread=-0.010 jump=-0.160 mins=125 
+  Hornets        buy=0.700 sell=0.710 spread=-0.010 jump=+0.160 mins=125 
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=125 
+
+--- Check #117 at 23:26:01 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.290 sell=0.300 spread=-0.010 jump=-0.160 mins=124 
+  Hornets        buy=0.700 sell=0.710 spread=-0.010 jump=+0.160 mins=124 
+  Magic          buy=0.910 sell=0.920 spread=-0.010 jump=+0.010 mins=124 
+
+--- Check #118 at 23:27:14 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.350 sell=0.360 spread=-0.010 jump=-0.100 mins=123 
+  Hornets        buy=0.640 sell=0.650 spread=-0.010 jump=+0.100 mins=123 
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=123 
+
+--- Check #119 at 23:28:27 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.360 sell=0.370 spread=-0.010 jump=-0.090 mins=122 
+  Hornets        buy=0.630 sell=0.640 spread=-0.010 jump=+0.090 mins=122 
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=122 
+
+--- Check #120 at 23:29:40 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.340 sell=0.350 spread=-0.010 jump=-0.110 mins=120 
+  Hornets        buy=0.650 sell=0.660 spread=-0.010 jump=+0.110 mins=120 
+  Magic          buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=120 
+
+--- Check #121 at 23:30:53 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.370 sell=0.380 spread=-0.010 jump=-0.080 mins=119 
+  Hornets        buy=0.620 sell=0.630 spread=-0.010 jump=+0.080 mins=119 
+  Magic          buy=0.910 sell=0.920 spread=-0.010 jump=+0.010 mins=119 
+
+--- Check #122 at 23:32:06 UTC ---
+  Balance: $2.11
+  Magic          buy=0.910 sell=0.920 spread=-0.010 jump=+0.010 mins=118 
+
+--- Check #123 at 23:33:19 UTC ---
+  Balance: $2.11
+  Magic          buy=0.910 sell=0.920 spread=-0.010 jump=+0.010 mins=117 
+
+--- Check #124 at 23:34:33 UTC ---
+  Balance: $2.11
+  Pelicans       buy=0.420 sell=0.430 spread=-0.010 jump=+0.060 mins=115 
+  Pistons        buy=0.570 sell=0.580 spread=-0.010 jump=-0.060 mins=115 
+  Magic          buy=0.910 sell=0.920 spread=-0.010 jump=+0.010 mins=115 
+
+--- Check #125 at 23:35:46 UTC ---
+  Balance: $2.11
+  Magic          buy=0.910 sell=0.920 spread=-0.010 jump=+0.010 mins=114 
+
+--- Check #126 at 23:36:59 UTC ---
+  Balance: $2.11
+  Magic          buy=0.910 sell=0.920 spread=-0.010 jump=+0.010 mins=113 
+
+--- Check #127 at 23:38:12 UTC ---
+  Balance: $2.11
+  Magic          buy=0.910 sell=0.920 spread=-0.010 jump=+0.010 mins=112 
+
+--- Check #128 at 23:39:25 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.390 sell=0.400 spread=-0.010 jump=-0.060 mins=111 
+  Hornets        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=111 
+  Magic          buy=0.920 sell=0.930 spread=-0.010 jump=+0.020 mins=111 
+
+--- Check #129 at 23:40:38 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.390 sell=0.400 spread=-0.010 jump=-0.060 mins=109 
+  Hornets        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=109 
+  Magic          buy=0.940 sell=0.950 spread=-0.010 jump=+0.040 mins=109 
+
+--- Check #130 at 23:41:52 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.390 sell=0.400 spread=-0.010 jump=-0.060 mins=108 
+  Hornets        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=108 
+  Magic          buy=0.940 sell=0.950 spread=-0.010 jump=+0.040 mins=108 
+
+--- Check #131 at 23:43:05 UTC ---
+  Balance: $2.11
+  Magic          buy=0.940 sell=0.950 spread=-0.010 jump=+0.040 mins=107 
+
+--- Check #132 at 23:44:18 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.360 sell=0.370 spread=-0.010 jump=-0.090 mins=106 
+  Hornets        buy=0.630 sell=0.640 spread=-0.010 jump=+0.090 mins=106 
+  Magic          buy=0.950 sell=0.960 spread=-0.010 jump=+0.050 mins=106 
+
+--- Check #133 at 23:45:31 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.380 sell=0.390 spread=-0.010 jump=-0.070 mins=104 
+  Hornets        buy=0.610 sell=0.620 spread=-0.010 jump=+0.070 mins=104 
+  Magic          buy=0.950 sell=0.960 spread=-0.010 jump=+0.050 mins=104 
+
+--- Check #134 at 23:46:44 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.390 sell=0.400 spread=-0.010 jump=-0.060 mins=103 
+  Hornets        buy=0.600 sell=0.610 spread=-0.010 jump=+0.060 mins=103 
+  Pistons        buy=0.680 sell=0.690 spread=-0.010 jump=+0.050 mins=103 
+  Kings          buy=0.030 sell=0.040 spread=-0.010 jump=-0.060 mins=103 
+  Magic          buy=0.960 sell=0.970 spread=-0.010 jump=+0.060 mins=103 
+
+--- Check #135 at 23:47:58 UTC ---
+  Balance: $2.11
+  Pelicans       buy=0.280 sell=0.290 spread=-0.010 jump=-0.080 mins=102 
+  Pistons        buy=0.710 sell=0.720 spread=-0.010 jump=+0.080 mins=102 
+  Kings          buy=0.030 sell=0.031 spread=-0.001 jump=-0.060 mins=102 
+  Magic          buy=0.969 sell=0.970 spread=-0.001 jump=+0.069 mins=102 
+
+--- Check #136 at 23:49:11 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.370 sell=0.380 spread=-0.010 jump=-0.080 mins=101 
+  Hornets        buy=0.620 sell=0.630 spread=-0.010 jump=+0.080 mins=101 
+  Pelicans       buy=0.300 sell=0.310 spread=-0.010 jump=-0.060 mins=101 
+  Pistons        buy=0.690 sell=0.700 spread=-0.010 jump=+0.060 mins=101 
+  Kings          buy=0.039 sell=0.040 spread=-0.001 jump=-0.051 mins=101 
+  Magic          buy=0.960 sell=0.961 spread=-0.001 jump=+0.060 mins=101 
+
+--- Check #137 at 23:50:24 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.320 sell=0.330 spread=-0.010 jump=-0.130 mins=100 
+  Hornets        buy=0.670 sell=0.680 spread=-0.010 jump=+0.130 mins=100 
+  Pelicans       buy=0.300 sell=0.310 spread=-0.010 jump=-0.060 mins=100 
+  Pistons        buy=0.690 sell=0.700 spread=-0.010 jump=+0.060 mins=100 
+  Magic          buy=0.941 sell=0.944 spread=-0.003 jump=+0.041 mins=100 
+
+--- Check #138 at 23:51:37 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.320 sell=0.340 spread=-0.020 jump=-0.130 mins=98 
+  Hornets        buy=0.660 sell=0.680 spread=-0.020 jump=+0.120 mins=98 
+  Pelicans       buy=0.280 sell=0.290 spread=-0.010 jump=-0.080 mins=98 
+  Pistons        buy=0.710 sell=0.720 spread=-0.010 jump=+0.080 mins=98 
+  Magic          buy=0.938 sell=0.940 spread=-0.002 jump=+0.038 mins=98 
+
+--- Check #139 at 23:52:50 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.320 sell=0.330 spread=-0.010 jump=-0.130 mins=97 
+  Hornets        buy=0.670 sell=0.680 spread=-0.010 jump=+0.130 mins=97 
+  Pelicans       buy=0.300 sell=0.320 spread=-0.020 jump=-0.060 mins=97 
+  Pistons        buy=0.680 sell=0.690 spread=-0.010 jump=+0.050 mins=97 
+  Magic          buy=0.916 sell=0.920 spread=-0.004 jump=+0.016 mins=97 
+
+--- Check #140 at 23:54:02 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.320 sell=0.330 spread=-0.010 jump=-0.130 mins=96 
+  Hornets        buy=0.670 sell=0.680 spread=-0.010 jump=+0.130 mins=96 
+  Magic          buy=0.916 sell=0.920 spread=-0.004 jump=+0.016 mins=96 
+
+--- Check #141 at 23:55:16 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.320 sell=0.330 spread=-0.010 jump=-0.130 mins=95 
+  Hornets        buy=0.670 sell=0.680 spread=-0.010 jump=+0.130 mins=95 
+  Pistons        buy=0.680 sell=0.690 spread=-0.010 jump=+0.050 mins=95 
+  Magic          buy=0.907 sell=0.910 spread=-0.003 jump=+0.007 mins=95 
+
+--- Check #142 at 23:56:29 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.310 sell=0.320 spread=-0.010 jump=-0.140 mins=94 
+  Hornets        buy=0.680 sell=0.690 spread=-0.010 jump=+0.140 mins=94 
+  Pelicans       buy=0.280 sell=0.290 spread=-0.010 jump=-0.080 mins=94 
+  Pistons        buy=0.710 sell=0.720 spread=-0.010 jump=+0.080 mins=94 
+  Magic          buy=0.902 sell=0.909 spread=-0.007 jump=+0.002 mins=94 
+
+--- Check #143 at 23:57:42 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.340 sell=0.350 spread=-0.010 jump=-0.110 mins=92 
+  Hornets        buy=0.650 sell=0.660 spread=-0.010 jump=+0.110 mins=92 
+  Pelicans       buy=0.250 sell=0.260 spread=-0.010 jump=-0.110 mins=92 
+  Pistons        buy=0.740 sell=0.760 spread=-0.020 jump=+0.110 mins=92 
+  Magic          buy=0.895 sell=0.905 spread=-0.010 jump=-0.005 mins=92 
+
+--- Check #144 at 23:58:55 UTC ---
+  Balance: $2.11
+  Pelicans       buy=0.230 sell=0.240 spread=-0.010 jump=-0.130 mins=91 
+  Pistons        buy=0.750 sell=0.760 spread=-0.010 jump=+0.120 mins=91 
+  Magic          buy=0.888 sell=0.889 spread=-0.001 jump=-0.012 mins=91 
+
+--- Check #145 at 00:00:08 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.360 sell=0.370 spread=-0.010 jump=-0.090 mins=90 
+  Hornets        buy=0.630 sell=0.640 spread=-0.010 jump=+0.090 mins=90 
+  Pelicans       buy=0.230 sell=0.240 spread=-0.010 jump=-0.130 mins=90 
+  Pistons        buy=0.760 sell=0.770 spread=-0.010 jump=+0.130 mins=90 
+  Magic          buy=0.888 sell=0.894 spread=-0.006 jump=-0.012 mins=90 
+
+--- Check #146 at 00:01:22 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.340 sell=0.350 spread=-0.010 jump=-0.110 mins=89 
+  Hornets        buy=0.650 sell=0.660 spread=-0.010 jump=+0.110 mins=89 
+  Pelicans       buy=0.220 sell=0.230 spread=-0.010 jump=-0.140 mins=89 
+  Pistons        buy=0.770 sell=0.780 spread=-0.010 jump=+0.140 mins=89 
+  Magic          buy=0.870 sell=0.880 spread=-0.010 jump=-0.030 mins=89 
+
+--- Check #147 at 00:02:35 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.370 sell=0.380 spread=-0.010 jump=-0.080 mins=87 
+  Hornets        buy=0.620 sell=0.630 spread=-0.010 jump=+0.080 mins=87 
+  Pelicans       buy=0.180 sell=0.200 spread=-0.020 jump=-0.180 mins=87 
+  Pistons        buy=0.800 sell=0.820 spread=-0.020 jump=+0.170 mins=87 
+  Magic          buy=0.870 sell=0.879 spread=-0.009 jump=-0.030 mins=87 
+
+--- Check #148 at 00:03:48 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.350 sell=0.370 spread=-0.020 jump=-0.100 mins=86 
+  Hornets        buy=0.630 sell=0.650 spread=-0.020 jump=+0.090 mins=86 
+  Pelicans       buy=0.180 sell=0.190 spread=-0.010 jump=-0.180 mins=86 
+  Pistons        buy=0.810 sell=0.820 spread=-0.010 jump=+0.180 mins=86 
+  Magic          buy=0.870 sell=0.879 spread=-0.009 jump=-0.030 mins=86 
+
+--- Check #149 at 00:05:01 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.360 sell=0.370 spread=-0.010 jump=-0.090 mins=85 
+  Hornets        buy=0.630 sell=0.640 spread=-0.010 jump=+0.090 mins=85 
+  Pelicans       buy=0.180 sell=0.190 spread=-0.010 jump=-0.180 mins=85 
+  Pistons        buy=0.810 sell=0.820 spread=-0.010 jump=+0.180 mins=85 
+  Magic          buy=0.872 sell=0.881 spread=-0.009 jump=-0.028 mins=85 
+
+--- Check #150 at 00:06:14 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.260 sell=0.270 spread=-0.010 jump=-0.190 mins=84 
+  Hornets        buy=0.730 sell=0.740 spread=-0.010 jump=+0.190 mins=84 
+  Pelicans       buy=0.140 sell=0.150 spread=-0.010 jump=-0.220 mins=84 
+  Pistons        buy=0.850 sell=0.860 spread=-0.010 jump=+0.220 mins=84 
+  Magic          buy=0.892 sell=0.894 spread=-0.002 jump=-0.008 mins=84 
+
+--- Check #151 at 00:07:27 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.250 sell=0.260 spread=-0.010 jump=-0.200 mins=83 
+  Hornets        buy=0.740 sell=0.750 spread=-0.010 jump=+0.200 mins=83 
+  Pelicans       buy=0.160 sell=0.170 spread=-0.010 jump=-0.200 mins=83 
+  Pistons        buy=0.830 sell=0.840 spread=-0.010 jump=+0.200 mins=83 
+  Magic          buy=0.891 sell=0.893 spread=-0.002 jump=-0.009 mins=83 
+
+--- Check #152 at 00:08:42 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.230 sell=0.240 spread=-0.010 jump=-0.220 mins=81 
+  Hornets        buy=0.760 sell=0.770 spread=-0.010 jump=+0.220 mins=81 
+  Pelicans       buy=0.180 sell=0.190 spread=-0.010 jump=-0.180 mins=81 
+  Pistons        buy=0.810 sell=0.820 spread=-0.010 jump=+0.180 mins=81 
+  Magic          buy=0.892 sell=0.893 spread=-0.001 jump=-0.008 mins=81 
+
+--- Check #153 at 00:09:55 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.230 sell=0.240 spread=-0.010 jump=-0.220 mins=80 
+  Hornets        buy=0.760 sell=0.770 spread=-0.010 jump=+0.220 mins=80 
+  Pelicans       buy=0.180 sell=0.190 spread=-0.010 jump=-0.180 mins=80 
+  Pistons        buy=0.810 sell=0.820 spread=-0.010 jump=+0.180 mins=80 
+  Magic          buy=0.899 sell=0.901 spread=-0.002 jump=-0.001 mins=80 
+
+--- Check #154 at 00:11:08 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.230 sell=0.240 spread=-0.010 jump=-0.220 mins=79 
+  Hornets        buy=0.760 sell=0.770 spread=-0.010 jump=+0.220 mins=79 
+  Pelicans       buy=0.180 sell=0.190 spread=-0.010 jump=-0.180 mins=79 
+  Pistons        buy=0.810 sell=0.820 spread=-0.010 jump=+0.180 mins=79 
+  Magic          buy=0.908 sell=0.910 spread=-0.002 jump=+0.008 mins=79 
+
+--- Check #155 at 00:12:21 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.230 sell=0.240 spread=-0.010 jump=-0.220 mins=78 
+  Hornets        buy=0.760 sell=0.770 spread=-0.010 jump=+0.220 mins=78 
+  Pelicans       buy=0.180 sell=0.190 spread=-0.010 jump=-0.180 mins=78 
+  Pistons        buy=0.810 sell=0.820 spread=-0.010 jump=+0.180 mins=78 
+  Magic          buy=0.913 sell=0.914 spread=-0.001 jump=+0.013 mins=78 
+
+--- Check #156 at 00:13:34 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.230 sell=0.240 spread=-0.010 jump=-0.220 mins=76 
+  Hornets        buy=0.760 sell=0.770 spread=-0.010 jump=+0.220 mins=76 
+  Pelicans       buy=0.180 sell=0.190 spread=-0.010 jump=-0.180 mins=76 
+  Pistons        buy=0.810 sell=0.820 spread=-0.010 jump=+0.180 mins=76 
+  Magic          buy=0.921 sell=0.926 spread=-0.005 jump=+0.021 mins=76 
+
+--- Check #157 at 00:14:48 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.240 sell=0.250 spread=-0.010 jump=-0.210 mins=75 
+  Hornets        buy=0.750 sell=0.760 spread=-0.010 jump=+0.210 mins=75 
+  Pelicans       buy=0.180 sell=0.190 spread=-0.010 jump=-0.180 mins=75 
+  Pistons        buy=0.810 sell=0.820 spread=-0.010 jump=+0.180 mins=75 
+  Magic          buy=0.919 sell=0.920 spread=-0.001 jump=+0.019 mins=75 
+
+--- Check #158 at 00:16:02 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.230 sell=0.240 spread=-0.010 jump=-0.220 mins=74 
+  Hornets        buy=0.760 sell=0.770 spread=-0.010 jump=+0.220 mins=74 
+  Pelicans       buy=0.180 sell=0.190 spread=-0.010 jump=-0.180 mins=74 
+  Pistons        buy=0.810 sell=0.820 spread=-0.010 jump=+0.180 mins=74 
+  Magic          buy=0.913 sell=0.914 spread=-0.001 jump=+0.013 mins=74 
+
+--- Check #159 at 00:17:15 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.230 sell=0.240 spread=-0.010 jump=-0.220 mins=73 
+  Hornets        buy=0.760 sell=0.770 spread=-0.010 jump=+0.220 mins=73 
+  Pelicans       buy=0.180 sell=0.190 spread=-0.010 jump=-0.180 mins=73 
+  Pistons        buy=0.810 sell=0.820 spread=-0.010 jump=+0.180 mins=73 
+  Magic          buy=0.915 sell=0.919 spread=-0.004 jump=+0.015 mins=73 
+
+--- Check #160 at 00:18:28 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.240 sell=0.250 spread=-0.010 jump=-0.210 mins=72 
+  Hornets        buy=0.750 sell=0.760 spread=-0.010 jump=+0.210 mins=72 
+  Pelicans       buy=0.180 sell=0.190 spread=-0.010 jump=-0.180 mins=72 
+  Pistons        buy=0.810 sell=0.820 spread=-0.010 jump=+0.180 mins=72 
+  Magic          buy=0.917 sell=0.920 spread=-0.003 jump=+0.017 mins=72 
+
+--- Check #161 at 00:19:41 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.230 sell=0.240 spread=-0.010 jump=-0.220 mins=70 
+  Hornets        buy=0.760 sell=0.770 spread=-0.010 jump=+0.220 mins=70 
+  Pelicans       buy=0.180 sell=0.190 spread=-0.010 jump=-0.180 mins=70 
+  Pistons        buy=0.810 sell=0.820 spread=-0.010 jump=+0.180 mins=70 
+  Magic          buy=0.917 sell=0.919 spread=-0.002 jump=+0.017 mins=70 
+
+--- Check #162 at 00:20:54 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.240 sell=0.250 spread=-0.010 jump=-0.210 mins=69 
+  Hornets        buy=0.750 sell=0.760 spread=-0.010 jump=+0.210 mins=69 
+  Pelicans       buy=0.180 sell=0.190 spread=-0.010 jump=-0.180 mins=69 
+  Pistons        buy=0.810 sell=0.820 spread=-0.010 jump=+0.180 mins=69 
+  Magic          buy=0.917 sell=0.919 spread=-0.002 jump=+0.017 mins=69 
+
+--- Check #163 at 00:22:08 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.240 sell=0.250 spread=-0.010 jump=-0.210 mins=68 
+  Hornets        buy=0.750 sell=0.760 spread=-0.010 jump=+0.210 mins=68 
+  Pelicans       buy=0.180 sell=0.190 spread=-0.010 jump=-0.180 mins=68 
+  Pistons        buy=0.810 sell=0.820 spread=-0.010 jump=+0.180 mins=68 
+  Magic          buy=0.916 sell=0.917 spread=-0.001 jump=+0.016 mins=68 
+
+--- Check #164 at 00:23:21 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.240 sell=0.250 spread=-0.010 jump=-0.210 mins=67 
+  Hornets        buy=0.750 sell=0.760 spread=-0.010 jump=+0.210 mins=67 
+  Pelicans       buy=0.180 sell=0.190 spread=-0.010 jump=-0.180 mins=67 
+  Pistons        buy=0.810 sell=0.820 spread=-0.010 jump=+0.180 mins=67 
+  Magic          buy=0.915 sell=0.918 spread=-0.003 jump=+0.015 mins=67 
+
+--- Check #165 at 00:24:34 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.230 sell=0.240 spread=-0.010 jump=-0.220 mins=65 
+  Hornets        buy=0.760 sell=0.770 spread=-0.010 jump=+0.220 mins=65 
+  Pelicans       buy=0.180 sell=0.190 spread=-0.010 jump=-0.180 mins=65 
+  Pistons        buy=0.810 sell=0.820 spread=-0.010 jump=+0.180 mins=65 
+  Magic          buy=0.917 sell=0.918 spread=-0.001 jump=+0.017 mins=65 
+
+--- Check #166 at 00:25:47 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.240 sell=0.250 spread=-0.010 jump=-0.210 mins=64 
+  Hornets        buy=0.750 sell=0.760 spread=-0.010 jump=+0.210 mins=64 
+  Pelicans       buy=0.180 sell=0.190 spread=-0.010 jump=-0.180 mins=64 
+  Pistons        buy=0.810 sell=0.820 spread=-0.010 jump=+0.180 mins=64 
+  Magic          buy=0.916 sell=0.919 spread=-0.003 jump=+0.016 mins=64 
+
+--- Check #167 at 00:27:00 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.180 sell=0.190 spread=-0.010 jump=-0.270 mins=63 
+  Hornets        buy=0.810 sell=0.820 spread=-0.010 jump=+0.270 mins=63 
+  Pelicans       buy=0.180 sell=0.190 spread=-0.010 jump=-0.180 mins=63 
+  Pistons        buy=0.810 sell=0.820 spread=-0.010 jump=+0.180 mins=63 
+  Magic          buy=0.918 sell=0.919 spread=-0.001 jump=+0.018 mins=63 
+
+--- Check #168 at 00:28:13 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.180 sell=0.190 spread=-0.010 jump=-0.270 mins=62 
+  Hornets        buy=0.810 sell=0.820 spread=-0.010 jump=+0.270 mins=62 
+  Pelicans       buy=0.160 sell=0.170 spread=-0.010 jump=-0.200 mins=62 
+  Pistons        buy=0.830 sell=0.840 spread=-0.010 jump=+0.200 mins=62 
+  Magic          buy=0.914 sell=0.918 spread=-0.004 jump=+0.014 mins=62 
+
+--- Check #169 at 00:29:27 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.170 sell=0.180 spread=-0.010 jump=-0.280 mins=61 
+  Hornets        buy=0.820 sell=0.830 spread=-0.010 jump=+0.280 mins=61 
+  Pelicans       buy=0.160 sell=0.170 spread=-0.010 jump=-0.200 mins=61 
+  Pistons        buy=0.830 sell=0.840 spread=-0.010 jump=+0.200 mins=61 
+  Magic          buy=0.945 sell=0.946 spread=-0.001 jump=+0.045 mins=61 
+
+--- Check #170 at 00:30:40 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.180 sell=0.190 spread=-0.010 jump=-0.270 mins=59 
+  Hornets        buy=0.810 sell=0.820 spread=-0.010 jump=+0.270 mins=59 
+  Pelicans       buy=0.120 sell=0.130 spread=-0.010 jump=-0.240 mins=59 
+  Pistons        buy=0.870 sell=0.880 spread=-0.010 jump=+0.240 mins=59 
+  Magic          buy=0.946 sell=0.947 spread=-0.001 jump=+0.046 mins=59 
+
+--- Check #171 at 00:31:53 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.190 sell=0.200 spread=-0.010 jump=-0.260 mins=58 
+  Hornets        buy=0.800 sell=0.810 spread=-0.010 jump=+0.260 mins=58 
+  Pelicans       buy=0.120 sell=0.130 spread=-0.010 jump=-0.240 mins=58 
+  Pistons        buy=0.870 sell=0.880 spread=-0.010 jump=+0.240 mins=58 
+  Magic          buy=0.950 sell=0.955 spread=-0.005 jump=+0.050 mins=58 
+
+--- Check #172 at 00:33:06 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.240 sell=0.250 spread=-0.010 jump=-0.210 mins=57 
+  Hornets        buy=0.750 sell=0.760 spread=-0.010 jump=+0.210 mins=57 
+  Pelicans       buy=0.130 sell=0.140 spread=-0.010 jump=-0.230 mins=57 
+  Pistons        buy=0.860 sell=0.870 spread=-0.010 jump=+0.230 mins=57 
+  Magic          buy=0.881 sell=0.887 spread=-0.006 jump=-0.019 mins=57 
+
+--- Check #173 at 00:34:19 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.130 sell=0.140 spread=-0.010 jump=-0.320 mins=56 
+  Hornets        buy=0.860 sell=0.870 spread=-0.010 jump=+0.320 mins=56 
+  Pelicans       buy=0.130 sell=0.140 spread=-0.010 jump=-0.230 mins=56 
+  Pistons        buy=0.860 sell=0.870 spread=-0.010 jump=+0.230 mins=56 
+  Magic          buy=0.871 sell=0.878 spread=-0.007 jump=-0.029 mins=56 
+
+--- Check #174 at 00:35:32 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.130 sell=0.140 spread=-0.010 jump=-0.320 mins=54 
+  Hornets        buy=0.860 sell=0.870 spread=-0.010 jump=+0.320 mins=54 
+  Pelicans       buy=0.120 sell=0.130 spread=-0.010 jump=-0.240 mins=54 
+  Pistons        buy=0.870 sell=0.880 spread=-0.010 jump=+0.240 mins=54 
+  Magic          buy=0.870 sell=0.873 spread=-0.003 jump=-0.030 mins=54 
+
+--- Check #175 at 00:36:46 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.120 sell=0.140 spread=-0.020 jump=-0.330 mins=53 
+  Hornets        buy=0.860 sell=0.880 spread=-0.020 jump=+0.320 mins=53 
+  Pelicans       buy=0.140 sell=0.150 spread=-0.010 jump=-0.220 mins=53 
+  Pistons        buy=0.850 sell=0.860 spread=-0.010 jump=+0.220 mins=53 
+  Magic          buy=0.881 sell=0.890 spread=-0.009 jump=-0.019 mins=53 
+
+--- Check #176 at 00:37:59 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.130 sell=0.140 spread=-0.010 jump=-0.320 mins=52 
+  Hornets        buy=0.860 sell=0.870 spread=-0.010 jump=+0.320 mins=52 
+  Pelicans       buy=0.130 sell=0.140 spread=-0.010 jump=-0.230 mins=52 
+  Pistons        buy=0.860 sell=0.870 spread=-0.010 jump=+0.230 mins=52 
+  Magic          buy=0.886 sell=0.888 spread=-0.002 jump=-0.014 mins=52 
+
+--- Check #177 at 00:39:12 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.120 sell=0.140 spread=-0.020 jump=-0.330 mins=51 
+  Hornets        buy=0.860 sell=0.880 spread=-0.020 jump=+0.320 mins=51 
+  Pelicans       buy=0.100 sell=0.110 spread=-0.010 jump=-0.260 mins=51 
+  Pistons        buy=0.890 sell=0.900 spread=-0.010 jump=+0.260 mins=51 
+  Magic          buy=0.913 sell=0.919 spread=-0.006 jump=+0.013 mins=51 
+
+--- Check #178 at 00:40:25 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.120 sell=0.130 spread=-0.010 jump=-0.330 mins=50 
+  Hornets        buy=0.870 sell=0.880 spread=-0.010 jump=+0.330 mins=50 
+  Pelicans       buy=0.100 sell=0.110 spread=-0.010 jump=-0.260 mins=50 
+  Pistons        buy=0.890 sell=0.900 spread=-0.010 jump=+0.260 mins=50 
+  Magic          buy=0.876 sell=0.879 spread=-0.003 jump=-0.024 mins=50 
+
+--- Check #179 at 00:41:38 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.110 sell=0.120 spread=-0.010 jump=-0.340 mins=48 
+  Hornets        buy=0.880 sell=0.890 spread=-0.010 jump=+0.340 mins=48 
+  Pelicans       buy=0.100 sell=0.110 spread=-0.010 jump=-0.260 mins=48 
+  Pistons        buy=0.890 sell=0.900 spread=-0.010 jump=+0.260 mins=48 
+  Magic          buy=0.900 sell=0.901 spread=-0.001 jump=+0.000 mins=48 
+
+--- Check #180 at 00:42:52 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.140 sell=0.150 spread=-0.010 jump=-0.310 mins=47 
+  Hornets        buy=0.850 sell=0.860 spread=-0.010 jump=+0.310 mins=47 
+  Pelicans       buy=0.100 sell=0.110 spread=-0.010 jump=-0.260 mins=47 
+  Pistons        buy=0.890 sell=0.900 spread=-0.010 jump=+0.260 mins=47 
+  Magic          buy=0.892 sell=0.900 spread=-0.008 jump=-0.008 mins=47 
+
+--- Check #181 at 00:44:05 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.150 sell=0.170 spread=-0.020 jump=-0.300 mins=46 
+  Hornets        buy=0.830 sell=0.850 spread=-0.020 jump=+0.290 mins=46 
+  Pelicans       buy=0.100 sell=0.110 spread=-0.010 jump=-0.260 mins=46 
+  Pistons        buy=0.890 sell=0.910 spread=-0.020 jump=+0.260 mins=46 
+  Magic          buy=0.895 sell=0.898 spread=-0.003 jump=-0.005 mins=46 
+
+--- Check #182 at 00:45:18 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.130 sell=0.140 spread=-0.010 jump=-0.320 mins=45 
+  Hornets        buy=0.860 sell=0.870 spread=-0.010 jump=+0.320 mins=45 
+  Pelicans       buy=0.070 sell=0.080 spread=-0.010 jump=-0.290 mins=45 
+  Pistons        buy=0.920 sell=0.930 spread=-0.010 jump=+0.290 mins=45 
+  Magic          buy=0.881 sell=0.889 spread=-0.008 jump=-0.019 mins=45 
+
+--- Check #183 at 00:46:31 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.140 sell=0.150 spread=-0.010 jump=-0.310 mins=43 
+  Hornets        buy=0.850 sell=0.860 spread=-0.010 jump=+0.310 mins=43 
+  Pelicans       buy=0.070 sell=0.080 spread=-0.010 jump=-0.290 mins=43 
+  Pistons        buy=0.920 sell=0.930 spread=-0.010 jump=+0.290 mins=43 
+  Magic          buy=0.890 sell=0.891 spread=-0.001 jump=-0.010 mins=43 
+
+--- Check #184 at 00:47:45 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.150 sell=0.160 spread=-0.010 jump=-0.300 mins=42 
+  Hornets        buy=0.840 sell=0.850 spread=-0.010 jump=+0.300 mins=42 
+  Pelicans       buy=0.070 sell=0.090 spread=-0.020 jump=-0.290 mins=42 
+  Pistons        buy=0.910 sell=0.930 spread=-0.020 jump=+0.280 mins=42 
+  Magic          buy=0.864 sell=0.867 spread=-0.003 jump=-0.036 mins=42 
+
+--- Check #185 at 00:48:58 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.160 sell=0.170 spread=-0.010 jump=-0.290 mins=41 
+  Hornets        buy=0.830 sell=0.840 spread=-0.010 jump=+0.290 mins=41 
+  Pelicans       buy=0.070 sell=0.080 spread=-0.010 jump=-0.290 mins=41 
+  Pistons        buy=0.920 sell=0.930 spread=-0.010 jump=+0.290 mins=41 
+  Magic          buy=0.871 sell=0.875 spread=-0.004 jump=-0.029 mins=41 
+
+--- Check #186 at 00:50:11 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.130 sell=0.140 spread=-0.010 jump=-0.320 mins=40 
+  Hornets        buy=0.860 sell=0.870 spread=-0.010 jump=+0.320 mins=40 
+  Pelicans       buy=0.200 sell=0.210 spread=-0.010 jump=-0.160 mins=40 
+  Pistons        buy=0.790 sell=0.800 spread=-0.010 jump=+0.160 mins=40 
+  Kings          buy=0.143 sell=0.147 spread=-0.004 jump=+0.053 mins=40 
+  Magic          buy=0.853 sell=0.857 spread=-0.004 jump=-0.047 mins=40 
+
+--- Check #187 at 00:51:25 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.130 sell=0.140 spread=-0.010 jump=-0.320 mins=39 
+  Hornets        buy=0.860 sell=0.870 spread=-0.010 jump=+0.320 mins=39 
+  Pelicans       buy=0.200 sell=0.210 spread=-0.010 jump=-0.160 mins=39 
+  Pistons        buy=0.790 sell=0.800 spread=-0.010 jump=+0.160 mins=39 
+  Kings          buy=0.144 sell=0.154 spread=-0.010 jump=+0.054 mins=39 
+  Magic          buy=0.846 sell=0.856 spread=-0.010 jump=-0.054 mins=39 
+
+--- Check #188 at 00:52:38 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.090 sell=0.100 spread=-0.010 jump=-0.360 mins=37 
+  Hornets        buy=0.900 sell=0.910 spread=-0.010 jump=+0.360 mins=37 
+  Pelicans       buy=0.200 sell=0.210 spread=-0.010 jump=-0.160 mins=37 
+  Pistons        buy=0.790 sell=0.800 spread=-0.010 jump=+0.160 mins=37 
+  Magic          buy=0.860 sell=0.865 spread=-0.005 jump=-0.040 mins=37 
+
+--- Check #189 at 00:53:51 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.070 sell=0.080 spread=-0.010 jump=-0.380 mins=36 
+  Hornets        buy=0.920 sell=0.930 spread=-0.010 jump=+0.380 mins=36 
+  Pelicans       buy=0.180 sell=0.190 spread=-0.010 jump=-0.180 mins=36 
+  Pistons        buy=0.810 sell=0.820 spread=-0.010 jump=+0.180 mins=36 
+  Kings          buy=0.144 sell=0.150 spread=-0.006 jump=+0.054 mins=36 
+  Magic          buy=0.850 sell=0.856 spread=-0.006 jump=-0.050 mins=36 
+
+--- Check #190 at 00:55:04 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.040 sell=0.050 spread=-0.010 jump=-0.410 mins=35 
+  Hornets        buy=0.950 sell=0.960 spread=-0.010 jump=+0.410 mins=35 
+  Pelicans       buy=0.100 sell=0.110 spread=-0.010 jump=-0.260 mins=35 
+  Pistons        buy=0.890 sell=0.900 spread=-0.010 jump=+0.260 mins=35 
+  Kings          buy=0.143 sell=0.148 spread=-0.005 jump=+0.053 mins=35 
+  Magic          buy=0.852 sell=0.857 spread=-0.005 jump=-0.048 mins=35 
+
+--- Check #191 at 00:56:18 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.040 sell=0.050 spread=-0.010 jump=-0.410 mins=34 
+  Hornets        buy=0.950 sell=0.960 spread=-0.010 jump=+0.410 mins=34 
+  Pelicans       buy=0.070 sell=0.080 spread=-0.010 jump=-0.290 mins=34 
+  Pistons        buy=0.920 sell=0.930 spread=-0.010 jump=+0.290 mins=34 
+  Kings          buy=0.170 sell=0.179 spread=-0.009 jump=+0.080 mins=34 
+  Magic          buy=0.821 sell=0.830 spread=-0.009 jump=-0.079 mins=34 
+
+--- Check #192 at 00:57:31 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.030 sell=0.040 spread=-0.010 jump=-0.420 mins=32 
+  Hornets        buy=0.960 sell=0.970 spread=-0.010 jump=+0.420 mins=32 
+  Pelicans       buy=0.050 sell=0.060 spread=-0.010 jump=-0.310 mins=32 
+  Pistons        buy=0.940 sell=0.950 spread=-0.010 jump=+0.310 mins=32 
+  Kings          buy=0.250 sell=0.259 spread=-0.009 jump=+0.160 mins=32 
+  Magic          buy=0.741 sell=0.750 spread=-0.009 jump=-0.159 mins=32 
+
+--- Check #193 at 00:58:44 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.042 sell=0.045 spread=-0.003 jump=-0.408 mins=31 
+  Hornets        buy=0.955 sell=0.958 spread=-0.003 jump=+0.415 mins=31 
+  Pelicans       buy=0.020 sell=0.030 spread=-0.010 jump=-0.340 mins=31 
+  Pistons        buy=0.970 sell=0.980 spread=-0.010 jump=+0.340 mins=31 
+  Kings          buy=0.201 sell=0.210 spread=-0.009 jump=+0.111 mins=31 
+  Magic          buy=0.790 sell=0.799 spread=-0.009 jump=-0.110 mins=31 
+
+--- Check #194 at 00:59:57 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.061 sell=0.062 spread=-0.001 jump=-0.389 mins=30 
+  Hornets        buy=0.938 sell=0.939 spread=-0.001 jump=+0.398 mins=30 
+  Pelicans       buy=0.010 sell=0.030 spread=-0.020 jump=-0.350 mins=30 
+  Pistons        buy=0.970 sell=0.990 spread=-0.020 jump=+0.340 mins=30 
+  Kings          buy=0.230 sell=0.231 spread=-0.001 jump=+0.140 mins=30 
+  Magic          buy=0.769 sell=0.770 spread=-0.001 jump=-0.131 mins=30 
+
+--- Check #195 at 01:01:10 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.054 sell=0.057 spread=-0.003 jump=-0.396 mins=29 
+  Hornets        buy=0.943 sell=0.946 spread=-0.003 jump=+0.403 mins=29 
+  Pelicans       buy=0.015 sell=0.016 spread=-0.001 jump=-0.345 mins=29 
+  Pistons        buy=0.984 sell=0.985 spread=-0.001 jump=+0.354 mins=29 
+  Kings          buy=0.231 sell=0.238 spread=-0.007 jump=+0.141 mins=29 
+  Magic          buy=0.762 sell=0.769 spread=-0.007 jump=-0.138 mins=29 
+
+--- Check #196 at 01:02:23 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.040 sell=0.044 spread=-0.004 jump=-0.410 mins=28 
+  Hornets        buy=0.956 sell=0.960 spread=-0.004 jump=+0.416 mins=28 
+  Pelicans       buy=0.020 sell=0.027 spread=-0.007 jump=-0.340 mins=28 
+  Pistons        buy=0.973 sell=0.980 spread=-0.007 jump=+0.343 mins=28 
+  Kings          buy=0.235 sell=0.236 spread=-0.001 jump=+0.145 mins=28 
+  Magic          buy=0.764 sell=0.765 spread=-0.001 jump=-0.136 mins=28 
+
+--- Check #197 at 01:03:36 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.016 sell=0.020 spread=-0.004 jump=-0.434 mins=26 
+  Hornets        buy=0.980 sell=0.984 spread=-0.004 jump=+0.440 mins=26 
+  Pelicans       buy=0.017 sell=0.020 spread=-0.003 jump=-0.343 mins=26 
+  Pistons        buy=0.980 sell=0.983 spread=-0.003 jump=+0.350 mins=26 
+  Kings          buy=0.272 sell=0.279 spread=-0.007 jump=+0.182 mins=26 
+  Magic          buy=0.721 sell=0.728 spread=-0.007 jump=-0.179 mins=26 
+
+--- Check #198 at 01:04:50 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.012 sell=0.017 spread=-0.005 jump=-0.438 mins=25 
+  Hornets        buy=0.983 sell=0.988 spread=-0.005 jump=+0.443 mins=25 
+  Pelicans       buy=0.017 sell=0.020 spread=-0.003 jump=-0.343 mins=25 
+  Pistons        buy=0.980 sell=0.983 spread=-0.003 jump=+0.350 mins=25 
+  Kings          buy=0.190 sell=0.194 spread=-0.004 jump=+0.100 mins=25 
+  Magic          buy=0.806 sell=0.819 spread=-0.013 jump=-0.094 mins=25 
+
+--- Check #199 at 01:06:03 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.012 sell=0.018 spread=-0.006 jump=-0.438 mins=24 
+  Hornets        buy=0.982 sell=0.988 spread=-0.006 jump=+0.442 mins=24 
+  Pelicans       buy=0.018 sell=0.024 spread=-0.006 jump=-0.342 mins=24 
+  Pistons        buy=0.976 sell=0.982 spread=-0.006 jump=+0.346 mins=24 
+  Kings          buy=0.150 sell=0.160 spread=-0.010 jump=+0.060 mins=24 
+  Magic          buy=0.840 sell=0.850 spread=-0.010 jump=-0.060 mins=24 
+
+--- Check #200 at 01:07:16 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.011 sell=0.013 spread=-0.002 jump=-0.439 mins=23 
+  Hornets        buy=0.987 sell=0.989 spread=-0.002 jump=+0.447 mins=23 
+  Pelicans       buy=0.012 sell=0.016 spread=-0.004 jump=-0.348 mins=23 
+  Pistons        buy=0.984 sell=0.988 spread=-0.004 jump=+0.354 mins=23 
+  Magic          buy=0.901 sell=0.907 spread=-0.006 jump=+0.001 mins=23 
+
+--- Check #201 at 01:08:29 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.007 sell=0.010 spread=-0.003 jump=-0.443 mins=22 
+  Hornets        buy=0.990 sell=0.993 spread=-0.003 jump=+0.450 mins=22 
+  Pelicans       buy=0.002 sell=0.003 spread=-0.001 jump=-0.358 mins=22 
+  Pistons        buy=0.997 sell=0.998 spread=-0.001 jump=+0.367 mins=22 
+  Magic          buy=0.957 sell=0.960 spread=-0.003 jump=+0.057 mins=22 
+
+--- Check #202 at 01:09:42 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.008 sell=0.009 spread=-0.001 jump=-0.442 mins=20 
+  Hornets        buy=0.991 sell=0.992 spread=-0.001 jump=+0.451 mins=20 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=20 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=20 
+  Kings          buy=0.035 sell=0.038 spread=-0.003 jump=-0.055 mins=20 
+  Magic          buy=0.962 sell=0.965 spread=-0.003 jump=+0.062 mins=20 
+
+--- Check #203 at 01:10:55 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.004 sell=0.005 spread=-0.001 jump=-0.446 mins=19 
+  Hornets        buy=0.995 sell=0.996 spread=-0.001 jump=+0.455 mins=19 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=19 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=19 
+  Magic          buy=0.959 sell=0.960 spread=-0.001 jump=+0.059 mins=19 
+
+--- Check #204 at 01:12:08 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.005 sell=0.008 spread=-0.003 jump=-0.445 mins=18 
+  Hornets        buy=0.992 sell=0.995 spread=-0.003 jump=+0.452 mins=18 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=18 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=18 
+  Kings          buy=0.036 sell=0.040 spread=-0.004 jump=-0.054 mins=18 
+  Magic          buy=0.960 sell=0.964 spread=-0.004 jump=+0.060 mins=18 
+
+--- Check #205 at 01:13:21 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.005 sell=0.009 spread=-0.004 jump=-0.445 mins=17 
+  Hornets        buy=0.991 sell=0.995 spread=-0.004 jump=+0.451 mins=17 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=17 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=17 
+  Kings          buy=0.018 sell=0.019 spread=-0.001 jump=-0.072 mins=17 
+  Magic          buy=0.981 sell=0.982 spread=-0.001 jump=+0.081 mins=17 
+
+--- Check #206 at 01:14:34 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.006 sell=0.008 spread=-0.002 jump=-0.444 mins=15 
+  Hornets        buy=0.992 sell=0.994 spread=-0.002 jump=+0.452 mins=15 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=15 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=15 
+  Magic          buy=0.930 sell=0.936 spread=-0.006 jump=+0.030 mins=15 
+
+--- Check #207 at 01:15:48 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.008 sell=0.009 spread=-0.001 jump=-0.442 mins=14 
+  Hornets        buy=0.991 sell=0.992 spread=-0.001 jump=+0.451 mins=14 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=14 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=14 
+  Magic          buy=0.922 sell=0.924 spread=-0.002 jump=+0.022 mins=14 
+
+--- Check #208 at 01:17:01 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.006 sell=0.008 spread=-0.002 jump=-0.444 mins=13 
+  Hornets        buy=0.992 sell=0.994 spread=-0.002 jump=+0.452 mins=13 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=13 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=13 
+  Magic          buy=0.940 sell=0.941 spread=-0.001 jump=+0.040 mins=13 
+
+--- Check #209 at 01:18:14 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.001 sell=0.002 spread=-0.001 jump=-0.449 mins=12 
+  Hornets        buy=0.998 sell=0.999 spread=-0.001 jump=+0.458 mins=12 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=12 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=12 
+  Magic          buy=0.954 sell=0.959 spread=-0.005 jump=+0.054 mins=12 
+
+--- Check #210 at 01:19:27 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.001 sell=0.002 spread=-0.001 jump=-0.449 mins=11 
+  Hornets        buy=0.998 sell=0.999 spread=-0.001 jump=+0.458 mins=11 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=11 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=11 
+  Magic          buy=0.945 sell=0.949 spread=-0.004 jump=+0.045 mins=11 
+
+--- Check #211 at 01:20:40 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.002 sell=0.004 spread=-0.002 jump=-0.448 mins=9 
+  Hornets        buy=0.996 sell=0.998 spread=-0.002 jump=+0.456 mins=9 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=9 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=9 
+  Kings          buy=0.020 sell=0.027 spread=-0.007 jump=-0.070 mins=9 
+  Magic          buy=0.973 sell=0.980 spread=-0.007 jump=+0.073 mins=9 
+
+--- Check #212 at 01:21:53 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.006 sell=0.007 spread=-0.001 jump=-0.444 mins=8 
+  Hornets        buy=0.993 sell=0.994 spread=-0.001 jump=+0.453 mins=8 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=8 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=8 
+  Kings          buy=0.023 sell=0.024 spread=-0.001 jump=-0.067 mins=8 
+  Magic          buy=0.976 sell=0.977 spread=-0.001 jump=+0.076 mins=8 
+
+--- Check #213 at 01:23:06 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.005 sell=0.006 spread=-0.001 jump=-0.445 mins=7 
+  Hornets        buy=0.994 sell=0.995 spread=-0.001 jump=+0.454 mins=7 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=7 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=7 
+  Kings          buy=0.018 sell=0.021 spread=-0.003 jump=-0.072 mins=7 
+  Magic          buy=0.979 sell=0.982 spread=-0.003 jump=+0.079 mins=7 
+
+--- Check #214 at 01:24:19 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.004 sell=0.005 spread=-0.001 jump=-0.446 mins=6 
+  Hornets        buy=0.995 sell=0.996 spread=-0.001 jump=+0.455 mins=6 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=6 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=6 
+  Magic          buy=0.917 sell=0.918 spread=-0.001 jump=+0.017 mins=6 
+
+--- Check #215 at 01:25:32 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=4 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=4 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=4 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=4 
+  Magic          buy=0.950 sell=0.951 spread=-0.001 jump=+0.050 mins=4 
+
+--- Check #216 at 01:26:45 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=3 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=3 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=3 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=3 
+  Kings          buy=0.032 sell=0.038 spread=-0.006 jump=-0.058 mins=3 
+  Magic          buy=0.962 sell=0.966 spread=-0.004 jump=+0.062 mins=3 
+
+--- Check #217 at 01:27:58 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=2 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=2 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=2 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=2 
+  Kings          buy=0.027 sell=0.030 spread=-0.003 jump=-0.063 mins=2 
+  Magic          buy=0.960 sell=0.973 spread=-0.013 jump=+0.060 mins=2 
+
+--- Check #218 at 01:29:12 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=1 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=1 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=1 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=1 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=1 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=1 
+
+--- Check #219 at 01:30:25 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-0 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-0 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-0 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-0 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-0 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-0 
+
+--- Check #220 at 01:31:38 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-2 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-2 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-2 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-2 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-2 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-2 
+
+--- Check #221 at 01:32:51 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-3 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-3 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-3 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-3 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-3 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-3 
+
+--- Check #222 at 01:34:04 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-4 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-4 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-4 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-4 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-4 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-4 
+
+--- Check #223 at 01:35:18 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-5 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-5 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-5 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-5 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-5 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-5 
+
+--- Check #224 at 01:36:31 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-7 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-7 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-7 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-7 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-7 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-7 
+
+--- Check #225 at 01:37:44 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-8 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-8 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-8 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-8 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-8 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-8 
+
+--- Check #226 at 01:38:57 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-9 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-9 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-9 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-9 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-9 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-9 
+
+--- Check #227 at 01:40:11 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-10 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-10 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-10 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-10 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-10 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-10 
+
+--- Check #228 at 01:41:24 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-11 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-11 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-11 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-11 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-11 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-11 
+
+--- Check #229 at 01:42:37 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-13 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-13 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-13 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-13 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-13 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-13 
+
+--- Check #230 at 01:43:50 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-14 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-14 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-14 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-14 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-14 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-14 
+
+--- Check #231 at 01:45:03 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-15 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-15 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-15 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-15 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-15 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-15 
+
+--- Check #232 at 01:46:16 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-16 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-16 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-16 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-16 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-16 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-16 
+
+--- Check #233 at 01:47:30 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-18 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-18 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-18 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-18 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-18 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-18 
+
+--- Check #234 at 01:48:43 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-19 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-19 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-19 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-19 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-19 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-19 
+
+--- Check #235 at 01:49:56 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-20 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-20 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-20 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-20 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-20 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-20 
+
+--- Check #236 at 01:51:09 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-21 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-21 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-21 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-21 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-21 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-21 
+
+--- Check #237 at 01:52:23 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-22 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-22 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-22 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-22 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-22 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-22 
+
+--- Check #238 at 01:53:36 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-24 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-24 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-24 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-24 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-24 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-24 
+
+--- Check #239 at 01:54:49 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-25 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-25 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-25 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-25 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-25 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-25 
+
+--- Check #240 at 01:56:02 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-26 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-26 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-26 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-26 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-26 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-26 
+
+--- Check #241 at 01:57:15 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-27 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-27 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-27 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-27 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-27 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-27 
+
+--- Check #242 at 01:58:29 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-28 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-28 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-28 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-28 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-28 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-28 
+
+--- Check #243 at 01:59:42 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-30 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-30 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-30 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-30 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-30 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-30 
+
+--- Check #244 at 02:00:55 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-31 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-31 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-31 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-31 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-31 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-31 
+
+--- Check #245 at 02:02:08 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-32 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-32 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-32 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-32 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-32 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-32 
+
+--- Check #246 at 02:03:21 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-33 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-33 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-33 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-33 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-33 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-33 
+
+--- Check #247 at 02:04:35 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-35 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-35 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-35 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-35 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-35 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-35 
+
+--- Check #248 at 02:05:48 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-36 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-36 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-36 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-36 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-36 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-36 
+
+--- Check #249 at 02:07:01 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-37 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-37 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-37 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-37 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-37 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-37 
+
+--- Check #250 at 02:08:14 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-38 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-38 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-38 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-38 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-38 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-38 
+
+--- Check #251 at 02:09:27 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-39 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-39 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-39 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-39 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-39 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-39 
+
+--- Check #252 at 02:10:40 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-41 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-41 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-41 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-41 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-41 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-41 
+  Houston        buy=0.510 sell=0.520 spread=-0.010 jump=-0.050 mins=124 
+
+--- Check #253 at 02:11:54 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-42 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-42 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-42 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-42 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-42 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-42 
+  Houston        buy=0.510 sell=0.520 spread=-0.010 jump=-0.050 mins=123 
+
+--- Check #254 at 02:13:07 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-43 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-43 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-43 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-43 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-43 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-43 
+  Houston        buy=0.510 sell=0.520 spread=-0.010 jump=-0.050 mins=122 
+
+--- Check #255 at 02:14:20 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-44 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-44 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-44 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-44 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-44 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-44 
+  Houston        buy=0.510 sell=0.520 spread=-0.010 jump=-0.050 mins=121 
+
+--- Check #256 at 02:15:33 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-46 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-46 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-46 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-46 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-46 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-46 
+  Houston        buy=0.510 sell=0.520 spread=-0.010 jump=-0.050 mins=119 
+
+--- Check #257 at 02:16:46 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-47 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-47 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-47 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-47 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-47 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-47 
+
+--- Check #258 at 02:18:00 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-48 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-48 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-48 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-48 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-48 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-48 
+
+--- Check #259 at 02:19:13 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-49 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-49 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-49 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-49 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-49 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-49 
+
+--- Check #260 at 02:20:26 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-50 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-50 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-50 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-50 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-50 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-50 
+
+--- Check #261 at 02:21:39 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-52 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-52 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-52 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-52 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-52 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-52 
+
+--- Check #262 at 02:22:52 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-53 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-53 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-53 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-53 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-53 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-53 
+
+--- Check #263 at 02:24:06 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-54 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-54 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-54 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-54 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-54 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-54 
+
+--- Check #264 at 02:25:19 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-55 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-55 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-55 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-55 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-55 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-55 
+
+--- Check #265 at 02:26:32 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-57 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-57 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-57 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-57 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-57 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-57 
+  Illinois       buy=0.500 sell=0.510 spread=-0.010 jump=+0.070 mins=108 
+  Houston        buy=0.490 sell=0.500 spread=-0.010 jump=-0.070 mins=108 
+
+--- Check #266 at 02:27:45 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-58 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-58 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-58 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-58 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-58 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-58 
+  Illinois       buy=0.500 sell=0.510 spread=-0.010 jump=+0.070 mins=107 
+  Houston        buy=0.490 sell=0.500 spread=-0.010 jump=-0.070 mins=107 
+
+--- Check #267 at 02:28:59 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-59 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-59 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-59 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-59 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-59 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-59 
+  Illinois       buy=0.490 sell=0.500 spread=-0.010 jump=+0.060 mins=106 
+  Houston        buy=0.500 sell=0.510 spread=-0.010 jump=-0.060 mins=106 
+
+--- Check #268 at 02:30:12 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-60 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-60 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-60 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-60 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-60 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-60 
+
+--- Check #269 at 02:31:25 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-61 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-61 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-61 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-61 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-61 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-61 
+
+--- Check #270 at 02:32:38 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-63 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-63 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-63 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-63 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-63 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-63 
+
+--- Check #271 at 02:33:51 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-64 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-64 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-64 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-64 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-64 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-64 
+
+--- Check #272 at 02:35:05 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-65 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-65 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-65 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-65 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-65 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-65 
+  Houston        buy=0.510 sell=0.520 spread=-0.010 jump=-0.050 mins=100 
+
+--- Check #273 at 02:36:18 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-66 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-66 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-66 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-66 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-66 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-66 
+  Illinois       buy=0.510 sell=0.520 spread=-0.010 jump=+0.080 mins=99 
+  Houston        buy=0.480 sell=0.490 spread=-0.010 jump=-0.080 mins=99 
+
+--- Check #274 at 02:37:31 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-68 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-68 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-68 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-68 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-68 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-68 
+  Illinois       buy=0.620 sell=0.630 spread=-0.010 jump=+0.190 mins=97 
+  Houston        buy=0.370 sell=0.380 spread=-0.010 jump=-0.190 mins=97 
+
+--- Check #275 at 02:38:44 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-69 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-69 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-69 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-69 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-69 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-69 
+  Illinois       buy=0.620 sell=0.630 spread=-0.010 jump=+0.190 mins=96 
+  Houston        buy=0.370 sell=0.380 spread=-0.010 jump=-0.190 mins=96 
+
+--- Check #276 at 02:39:57 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-70 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-70 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-70 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-70 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-70 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-70 
+  Illinois       buy=0.620 sell=0.630 spread=-0.010 jump=+0.190 mins=95 
+  Houston        buy=0.370 sell=0.380 spread=-0.010 jump=-0.190 mins=95 
+
+--- Check #277 at 02:41:11 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-71 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-71 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-71 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-71 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-71 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-71 
+  Illinois       buy=0.610 sell=0.620 spread=-0.010 jump=+0.180 mins=94 
+  Houston        buy=0.380 sell=0.390 spread=-0.010 jump=-0.180 mins=94 
+
+--- Check #278 at 02:42:24 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-72 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-72 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-72 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-72 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-72 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-72 
+  Illinois       buy=0.620 sell=0.630 spread=-0.010 jump=+0.190 mins=93 
+  Houston        buy=0.370 sell=0.380 spread=-0.010 jump=-0.190 mins=93 
+
+--- Check #279 at 02:43:37 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-74 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-74 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-74 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-74 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-74 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-74 
+  Illinois       buy=0.620 sell=0.630 spread=-0.010 jump=+0.190 mins=91 
+  Houston        buy=0.370 sell=0.380 spread=-0.010 jump=-0.190 mins=91 
+
+--- Check #280 at 02:44:50 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-75 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-75 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-75 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-75 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-75 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-75 
+  Illinois       buy=0.600 sell=0.610 spread=-0.010 jump=+0.170 mins=90 
+  Houston        buy=0.390 sell=0.400 spread=-0.010 jump=-0.170 mins=90 
+
+--- Check #281 at 02:46:03 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-76 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-76 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-76 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-76 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-76 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-76 
+  Illinois       buy=0.670 sell=0.680 spread=-0.010 jump=+0.240 mins=89 
+  Houston        buy=0.320 sell=0.330 spread=-0.010 jump=-0.240 mins=89 
+
+--- Check #282 at 02:47:17 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-77 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-77 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-77 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-77 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-77 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-77 
+  Illinois       buy=0.580 sell=0.590 spread=-0.010 jump=+0.150 mins=88 
+  Houston        buy=0.410 sell=0.420 spread=-0.010 jump=-0.150 mins=88 
+
+--- Check #283 at 02:48:30 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-79 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-79 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-79 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-79 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-79 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-79 
+  Illinois       buy=0.590 sell=0.600 spread=-0.010 jump=+0.160 mins=86 
+  Houston        buy=0.400 sell=0.410 spread=-0.010 jump=-0.160 mins=86 
+
+--- Check #284 at 02:49:43 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-80 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-80 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-80 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-80 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-80 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-80 
+  Illinois       buy=0.580 sell=0.600 spread=-0.020 jump=+0.150 mins=85 
+  Houston        buy=0.400 sell=0.420 spread=-0.020 jump=-0.160 mins=85 
+
+--- Check #285 at 02:50:56 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-81 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-81 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-81 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-81 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-81 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-81 
+  Illinois       buy=0.590 sell=0.600 spread=-0.010 jump=+0.160 mins=84 
+  Houston        buy=0.400 sell=0.410 spread=-0.010 jump=-0.160 mins=84 
+
+--- Check #286 at 02:52:09 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-82 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-82 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-82 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-82 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-82 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-82 
+  Illinois       buy=0.520 sell=0.530 spread=-0.010 jump=+0.090 mins=83 
+  Houston        buy=0.470 sell=0.480 spread=-0.010 jump=-0.090 mins=83 
+
+--- Check #287 at 02:53:22 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-83 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-83 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-83 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-83 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-83 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-83 
+  Illinois       buy=0.520 sell=0.530 spread=-0.010 jump=+0.090 mins=82 
+  Houston        buy=0.470 sell=0.480 spread=-0.010 jump=-0.090 mins=82 
+
+--- Check #288 at 02:54:36 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-85 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-85 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-85 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-85 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-85 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-85 
+  Illinois       buy=0.510 sell=0.520 spread=-0.010 jump=+0.080 mins=80 
+  Houston        buy=0.480 sell=0.490 spread=-0.010 jump=-0.080 mins=80 
+
+--- Check #289 at 02:55:49 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-86 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-86 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-86 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-86 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-86 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-86 
+  Illinois       buy=0.500 sell=0.510 spread=-0.010 jump=+0.070 mins=79 
+  Houston        buy=0.490 sell=0.500 spread=-0.010 jump=-0.070 mins=79 
+
+--- Check #290 at 02:57:02 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-87 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-87 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-87 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-87 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-87 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-87 
+  Illinois       buy=0.500 sell=0.510 spread=-0.010 jump=+0.070 mins=78 
+  Houston        buy=0.490 sell=0.500 spread=-0.010 jump=-0.070 mins=78 
+
+--- Check #291 at 02:58:15 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-88 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-88 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-88 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-88 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-88 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-88 
+  Illinois       buy=0.500 sell=0.510 spread=-0.010 jump=+0.070 mins=77 
+  Houston        buy=0.490 sell=0.500 spread=-0.010 jump=-0.070 mins=77 
+
+--- Check #292 at 02:59:28 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-89 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-89 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-89 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-89 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-89 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-89 
+  Illinois       buy=0.510 sell=0.520 spread=-0.010 jump=+0.080 mins=76 
+  Houston        buy=0.480 sell=0.490 spread=-0.010 jump=-0.080 mins=76 
+
+--- Check #293 at 03:00:42 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-91 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-91 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-91 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-91 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-91 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-91 
+  Illinois       buy=0.510 sell=0.520 spread=-0.010 jump=+0.080 mins=74 
+  Houston        buy=0.480 sell=0.490 spread=-0.010 jump=-0.080 mins=74 
+
+--- Check #294 at 03:01:55 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-92 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-92 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-92 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-92 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-92 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-92 
+  Illinois       buy=0.510 sell=0.520 spread=-0.010 jump=+0.080 mins=73 
+  Houston        buy=0.480 sell=0.490 spread=-0.010 jump=-0.080 mins=73 
+
+--- Check #295 at 03:03:08 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-93 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-93 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-93 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-93 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-93 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-93 
+  Illinois       buy=0.510 sell=0.520 spread=-0.010 jump=+0.080 mins=72 
+  Houston        buy=0.480 sell=0.490 spread=-0.010 jump=-0.080 mins=72 
+
+--- Check #296 at 03:04:21 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-94 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-94 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-94 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-94 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-94 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-94 
+  Illinois       buy=0.510 sell=0.520 spread=-0.010 jump=+0.080 mins=71 
+  Houston        buy=0.480 sell=0.490 spread=-0.010 jump=-0.080 mins=71 
+
+--- Check #297 at 03:05:34 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-96 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-96 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-96 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-96 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-96 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-96 
+  Illinois       buy=0.510 sell=0.520 spread=-0.010 jump=+0.080 mins=69 
+  Houston        buy=0.480 sell=0.490 spread=-0.010 jump=-0.080 mins=69 
+
+--- Check #298 at 03:06:48 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-97 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-97 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-97 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-97 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-97 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-97 
+  Illinois       buy=0.500 sell=0.510 spread=-0.010 jump=+0.070 mins=68 
+  Houston        buy=0.490 sell=0.500 spread=-0.010 jump=-0.070 mins=68 
+
+--- Check #299 at 03:08:01 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-98 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-98 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-98 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-98 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-98 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-98 
+  Illinois       buy=0.500 sell=0.510 spread=-0.010 jump=+0.070 mins=67 
+  Houston        buy=0.490 sell=0.500 spread=-0.010 jump=-0.070 mins=67 
+
+--- Check #300 at 03:09:14 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-99 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-99 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-99 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-99 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-99 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-99 
+  Illinois       buy=0.500 sell=0.510 spread=-0.010 jump=+0.070 mins=66 
+  Houston        buy=0.490 sell=0.500 spread=-0.010 jump=-0.070 mins=66 
+
+--- Check #301 at 03:10:27 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-100 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-100 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-100 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-100 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-100 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-100 
+  Illinois       buy=0.500 sell=0.510 spread=-0.010 jump=+0.070 mins=65 
+  Houston        buy=0.490 sell=0.500 spread=-0.010 jump=-0.070 mins=65 
+
+--- Check #302 at 03:11:41 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-102 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-102 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-102 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-102 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-102 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-102 
+  Illinois       buy=0.500 sell=0.510 spread=-0.010 jump=+0.070 mins=63 
+  Houston        buy=0.490 sell=0.500 spread=-0.010 jump=-0.070 mins=63 
+
+--- Check #303 at 03:12:54 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-103 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-103 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-103 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-103 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-103 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-103 
+  Illinois       buy=0.500 sell=0.510 spread=-0.010 jump=+0.070 mins=62 
+  Houston        buy=0.490 sell=0.500 spread=-0.010 jump=-0.070 mins=62 
+
+--- Check #304 at 03:14:07 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-104 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-104 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-104 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-104 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-104 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-104 
+
+--- Check #305 at 03:15:20 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-105 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-105 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-105 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-105 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-105 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-105 
+
+--- Check #306 at 03:16:33 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-107 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-107 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-107 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-107 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-107 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-107 
+  Illinois       buy=0.500 sell=0.510 spread=-0.010 jump=+0.070 mins=58 
+  Houston        buy=0.490 sell=0.500 spread=-0.010 jump=-0.070 mins=58 
+
+--- Check #307 at 03:17:47 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-108 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-108 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-108 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-108 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-108 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-108 
+  Illinois       buy=0.490 sell=0.500 spread=-0.010 jump=+0.060 mins=57 
+  Houston        buy=0.500 sell=0.510 spread=-0.010 jump=-0.060 mins=57 
+
+--- Check #308 at 03:19:00 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-109 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-109 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-109 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-109 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-109 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-109 
+  Illinois       buy=0.640 sell=0.650 spread=-0.010 jump=+0.210 mins=56 
+  Houston        buy=0.350 sell=0.360 spread=-0.010 jump=-0.210 mins=56 
+
+--- Check #309 at 03:20:13 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-110 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-110 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-110 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-110 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-110 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-110 
+  Illinois       buy=0.650 sell=0.660 spread=-0.010 jump=+0.220 mins=55 
+  Houston        buy=0.340 sell=0.350 spread=-0.010 jump=-0.220 mins=55 
+
+--- Check #310 at 03:21:26 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-111 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-111 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-111 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-111 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-111 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-111 
+  Illinois       buy=0.640 sell=0.650 spread=-0.010 jump=+0.210 mins=54 
+  Houston        buy=0.350 sell=0.360 spread=-0.010 jump=-0.210 mins=54 
+
+--- Check #311 at 03:22:39 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-113 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-113 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-113 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-113 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-113 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-113 
+  Illinois       buy=0.640 sell=0.650 spread=-0.010 jump=+0.210 mins=52 
+  Houston        buy=0.350 sell=0.360 spread=-0.010 jump=-0.210 mins=52 
+
+--- Check #312 at 03:23:53 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-114 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-114 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-114 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-114 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-114 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-114 
+  Illinois       buy=0.640 sell=0.650 spread=-0.010 jump=+0.210 mins=51 
+  Houston        buy=0.350 sell=0.360 spread=-0.010 jump=-0.210 mins=51 
+
+--- Check #313 at 03:25:06 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-115 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-115 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-115 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-115 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-115 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-115 
+  Illinois       buy=0.630 sell=0.640 spread=-0.010 jump=+0.200 mins=50 
+  Houston        buy=0.360 sell=0.370 spread=-0.010 jump=-0.200 mins=50 
+
+--- Check #314 at 03:26:19 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-116 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-116 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-116 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-116 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-116 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-116 
+  Illinois       buy=0.630 sell=0.650 spread=-0.020 jump=+0.200 mins=49 
+  Houston        buy=0.350 sell=0.370 spread=-0.020 jump=-0.210 mins=49 
+
+--- Check #315 at 03:27:32 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-118 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-118 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-118 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-118 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-118 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-118 
+  Illinois       buy=0.760 sell=0.770 spread=-0.010 jump=+0.330 mins=47 
+  Houston        buy=0.230 sell=0.240 spread=-0.010 jump=-0.330 mins=47 
+
+--- Check #316 at 03:28:46 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-119 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-119 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-119 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-119 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-119 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-119 
+  Illinois       buy=0.830 sell=0.840 spread=-0.010 jump=+0.400 mins=46 
+  Houston        buy=0.160 sell=0.170 spread=-0.010 jump=-0.400 mins=46 
+
+--- Check #317 at 03:29:59 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-120 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-120 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-120 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-120 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-120 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-120 
+  Illinois       buy=0.820 sell=0.830 spread=-0.010 jump=+0.390 mins=45 
+  Houston        buy=0.170 sell=0.180 spread=-0.010 jump=-0.390 mins=45 
+
+--- Check #318 at 03:31:12 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-121 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-121 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-121 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-121 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-121 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-121 
+  Illinois       buy=0.840 sell=0.850 spread=-0.010 jump=+0.410 mins=44 
+  Houston        buy=0.150 sell=0.160 spread=-0.010 jump=-0.410 mins=44 
+
+--- Check #319 at 03:32:25 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-122 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-122 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-122 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-122 
+  Kings          buy=0.000 sell=0.001 spread=-0.001 jump=-0.090 mins=-122 
+  Magic          buy=0.999 sell=1.000 spread=-0.001 jump=+0.099 mins=-122 
+  Illinois       buy=0.860 sell=0.870 spread=-0.010 jump=+0.430 mins=43 
+  Houston        buy=0.130 sell=0.140 spread=-0.010 jump=-0.430 mins=43 
+
+--- Check #320 at 03:33:39 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-124 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-124 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-124 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-124 
+  Illinois       buy=0.910 sell=0.920 spread=-0.010 jump=+0.480 mins=41 
+  Houston        buy=0.080 sell=0.090 spread=-0.010 jump=-0.480 mins=41 
+
+--- Check #321 at 03:34:52 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-125 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-125 
+  Pelicans       buy=0.000 sell=0.001 spread=-0.001 jump=-0.360 mins=-125 
+  Pistons        buy=0.999 sell=1.000 spread=-0.001 jump=+0.369 mins=-125 
+  Illinois       buy=0.960 sell=0.970 spread=-0.010 jump=+0.530 mins=40 
+  Houston        buy=0.030 sell=0.040 spread=-0.010 jump=-0.530 mins=40 
+
+--- Check #322 at 03:36:05 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-126 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-126 
+  Illinois       buy=0.961 sell=0.969 spread=-0.008 jump=+0.531 mins=39 
+  Houston        buy=0.031 sell=0.039 spread=-0.008 jump=-0.529 mins=39 
+
+--- Check #323 at 03:37:18 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-127 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-127 
+  Illinois       buy=0.964 sell=0.970 spread=-0.006 jump=+0.534 mins=38 
+  Houston        buy=0.030 sell=0.036 spread=-0.006 jump=-0.530 mins=38 
+
+--- Check #324 at 03:38:30 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-129 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-129 
+  Illinois       buy=0.963 sell=0.970 spread=-0.007 jump=+0.533 mins=36 
+  Houston        buy=0.030 sell=0.037 spread=-0.007 jump=-0.530 mins=36 
+
+--- Check #325 at 03:39:43 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-130 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-130 
+  Illinois       buy=0.951 sell=0.952 spread=-0.001 jump=+0.521 mins=35 
+  Houston        buy=0.048 sell=0.049 spread=-0.001 jump=-0.512 mins=35 
+
+--- Check #326 at 03:40:56 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-131 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-131 
+  Illinois       buy=0.930 sell=0.933 spread=-0.003 jump=+0.500 mins=34 
+  Houston        buy=0.067 sell=0.070 spread=-0.003 jump=-0.493 mins=34 
+
+--- Check #327 at 03:42:09 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-132 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-132 
+  Illinois       buy=0.941 sell=0.948 spread=-0.007 jump=+0.511 mins=33 
+  Houston        buy=0.052 sell=0.059 spread=-0.007 jump=-0.508 mins=33 
+
+--- Check #328 at 03:43:21 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-133 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-133 
+  Illinois       buy=0.946 sell=0.948 spread=-0.002 jump=+0.516 mins=32 
+  Houston        buy=0.052 sell=0.054 spread=-0.002 jump=-0.508 mins=32 
+
+--- Check #329 at 03:44:34 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-135 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-135 
+  Illinois       buy=0.952 sell=0.956 spread=-0.004 jump=+0.522 mins=30 
+  Houston        buy=0.043 sell=0.049 spread=-0.006 jump=-0.517 mins=30 
+
+--- Check #330 at 03:45:47 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-136 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-136 
+  Illinois       buy=0.944 sell=0.950 spread=-0.006 jump=+0.514 mins=29 
+  Houston        buy=0.050 sell=0.056 spread=-0.006 jump=-0.510 mins=29 
+
+--- Check #331 at 03:47:00 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-137 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-137 
+  Illinois       buy=0.948 sell=0.949 spread=-0.001 jump=+0.518 mins=28 
+  Houston        buy=0.051 sell=0.052 spread=-0.001 jump=-0.509 mins=28 
+
+--- Check #332 at 03:48:12 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-138 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-138 
+  Illinois       buy=0.930 sell=0.931 spread=-0.001 jump=+0.500 mins=27 
+  Houston        buy=0.069 sell=0.070 spread=-0.001 jump=-0.491 mins=27 
+
+--- Check #333 at 03:49:25 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-139 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-139 
+  Illinois       buy=0.935 sell=0.936 spread=-0.001 jump=+0.505 mins=26 
+  Houston        buy=0.064 sell=0.065 spread=-0.001 jump=-0.496 mins=26 
+
+--- Check #334 at 03:50:38 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-141 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-141 
+  Illinois       buy=0.935 sell=0.939 spread=-0.004 jump=+0.505 mins=24 
+  Houston        buy=0.061 sell=0.065 spread=-0.004 jump=-0.499 mins=24 
+
+--- Check #335 at 03:51:51 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-142 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-142 
+  Illinois       buy=0.931 sell=0.933 spread=-0.002 jump=+0.501 mins=23 
+  Houston        buy=0.067 sell=0.070 spread=-0.003 jump=-0.493 mins=23 
+
+--- Check #336 at 03:53:03 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-143 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-143 
+  Illinois       buy=0.966 sell=0.969 spread=-0.003 jump=+0.536 mins=22 
+  Houston        buy=0.031 sell=0.034 spread=-0.003 jump=-0.529 mins=22 
+
+--- Check #337 at 03:54:16 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-144 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-144 
+  Illinois       buy=0.931 sell=0.932 spread=-0.001 jump=+0.501 mins=21 
+  Houston        buy=0.068 sell=0.069 spread=-0.001 jump=-0.492 mins=21 
+
+--- Check #338 at 03:55:29 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-145 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-145 
+  Illinois       buy=0.975 sell=0.976 spread=-0.001 jump=+0.545 mins=20 
+  Houston        buy=0.024 sell=0.025 spread=-0.001 jump=-0.536 mins=20 
+
+--- Check #339 at 03:56:42 UTC ---
+  Balance: $2.11
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-147 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-147 
+  Illinois       buy=0.996 sell=0.998 spread=-0.002 jump=+0.566 mins=18 
+  Houston        buy=0.002 sell=0.004 spread=-0.002 jump=-0.558 mins=18 
+
+--- Check #340 at 03:57:55 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-148 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-148 
+  Illinois       buy=0.996 sell=0.997 spread=-0.001 jump=+0.566 mins=17 
+  Houston        buy=0.003 sell=0.004 spread=-0.001 jump=-0.557 mins=17 
+
+--- Check #341 at 03:59:07 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-149 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-149 
+  Illinois       buy=0.996 sell=0.997 spread=-0.001 jump=+0.566 mins=16 
+  Houston        buy=0.003 sell=0.004 spread=-0.001 jump=-0.557 mins=16 
+
+--- Check #342 at 04:00:20 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-150 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-150 
+  Illinois       buy=0.996 sell=0.997 spread=-0.001 jump=+0.566 mins=15 
+  Houston        buy=0.003 sell=0.004 spread=-0.001 jump=-0.557 mins=15 
+
+--- Check #343 at 04:01:33 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-152 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-152 
+  Illinois       buy=0.991 sell=0.993 spread=-0.002 jump=+0.561 mins=13 
+  Houston        buy=0.007 sell=0.009 spread=-0.002 jump=-0.553 mins=13 
+
+--- Check #344 at 04:02:46 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-153 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-153 
+  Illinois       buy=0.990 sell=0.995 spread=-0.005 jump=+0.560 mins=12 
+  Houston        buy=0.005 sell=0.010 spread=-0.005 jump=-0.555 mins=12 
+
+--- Check #345 at 04:03:58 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-154 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-154 
+  Illinois       buy=0.987 sell=0.989 spread=-0.002 jump=+0.557 mins=11 
+  Houston        buy=0.011 sell=0.013 spread=-0.002 jump=-0.549 mins=11 
+
+--- Check #346 at 04:05:11 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-155 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-155 
+  Illinois       buy=0.981 sell=0.986 spread=-0.005 jump=+0.551 mins=10 
+  Houston        buy=0.014 sell=0.019 spread=-0.005 jump=-0.546 mins=10 
+
+--- Check #347 at 04:06:24 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-156 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-156 
+  Illinois       buy=0.982 sell=0.989 spread=-0.007 jump=+0.552 mins=9 
+  Houston        buy=0.011 sell=0.018 spread=-0.007 jump=-0.549 mins=9 
+
+--- Check #348 at 04:07:37 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-158 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-158 
+  Illinois       buy=0.981 sell=0.987 spread=-0.006 jump=+0.551 mins=7 
+  Houston        buy=0.013 sell=0.019 spread=-0.006 jump=-0.547 mins=7 
+
+--- Check #349 at 04:08:49 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-159 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-159 
+  Illinois       buy=0.991 sell=0.995 spread=-0.004 jump=+0.561 mins=6 
+  Houston        buy=0.005 sell=0.009 spread=-0.004 jump=-0.555 mins=6 
+
+--- Check #350 at 04:10:02 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-160 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-160 
+  Illinois       buy=0.993 sell=0.998 spread=-0.005 jump=+0.563 mins=5 
+  Houston        buy=0.002 sell=0.007 spread=-0.005 jump=-0.558 mins=5 
+
+--- Check #351 at 04:11:15 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-161 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-161 
+  Illinois       buy=0.992 sell=0.998 spread=-0.006 jump=+0.562 mins=4 
+  Houston        buy=0.002 sell=0.008 spread=-0.006 jump=-0.558 mins=4 
+
+--- Check #352 at 04:12:28 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-162 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-162 
+  Illinois       buy=0.991 sell=0.997 spread=-0.006 jump=+0.561 mins=3 
+  Houston        buy=0.003 sell=0.009 spread=-0.006 jump=-0.557 mins=3 
+
+--- Check #353 at 04:13:41 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-164 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-164 
+  Illinois       buy=0.991 sell=0.997 spread=-0.006 jump=+0.561 mins=1 
+  Houston        buy=0.003 sell=0.009 spread=-0.006 jump=-0.557 mins=1 
+
+--- Check #354 at 04:14:53 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-165 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-165 
+  Illinois       buy=0.991 sell=0.997 spread=-0.006 jump=+0.561 mins=0 
+  Houston        buy=0.003 sell=0.009 spread=-0.006 jump=-0.557 mins=0 
+
+--- Check #355 at 04:16:06 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-166 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-166 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-1 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-1 
+
+--- Check #356 at 04:17:19 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-167 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-167 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-2 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-2 
+
+--- Check #357 at 04:18:32 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-169 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-169 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-4 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-4 
+
+--- Check #358 at 04:19:44 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-170 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-170 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-5 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-5 
+
+--- Check #359 at 04:20:57 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-171 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-171 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-6 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-6 
+
+--- Check #360 at 04:22:10 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-172 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-172 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-7 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-7 
+
+--- Check #361 at 04:23:23 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-173 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-173 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-8 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-8 
+
+--- Check #362 at 04:24:36 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-175 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-175 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-10 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-10 
+
+--- Check #363 at 04:25:48 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-176 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-176 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-11 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-11 
+
+--- Check #364 at 04:27:01 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-177 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-177 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-12 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-12 
+
+--- Check #365 at 04:28:14 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-178 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-178 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-13 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-13 
+
+--- Check #366 at 04:29:27 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-179 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-179 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-14 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-14 
+
+--- Check #367 at 04:30:39 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-181 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-181 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-16 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-16 
+
+--- Check #368 at 04:31:52 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-182 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-182 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-17 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-17 
+
+--- Check #369 at 04:33:05 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-183 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-183 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-18 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-18 
+
+--- Check #370 at 04:34:18 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-184 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-184 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-19 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-19 
+
+--- Check #371 at 04:35:31 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-186 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-186 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-21 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-21 
+
+--- Check #372 at 04:36:43 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-187 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-187 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-22 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-22 
+
+--- Check #373 at 04:37:56 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-188 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-188 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-23 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-23 
+
+--- Check #374 at 04:39:09 UTC ---
+  Balance: $22.28
+  Knicks         buy=0.000 sell=0.001 spread=-0.001 jump=-0.450 mins=-189 
+  Hornets        buy=0.999 sell=1.000 spread=-0.001 jump=+0.459 mins=-189 
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-24 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-24 
+
+--- Check #375 at 04:40:22 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-25 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-25 
+
+--- Check #376 at 04:41:34 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-27 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-27 
+
+--- Check #377 at 04:42:47 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-28 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-28 
+
+--- Check #378 at 04:43:59 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-29 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-29 
+
+--- Check #379 at 04:45:12 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-30 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-30 
+
+--- Check #380 at 04:46:24 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-31 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-31 
+
+--- Check #381 at 04:47:37 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-33 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-33 
+
+--- Check #382 at 04:48:49 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-34 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-34 
+
+--- Check #383 at 04:50:01 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-35 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-35 
+
+--- Check #384 at 04:51:14 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-36 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-36 
+
+--- Check #385 at 04:52:26 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-37 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-37 
+
+--- Check #386 at 04:53:39 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-39 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-39 
+
+--- Check #387 at 04:54:51 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-40 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-40 
+
+--- Check #388 at 04:56:04 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-41 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-41 
+
+--- Check #389 at 04:57:16 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-42 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-42 
+
+--- Check #390 at 04:58:29 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-43 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-43 
+
+--- Check #391 at 04:59:41 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-45 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-45 
+
+--- Check #392 at 05:00:54 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-46 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-46 
+
+--- Check #393 at 05:02:06 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-47 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-47 
+
+--- Check #394 at 05:03:18 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-48 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-48 
+
+--- Check #395 at 05:04:31 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-50 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-50 
+
+--- Check #396 at 05:05:43 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-51 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-51 
+
+--- Check #397 at 05:06:55 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-52 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-52 
+
+--- Check #398 at 05:08:07 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-53 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-53 
+
+--- Check #399 at 05:09:20 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-54 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-54 
+
+--- Check #400 at 05:10:32 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-56 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-56 
+
+--- Check #401 at 05:11:44 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-57 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-57 
+
+--- Check #402 at 05:12:56 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-58 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-58 
+
+--- Check #403 at 05:14:09 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-59 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-59 
+
+--- Check #404 at 05:15:21 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-60 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-60 
+
+--- Check #405 at 05:16:33 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-62 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-62 
+
+--- Check #406 at 05:17:45 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-63 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-63 
+
+--- Check #407 at 05:18:58 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-64 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-64 
+
+--- Check #408 at 05:20:10 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-65 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-65 
+
+--- Check #409 at 05:21:23 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-66 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-66 
+
+--- Check #410 at 05:22:35 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-68 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-68 
+
+--- Check #411 at 05:23:48 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-69 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-69 
+
+--- Check #412 at 05:25:00 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-70 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-70 
+
+--- Check #413 at 05:26:12 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-71 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-71 
+
+--- Check #414 at 05:27:25 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-72 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-72 
+
+--- Check #415 at 05:28:37 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-74 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-74 
+
+--- Check #416 at 05:29:50 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-75 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-75 
+
+--- Check #417 at 05:31:02 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-76 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-76 
+
+--- Check #418 at 05:32:15 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-77 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-77 
+
+--- Check #419 at 05:33:27 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-78 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-78 
+
+--- Check #420 at 05:34:39 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-80 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-80 
+
+--- Check #421 at 05:35:52 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-81 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-81 
+
+--- Check #422 at 05:37:04 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-82 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-82 
+
+--- Check #423 at 05:38:17 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-83 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-83 
+
+--- Check #424 at 05:39:29 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-84 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-84 
+
+--- Check #425 at 05:40:42 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-86 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-86 
+
+--- Check #426 at 05:41:54 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-87 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-87 
+
+--- Check #427 at 05:43:07 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-88 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-88 
+
+--- Check #428 at 05:44:19 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-89 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-89 
+
+--- Check #429 at 05:45:31 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-91 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-91 
+
+--- Check #430 at 05:46:44 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-92 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-92 
+
+--- Check #431 at 05:47:56 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-93 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-93 
+
+--- Check #432 at 05:49:09 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-94 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-94 
+
+--- Check #433 at 05:50:21 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-95 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-95 
+
+--- Check #434 at 05:51:34 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-97 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-97 
+
+--- Check #435 at 05:52:46 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-98 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-98 
+
+--- Check #436 at 05:53:58 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-99 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-99 
+
+--- Check #437 at 05:55:11 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-100 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-100 
+
+--- Check #438 at 05:56:23 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-101 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-101 
+
+--- Check #439 at 05:57:36 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-103 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-103 
+
+--- Check #440 at 05:58:48 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-104 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-104 
+
+--- Check #441 at 06:00:00 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-105 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-105 
+
+--- Check #442 at 06:01:13 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-106 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-106 
+
+--- Check #443 at 06:02:25 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-107 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-107 
+
+--- Check #444 at 06:03:38 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-109 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-109 
+
+--- Check #445 at 06:04:50 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-110 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-110 
+
+--- Check #446 at 06:06:03 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-111 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-111 
+
+--- Check #447 at 06:07:18 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-112 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-112 
+
+--- Check #448 at 06:08:30 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-114 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-114 
+
+--- Check #449 at 06:09:43 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-115 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-115 
+
+--- Check #450 at 06:10:55 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-116 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-116 
+
+--- Check #451 at 06:12:08 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-117 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-117 
+
+--- Check #452 at 06:13:20 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-118 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-118 
+
+--- Check #453 at 06:14:32 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-120 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-120 
+
+--- Check #454 at 06:15:45 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-121 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-121 
+
+--- Check #455 at 06:16:58 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-122 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-122 
+
+--- Check #456 at 06:18:10 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-123 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-123 
+
+--- Check #457 at 06:19:23 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-124 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-124 
+
+--- Check #458 at 06:20:35 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-126 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-126 
+
+--- Check #459 at 06:21:47 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-127 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-127 
+
+--- Check #460 at 06:23:00 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-128 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-128 
+
+--- Check #461 at 06:24:12 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-129 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-129 
+
+--- Check #462 at 06:25:25 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-130 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-130 
+
+--- Check #463 at 06:26:37 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-132 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-132 
+
+--- Check #464 at 06:27:50 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-133 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-133 
+
+--- Check #465 at 06:29:02 UTC ---
+  Balance: $22.28
+  Illinois       buy=0.999 sell=1.000 spread=-0.001 jump=+0.569 mins=-134 
+  Houston        buy=0.000 sell=0.001 spread=-0.001 jump=-0.560 mins=-134 
+
+=== Monitor finished at 06:30:15 UTC ===

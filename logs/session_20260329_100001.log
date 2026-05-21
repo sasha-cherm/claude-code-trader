@@ -1,0 +1,17 @@
+Session 192 complete. Here's the status:
+
+**Balance**: $7.36 USDC | Day 18 of campaign
+
+**Running monitors**:
+- Soccer near-res (PID 1105447) — 8 games + CS2 BLAST GF, first window at 11:40 UTC
+- BTC candle trader (PID 1050502) — next signal 12:00 UTC
+
+**Pre-game scan**: Checked all 9 NBA games against ESPN spreads — PM is efficiently priced. No >5% edge to trade pre-game. Capital preserved for near-res tonight.
+
+**Today's key windows** (UTC):
+- 11:40-19:00: Soccer near-res (Colombia-France best target at $61K vol)
+- 14:00-19:00: CS2 BLAST Grand Final
+- 18:00: Launch NBA near-res monitor (9 games, Kings-Nets + Celtics-Hornets are coin flips)
+- 21:40-04:30: NBA near-res windows
+
+Commissions start March 30 — bball script auto-switches to limit orders after midnight UTC. All scripts verified and ready.

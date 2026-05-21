@@ -1,0 +1,52 @@
+[MM] Killing old instance PID 207558
+[MM] === BTC 15-min Fair-Value Market Maker ===
+[MM] UTC: 2026-03-31 09:00:22.271769+00:00
+[MM] size=6.0  poll=1.0s
+[MM] Balance: $12.78
+
+[MM] --- main loop #1 @ 09:00:27 UTC ---
+[MM] Streak (resolved): 0x NONE
+[MM] Fair value: UP=0.516  DN=0.484  RSI=29.53 curUP=0.60
+[MM] next: Bitcoin Up or Down - March 31, 5:15AM-5:30AM ET in 871s, fair UP=0.516 DN=0.484, waiting 31s
+
+[MM] --- main loop #2 @ 09:01:03 UTC ---
+[MM] Streak (resolved): 0x NONE
+[MM] Fair value: UP=0.516  DN=0.484  RSI=28.91 curUP=0.57
+
+[MM] =======================================================
+[MM] Bitcoin Up or Down - March 31, 5:15AM-5:30AM ET
+[MM] start=2026-03-31T09:15:00+00:00
+[MM] streak=0xNONE RSI=28.91
+[MM] fair: UP=0.516 DN=0.484
+[MM] max:  UP=0.51  DN=0.47  (both fill → 2c+ profit/sh)
+[MM] Balance: $12.78
+[UP] BUY 6sh @ 0.51  oid=0x47b8be5c58d4b059da45322823d21ca69cef51d0c9ff046a0add6b9caddc51dd
+[DN] BUY 6sh @ 0.46  oid=0x0d92a681017d9461643841c192abd971b8a460e8ed3927f6ececc4d1fc6ac83f
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 815s to start
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 797s to start
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 779s to start
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 760s to start
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 742s to start
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 724s to start
+[MM] UP:BUY@0.51(max=0.51) | DN:BUY@0.46(max=0.47) | 705s to start
+[MM] UP order matched @ 0.51, waiting settlement...
+[UP] cancelled 0x47b8be5c58d4b0...
+[MM] UP filled: 6.0sh @ 0.51
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 690s to start
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 676s to start
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 662s to start
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 648s to start
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 634s to start
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 619s to start
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 605s to start
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 591s to start
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 577s to start
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 562s to start
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 548s to start
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 533s to start
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 519s to start
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 502s to start
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 488s to start
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 474s to start
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 460s to start
+[MM] UP:FILLED@0.51 | DN:BUY@0.46(max=0.47) | 437s to start

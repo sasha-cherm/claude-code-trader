@@ -1,0 +1,188 @@
+[MM] === BTC 15-min Market Maker ===
+[MM] UTC: 2026-03-30 07:40:33.373130+00:00
+[MM] size=5.0  cancel=5s  poll=1.0s
+[MM] Balance: $15.86
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 3:45AM-4:00AM ET
+[MM] start=2026-03-30T07:45:00+00:00  deadline=2026-03-30T07:44:55+00:00
+[MM] up=1139341422326309...  dn=5640106024223685...
+[UP] BUY 5sh @ 0.50  oid=0x5c14c1a3e90ad5cb3fa5ebce71e93ad6aa5336d72553699bfa28ea9184e5d5b9
+[DN] BUY 5sh @ 0.49  oid=0x23018ebccec05d57981e6f82d5b75985bdbe1ecf06eb18fa86d0bc39cbd1581e
+[MM] DN DONE 5.0@0.49
+[UP] cancelled 0x5c14c1a3e90ad5...
+[UP] BUY 5sh @ 0.51  oid=0x5dacbbd80c6f2982feed09f89b7d61a4c2eb42ffcbd5fdf4a0c2bbd4ac237c09
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.51 DN=DONE | 251s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.51 DN=DONE | 241s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.51 DN=DONE | 231s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.51 DN=DONE | 221s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.51 DN=DONE | 212s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.51 DN=DONE | 211s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.51 DN=DONE | 202s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.51 DN=DONE | 201s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.51 DN=DONE | 192s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.51 DN=DONE | 190s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.51 DN=DONE | 182s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.51 DN=DONE | 180s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.51 DN=DONE | 171s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.51 DN=DONE | 170s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.51 DN=DONE | 161s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.51 DN=DONE | 160s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.51 DN=DONE | 151s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.51 DN=DONE | 141s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.51 DN=DONE | 131s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.51 DN=DONE | 121s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.51 DN=DONE | 112s
+[MM] UP DONE 5.0@0.51
+[MM] BOTH DONE EARLY  profit=$0.0000
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 3:45AM-4:00AM ET
+[MM] start=2026-03-30T07:45:00+00:00  deadline=2026-03-30T07:44:55+00:00
+[MM] up=1139341422326309...  dn=5640106024223685...
+[UP] BUY 5sh @ 0.51  oid=0xe8f62444b0c192b59e1138147da0c13ac27fd4e266223d6d642a1ff84232f2ce
+[DN] BUY 5sh @ 0.48  oid=0xc14bdec4f0f2bc91de2dd3af373c3c235009443a819fc88e4ca225ee29dfc940
+[MM] bb=0.51 ba=0.52 sp=0.01 | UP=0.51 DN=0.48(=0.52) | 101s
+[MM] DN DONE 5.0@0.48
+[MM] bb=0.51 ba=0.52 sp=0.01 | UP=0.51 DN=DONE | 91s
+[MM] bb=0.51 ba=0.52 sp=0.01 | UP=0.51 DN=DONE | 90s
+[MM] UP DONE 5.0@0.51
+[MM] BOTH DONE EARLY  profit=$0.0500
+[MM] discovery btc-updown-15m-1774856700: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] next: Bitcoin Up or Down - March 30, 4:00AM-4:15AM ET in 972s, sleeping 72s
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 4:00AM-4:15AM ET
+[MM] start=2026-03-30T08:00:00+00:00  deadline=2026-03-30T07:59:55+00:00
+[MM] up=1821847786587168...  dn=5459080007087956...
+[UP] BUY 5sh @ 0.50  oid=0x2b7469c3789a9b607792000b4d23fd0aeb8f9b649e35a86ab6fdcd0e498c9866
+[DN] BUY 5sh @ 0.49  oid=0xb1a0c97b81bc893f4e072dd1a077e60e02289ab5848da1213815cecccb044398
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 891s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 881s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 871s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 861s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 852s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 850s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 842s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 840s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 831s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 821s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 811s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 801s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 792s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 790s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 782s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 780s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 771s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 761s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 751s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 741s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 731s
+[MM] DN partial 4.1/5, residual<min, done
+[MM] DN DONE 4.1@0.49
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 721s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 711s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 701s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 692s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 691s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 682s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 681s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 672s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 670s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 661s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 660s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 651s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 650s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 641s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 640s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 631s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 621s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 611s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 602s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 601s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 592s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 591s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 582s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 571s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 570s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=DONE | 561s
+[MM] UP partial 1.6/5, residual<min, done
+[MM] UP DONE 1.6@0.5
+[MM] BOTH DONE EARLY  profit=$0.0161
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 4:00AM-4:15AM ET
+[MM] start=2026-03-30T08:00:00+00:00  deadline=2026-03-30T07:59:55+00:00
+[MM] up=1821847786587168...  dn=5459080007087956...
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 551s
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 550s
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 542s
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 540s
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 532s
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 530s
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2500000'}]
+[DN] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of active orders: 1695000, sum of matched orders: 0, order amount: 2450000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of matched orders: 1695000, order amount: 2500000'}]
+[DN] BUY 5sh @ 0.49  oid=0xc538db2db42824c9aa6aee830e40c231a21d1fa5adf643e3f4495f698016b60a
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 522s
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of matched orders: 1695000, order amount: 2500000'}]
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 521s
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of matched orders: 1695000, order amount: 2500000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of matched orders: 1695000, order amount: 2500000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 2659569, sum of matched orders: 1695000, order amount: 2500000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 964569, order amount: 2500000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 964569, order amount: 2500000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 964569, order amount: 2500000'}]
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 964569, order amount: 2500000'}]
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.5 DN=0.49(=0.51) | 511s
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 964569, order amount: 2500000'}]
+
+[MM] Signal 15, stopping...
+[UP] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 964569, order amount: 2500000'}]
+[MM] shutdown

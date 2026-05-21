@@ -1,0 +1,10 @@
+Session 177 complete. Key status:
+
+- **Balance**: $0.06 — waiting on settlements (~$10-25 expected by 04:00-06:00 UTC)
+- **No trades possible** until settlements arrive
+- **Killed** stale Mar 27 monitors (no trades made, $0 balance)
+- **Reduced** candle trader from 5→2 shares/trade to preserve capital for near-res
+- **MSU-UConn** ($3.5M vol) tipping off NOW — can't trade it (no capital)
+- **Mar 28 scripts** verified ready: soccer (13:00 UTC launch), NBA (16:00 UTC launch)
+- **Pre-game edge found**: Hawks YES ~4-7% edge, Suns YES ~2-5% edge vs ESPN spreads
+- **Next cron**: 03:00 UTC (06:00 GMT+3) — will check if settlements arrived

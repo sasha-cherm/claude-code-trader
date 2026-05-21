@@ -1,0 +1,48 @@
+[MM] Killing old instance PID 208130
+[MM] === BTC 15-min Fair-Value Market Maker ===
+[MM] UTC: 2026-03-31 09:07:45.201796+00:00
+[MM] size=6.0  poll=1.0s
+[MM] Balance: $12.90
+
+[MM] --- main loop #1 @ 09:07:46 UTC ---
+[MM] Streak (resolved): 4x DN
+[MM] Fair value: UP=0.551  DN=0.449  RSI=29.41 curUP=0.65
+
+[MM] =======================================================
+[MM] Bitcoin Up or Down - March 31, 5:15AM-5:30AM ET
+[MM] start=2026-03-31T09:15:00+00:00
+[MM] streak=4xDN RSI=29.41
+[MM] fair: UP=0.551 DN=0.449
+[MM] max:  UP=0.54  DN=0.44  (both fill → 2c+ profit/sh)
+[MM] Balance: $12.90
+[UP] BUY 6sh @ 0.51  oid=0xa0ab603eaf073372f5821d9a523c2be295b9ab30fba7e9f6b9f151522882da70
+[DN] BUY 6sh @ 0.44  oid=0x81907080b80ea24546623e56e2294e5f3365a79a739d8de0a60b6b44ad86919d
+[MM] UP:BUY@0.51(max=0.54) | DN:BUY@0.44(max=0.44) | 413s to start
+[UP] cancelled 0xa0ab603eaf0733...
+[UP] BUY 6sh @ 0.54  oid=0xe84651e0e8af0a381b880b936a204dec5530a45a7481d1c79e57dffdf4d726c4
+[MM] UP:BUY@0.54(max=0.54) | DN:BUY@0.44(max=0.44) | 392s to start
+[MM] UP:BUY@0.54(max=0.54) | DN:BUY@0.44(max=0.44) | 373s to start
+[BAL] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[MM] UP:BUY@0.54(max=0.54) | DN:BUY@0.44(max=0.44) | 344s to start
+[BAL] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[MM] UP:BUY@0.54(max=0.54) | DN:BUY@0.44(max=0.44) | 310s to start
+[UP] cancelled 0xe84651e0e8af0a...
+[MM] UP filled: 3.9sh @ 0.54
+[MM] Fair value refresh: UP=0.576 DN=0.424 (curUP=0.36)
+[DN] cancelled 0x81907080b80ea2...
+[DN] BUY 6sh @ 0.41  oid=0x50dc9140ae3bffccfd3cd6cecb1f5af423ed74fbccb252f8fcda317e80070550
+[MM] UP:FILLED@0.54 | DN:BUY@0.41(max=0.41) | 283s to start
+[MM] UP:FILLED@0.54 | DN:BUY@0.41(max=0.41) | 265s to start
+[BOOK] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[MM] UP:FILLED@0.54 | DN:BUY@0.41(max=0.41) | 238s to start
+[MM] UP:FILLED@0.54 | DN:BUY@0.41(max=0.41) | 221s to start
+[MM] UP:FILLED@0.54 | DN:BUY@0.41(max=0.41) | 205s to start
+[MM] UP:FILLED@0.54 | DN:BUY@0.41(max=0.41) | 187s to start
+[MM] Fair value refresh: UP=0.602 DN=0.398 (curUP=0.07)
+[DN] cancelled 0x50dc9140ae3bff...
+[DN] BUY 6sh @ 0.39  oid=0xf87e62ac33c77c158d94846cc310b3329ea1c639155b211fc494122963e647db
+[MM] UP:FILLED@0.54 | DN:BUY@0.39(max=0.39) | 169s to start
+[MM] UP:FILLED@0.54 | DN:BUY@0.39(max=0.39) | 147s to start
+[MM] UP:FILLED@0.54 | DN:BUY@0.39(max=0.39) | 132s to start
+[MM] UP:FILLED@0.54 | DN:BUY@0.39(max=0.39) | 117s to start
+[MM] UP:FILLED@0.54 | DN:BUY@0.39(max=0.39) | 101s to start

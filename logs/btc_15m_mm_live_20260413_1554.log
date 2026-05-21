@@ -1,0 +1,55 @@
+[LIVE] === BTC 15-min Fair-Value MM — LIVE TRADING ===
+[LIVE] UTC: 2026-04-13 15:54:01.527913+00:00
+[LIVE] size=5.0  poll=1.0s  maker-only  improve=0.02
+[LIVE] No sell orders will be placed — user resolves manually
+[LIVE] Killing old instance PID 268558
+[LIVE] Killing old instance PID 268567
+[LIVE] USDC balance: $72.62
+[LIVE] Current candle not confirmed (351s to start)
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=10)
+[LIVE] Current candle not confirmed (327s to start)
+[LIVE] Current candle not confirmed (317s to start)
+[LIVE] Current candle not confirmed (306s to start)
+[LIVE] Current candle not confirmed (296s to start)
+[LIVE] Current candle not confirmed (284s to start)
+[LIVE] Current candle not confirmed (271s to start)
+[LIVE] Current candle not confirmed (258s to start)
+[LIVE] Current candle not confirmed (246s to start)
+[LIVE] Current candle not confirmed (234s to start)
+[LIVE] Current candle not confirmed (222s to start)
+[BOOK] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[LIVE] Current candle not confirmed (210s to start)
+[LIVE] Current candle not confirmed (192s to start)
+[LIVE] Current candle not confirmed (179s to start)
+[LIVE] Current candle not confirmed (164s to start)
+[LIVE] Current candle not confirmed (151s to start)
+[LIVE] Current candle not confirmed (136s to start)
+[LIVE] Current candle not confirmed (123s to start)
+[LIVE] Current candle not confirmed (111s to start)
+[LIVE] Current candle not confirmed (100s to start)
+[LIVE] Current candle not confirmed (87s to start)
+[LIVE] Current candle not confirmed (74s to start)
+[BOOK] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[LIVE] Current candle not confirmed (61s to start)
+[LIVE] Current candle not confirmed (43s to start)
+[LIVE] Current candle not confirmed (30s to start)
+[LIVE] Current candle not confirmed (17s to start)
+[FV] Current candle effectively UP (bid=0.99, 2s left)
+
+[LIVE] =======================================================
+[LIVE] Bitcoin Up or Down - April 13, 12:00PM-12:15PM ET
+[LIVE] streak=1xUP  rsi=63.02
+[LIVE] fair: UP=0.490 DN=0.510
+[LIVE] target: UP@0.46 DN@0.48 (improve=0.02)
+[LIVE] USDC: $72.62
+[LIVE] candle done: no fills
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=10)
+[LIVE] Current candle not confirmed (840s to start)
+[LIVE] Current candle not confirmed (829s to start)
+[LIVE] Current candle not confirmed (817s to start)
+[LIVE] Current candle not confirmed (807s to start)
+[LIVE] Current candle not confirmed (797s to start)
+[LIVE] Current candle not confirmed (786s to start)
+[LIVE] Current candle not confirmed (776s to start)
+[LIVE] Current candle not confirmed (763s to start)
+[LIVE] Current candle not confirmed (753s to start)

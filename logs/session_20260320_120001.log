@@ -1,0 +1,11 @@
+Session 93 complete. Here's the status:
+
+**Balance**: $52.91 | **Day 9** | No open positions
+
+**What's running**:
+- `near_res_mar20.py` — 64 tokens covering soccer/CS2/NCAAB/NBA
+- `btc_hourly_trader.py` — first trade at 12:30 UTC (13:00 DOWN candle)
+
+**Research findings**: No edge on Rhineland-Palatinate CDU (polls too close, ~62% is fair), Slovenia election, or other short-term markets. Near-res + BTC hourly remain the strategy.
+
+**Key windows today**: NCAAB Day 2 starts 17:00 UTC (5 coin-flip matchups), European soccer 19:30-21:45 UTC, NBA from 23:00+ UTC. Next session should check BTC hourly trade logs for first fill results.

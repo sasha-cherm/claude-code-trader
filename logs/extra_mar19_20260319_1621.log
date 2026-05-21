@@ -1,0 +1,2929 @@
+=== Extra Near-Res Monitor: March 19 ===
+=== Started at 16:21 UTC ===
+Params: MIN_PRICE=0.85, JUMP=0.2, SPREAD=0.04
+        MAX_MINS=15, MAX_SPEND=9.0
+
+Capturing pre-game prices...
+  Pre-game Besiktas: 0.720
+  Pre-game Kasimpasa: 0.090
+  Pre-game AEK Athens: 0.760
+  Pre-game NK Celje: 0.080
+  Pre-game Porto: 0.390
+  Pre-game Stuttgart: 0.330
+  Pre-game Betis: 0.690
+  Pre-game Panathinaikos: 0.100
+  Pre-game Texas: 0.430
+  Pre-game BYU: 0.560
+  Pre-game Flamengo: 0.840
+  Pre-game Corinthians: 0.430
+  Pre-game Gremio: 0.530
+
+--- Check at 16:21:52 UTC ---
+  Balance: $36.80
+
+--- Check at 16:22:52 UTC ---
+  Balance: $36.80
+
+--- Check at 16:23:53 UTC ---
+  Balance: $36.80
+
+--- Check at 16:24:53 UTC ---
+  Balance: $36.80
+
+--- Check at 16:25:54 UTC ---
+  Balance: $36.80
+
+--- Check at 16:26:54 UTC ---
+  Balance: $36.80
+
+--- Check at 16:27:55 UTC ---
+  Balance: $36.80
+
+--- Check at 16:28:56 UTC ---
+  Balance: $36.80
+
+--- Check at 16:29:57 UTC ---
+  Balance: $36.80
+
+--- Check at 16:30:57 UTC ---
+  Balance: $36.80
+
+--- Check at 16:31:58 UTC ---
+  Balance: $36.80
+
+--- Check at 16:32:59 UTC ---
+  Balance: $36.80
+
+--- Check at 16:34:00 UTC ---
+  Balance: $36.80
+
+--- Check at 16:35:01 UTC ---
+  Balance: $36.80
+
+--- Check at 16:36:01 UTC ---
+  Balance: $36.80
+
+--- Check at 16:37:02 UTC ---
+  Balance: $36.80
+
+--- Check at 16:38:02 UTC ---
+  Balance: $36.80
+
+--- Check at 16:39:02 UTC ---
+  Balance: $36.80
+
+--- Check at 16:40:03 UTC ---
+  Balance: $36.80
+
+--- Check at 16:41:04 UTC ---
+  Balance: $36.80
+
+--- Check at 16:42:05 UTC ---
+  Balance: $36.80
+
+--- Check at 16:43:05 UTC ---
+  Balance: $36.80
+
+--- Check at 16:44:06 UTC ---
+  Balance: $36.80
+
+--- Check at 16:45:06 UTC ---
+  Balance: $36.80
+
+--- Check at 16:46:07 UTC ---
+  Balance: $36.80
+
+--- Check at 16:47:08 UTC ---
+  Balance: $36.80
+
+--- Check at 16:48:09 UTC ---
+  Balance: $36.80
+
+--- Check at 16:49:10 UTC ---
+  Balance: $36.80
+
+--- Check at 16:50:12 UTC ---
+  Balance: $36.80
+
+--- Check at 16:51:13 UTC ---
+  Balance: $36.80
+
+--- Check at 16:52:17 UTC ---
+  Balance: $36.80
+
+--- Check at 16:53:23 UTC ---
+  Balance: $36.80
+
+--- Check at 16:54:24 UTC ---
+  Balance: $36.80
+
+--- Check at 16:55:25 UTC ---
+  Balance: $36.80
+
+--- Check at 16:56:27 UTC ---
+  Balance: $36.80
+
+--- Check at 16:57:28 UTC ---
+  Balance: $36.80
+
+--- Check at 16:58:29 UTC ---
+  Balance: $36.80
+
+--- Check at 16:59:30 UTC ---
+  Balance: $36.80
+
+--- Check at 17:00:31 UTC ---
+  Balance: $36.80
+
+--- Check at 17:01:32 UTC ---
+  Balance: $36.80
+
+--- Check at 17:02:33 UTC ---
+  Balance: $36.80
+
+--- Check at 17:03:34 UTC ---
+  Balance: $36.80
+
+--- Check at 17:04:35 UTC ---
+  Balance: $36.80
+
+--- Check at 17:05:36 UTC ---
+  Balance: $36.80
+
+--- Check at 17:06:37 UTC ---
+  Balance: $36.80
+
+--- Check at 17:07:39 UTC ---
+  Balance: $36.80
+
+--- Check at 17:08:40 UTC ---
+  Balance: $36.80
+
+--- Check at 17:09:41 UTC ---
+  Balance: $36.80
+
+--- Check at 17:10:42 UTC ---
+  Balance: $36.80
+
+--- Check at 17:11:43 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.780 sell=0.790 spread=-0.010 jump=+0.060 mins=93 
+
+--- Check at 17:12:44 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.850 sell=0.890 spread=-0.040 jump=+0.130 mins=92 
+
+--- Check at 17:13:45 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.850 sell=0.860 spread=-0.010 jump=+0.130 mins=91 
+  Kasimpasa       buy=0.030 sell=0.040 spread=-0.010 jump=-0.060 mins=91 
+
+--- Check at 17:14:46 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.850 sell=0.860 spread=-0.010 jump=+0.130 mins=90 
+  Kasimpasa       buy=0.030 sell=0.040 spread=-0.010 jump=-0.060 mins=90 
+
+--- Check at 17:15:47 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.850 sell=0.860 spread=-0.010 jump=+0.130 mins=89 
+  Kasimpasa       buy=0.030 sell=0.040 spread=-0.010 jump=-0.060 mins=89 
+
+--- Check at 17:16:48 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.860 sell=0.870 spread=-0.010 jump=+0.140 mins=88 
+  Kasimpasa       buy=0.020 sell=0.030 spread=-0.010 jump=-0.070 mins=88 
+
+--- Check at 17:17:50 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.860 sell=0.880 spread=-0.020 jump=+0.140 mins=87 
+  Kasimpasa       buy=0.020 sell=0.030 spread=-0.010 jump=-0.070 mins=87 
+
+--- Check at 17:18:51 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.860 sell=0.880 spread=-0.020 jump=+0.140 mins=86 
+  Kasimpasa       buy=0.021 sell=0.030 spread=-0.009 jump=-0.069 mins=86 
+
+--- Check at 17:19:52 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.860 sell=0.880 spread=-0.020 jump=+0.140 mins=85 
+  Kasimpasa       buy=0.021 sell=0.029 spread=-0.008 jump=-0.069 mins=85 
+
+--- Check at 17:20:53 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.870 sell=0.880 spread=-0.010 jump=+0.150 mins=84 
+  Kasimpasa       buy=0.021 sell=0.029 spread=-0.008 jump=-0.069 mins=84 
+
+--- Check at 17:21:54 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.860 sell=0.870 spread=-0.010 jump=+0.140 mins=83 
+  Kasimpasa       buy=0.021 sell=0.030 spread=-0.009 jump=-0.069 mins=83 
+
+--- Check at 17:22:55 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.840 sell=0.850 spread=-0.010 jump=+0.120 mins=82 
+  Kasimpasa       buy=0.030 sell=0.039 spread=-0.009 jump=-0.060 mins=82 
+
+--- Check at 17:23:56 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.850 sell=0.870 spread=-0.020 jump=+0.130 mins=81 
+  Kasimpasa       buy=0.022 sell=0.038 spread=-0.016 jump=-0.068 mins=81 
+
+--- Check at 17:24:57 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.850 sell=0.870 spread=-0.020 jump=+0.130 mins=80 
+  Kasimpasa       buy=0.021 sell=0.036 spread=-0.015 jump=-0.069 mins=80 
+
+--- Check at 17:25:59 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.850 sell=0.870 spread=-0.020 jump=+0.130 mins=79 
+  Kasimpasa       buy=0.021 sell=0.030 spread=-0.009 jump=-0.069 mins=79 
+
+--- Check at 17:27:01 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.860 sell=0.870 spread=-0.010 jump=+0.140 mins=78 
+  Kasimpasa       buy=0.020 sell=0.029 spread=-0.009 jump=-0.070 mins=78 
+
+--- Check at 17:28:02 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.850 sell=0.870 spread=-0.020 jump=+0.130 mins=77 
+  Kasimpasa       buy=0.021 sell=0.030 spread=-0.009 jump=-0.069 mins=77 
+
+--- Check at 17:29:04 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.850 sell=0.860 spread=-0.010 jump=+0.130 mins=76 
+  Kasimpasa       buy=0.022 sell=0.036 spread=-0.014 jump=-0.068 mins=76 
+
+--- Check at 17:30:05 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.850 sell=0.860 spread=-0.010 jump=+0.130 mins=75 
+  Kasimpasa       buy=0.030 sell=0.037 spread=-0.007 jump=-0.060 mins=75 
+
+--- Check at 17:31:07 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.850 sell=0.860 spread=-0.010 jump=+0.130 mins=74 
+  Kasimpasa       buy=0.030 sell=0.037 spread=-0.007 jump=-0.060 mins=74 
+
+--- Check at 17:32:09 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.850 sell=0.860 spread=-0.010 jump=+0.130 mins=73 
+  Kasimpasa       buy=0.030 sell=0.038 spread=-0.008 jump=-0.060 mins=73 
+
+--- Check at 17:33:11 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.840 sell=0.860 spread=-0.020 jump=+0.120 mins=72 
+  Kasimpasa       buy=0.022 sell=0.034 spread=-0.012 jump=-0.068 mins=72 
+
+--- Check at 17:34:12 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.850 sell=0.860 spread=-0.010 jump=+0.130 mins=71 
+  Kasimpasa       buy=0.022 sell=0.032 spread=-0.010 jump=-0.068 mins=71 
+
+--- Check at 17:35:15 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.840 sell=0.860 spread=-0.020 jump=+0.120 mins=70 
+  Kasimpasa       buy=0.022 sell=0.036 spread=-0.014 jump=-0.068 mins=70 
+
+--- Check at 17:36:17 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.850 sell=0.860 spread=-0.010 jump=+0.130 mins=69 
+  Kasimpasa       buy=0.022 sell=0.036 spread=-0.014 jump=-0.068 mins=69 
+
+--- Check at 17:37:18 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.850 sell=0.860 spread=-0.010 jump=+0.130 mins=68 
+  Kasimpasa       buy=0.022 sell=0.036 spread=-0.014 jump=-0.068 mins=68 
+
+--- Check at 17:38:20 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.840 sell=0.860 spread=-0.020 jump=+0.120 mins=67 
+  Kasimpasa       buy=0.026 sell=0.037 spread=-0.011 jump=-0.064 mins=67 
+
+--- Check at 17:39:22 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.840 sell=0.850 spread=-0.010 jump=+0.120 mins=66 
+  Kasimpasa       buy=0.030 sell=0.037 spread=-0.007 jump=-0.060 mins=66 
+
+--- Check at 17:40:24 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.840 sell=0.860 spread=-0.020 jump=+0.120 mins=65 
+  Kasimpasa       buy=0.026 sell=0.034 spread=-0.008 jump=-0.064 mins=65 
+
+--- Check at 17:41:26 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.850 sell=0.860 spread=-0.010 jump=+0.130 mins=64 
+  Kasimpasa       buy=0.025 sell=0.030 spread=-0.005 jump=-0.065 mins=64 
+
+--- Check at 17:42:27 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.850 sell=0.860 spread=-0.010 jump=+0.130 mins=63 
+  Kasimpasa       buy=0.025 sell=0.030 spread=-0.005 jump=-0.065 mins=63 
+
+--- Check at 17:43:29 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.840 sell=0.860 spread=-0.020 jump=+0.120 mins=62 
+  Kasimpasa       buy=0.025 sell=0.029 spread=-0.004 jump=-0.065 mins=62 
+
+--- Check at 17:44:31 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.840 sell=0.850 spread=-0.010 jump=+0.120 mins=60 
+  Kasimpasa       buy=0.025 sell=0.030 spread=-0.005 jump=-0.065 mins=60 
+
+--- Check at 17:45:33 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.840 sell=0.850 spread=-0.010 jump=+0.120 mins=59 
+  Kasimpasa       buy=0.026 sell=0.030 spread=-0.004 jump=-0.064 mins=59 
+
+--- Check at 17:46:35 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.840 sell=0.850 spread=-0.010 jump=+0.120 mins=58 
+  Kasimpasa       buy=0.027 sell=0.030 spread=-0.003 jump=-0.063 mins=58 
+
+--- Check at 17:47:37 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.840 sell=0.850 spread=-0.010 jump=+0.120 mins=57 
+  Kasimpasa       buy=0.026 sell=0.030 spread=-0.004 jump=-0.064 mins=57 
+
+--- Check at 17:48:40 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.960 sell=0.970 spread=-0.010 jump=+0.240 mins=56 
+  Kasimpasa       buy=0.025 sell=0.029 spread=-0.004 jump=-0.065 mins=56 
+
+--- Check at 17:49:42 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.960 sell=0.980 spread=-0.020 jump=+0.240 mins=55 
+  Kasimpasa       buy=0.003 sell=0.015 spread=-0.012 jump=-0.087 mins=55 
+
+--- Check at 17:50:44 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.960 sell=0.970 spread=-0.010 jump=+0.240 mins=54 
+  Kasimpasa       buy=0.003 sell=0.013 spread=-0.010 jump=-0.087 mins=54 
+
+--- Check at 17:51:46 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.960 sell=0.970 spread=-0.010 jump=+0.240 mins=53 
+  Kasimpasa       buy=0.003 sell=0.010 spread=-0.007 jump=-0.087 mins=53 
+
+--- Check at 17:52:48 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.952 sell=0.969 spread=-0.017 jump=+0.232 mins=52 
+  Kasimpasa       buy=0.003 sell=0.010 spread=-0.007 jump=-0.087 mins=52 
+
+--- Check at 17:53:50 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.961 sell=0.969 spread=-0.008 jump=+0.241 mins=51 
+  Kasimpasa       buy=0.003 sell=0.010 spread=-0.007 jump=-0.087 mins=51 
+
+--- Check at 17:54:54 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.961 sell=0.969 spread=-0.008 jump=+0.241 mins=50 
+  Kasimpasa       buy=0.003 sell=0.010 spread=-0.007 jump=-0.087 mins=50 
+  AEK Athens      buy=0.700 sell=0.720 spread=-0.020 jump=-0.060 mins=95 
+
+--- Check at 17:55:56 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.963 sell=0.970 spread=-0.007 jump=+0.243 mins=49 
+  Kasimpasa       buy=0.003 sell=0.010 spread=-0.007 jump=-0.087 mins=49 
+  AEK Athens      buy=0.690 sell=0.710 spread=-0.020 jump=-0.070 mins=94 
+
+--- Check at 17:56:59 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.961 sell=0.970 spread=-0.009 jump=+0.241 mins=48 
+  Kasimpasa       buy=0.003 sell=0.010 spread=-0.007 jump=-0.087 mins=48 
+  AEK Athens      buy=0.700 sell=0.710 spread=-0.010 jump=-0.060 mins=93 
+
+--- Check at 17:58:02 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.962 sell=0.969 spread=-0.007 jump=+0.242 mins=47 
+  Kasimpasa       buy=0.003 sell=0.010 spread=-0.007 jump=-0.087 mins=47 
+  AEK Athens      buy=0.680 sell=0.700 spread=-0.020 jump=-0.080 mins=92 
+
+--- Check at 17:59:03 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.962 sell=0.969 spread=-0.007 jump=+0.242 mins=46 
+  Kasimpasa       buy=0.004 sell=0.010 spread=-0.006 jump=-0.086 mins=46 
+  AEK Athens      buy=0.390 sell=0.510 spread=-0.120 jump=-0.370 mins=91 
+  NK Celje        buy=0.250 sell=0.370 spread=-0.120 jump=+0.170 mins=91 
+
+--- Check at 18:00:05 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.962 sell=0.969 spread=-0.007 jump=+0.242 mins=45 
+  Kasimpasa       buy=0.004 sell=0.010 spread=-0.006 jump=-0.086 mins=45 
+  AEK Athens      buy=0.460 sell=0.480 spread=-0.020 jump=-0.300 mins=90 
+  NK Celje        buy=0.260 sell=0.280 spread=-0.020 jump=+0.180 mins=90 
+
+--- Check at 18:01:08 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.962 sell=0.969 spread=-0.007 jump=+0.242 mins=44 
+  Kasimpasa       buy=0.005 sell=0.010 spread=-0.005 jump=-0.085 mins=44 
+  AEK Athens      buy=0.450 sell=0.460 spread=-0.010 jump=-0.310 mins=89 
+  NK Celje        buy=0.270 sell=0.290 spread=-0.020 jump=+0.190 mins=89 
+
+--- Check at 18:02:10 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.962 sell=0.969 spread=-0.007 jump=+0.242 mins=43 
+  Kasimpasa       buy=0.003 sell=0.010 spread=-0.007 jump=-0.087 mins=43 
+  AEK Athens      buy=0.450 sell=0.460 spread=-0.010 jump=-0.310 mins=88 
+  NK Celje        buy=0.280 sell=0.290 spread=-0.010 jump=+0.200 mins=88 
+
+--- Check at 18:03:12 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.962 sell=0.969 spread=-0.007 jump=+0.242 mins=42 
+  Kasimpasa       buy=0.003 sell=0.010 spread=-0.007 jump=-0.087 mins=42 
+  AEK Athens      buy=0.440 sell=0.450 spread=-0.010 jump=-0.320 mins=87 
+  NK Celje        buy=0.280 sell=0.300 spread=-0.020 jump=+0.200 mins=87 
+
+--- Check at 18:04:14 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.962 sell=0.969 spread=-0.007 jump=+0.242 mins=41 
+  Kasimpasa       buy=0.003 sell=0.007 spread=-0.004 jump=-0.087 mins=41 
+  AEK Athens      buy=0.430 sell=0.440 spread=-0.010 jump=-0.330 mins=86 
+  NK Celje        buy=0.280 sell=0.300 spread=-0.020 jump=+0.200 mins=86 
+
+--- Check at 18:05:16 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.962 sell=0.970 spread=-0.008 jump=+0.242 mins=40 
+  Kasimpasa       buy=0.003 sell=0.009 spread=-0.006 jump=-0.087 mins=40 
+  AEK Athens      buy=0.430 sell=0.440 spread=-0.010 jump=-0.330 mins=85 
+  NK Celje        buy=0.290 sell=0.300 spread=-0.010 jump=+0.210 mins=85 
+
+--- Check at 18:06:18 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.962 sell=0.969 spread=-0.007 jump=+0.242 mins=39 
+  Kasimpasa       buy=0.003 sell=0.009 spread=-0.006 jump=-0.087 mins=39 
+  AEK Athens      buy=0.440 sell=0.450 spread=-0.010 jump=-0.320 mins=84 
+  NK Celje        buy=0.290 sell=0.300 spread=-0.010 jump=+0.210 mins=84 
+
+--- Check at 18:07:21 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.962 sell=0.969 spread=-0.007 jump=+0.242 mins=38 
+  Kasimpasa       buy=0.003 sell=0.010 spread=-0.007 jump=-0.087 mins=38 
+  AEK Athens      buy=0.420 sell=0.430 spread=-0.010 jump=-0.340 mins=83 
+  NK Celje        buy=0.310 sell=0.320 spread=-0.010 jump=+0.230 mins=83 
+
+--- Check at 18:08:23 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.962 sell=0.969 spread=-0.007 jump=+0.242 mins=37 
+  Kasimpasa       buy=0.003 sell=0.010 spread=-0.007 jump=-0.087 mins=37 
+  AEK Athens      buy=0.400 sell=0.420 spread=-0.020 jump=-0.360 mins=82 
+  NK Celje        buy=0.320 sell=0.330 spread=-0.010 jump=+0.240 mins=82 
+
+--- Check at 18:09:25 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.962 sell=0.969 spread=-0.007 jump=+0.242 mins=36 
+  Kasimpasa       buy=0.004 sell=0.010 spread=-0.006 jump=-0.086 mins=36 
+  AEK Athens      buy=0.410 sell=0.420 spread=-0.010 jump=-0.350 mins=81 
+  NK Celje        buy=0.310 sell=0.320 spread=-0.010 jump=+0.230 mins=81 
+
+--- Check at 18:10:27 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.963 sell=0.969 spread=-0.006 jump=+0.243 mins=35 
+  Kasimpasa       buy=0.004 sell=0.009 spread=-0.005 jump=-0.086 mins=35 
+  AEK Athens      buy=0.410 sell=0.430 spread=-0.020 jump=-0.350 mins=80 
+  NK Celje        buy=0.300 sell=0.310 spread=-0.010 jump=+0.220 mins=80 
+
+--- Check at 18:11:29 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.963 sell=0.979 spread=-0.016 jump=+0.243 mins=34 
+  Kasimpasa       buy=0.004 sell=0.010 spread=-0.006 jump=-0.086 mins=34 
+  AEK Athens      buy=0.400 sell=0.410 spread=-0.010 jump=-0.360 mins=79 
+  NK Celje        buy=0.320 sell=0.330 spread=-0.010 jump=+0.240 mins=79 
+
+--- Check at 18:12:31 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.964 sell=0.979 spread=-0.015 jump=+0.244 mins=32 
+  Kasimpasa       buy=0.003 sell=0.010 spread=-0.007 jump=-0.087 mins=32 
+  AEK Athens      buy=0.410 sell=0.430 spread=-0.020 jump=-0.350 mins=77 
+  NK Celje        buy=0.300 sell=0.320 spread=-0.020 jump=+0.220 mins=77 
+
+--- Check at 18:13:33 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.963 sell=0.977 spread=-0.014 jump=+0.243 mins=31 
+  Kasimpasa       buy=0.003 sell=0.006 spread=-0.003 jump=-0.087 mins=31 
+  AEK Athens      buy=0.400 sell=0.420 spread=-0.020 jump=-0.360 mins=76 
+  NK Celje        buy=0.310 sell=0.320 spread=-0.010 jump=+0.230 mins=76 
+
+--- Check at 18:14:36 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.963 sell=0.981 spread=-0.018 jump=+0.243 mins=30 
+  Kasimpasa       buy=0.003 sell=0.007 spread=-0.004 jump=-0.087 mins=30 
+  AEK Athens      buy=0.400 sell=0.410 spread=-0.010 jump=-0.360 mins=75 
+  NK Celje        buy=0.310 sell=0.330 spread=-0.020 jump=+0.230 mins=75 
+
+--- Check at 18:15:38 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.963 sell=0.981 spread=-0.018 jump=+0.243 mins=29 
+  Kasimpasa       buy=0.005 sell=0.007 spread=-0.002 jump=-0.085 mins=29 
+  AEK Athens      buy=0.380 sell=0.400 spread=-0.020 jump=-0.380 mins=74 
+  NK Celje        buy=0.320 sell=0.340 spread=-0.020 jump=+0.240 mins=74 
+
+--- Check at 18:16:40 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.963 sell=0.971 spread=-0.008 jump=+0.243 mins=28 
+  Kasimpasa       buy=0.006 sell=0.007 spread=-0.001 jump=-0.084 mins=28 
+  AEK Athens      buy=0.370 sell=0.390 spread=-0.020 jump=-0.390 mins=73 
+  NK Celje        buy=0.330 sell=0.350 spread=-0.020 jump=+0.250 mins=73 
+
+--- Check at 18:17:41 UTC ---
+  Balance: $36.80
+  Kasimpasa       buy=0.006 sell=0.007 spread=-0.001 jump=-0.084 mins=27 
+  AEK Athens      buy=0.370 sell=0.380 spread=-0.010 jump=-0.390 mins=72 
+  NK Celje        buy=0.330 sell=0.350 spread=-0.020 jump=+0.250 mins=72 
+
+--- Check at 18:18:43 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.861 sell=0.870 spread=-0.009 jump=+0.141 mins=26 
+  Kasimpasa       buy=0.012 sell=0.018 spread=-0.006 jump=-0.078 mins=26 
+  AEK Athens      buy=0.380 sell=0.390 spread=-0.010 jump=-0.380 mins=71 
+  NK Celje        buy=0.320 sell=0.330 spread=-0.010 jump=+0.240 mins=71 
+
+--- Check at 18:19:45 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.852 sell=0.860 spread=-0.008 jump=+0.132 mins=25 
+  Kasimpasa       buy=0.011 sell=0.018 spread=-0.007 jump=-0.079 mins=25 
+  AEK Athens      buy=0.360 sell=0.370 spread=-0.010 jump=-0.400 mins=70 
+  NK Celje        buy=0.340 sell=0.360 spread=-0.020 jump=+0.260 mins=70 
+
+--- Check at 18:20:47 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.851 sell=0.859 spread=-0.008 jump=+0.131 mins=24 
+  Kasimpasa       buy=0.011 sell=0.017 spread=-0.006 jump=-0.079 mins=24 
+  AEK Athens      buy=0.360 sell=0.370 spread=-0.010 jump=-0.400 mins=69 
+  NK Celje        buy=0.340 sell=0.360 spread=-0.020 jump=+0.260 mins=69 
+
+--- Check at 18:21:49 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.850 sell=0.859 spread=-0.009 jump=+0.130 mins=23 
+  Kasimpasa       buy=0.011 sell=0.019 spread=-0.008 jump=-0.079 mins=23 
+  AEK Athens      buy=0.360 sell=0.370 spread=-0.010 jump=-0.400 mins=68 
+  NK Celje        buy=0.340 sell=0.350 spread=-0.010 jump=+0.260 mins=68 
+
+--- Check at 18:22:51 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.850 sell=0.859 spread=-0.009 jump=+0.130 mins=22 
+  Kasimpasa       buy=0.011 sell=0.017 spread=-0.006 jump=-0.079 mins=22 
+  AEK Athens      buy=0.350 sell=0.360 spread=-0.010 jump=-0.410 mins=67 
+  NK Celje        buy=0.350 sell=0.370 spread=-0.020 jump=+0.270 mins=67 
+
+--- Check at 18:23:53 UTC ---
+  Balance: $36.80
+  Besiktas        buy=0.860 sell=0.870 spread=-0.010 jump=+0.140 mins=21 
+  Kasimpasa       buy=0.011 sell=0.016 spread=-0.005 jump=-0.079 mins=21 
+  AEK Athens      buy=0.330 sell=0.350 spread=-0.020 jump=-0.430 mins=66 
+  NK Celje        buy=0.370 sell=0.380 spread=-0.010 jump=+0.290 mins=66 
+
+--- Check at 18:24:55 UTC ---
+  Balance: $45.30
+  Besiktas        buy=0.851 sell=0.868 spread=-0.017 jump=+0.131 mins=20 
+  Kasimpasa       buy=0.011 sell=0.016 spread=-0.005 jump=-0.079 mins=20 
+  AEK Athens      buy=0.330 sell=0.340 spread=-0.010 jump=-0.430 mins=65 
+  NK Celje        buy=0.370 sell=0.380 spread=-0.010 jump=+0.290 mins=65 
+
+--- Check at 18:25:57 UTC ---
+  Balance: $45.30
+  Besiktas        buy=0.851 sell=0.859 spread=-0.008 jump=+0.131 mins=19 
+  Kasimpasa       buy=0.011 sell=0.016 spread=-0.005 jump=-0.079 mins=19 
+  AEK Athens      buy=0.340 sell=0.350 spread=-0.010 jump=-0.420 mins=64 
+  NK Celje        buy=0.380 sell=0.390 spread=-0.010 jump=+0.300 mins=64 
+
+--- Check at 18:26:58 UTC ---
+  Balance: $45.30
+  Besiktas        buy=0.841 sell=0.847 spread=-0.006 jump=+0.121 mins=18 
+  Kasimpasa       buy=0.011 sell=0.017 spread=-0.006 jump=-0.079 mins=18 
+  AEK Athens      buy=0.320 sell=0.330 spread=-0.010 jump=-0.440 mins=63 
+  NK Celje        buy=0.390 sell=0.400 spread=-0.010 jump=+0.310 mins=63 
+
+--- Check at 18:28:01 UTC ---
+  Balance: $45.30
+  Besiktas        buy=0.851 sell=0.859 spread=-0.008 jump=+0.131 mins=17 
+  Kasimpasa       buy=0.011 sell=0.014 spread=-0.003 jump=-0.079 mins=17 
+  AEK Athens      buy=0.100 sell=0.200 spread=-0.100 jump=-0.660 mins=62 
+  NK Celje        buy=0.620 sell=0.650 spread=-0.030 jump=+0.540 mins=62 
+
+--- Check at 18:29:03 UTC ---
+  Balance: $45.30
+  Besiktas        buy=0.841 sell=0.858 spread=-0.017 jump=+0.121 mins=16 
+  Kasimpasa       buy=0.011 sell=0.017 spread=-0.006 jump=-0.079 mins=16 
+  AEK Athens      buy=0.130 sell=0.150 spread=-0.020 jump=-0.630 mins=61 
+  NK Celje        buy=0.640 sell=0.650 spread=-0.010 jump=+0.560 mins=61 
+
+--- Check at 18:30:04 UTC ---
+  Balance: $45.30
+  Besiktas        buy=0.841 sell=0.858 spread=-0.017 jump=+0.121 mins=15 
+  Kasimpasa       buy=0.011 sell=0.018 spread=-0.007 jump=-0.079 mins=15 
+  AEK Athens      buy=0.130 sell=0.140 spread=-0.010 jump=-0.630 mins=60 
+  NK Celje        buy=0.660 sell=0.670 spread=-0.010 jump=+0.580 mins=60 
+
+--- Check at 18:31:08 UTC ---
+  Balance: $45.30
+  Besiktas        buy=0.821 sell=0.839 spread=-0.018 jump=+0.101 mins=14 
+  Kasimpasa       buy=0.020 sell=0.029 spread=-0.009 jump=-0.070 mins=14 
+  AEK Athens      buy=0.120 sell=0.140 spread=-0.020 jump=-0.640 mins=59 
+  NK Celje        buy=0.670 sell=0.680 spread=-0.010 jump=+0.590 mins=59 
+
+--- Check at 18:32:10 UTC ---
+  Balance: $37.30
+  Besiktas        buy=0.821 sell=0.839 spread=-0.018 jump=+0.101 mins=13 
+  Kasimpasa       buy=0.011 sell=0.021 spread=-0.010 jump=-0.079 mins=13 
+  AEK Athens      buy=0.120 sell=0.140 spread=-0.020 jump=-0.640 mins=58 
+  NK Celje        buy=0.660 sell=0.680 spread=-0.020 jump=+0.580 mins=58 
+
+--- Check at 18:33:12 UTC ---
+  Balance: $37.30
+  Besiktas        buy=0.841 sell=0.850 spread=-0.009 jump=+0.121 mins=12 
+  Kasimpasa       buy=0.011 sell=0.018 spread=-0.007 jump=-0.079 mins=12 
+  AEK Athens      buy=0.120 sell=0.140 spread=-0.020 jump=-0.640 mins=57 
+  NK Celje        buy=0.660 sell=0.670 spread=-0.010 jump=+0.580 mins=57 
+
+--- Check at 18:34:15 UTC ---
+  Balance: $37.30
+  Besiktas        buy=0.842 sell=0.858 spread=-0.016 jump=+0.122 mins=11 
+  Kasimpasa       buy=0.011 sell=0.019 spread=-0.008 jump=-0.079 mins=11 
+  AEK Athens      buy=0.120 sell=0.140 spread=-0.020 jump=-0.640 mins=56 
+  NK Celje        buy=0.670 sell=0.680 spread=-0.010 jump=+0.590 mins=56 
+
+--- Check at 18:35:16 UTC ---
+  Balance: $37.30
+  Besiktas        buy=0.858 sell=0.859 spread=-0.001 jump=+0.138 mins=10 
+  Kasimpasa       buy=0.010 sell=0.019 spread=-0.009 jump=-0.080 mins=10 
+  AEK Athens      buy=0.120 sell=0.140 spread=-0.020 jump=-0.640 mins=55 
+  NK Celje        buy=0.670 sell=0.680 spread=-0.010 jump=+0.590 mins=55 
+
+--- Check at 18:36:18 UTC ---
+  Balance: $37.30
+  Besiktas        buy=0.858 sell=0.859 spread=-0.001 jump=+0.138 mins=9 
+  Kasimpasa       buy=0.010 sell=0.019 spread=-0.009 jump=-0.080 mins=9 
+  AEK Athens      buy=0.130 sell=0.140 spread=-0.010 jump=-0.630 mins=54 
+  NK Celje        buy=0.670 sell=0.680 spread=-0.010 jump=+0.590 mins=54 
+
+--- Check at 18:37:20 UTC ---
+  Balance: $37.30
+  Besiktas        buy=0.858 sell=0.869 spread=-0.011 jump=+0.138 mins=8 
+  Kasimpasa       buy=0.010 sell=0.015 spread=-0.005 jump=-0.080 mins=8 
+  AEK Athens      buy=0.130 sell=0.140 spread=-0.010 jump=-0.630 mins=53 
+  NK Celje        buy=0.670 sell=0.680 spread=-0.010 jump=+0.590 mins=53 
+
+--- Check at 18:38:21 UTC ---
+  Balance: $37.30
+  Besiktas        buy=0.858 sell=0.870 spread=-0.012 jump=+0.138 mins=7 
+  Kasimpasa       buy=0.001 sell=0.010 spread=-0.009 jump=-0.089 mins=7 
+  AEK Athens      buy=0.130 sell=0.140 spread=-0.010 jump=-0.630 mins=52 
+  NK Celje        buy=0.670 sell=0.680 spread=-0.010 jump=+0.590 mins=52 
+
+--- Check at 18:39:24 UTC ---
+  Balance: $37.30
+  Besiktas        buy=0.868 sell=0.869 spread=-0.001 jump=+0.148 mins=6 
+  Kasimpasa       buy=0.003 sell=0.010 spread=-0.007 jump=-0.087 mins=6 
+  AEK Athens      buy=0.130 sell=0.140 spread=-0.010 jump=-0.630 mins=51 
+  NK Celje        buy=0.670 sell=0.680 spread=-0.010 jump=+0.590 mins=51 
+
+--- Check at 18:40:26 UTC ---
+  Balance: $37.30
+  Besiktas        buy=0.862 sell=0.879 spread=-0.017 jump=+0.142 mins=5 
+  Kasimpasa       buy=0.003 sell=0.010 spread=-0.007 jump=-0.087 mins=5 
+  AEK Athens      buy=0.130 sell=0.140 spread=-0.010 jump=-0.630 mins=50 
+  NK Celje        buy=0.670 sell=0.680 spread=-0.010 jump=+0.590 mins=50 
+
+--- Check at 18:41:28 UTC ---
+  Balance: $37.30
+  Besiktas        buy=0.861 sell=0.870 spread=-0.009 jump=+0.141 mins=4 
+  Kasimpasa       buy=0.003 sell=0.010 spread=-0.007 jump=-0.087 mins=4 
+  AEK Athens      buy=0.120 sell=0.130 spread=-0.010 jump=-0.640 mins=49 
+  NK Celje        buy=0.670 sell=0.680 spread=-0.010 jump=+0.590 mins=49 
+
+--- Check at 18:42:30 UTC ---
+  Balance: $37.30
+  Besiktas        buy=0.861 sell=0.870 spread=-0.009 jump=+0.141 mins=2 
+  Kasimpasa       buy=0.004 sell=0.010 spread=-0.006 jump=-0.086 mins=2 
+  AEK Athens      buy=0.120 sell=0.130 spread=-0.010 jump=-0.640 mins=47 
+  NK Celje        buy=0.670 sell=0.680 spread=-0.010 jump=+0.590 mins=47 
+
+--- Check at 18:43:34 UTC ---
+  Balance: $37.30
+  Besiktas        buy=0.869 sell=0.878 spread=-0.009 jump=+0.149 mins=1 
+  Kasimpasa       buy=0.004 sell=0.010 spread=-0.006 jump=-0.086 mins=1 
+  AEK Athens      buy=0.120 sell=0.130 spread=-0.010 jump=-0.640 mins=46 
+  NK Celje        buy=0.670 sell=0.680 spread=-0.010 jump=+0.590 mins=46 
+
+--- Check at 18:44:36 UTC ---
+  Balance: $37.30
+  Besiktas        buy=0.870 sell=0.880 spread=-0.010 jump=+0.150 mins=0 
+  Kasimpasa       buy=0.004 sell=0.010 spread=-0.006 jump=-0.086 mins=0 
+  AEK Athens      buy=0.120 sell=0.130 spread=-0.010 jump=-0.640 mins=45 
+  NK Celje        buy=0.670 sell=0.680 spread=-0.010 jump=+0.590 mins=45 
+
+--- Check at 18:45:40 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.120 sell=0.130 spread=-0.010 jump=-0.640 mins=44 
+  NK Celje        buy=0.670 sell=0.680 spread=-0.010 jump=+0.590 mins=44 
+
+--- Check at 18:46:47 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.120 sell=0.130 spread=-0.010 jump=-0.640 mins=43 
+  NK Celje        buy=0.670 sell=0.680 spread=-0.010 jump=+0.590 mins=43 
+
+--- Check at 18:47:49 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.130 sell=0.140 spread=-0.010 jump=-0.630 mins=42 
+  NK Celje        buy=0.660 sell=0.680 spread=-0.020 jump=+0.580 mins=42 
+
+--- Check at 18:48:51 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.130 sell=0.140 spread=-0.010 jump=-0.630 mins=41 
+  NK Celje        buy=0.660 sell=0.670 spread=-0.010 jump=+0.580 mins=41 
+
+--- Check at 18:49:52 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.130 sell=0.140 spread=-0.010 jump=-0.630 mins=40 
+  NK Celje        buy=0.660 sell=0.670 spread=-0.010 jump=+0.580 mins=40 
+
+--- Check at 18:50:53 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.120 sell=0.130 spread=-0.010 jump=-0.640 mins=39 
+  NK Celje        buy=0.670 sell=0.680 spread=-0.010 jump=+0.590 mins=39 
+
+--- Check at 18:51:55 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.120 sell=0.130 spread=-0.010 jump=-0.640 mins=38 
+  NK Celje        buy=0.670 sell=0.680 spread=-0.010 jump=+0.590 mins=38 
+
+--- Check at 18:52:58 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.120 sell=0.130 spread=-0.010 jump=-0.640 mins=37 
+  NK Celje        buy=0.680 sell=0.690 spread=-0.010 jump=+0.600 mins=37 
+
+--- Check at 18:54:00 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.110 sell=0.120 spread=-0.010 jump=-0.650 mins=36 
+  NK Celje        buy=0.690 sell=0.700 spread=-0.010 jump=+0.610 mins=36 
+
+--- Check at 18:55:01 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.100 sell=0.110 spread=-0.010 jump=-0.660 mins=35 
+  NK Celje        buy=0.700 sell=0.710 spread=-0.010 jump=+0.620 mins=35 
+
+--- Check at 18:56:03 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.100 sell=0.110 spread=-0.010 jump=-0.660 mins=34 
+  NK Celje        buy=0.700 sell=0.710 spread=-0.010 jump=+0.620 mins=34 
+
+--- Check at 18:57:05 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.110 sell=0.120 spread=-0.010 jump=-0.650 mins=33 
+  NK Celje        buy=0.680 sell=0.690 spread=-0.010 jump=+0.600 mins=33 
+
+--- Check at 18:58:07 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.110 sell=0.120 spread=-0.010 jump=-0.650 mins=32 
+  NK Celje        buy=0.680 sell=0.690 spread=-0.010 jump=+0.600 mins=32 
+
+--- Check at 18:59:12 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.100 sell=0.110 spread=-0.010 jump=-0.660 mins=31 
+  NK Celje        buy=0.700 sell=0.710 spread=-0.010 jump=+0.620 mins=31 
+
+--- Check at 19:00:13 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.090 sell=0.110 spread=-0.020 jump=-0.670 mins=30 
+  NK Celje        buy=0.710 sell=0.720 spread=-0.010 jump=+0.630 mins=30 
+
+--- Check at 19:01:20 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.100 sell=0.110 spread=-0.010 jump=-0.660 mins=29 
+  NK Celje        buy=0.710 sell=0.720 spread=-0.010 jump=+0.630 mins=29 
+
+--- Check at 19:02:22 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.100 sell=0.110 spread=-0.010 jump=-0.660 mins=28 
+  NK Celje        buy=0.700 sell=0.720 spread=-0.020 jump=+0.620 mins=28 
+
+--- Check at 19:03:24 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.080 sell=0.090 spread=-0.010 jump=-0.680 mins=27 
+  NK Celje        buy=0.730 sell=0.740 spread=-0.010 jump=+0.650 mins=27 
+
+--- Check at 19:04:28 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.080 sell=0.090 spread=-0.010 jump=-0.680 mins=26 
+  NK Celje        buy=0.730 sell=0.750 spread=-0.020 jump=+0.650 mins=26 
+
+--- Check at 19:05:29 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.070 sell=0.080 spread=-0.010 jump=-0.690 mins=25 
+  NK Celje        buy=0.760 sell=0.770 spread=-0.010 jump=+0.680 mins=25 
+
+--- Check at 19:06:33 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.060 sell=0.070 spread=-0.010 jump=-0.700 mins=23 
+  NK Celje        buy=0.760 sell=0.780 spread=-0.020 jump=+0.680 mins=23 
+
+--- Check at 19:07:35 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.060 sell=0.070 spread=-0.010 jump=-0.700 mins=22 
+  NK Celje        buy=0.770 sell=0.790 spread=-0.020 jump=+0.690 mins=22 
+
+--- Check at 19:08:38 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.060 sell=0.070 spread=-0.010 jump=-0.700 mins=21 
+  NK Celje        buy=0.790 sell=0.800 spread=-0.010 jump=+0.710 mins=21 
+
+--- Check at 19:09:39 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.050 sell=0.060 spread=-0.010 jump=-0.710 mins=20 
+  NK Celje        buy=0.790 sell=0.800 spread=-0.010 jump=+0.710 mins=20 
+
+--- Check at 19:10:41 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.040 sell=0.060 spread=-0.020 jump=-0.720 mins=19 
+  NK Celje        buy=0.800 sell=0.810 spread=-0.010 jump=+0.720 mins=19 
+
+--- Check at 19:11:43 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.040 sell=0.050 spread=-0.010 jump=-0.720 mins=18 
+  NK Celje        buy=0.810 sell=0.820 spread=-0.010 jump=+0.730 mins=18 
+
+--- Check at 19:12:44 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.040 sell=0.050 spread=-0.010 jump=-0.720 mins=17 
+  NK Celje        buy=0.810 sell=0.820 spread=-0.010 jump=+0.730 mins=17 
+
+--- Check at 19:13:45 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.030 sell=0.040 spread=-0.010 jump=-0.730 mins=16 
+  NK Celje        buy=0.830 sell=0.840 spread=-0.010 jump=+0.750 mins=16 
+
+--- Check at 19:14:47 UTC ---
+  Balance: $37.30
+  AEK Athens      buy=0.030 sell=0.040 spread=-0.010 jump=-0.730 mins=15 
+  NK Celje        buy=0.840 sell=0.850 spread=-0.010 jump=+0.760 mins=15 
+
+--- Check at 19:15:49 UTC ---
+  Balance: $25.37
+  AEK Athens      buy=0.020 sell=0.030 spread=-0.010 jump=-0.740 mins=14 
+  NK Celje        buy=0.860 sell=0.870 spread=-0.010 jump=+0.780 mins=14 *** TRIGGER ***
+
+  *** BUYING NK Celje YES @ 0.860 for $5.58 ***
+  Result: {'errorMsg': '', 'orderID': '0xa62f8b3034cc7c1c684b7c199b2ef523b3252e4e845c3b6b17c58b7da3da4a87', 'takingAmount': '', 'makingAmount': '', 'status': 'delayed', 'success': True}
+
+--- Check at 19:16:54 UTC ---
+  Balance: $19.79
+  AEK Athens      buy=0.020 sell=0.030 spread=-0.010 jump=-0.740 mins=13 
+  NK Celje        buy=0.850 sell=0.870 spread=-0.020 jump=+0.770 mins=13 *** TRIGGER ***
+
+  *** BUYING NK Celje YES @ 0.850 for $4.35 ***
+  Result: {'errorMsg': '', 'orderID': '0x3a527846ca7e03e4a1cab1470785c5a108a2c30031203e94aca615f309d27188', 'takingAmount': '', 'makingAmount': '', 'status': 'delayed', 'success': True}
+
+--- Check at 19:17:59 UTC ---
+  Balance: $15.44
+  AEK Athens      buy=0.021 sell=0.030 spread=-0.009 jump=-0.739 mins=12 
+  NK Celje        buy=0.850 sell=0.870 spread=-0.020 jump=+0.770 mins=12 *** TRIGGER ***
+
+  *** BUYING NK Celje YES @ 0.850 for $3.40 ***
+  Result: {'errorMsg': '', 'orderID': '0x628207f95576502b89b9a9edb149ad41142d5bda7abe8d09839df93cad644cba', 'takingAmount': '', 'makingAmount': '', 'status': 'delayed', 'success': True}
+
+--- Check at 19:19:03 UTC ---
+  Balance: $12.05
+  AEK Athens      buy=0.020 sell=0.026 spread=-0.006 jump=-0.740 mins=11 
+  NK Celje        buy=0.880 sell=0.890 spread=-0.010 jump=+0.800 mins=11 *** TRIGGER ***
+
+  *** BUYING NK Celje YES @ 0.880 for $2.65 ***
+  Result: {'errorMsg': '', 'orderID': '0xe38afdb776e6c932fe8b93794826f8eb43c9863e0f72272fb0fea5a4cda81096', 'takingAmount': '', 'makingAmount': '', 'status': 'delayed', 'success': True}
+
+--- Check at 19:20:07 UTC ---
+  Balance: $9.40
+  AEK Athens      buy=0.011 sell=0.019 spread=-0.008 jump=-0.749 mins=10 
+  NK Celje        buy=0.880 sell=0.890 spread=-0.010 jump=+0.800 mins=10 *** TRIGGER ***
+
+  *** BUYING NK Celje YES @ 0.880 for $2.07 ***
+  Result: {'errorMsg': '', 'orderID': '0xf35b134dbfade7e1cbb222249ebaeebbeef5ede92570be253d78925244862e77', 'takingAmount': '', 'makingAmount': '', 'status': 'delayed', 'success': True}
+
+--- Check at 19:21:11 UTC ---
+  Balance: $9.40
+  AEK Athens      buy=0.011 sell=0.019 spread=-0.008 jump=-0.749 mins=9 
+  NK Celje        buy=0.900 sell=0.910 spread=-0.010 jump=+0.820 mins=9 *** TRIGGER ***
+
+  *** BUYING NK Celje YES @ 0.900 for $2.07 ***
+  Result: {'errorMsg': '', 'orderID': '0x56eb7f6c8d263ec94c9cfb217ef6799d4804e9062722ea331b1fee36c3eea518', 'takingAmount': '', 'makingAmount': '', 'status': 'delayed', 'success': True}
+
+--- Check at 19:22:16 UTC ---
+  Balance: $5.00
+  AEK Athens      buy=0.010 sell=0.018 spread=-0.008 jump=-0.750 mins=8 
+  NK Celje        buy=0.910 sell=0.920 spread=-0.010 jump=+0.830 mins=8 *** TRIGGER ***
+
+--- Check at 19:23:17 UTC ---
+  Balance: $5.00
+  AEK Athens      buy=0.010 sell=0.019 spread=-0.009 jump=-0.750 mins=7 
+  NK Celje        buy=0.920 sell=0.930 spread=-0.010 jump=+0.840 mins=7 *** TRIGGER ***
+
+--- Check at 19:24:18 UTC ---
+  Balance: $5.00
+  AEK Athens      buy=0.004 sell=0.020 spread=-0.016 jump=-0.756 mins=6 
+  NK Celje        buy=0.920 sell=0.940 spread=-0.020 jump=+0.840 mins=6 *** TRIGGER ***
+
+--- Check at 19:25:20 UTC ---
+  Balance: $5.00
+  AEK Athens      buy=0.004 sell=0.019 spread=-0.015 jump=-0.756 mins=5 
+  NK Celje        buy=0.940 sell=0.960 spread=-0.020 jump=+0.860 mins=5 *** TRIGGER ***
+
+--- Check at 19:26:21 UTC ---
+  Balance: $5.00
+  AEK Athens      buy=0.001 sell=0.017 spread=-0.016 jump=-0.759 mins=4 
+  NK Celje        buy=0.950 sell=0.970 spread=-0.020 jump=+0.870 mins=4 
+
+--- Check at 19:27:22 UTC ---
+  Balance: $5.00
+  AEK Athens      buy=0.000 sell=0.010 spread=-0.010 jump=-0.760 mins=3 
+  NK Celje        buy=0.950 sell=0.960 spread=-0.010 jump=+0.870 mins=3 
+
+--- Check at 19:28:24 UTC ---
+  Balance: $5.00
+  AEK Athens      buy=0.003 sell=0.010 spread=-0.007 jump=-0.757 mins=2 
+  NK Celje        buy=0.960 sell=0.980 spread=-0.020 jump=+0.880 mins=2 
+
+--- Check at 19:29:25 UTC ---
+  Balance: $5.00
+  AEK Athens      buy=0.002 sell=0.010 spread=-0.008 jump=-0.758 mins=1 
+  NK Celje        buy=0.970 sell=0.990 spread=-0.020 jump=+0.890 mins=1 
+
+--- Check at 19:30:26 UTC ---
+  Balance: $5.00
+
+--- Check at 19:31:27 UTC ---
+  Balance: $5.00
+
+--- Check at 19:32:28 UTC ---
+  Balance: $5.00
+
+--- Check at 19:33:29 UTC ---
+  Balance: $5.00
+
+--- Check at 19:34:29 UTC ---
+  Balance: $5.00
+
+--- Check at 19:35:30 UTC ---
+  Balance: $5.00
+
+--- Check at 19:36:31 UTC ---
+  Balance: $5.00
+
+--- Check at 19:37:32 UTC ---
+  Balance: $5.00
+
+--- Check at 19:38:32 UTC ---
+  Balance: $5.00
+
+--- Check at 19:39:33 UTC ---
+  Balance: $5.00
+
+--- Check at 19:40:33 UTC ---
+  Balance: $5.00
+
+--- Check at 19:41:34 UTC ---
+  Balance: $5.00
+
+--- Check at 19:42:35 UTC ---
+  Balance: $5.00
+
+--- Check at 19:43:36 UTC ---
+  Balance: $5.00
+
+--- Check at 19:44:36 UTC ---
+  Balance: $5.00
+
+--- Check at 19:45:37 UTC ---
+  Balance: $5.00
+
+--- Check at 19:46:38 UTC ---
+  Balance: $5.00
+
+--- Check at 19:47:40 UTC ---
+  Balance: $5.00
+
+--- Check at 19:48:41 UTC ---
+  Balance: $5.00
+
+--- Check at 19:49:43 UTC ---
+  Balance: $5.00
+
+--- Check at 19:50:45 UTC ---
+  Balance: $5.00
+
+--- Check at 19:51:47 UTC ---
+  Balance: $5.00
+
+--- Check at 19:52:49 UTC ---
+  Balance: $5.00
+
+--- Check at 19:53:50 UTC ---
+  Balance: $5.00
+
+--- Check at 19:54:52 UTC ---
+  Balance: $5.00
+
+--- Check at 19:55:54 UTC ---
+  Balance: $5.00
+
+--- Check at 19:56:55 UTC ---
+  Balance: $5.00
+
+--- Check at 19:57:57 UTC ---
+  Balance: $5.00
+
+--- Check at 19:58:58 UTC ---
+  Balance: $5.00
+
+--- Check at 20:00:00 UTC ---
+  Balance: $5.00
+
+--- Check at 20:01:02 UTC ---
+  Balance: $5.00
+
+--- Check at 20:02:04 UTC ---
+  Balance: $5.00
+
+--- Check at 20:03:05 UTC ---
+  Balance: $5.00
+
+--- Check at 20:04:07 UTC ---
+  Balance: $5.00
+
+--- Check at 20:05:08 UTC ---
+  Balance: $5.00
+
+--- Check at 20:06:10 UTC ---
+  Balance: $5.00
+
+--- Check at 20:07:12 UTC ---
+  Balance: $5.00
+
+--- Check at 20:08:14 UTC ---
+  Balance: $5.00
+  Porto           buy=0.330 sell=0.350 spread=-0.020 jump=-0.060 mins=97 
+  Betis           buy=0.830 sell=0.840 spread=-0.010 jump=+0.140 mins=97 
+  Panathinaikos   buy=0.040 sell=0.060 spread=-0.020 jump=-0.060 mins=97 
+
+--- Check at 20:09:16 UTC ---
+  Balance: $5.00
+  Porto           buy=0.320 sell=0.340 spread=-0.020 jump=-0.070 mins=96 
+  Stuttgart       buy=0.390 sell=0.400 spread=-0.010 jump=+0.060 mins=96 
+  Betis           buy=0.830 sell=0.840 spread=-0.010 jump=+0.140 mins=96 
+  Panathinaikos   buy=0.040 sell=0.050 spread=-0.010 jump=-0.060 mins=96 
+
+--- Check at 20:10:17 UTC ---
+  Balance: $5.00
+  Porto           buy=0.310 sell=0.330 spread=-0.020 jump=-0.080 mins=95 
+  Stuttgart       buy=0.390 sell=0.400 spread=-0.010 jump=+0.060 mins=95 
+  Betis           buy=0.830 sell=0.840 spread=-0.010 jump=+0.140 mins=95 
+  Panathinaikos   buy=0.040 sell=0.050 spread=-0.010 jump=-0.060 mins=95 
+
+--- Check at 20:11:19 UTC ---
+  Balance: $5.00
+  Porto           buy=0.320 sell=0.330 spread=-0.010 jump=-0.070 mins=94 
+  Betis           buy=0.830 sell=0.840 spread=-0.010 jump=+0.140 mins=94 
+  Panathinaikos   buy=0.040 sell=0.050 spread=-0.010 jump=-0.060 mins=94 
+
+--- Check at 20:12:21 UTC ---
+  Balance: $5.00
+  Porto           buy=0.330 sell=0.340 spread=-0.010 jump=-0.060 mins=93 
+  Betis           buy=0.830 sell=0.840 spread=-0.010 jump=+0.140 mins=93 
+  Panathinaikos   buy=0.040 sell=0.050 spread=-0.010 jump=-0.060 mins=93 
+
+--- Check at 20:13:22 UTC ---
+  Balance: $5.00
+  Betis           buy=0.830 sell=0.840 spread=-0.010 jump=+0.140 mins=92 
+  Panathinaikos   buy=0.040 sell=0.050 spread=-0.010 jump=-0.060 mins=92 
+
+--- Check at 20:14:24 UTC ---
+  Balance: $5.00
+  Porto           buy=0.330 sell=0.340 spread=-0.010 jump=-0.060 mins=91 
+  Betis           buy=0.830 sell=0.840 spread=-0.010 jump=+0.140 mins=91 
+  Panathinaikos   buy=0.040 sell=0.050 spread=-0.010 jump=-0.060 mins=91 
+
+--- Check at 20:15:26 UTC ---
+  Balance: $5.00
+  Porto           buy=0.330 sell=0.340 spread=-0.010 jump=-0.060 mins=90 
+  Betis           buy=0.830 sell=0.840 spread=-0.010 jump=+0.140 mins=90 
+  Panathinaikos   buy=0.040 sell=0.050 spread=-0.010 jump=-0.060 mins=90 
+
+--- Check at 20:16:28 UTC ---
+  Balance: $5.00
+  Porto           buy=0.330 sell=0.350 spread=-0.020 jump=-0.060 mins=89 
+  Betis           buy=0.830 sell=0.850 spread=-0.020 jump=+0.140 mins=89 
+  Panathinaikos   buy=0.030 sell=0.050 spread=-0.020 jump=-0.070 mins=89 
+
+--- Check at 20:17:30 UTC ---
+  Balance: $5.00
+  Porto           buy=0.330 sell=0.340 spread=-0.010 jump=-0.060 mins=87 
+  Betis           buy=0.840 sell=0.860 spread=-0.020 jump=+0.150 mins=87 
+  Panathinaikos   buy=0.030 sell=0.040 spread=-0.010 jump=-0.070 mins=87 
+
+--- Check at 20:18:32 UTC ---
+  Balance: $5.00
+  Porto           buy=0.330 sell=0.340 spread=-0.010 jump=-0.060 mins=86 
+  Betis           buy=0.840 sell=0.850 spread=-0.010 jump=+0.150 mins=86 
+  Panathinaikos   buy=0.030 sell=0.050 spread=-0.020 jump=-0.070 mins=86 
+
+--- Check at 20:19:34 UTC ---
+  Balance: $5.00
+  Porto           buy=0.320 sell=0.330 spread=-0.010 jump=-0.070 mins=85 
+  Betis           buy=0.850 sell=0.870 spread=-0.020 jump=+0.160 mins=85 
+  Panathinaikos   buy=0.027 sell=0.049 spread=-0.022 jump=-0.073 mins=85 
+
+--- Check at 20:20:36 UTC ---
+  Balance: $5.00
+  Porto           buy=0.310 sell=0.320 spread=-0.010 jump=-0.080 mins=84 
+  Stuttgart       buy=0.390 sell=0.400 spread=-0.010 jump=+0.060 mins=84 
+  Betis           buy=0.850 sell=0.860 spread=-0.010 jump=+0.160 mins=84 
+  Panathinaikos   buy=0.031 sell=0.039 spread=-0.008 jump=-0.069 mins=84 
+
+--- Check at 20:21:37 UTC ---
+  Balance: $5.00
+  Porto           buy=0.310 sell=0.320 spread=-0.010 jump=-0.080 mins=83 
+  Betis           buy=0.850 sell=0.860 spread=-0.010 jump=+0.160 mins=83 
+  Panathinaikos   buy=0.031 sell=0.037 spread=-0.006 jump=-0.069 mins=83 
+
+--- Check at 20:22:39 UTC ---
+  Balance: $5.00
+  Porto           buy=0.570 sell=0.600 spread=-0.030 jump=+0.180 mins=82 
+  Stuttgart       buy=0.160 sell=0.170 spread=-0.010 jump=-0.170 mins=82 
+  Betis           buy=0.850 sell=0.860 spread=-0.010 jump=+0.160 mins=82 
+  Panathinaikos   buy=0.023 sell=0.037 spread=-0.014 jump=-0.077 mins=82 
+
+--- Check at 20:23:41 UTC ---
+  Balance: $5.00
+  Porto           buy=0.570 sell=0.580 spread=-0.010 jump=+0.180 mins=81 
+  Stuttgart       buy=0.170 sell=0.180 spread=-0.010 jump=-0.160 mins=81 
+  Betis           buy=0.850 sell=0.860 spread=-0.010 jump=+0.160 mins=81 
+  Panathinaikos   buy=0.031 sell=0.036 spread=-0.005 jump=-0.069 mins=81 
+
+--- Check at 20:24:42 UTC ---
+  Balance: $5.00
+  Porto           buy=0.580 sell=0.590 spread=-0.010 jump=+0.190 mins=80 
+  Stuttgart       buy=0.170 sell=0.180 spread=-0.010 jump=-0.160 mins=80 
+  Betis           buy=0.850 sell=0.870 spread=-0.020 jump=+0.160 mins=80 
+  Panathinaikos   buy=0.021 sell=0.036 spread=-0.015 jump=-0.079 mins=80 
+
+--- Check at 20:25:44 UTC ---
+  Balance: $5.00
+  Porto           buy=0.580 sell=0.600 spread=-0.020 jump=+0.190 mins=79 
+  Stuttgart       buy=0.170 sell=0.180 spread=-0.010 jump=-0.160 mins=79 
+  Betis           buy=0.850 sell=0.860 spread=-0.010 jump=+0.160 mins=79 
+  Panathinaikos   buy=0.023 sell=0.035 spread=-0.012 jump=-0.077 mins=79 
+
+--- Check at 20:26:46 UTC ---
+  Balance: $5.00
+  Porto           buy=0.580 sell=0.600 spread=-0.020 jump=+0.190 mins=78 
+  Stuttgart       buy=0.200 sell=0.210 spread=-0.010 jump=-0.130 mins=78 
+  Betis           buy=0.850 sell=0.870 spread=-0.020 jump=+0.160 mins=78 
+  Panathinaikos   buy=0.023 sell=0.036 spread=-0.013 jump=-0.077 mins=78 
+
+--- Check at 20:27:48 UTC ---
+  Balance: $5.00
+  Porto           buy=0.560 sell=0.570 spread=-0.010 jump=+0.170 mins=77 
+  Stuttgart       buy=0.180 sell=0.200 spread=-0.020 jump=-0.150 mins=77 
+  Betis           buy=0.820 sell=0.840 spread=-0.020 jump=+0.130 mins=77 
+  Panathinaikos   buy=0.033 sell=0.040 spread=-0.007 jump=-0.067 mins=77 
+
+--- Check at 20:28:50 UTC ---
+  Balance: $5.00
+  Porto           buy=0.580 sell=0.600 spread=-0.020 jump=+0.190 mins=76 
+  Stuttgart       buy=0.160 sell=0.170 spread=-0.010 jump=-0.170 mins=76 
+  Betis           buy=0.830 sell=0.850 spread=-0.020 jump=+0.140 mins=76 
+  Panathinaikos   buy=0.031 sell=0.046 spread=-0.015 jump=-0.069 mins=76 
+
+--- Check at 20:29:51 UTC ---
+  Balance: $5.00
+  Porto           buy=0.570 sell=0.580 spread=-0.010 jump=+0.180 mins=75 
+  Stuttgart       buy=0.180 sell=0.190 spread=-0.010 jump=-0.150 mins=75 
+  Betis           buy=0.840 sell=0.860 spread=-0.020 jump=+0.150 mins=75 
+  Panathinaikos   buy=0.031 sell=0.036 spread=-0.005 jump=-0.069 mins=75 
+
+--- Check at 20:30:53 UTC ---
+  Balance: $5.00
+  Porto           buy=0.580 sell=0.590 spread=-0.010 jump=+0.190 mins=74 
+  Stuttgart       buy=0.170 sell=0.180 spread=-0.010 jump=-0.160 mins=74 
+  Betis           buy=0.830 sell=0.850 spread=-0.020 jump=+0.140 mins=74 
+  Panathinaikos   buy=0.031 sell=0.036 spread=-0.005 jump=-0.069 mins=74 
+
+--- Check at 20:31:55 UTC ---
+  Balance: $5.00
+  Porto           buy=0.560 sell=0.580 spread=-0.020 jump=+0.170 mins=73 
+  Stuttgart       buy=0.170 sell=0.190 spread=-0.020 jump=-0.160 mins=73 
+  Betis           buy=0.830 sell=0.850 spread=-0.020 jump=+0.140 mins=73 
+  Panathinaikos   buy=0.032 sell=0.047 spread=-0.015 jump=-0.068 mins=73 
+
+--- Check at 20:32:56 UTC ---
+  Balance: $5.00
+  Porto           buy=0.580 sell=0.590 spread=-0.010 jump=+0.190 mins=72 
+  Stuttgart       buy=0.170 sell=0.180 spread=-0.010 jump=-0.160 mins=72 
+  Betis           buy=0.840 sell=0.850 spread=-0.010 jump=+0.150 mins=72 
+  Panathinaikos   buy=0.032 sell=0.039 spread=-0.007 jump=-0.068 mins=72 
+
+--- Check at 20:33:58 UTC ---
+  Balance: $5.00
+  Porto           buy=0.570 sell=0.580 spread=-0.010 jump=+0.180 mins=71 
+  Stuttgart       buy=0.180 sell=0.190 spread=-0.010 jump=-0.150 mins=71 
+  Betis           buy=0.850 sell=0.860 spread=-0.010 jump=+0.160 mins=71 
+  Panathinaikos   buy=0.024 sell=0.036 spread=-0.012 jump=-0.076 mins=71 
+
+--- Check at 20:35:00 UTC ---
+  Balance: $5.00
+  Porto           buy=0.550 sell=0.570 spread=-0.020 jump=+0.160 mins=70 
+  Stuttgart       buy=0.180 sell=0.190 spread=-0.010 jump=-0.150 mins=70 
+  Betis           buy=0.850 sell=0.860 spread=-0.010 jump=+0.160 mins=70 
+  Panathinaikos   buy=0.023 sell=0.035 spread=-0.012 jump=-0.077 mins=70 
+
+--- Check at 20:36:03 UTC ---
+  Balance: $5.00
+  Porto           buy=0.570 sell=0.580 spread=-0.010 jump=+0.180 mins=69 
+  Stuttgart       buy=0.170 sell=0.180 spread=-0.010 jump=-0.160 mins=69 
+  Betis           buy=0.850 sell=0.860 spread=-0.010 jump=+0.160 mins=69 
+  Panathinaikos   buy=0.030 sell=0.031 spread=-0.001 jump=-0.070 mins=69 
+
+--- Check at 20:37:04 UTC ---
+  Balance: $5.00
+  Porto           buy=0.580 sell=0.590 spread=-0.010 jump=+0.190 mins=68 
+  Stuttgart       buy=0.160 sell=0.170 spread=-0.010 jump=-0.170 mins=68 
+  Betis           buy=0.830 sell=0.840 spread=-0.010 jump=+0.140 mins=68 
+  Panathinaikos   buy=0.032 sell=0.040 spread=-0.008 jump=-0.068 mins=68 
+
+--- Check at 20:38:06 UTC ---
+  Balance: $5.00
+  Porto           buy=0.590 sell=0.600 spread=-0.010 jump=+0.200 mins=67 
+  Stuttgart       buy=0.160 sell=0.170 spread=-0.010 jump=-0.170 mins=67 
+  Betis           buy=0.820 sell=0.840 spread=-0.020 jump=+0.130 mins=67 
+  Panathinaikos   buy=0.032 sell=0.039 spread=-0.007 jump=-0.068 mins=67 
+
+--- Check at 20:39:08 UTC ---
+  Balance: $5.00
+  Porto           buy=0.590 sell=0.600 spread=-0.010 jump=+0.200 mins=66 
+  Stuttgart       buy=0.150 sell=0.160 spread=-0.010 jump=-0.180 mins=66 
+  Betis           buy=0.820 sell=0.830 spread=-0.010 jump=+0.130 mins=66 
+  Panathinaikos   buy=0.032 sell=0.038 spread=-0.006 jump=-0.068 mins=66 
+
+--- Check at 20:40:10 UTC ---
+  Balance: $5.00
+  Porto           buy=0.600 sell=0.610 spread=-0.010 jump=+0.210 mins=65 
+  Stuttgart       buy=0.150 sell=0.160 spread=-0.010 jump=-0.180 mins=65 
+  Betis           buy=0.820 sell=0.830 spread=-0.010 jump=+0.130 mins=65 
+  Panathinaikos   buy=0.032 sell=0.039 spread=-0.007 jump=-0.068 mins=65 
+
+--- Check at 20:41:11 UTC ---
+  Balance: $5.00
+  Porto           buy=0.600 sell=0.620 spread=-0.020 jump=+0.210 mins=64 
+  Stuttgart       buy=0.150 sell=0.160 spread=-0.010 jump=-0.180 mins=64 
+  Betis           buy=0.820 sell=0.830 spread=-0.010 jump=+0.130 mins=64 
+  Panathinaikos   buy=0.031 sell=0.042 spread=-0.011 jump=-0.069 mins=64 
+
+--- Check at 20:42:13 UTC ---
+  Balance: $5.00
+  Porto           buy=0.610 sell=0.620 spread=-0.010 jump=+0.220 mins=63 
+  Stuttgart       buy=0.140 sell=0.150 spread=-0.010 jump=-0.190 mins=63 
+  Betis           buy=0.830 sell=0.840 spread=-0.010 jump=+0.140 mins=63 
+  Panathinaikos   buy=0.032 sell=0.037 spread=-0.005 jump=-0.068 mins=63 
+
+--- Check at 20:43:15 UTC ---
+  Balance: $5.00
+  Porto           buy=0.620 sell=0.630 spread=-0.010 jump=+0.230 mins=62 
+  Stuttgart       buy=0.130 sell=0.140 spread=-0.010 jump=-0.200 mins=62 
+  Betis           buy=0.820 sell=0.840 spread=-0.020 jump=+0.130 mins=62 
+  Panathinaikos   buy=0.032 sell=0.037 spread=-0.005 jump=-0.068 mins=62 
+
+--- Check at 20:44:17 UTC ---
+  Balance: $5.00
+  Porto           buy=0.620 sell=0.630 spread=-0.010 jump=+0.230 mins=61 
+  Stuttgart       buy=0.130 sell=0.140 spread=-0.010 jump=-0.200 mins=61 
+  Betis           buy=0.830 sell=0.840 spread=-0.010 jump=+0.140 mins=61 
+  Panathinaikos   buy=0.033 sell=0.037 spread=-0.004 jump=-0.067 mins=61 
+
+--- Check at 20:45:19 UTC ---
+  Balance: $5.00
+  Porto           buy=0.630 sell=0.640 spread=-0.010 jump=+0.240 mins=60 
+  Stuttgart       buy=0.130 sell=0.140 spread=-0.010 jump=-0.200 mins=60 
+  Betis           buy=0.940 sell=0.950 spread=-0.010 jump=+0.250 mins=60 
+  Panathinaikos   buy=0.015 sell=0.030 spread=-0.015 jump=-0.085 mins=60 
+
+--- Check at 20:46:20 UTC ---
+  Balance: $5.00
+  Porto           buy=0.610 sell=0.620 spread=-0.010 jump=+0.220 mins=59 
+  Stuttgart       buy=0.140 sell=0.150 spread=-0.010 jump=-0.190 mins=59 
+  Betis           buy=0.960 sell=0.970 spread=-0.010 jump=+0.270 mins=59 
+  Panathinaikos   buy=0.011 sell=0.017 spread=-0.006 jump=-0.089 mins=59 
+
+--- Check at 20:47:23 UTC ---
+  Balance: $5.00
+  Porto           buy=0.630 sell=0.640 spread=-0.010 jump=+0.240 mins=58 
+  Stuttgart       buy=0.120 sell=0.130 spread=-0.010 jump=-0.210 mins=58 
+  Betis           buy=0.610 sell=0.770 spread=-0.160 jump=-0.080 mins=58 
+  Panathinaikos   buy=0.004 sell=0.010 spread=-0.006 jump=-0.096 mins=58 
+
+--- Check at 20:48:25 UTC ---
+  Balance: $5.00
+  Porto           buy=0.640 sell=0.650 spread=-0.010 jump=+0.250 mins=57 
+  Stuttgart       buy=0.110 sell=0.120 spread=-0.010 jump=-0.220 mins=57 
+  Betis           buy=0.950 sell=0.960 spread=-0.010 jump=+0.260 mins=57 
+  Panathinaikos   buy=0.005 sell=0.007 spread=-0.002 jump=-0.095 mins=57 
+
+--- Check at 20:49:26 UTC ---
+  Balance: $5.00
+  Porto           buy=0.630 sell=0.640 spread=-0.010 jump=+0.240 mins=56 
+  Stuttgart       buy=0.110 sell=0.120 spread=-0.010 jump=-0.220 mins=56 
+  Betis           buy=0.950 sell=0.960 spread=-0.010 jump=+0.260 mins=56 
+  Panathinaikos   buy=0.005 sell=0.007 spread=-0.002 jump=-0.095 mins=56 
+
+--- Check at 20:50:28 UTC ---
+  Balance: $5.00
+  Porto           buy=0.630 sell=0.640 spread=-0.010 jump=+0.240 mins=55 
+  Stuttgart       buy=0.110 sell=0.120 spread=-0.010 jump=-0.220 mins=55 
+  Betis           buy=0.950 sell=0.960 spread=-0.010 jump=+0.260 mins=55 
+  Panathinaikos   buy=0.007 sell=0.008 spread=-0.001 jump=-0.093 mins=55 
+
+--- Check at 20:51:29 UTC ---
+  Balance: $5.00
+  Porto           buy=0.620 sell=0.630 spread=-0.010 jump=+0.230 mins=54 
+  Stuttgart       buy=0.110 sell=0.120 spread=-0.010 jump=-0.220 mins=54 
+  Betis           buy=0.950 sell=0.960 spread=-0.010 jump=+0.260 mins=54 
+  Panathinaikos   buy=0.007 sell=0.008 spread=-0.001 jump=-0.093 mins=54 
+
+--- Check at 20:52:31 UTC ---
+  Balance: $5.00
+  Porto           buy=0.620 sell=0.630 spread=-0.010 jump=+0.230 mins=52 
+  Stuttgart       buy=0.110 sell=0.120 spread=-0.010 jump=-0.220 mins=52 
+  Betis           buy=0.960 sell=0.970 spread=-0.010 jump=+0.270 mins=52 
+  Panathinaikos   buy=0.005 sell=0.008 spread=-0.003 jump=-0.095 mins=52 
+
+--- Check at 20:53:33 UTC ---
+  Balance: $5.00
+  Porto           buy=0.620 sell=0.630 spread=-0.010 jump=+0.230 mins=51 
+  Stuttgart       buy=0.120 sell=0.130 spread=-0.010 jump=-0.210 mins=51 
+  Betis           buy=0.950 sell=0.970 spread=-0.020 jump=+0.260 mins=51 
+  Panathinaikos   buy=0.006 sell=0.008 spread=-0.002 jump=-0.094 mins=51 
+
+--- Check at 20:54:34 UTC ---
+  Balance: $5.00
+  Porto           buy=0.620 sell=0.630 spread=-0.010 jump=+0.230 mins=50 
+  Stuttgart       buy=0.120 sell=0.130 spread=-0.010 jump=-0.210 mins=50 
+  Betis           buy=0.950 sell=0.970 spread=-0.020 jump=+0.260 mins=50 
+  Panathinaikos   buy=0.006 sell=0.008 spread=-0.002 jump=-0.094 mins=50 
+
+--- Check at 20:55:36 UTC ---
+  Balance: $5.00
+  Porto           buy=0.620 sell=0.630 spread=-0.010 jump=+0.230 mins=49 
+  Stuttgart       buy=0.120 sell=0.130 spread=-0.010 jump=-0.210 mins=49 
+  Betis           buy=0.950 sell=0.970 spread=-0.020 jump=+0.260 mins=49 
+  Panathinaikos   buy=0.004 sell=0.008 spread=-0.004 jump=-0.096 mins=49 
+
+--- Check at 20:56:38 UTC ---
+  Balance: $5.00
+  Porto           buy=0.620 sell=0.630 spread=-0.010 jump=+0.230 mins=48 
+  Stuttgart       buy=0.120 sell=0.130 spread=-0.010 jump=-0.210 mins=48 
+  Betis           buy=0.960 sell=0.970 spread=-0.010 jump=+0.270 mins=48 
+  Panathinaikos   buy=0.006 sell=0.008 spread=-0.002 jump=-0.094 mins=48 
+
+--- Check at 20:57:40 UTC ---
+  Balance: $5.00
+  Porto           buy=0.620 sell=0.630 spread=-0.010 jump=+0.230 mins=47 
+  Stuttgart       buy=0.120 sell=0.130 spread=-0.010 jump=-0.210 mins=47 
+  Betis           buy=0.950 sell=0.963 spread=-0.013 jump=+0.260 mins=47 
+  Panathinaikos   buy=0.006 sell=0.018 spread=-0.012 jump=-0.094 mins=47 
+
+--- Check at 20:58:41 UTC ---
+  Balance: $5.00
+  Porto           buy=0.620 sell=0.630 spread=-0.010 jump=+0.230 mins=46 
+  Stuttgart       buy=0.120 sell=0.130 spread=-0.010 jump=-0.210 mins=46 
+  Betis           buy=0.951 sell=0.959 spread=-0.008 jump=+0.261 mins=46 
+  Panathinaikos   buy=0.008 sell=0.010 spread=-0.002 jump=-0.092 mins=46 
+
+--- Check at 20:59:43 UTC ---
+  Balance: $5.00
+  Porto           buy=0.620 sell=0.630 spread=-0.010 jump=+0.230 mins=45 
+  Stuttgart       buy=0.120 sell=0.130 spread=-0.010 jump=-0.210 mins=45 
+  Betis           buy=0.951 sell=0.959 spread=-0.008 jump=+0.261 mins=45 
+  Panathinaikos   buy=0.010 sell=0.018 spread=-0.008 jump=-0.090 mins=45 
+
+--- Check at 21:00:44 UTC ---
+  Balance: $5.00
+  Porto           buy=0.620 sell=0.630 spread=-0.010 jump=+0.230 mins=44 
+  Stuttgart       buy=0.120 sell=0.130 spread=-0.010 jump=-0.210 mins=44 
+  Betis           buy=0.951 sell=0.958 spread=-0.007 jump=+0.261 mins=44 
+  Panathinaikos   buy=0.008 sell=0.010 spread=-0.002 jump=-0.092 mins=44 
+
+--- Check at 21:01:46 UTC ---
+  Balance: $5.00
+  Porto           buy=0.620 sell=0.630 spread=-0.010 jump=+0.230 mins=43 
+  Stuttgart       buy=0.120 sell=0.130 spread=-0.010 jump=-0.210 mins=43 
+  Betis           buy=0.952 sell=0.958 spread=-0.006 jump=+0.262 mins=43 
+  Panathinaikos   buy=0.008 sell=0.017 spread=-0.009 jump=-0.092 mins=43 
+
+--- Check at 21:02:47 UTC ---
+  Balance: $5.00
+  Porto           buy=0.620 sell=0.630 spread=-0.010 jump=+0.230 mins=42 
+  Stuttgart       buy=0.120 sell=0.130 spread=-0.010 jump=-0.210 mins=42 
+  Betis           buy=0.952 sell=0.959 spread=-0.007 jump=+0.262 mins=42 
+  Panathinaikos   buy=0.008 sell=0.016 spread=-0.008 jump=-0.092 mins=42 
+
+--- Check at 21:03:49 UTC ---
+  Balance: $5.00
+  Porto           buy=0.620 sell=0.630 spread=-0.010 jump=+0.230 mins=41 
+  Stuttgart       buy=0.120 sell=0.130 spread=-0.010 jump=-0.210 mins=41 
+  Betis           buy=0.951 sell=0.959 spread=-0.008 jump=+0.261 mins=41 
+  Panathinaikos   buy=0.008 sell=0.014 spread=-0.006 jump=-0.092 mins=41 
+
+--- Check at 21:04:51 UTC ---
+  Balance: $5.00
+  Porto           buy=0.630 sell=0.640 spread=-0.010 jump=+0.240 mins=40 
+  Stuttgart       buy=0.110 sell=0.130 spread=-0.020 jump=-0.220 mins=40 
+  Betis           buy=0.952 sell=0.959 spread=-0.007 jump=+0.262 mins=40 
+  Panathinaikos   buy=0.008 sell=0.010 spread=-0.002 jump=-0.092 mins=40 
+
+--- Check at 21:05:52 UTC ---
+  Balance: $5.00
+  Porto           buy=0.630 sell=0.650 spread=-0.020 jump=+0.240 mins=39 
+  Stuttgart       buy=0.110 sell=0.120 spread=-0.010 jump=-0.220 mins=39 
+  Betis           buy=0.959 sell=0.968 spread=-0.009 jump=+0.269 mins=39 
+  Panathinaikos   buy=0.008 sell=0.012 spread=-0.004 jump=-0.092 mins=39 
+
+--- Check at 21:06:54 UTC ---
+  Balance: $5.00
+  Porto           buy=0.640 sell=0.650 spread=-0.010 jump=+0.250 mins=38 
+  Stuttgart       buy=0.110 sell=0.120 spread=-0.010 jump=-0.220 mins=38 
+  Betis           buy=0.961 sell=0.968 spread=-0.007 jump=+0.271 mins=38 
+  Panathinaikos   buy=0.007 sell=0.010 spread=-0.003 jump=-0.093 mins=38 
+
+--- Check at 21:07:56 UTC ---
+  Balance: $5.00
+  Porto           buy=0.640 sell=0.650 spread=-0.010 jump=+0.250 mins=37 
+  Stuttgart       buy=0.100 sell=0.110 spread=-0.010 jump=-0.230 mins=37 
+  Betis           buy=0.961 sell=0.963 spread=-0.002 jump=+0.271 mins=37 
+  Panathinaikos   buy=0.006 sell=0.007 spread=-0.001 jump=-0.094 mins=37 
+
+--- Check at 21:08:57 UTC ---
+  Balance: $5.00
+  Porto           buy=0.630 sell=0.640 spread=-0.010 jump=+0.240 mins=36 
+  Stuttgart       buy=0.110 sell=0.120 spread=-0.010 jump=-0.220 mins=36 
+  Betis           buy=0.961 sell=0.965 spread=-0.004 jump=+0.271 mins=36 
+  Panathinaikos   buy=0.004 sell=0.010 spread=-0.006 jump=-0.096 mins=36 
+
+--- Check at 21:09:59 UTC ---
+  Balance: $5.00
+  Porto           buy=0.640 sell=0.650 spread=-0.010 jump=+0.250 mins=35 
+  Stuttgart       buy=0.100 sell=0.110 spread=-0.010 jump=-0.230 mins=35 
+  Betis           buy=0.961 sell=0.965 spread=-0.004 jump=+0.271 mins=35 
+  Panathinaikos   buy=0.003 sell=0.009 spread=-0.006 jump=-0.097 mins=35 
+
+--- Check at 21:11:01 UTC ---
+  Balance: $5.00
+  Porto           buy=0.640 sell=0.650 spread=-0.010 jump=+0.250 mins=34 
+  Stuttgart       buy=0.100 sell=0.110 spread=-0.010 jump=-0.230 mins=34 
+  Betis           buy=0.962 sell=0.976 spread=-0.014 jump=+0.272 mins=34 
+  Panathinaikos   buy=0.002 sell=0.003 spread=-0.001 jump=-0.098 mins=34 
+
+--- Check at 21:12:02 UTC ---
+  Balance: $5.00
+  Porto           buy=0.630 sell=0.640 spread=-0.010 jump=+0.240 mins=33 
+  Stuttgart       buy=0.100 sell=0.120 spread=-0.020 jump=-0.230 mins=33 
+  Betis           buy=0.962 sell=0.978 spread=-0.016 jump=+0.272 mins=33 
+  Panathinaikos   buy=0.002 sell=0.003 spread=-0.001 jump=-0.098 mins=33 
+
+--- Check at 21:13:04 UTC ---
+  Balance: $5.00
+  Porto           buy=0.630 sell=0.650 spread=-0.020 jump=+0.240 mins=32 
+  Stuttgart       buy=0.100 sell=0.120 spread=-0.020 jump=-0.230 mins=32 
+  Betis           buy=0.981 sell=0.990 spread=-0.009 jump=+0.291 mins=32 
+  Panathinaikos   buy=0.002 sell=0.003 spread=-0.001 jump=-0.098 mins=32 
+
+--- Check at 21:14:06 UTC ---
+  Balance: $5.00
+  Porto           buy=0.630 sell=0.640 spread=-0.010 jump=+0.240 mins=31 
+  Stuttgart       buy=0.110 sell=0.120 spread=-0.010 jump=-0.220 mins=31 
+  Betis           buy=0.990 sell=0.996 spread=-0.006 jump=+0.300 mins=31 
+  Panathinaikos   buy=0.001 sell=0.002 spread=-0.001 jump=-0.099 mins=31 
+
+--- Check at 21:15:07 UTC ---
+  Balance: $5.00
+  Porto           buy=0.620 sell=0.630 spread=-0.010 jump=+0.230 mins=30 
+  Stuttgart       buy=0.110 sell=0.120 spread=-0.010 jump=-0.220 mins=30 
+  Betis           buy=0.998 sell=0.999 spread=-0.001 jump=+0.308 mins=30 
+  Panathinaikos   buy=0.000 sell=0.001 spread=-0.001 jump=-0.100 mins=30 
+
+--- Check at 21:16:09 UTC ---
+  Balance: $5.00
+  Porto           buy=0.640 sell=0.650 spread=-0.010 jump=+0.250 mins=29 
+  Stuttgart       buy=0.100 sell=0.110 spread=-0.010 jump=-0.230 mins=29 
+  Betis           buy=0.998 sell=0.999 spread=-0.001 jump=+0.308 mins=29 
+  Panathinaikos   buy=0.000 sell=0.001 spread=-0.001 jump=-0.100 mins=29 
+
+--- Check at 21:17:11 UTC ---
+  Balance: $5.00
+  Porto           buy=0.640 sell=0.650 spread=-0.010 jump=+0.250 mins=28 
+  Stuttgart       buy=0.100 sell=0.110 spread=-0.010 jump=-0.230 mins=28 
+  Betis           buy=0.997 sell=0.998 spread=-0.001 jump=+0.307 mins=28 
+  Panathinaikos   buy=0.000 sell=0.001 spread=-0.001 jump=-0.100 mins=28 
+
+--- Check at 21:18:12 UTC ---
+  Balance: $5.00
+  Porto           buy=0.640 sell=0.650 spread=-0.010 jump=+0.250 mins=27 
+  Stuttgart       buy=0.100 sell=0.120 spread=-0.020 jump=-0.230 mins=27 
+  Betis           buy=0.997 sell=0.998 spread=-0.001 jump=+0.307 mins=27 
+  Panathinaikos   buy=0.001 sell=0.002 spread=-0.001 jump=-0.099 mins=27 
+
+--- Check at 21:19:14 UTC ---
+  Balance: $5.00
+  Porto           buy=0.630 sell=0.640 spread=-0.010 jump=+0.240 mins=26 
+  Stuttgart       buy=0.100 sell=0.120 spread=-0.020 jump=-0.230 mins=26 
+  Betis           buy=0.997 sell=0.998 spread=-0.001 jump=+0.307 mins=26 
+  Panathinaikos   buy=0.000 sell=0.002 spread=-0.002 jump=-0.100 mins=26 
+
+--- Check at 21:20:16 UTC ---
+  Balance: $5.00
+  Porto           buy=0.640 sell=0.660 spread=-0.020 jump=+0.250 mins=25 
+  Stuttgart       buy=0.090 sell=0.100 spread=-0.010 jump=-0.240 mins=25 
+  Betis           buy=0.997 sell=0.998 spread=-0.001 jump=+0.307 mins=25 
+  Panathinaikos   buy=0.000 sell=0.002 spread=-0.002 jump=-0.100 mins=25 
+
+--- Check at 21:21:17 UTC ---
+  Balance: $5.00
+  Porto           buy=0.630 sell=0.640 spread=-0.010 jump=+0.240 mins=24 
+  Stuttgart       buy=0.100 sell=0.110 spread=-0.010 jump=-0.230 mins=24 
+  Betis           buy=0.997 sell=0.998 spread=-0.001 jump=+0.307 mins=24 
+  Panathinaikos   buy=0.000 sell=0.002 spread=-0.002 jump=-0.100 mins=24 
+
+--- Check at 21:22:19 UTC ---
+  Balance: $5.00
+  Porto           buy=0.660 sell=0.670 spread=-0.010 jump=+0.270 mins=23 
+  Stuttgart       buy=0.090 sell=0.100 spread=-0.010 jump=-0.240 mins=23 
+  Betis           buy=0.997 sell=0.998 spread=-0.001 jump=+0.307 mins=23 
+  Panathinaikos   buy=0.000 sell=0.002 spread=-0.002 jump=-0.100 mins=23 
+
+--- Check at 21:23:21 UTC ---
+  Balance: $5.00
+  Porto           buy=0.660 sell=0.670 spread=-0.010 jump=+0.270 mins=22 
+  Stuttgart       buy=0.080 sell=0.090 spread=-0.010 jump=-0.250 mins=22 
+  Betis           buy=0.998 sell=0.999 spread=-0.001 jump=+0.308 mins=22 
+  Panathinaikos   buy=0.000 sell=0.002 spread=-0.002 jump=-0.100 mins=22 
+
+--- Check at 21:24:22 UTC ---
+  Balance: $5.00
+  Porto           buy=0.660 sell=0.670 spread=-0.010 jump=+0.270 mins=21 
+  Stuttgart       buy=0.080 sell=0.090 spread=-0.010 jump=-0.250 mins=21 
+  Betis           buy=0.998 sell=0.999 spread=-0.001 jump=+0.308 mins=21 
+  Panathinaikos   buy=0.000 sell=0.002 spread=-0.002 jump=-0.100 mins=21 
+
+--- Check at 21:25:24 UTC ---
+  Balance: $5.00
+  Porto           buy=0.650 sell=0.660 spread=-0.010 jump=+0.260 mins=20 
+  Stuttgart       buy=0.080 sell=0.090 spread=-0.010 jump=-0.250 mins=20 
+  Betis           buy=0.998 sell=0.999 spread=-0.001 jump=+0.308 mins=20 
+  Panathinaikos   buy=0.000 sell=0.002 spread=-0.002 jump=-0.100 mins=20 
+
+--- Check at 21:26:25 UTC ---
+  Balance: $5.00
+  Porto           buy=0.660 sell=0.680 spread=-0.020 jump=+0.270 mins=19 
+  Stuttgart       buy=0.070 sell=0.080 spread=-0.010 jump=-0.260 mins=19 
+  Betis           buy=0.999 sell=1.000 spread=-0.001 jump=+0.309 mins=19 
+  Panathinaikos   buy=0.000 sell=0.001 spread=-0.001 jump=-0.100 mins=19 
+
+--- Check at 21:27:27 UTC ---
+  Balance: $5.00
+  Porto           buy=0.680 sell=0.690 spread=-0.010 jump=+0.290 mins=18 
+  Stuttgart       buy=0.070 sell=0.080 spread=-0.010 jump=-0.260 mins=18 
+  Betis           buy=0.999 sell=1.000 spread=-0.001 jump=+0.309 mins=18 
+  Panathinaikos   buy=0.000 sell=0.001 spread=-0.001 jump=-0.100 mins=18 
+
+--- Check at 21:28:29 UTC ---
+  Balance: $1.00
+  Porto           buy=0.700 sell=0.710 spread=-0.010 jump=+0.310 mins=17 
+  Stuttgart       buy=0.060 sell=0.070 spread=-0.010 jump=-0.270 mins=17 
+  Betis           buy=0.999 sell=1.000 spread=-0.001 jump=+0.309 mins=17 
+  Panathinaikos   buy=0.000 sell=0.001 spread=-0.001 jump=-0.100 mins=17 
+
+--- Check at 21:29:30 UTC ---
+  Balance: $1.00
+  Porto           buy=0.690 sell=0.700 spread=-0.010 jump=+0.300 mins=15 
+  Stuttgart       buy=0.060 sell=0.070 spread=-0.010 jump=-0.270 mins=15 
+  Betis           buy=0.999 sell=1.000 spread=-0.001 jump=+0.309 mins=15 
+  Panathinaikos   buy=0.000 sell=0.001 spread=-0.001 jump=-0.100 mins=15 
+
+--- Check at 21:30:32 UTC ---
+  Balance: $1.00
+  Porto           buy=0.920 sell=0.950 spread=-0.030 jump=+0.530 mins=14 
+  Stuttgart       buy=0.010 sell=0.020 spread=-0.010 jump=-0.320 mins=14 
+  Betis           buy=0.999 sell=1.000 spread=-0.001 jump=+0.309 mins=14 
+  Panathinaikos   buy=0.000 sell=0.001 spread=-0.001 jump=-0.100 mins=14 
+
+--- Check at 21:31:34 UTC ---
+  Balance: $1.00
+  Porto           buy=0.930 sell=0.950 spread=-0.020 jump=+0.540 mins=13 
+  Stuttgart       buy=0.010 sell=0.020 spread=-0.010 jump=-0.320 mins=13 
+  Betis           buy=0.999 sell=1.000 spread=-0.001 jump=+0.309 mins=13 
+  Panathinaikos   buy=0.000 sell=0.001 spread=-0.001 jump=-0.100 mins=13 
+
+--- Check at 21:32:36 UTC ---
+  Balance: $1.00
+  Porto           buy=0.950 sell=0.960 spread=-0.010 jump=+0.560 mins=12 
+  Stuttgart       buy=0.003 sell=0.010 spread=-0.007 jump=-0.327 mins=12 
+  Betis           buy=0.999 sell=1.000 spread=-0.001 jump=+0.309 mins=12 
+  Panathinaikos   buy=0.000 sell=0.001 spread=-0.001 jump=-0.100 mins=12 
+
+--- Check at 21:33:37 UTC ---
+  Balance: $1.00
+  Porto           buy=0.950 sell=0.960 spread=-0.010 jump=+0.560 mins=11 
+  Stuttgart       buy=0.002 sell=0.010 spread=-0.008 jump=-0.328 mins=11 
+  Betis           buy=0.999 sell=1.000 spread=-0.001 jump=+0.309 mins=11 
+  Panathinaikos   buy=0.000 sell=0.001 spread=-0.001 jump=-0.100 mins=11 
+
+--- Check at 21:34:39 UTC ---
+  Balance: $1.00
+  Porto           buy=0.950 sell=0.970 spread=-0.020 jump=+0.560 mins=10 
+  Stuttgart       buy=0.003 sell=0.010 spread=-0.007 jump=-0.327 mins=10 
+  Betis           buy=0.999 sell=1.000 spread=-0.001 jump=+0.309 mins=10 
+  Panathinaikos   buy=0.000 sell=0.005 spread=-0.005 jump=-0.100 mins=10 
+
+--- Check at 21:35:41 UTC ---
+  Balance: $1.00
+  Porto           buy=0.980 sell=0.990 spread=-0.010 jump=+0.590 mins=9 
+  Stuttgart       buy=0.001 sell=0.002 spread=-0.001 jump=-0.329 mins=9 
+  Betis           buy=0.999 sell=1.000 spread=-0.001 jump=+0.309 mins=9 
+  Panathinaikos   buy=0.000 sell=0.010 spread=-0.010 jump=-0.100 mins=9 
+
+--- Check at 21:36:42 UTC ---
+  Balance: $1.00
+  Porto           buy=0.970 sell=0.990 spread=-0.020 jump=+0.580 mins=8 
+  Stuttgart       buy=0.001 sell=0.002 spread=-0.001 jump=-0.329 mins=8 
+  Betis           buy=0.999 sell=1.000 spread=-0.001 jump=+0.309 mins=8 
+  Panathinaikos   buy=0.000 sell=0.010 spread=-0.010 jump=-0.100 mins=8 
+
+--- Check at 21:37:44 UTC ---
+  Balance: $1.00
+  Porto           buy=0.988 sell=0.994 spread=-0.006 jump=+0.598 mins=7 
+  Stuttgart       buy=0.001 sell=0.002 spread=-0.001 jump=-0.329 mins=7 
+  Betis           buy=0.999 sell=1.000 spread=-0.001 jump=+0.309 mins=7 
+  Panathinaikos   buy=0.000 sell=0.008 spread=-0.008 jump=-0.100 mins=7 
+
+--- Check at 21:38:46 UTC ---
+  Balance: $1.00
+  Porto           buy=0.990 sell=0.995 spread=-0.005 jump=+0.600 mins=6 
+  Stuttgart       buy=0.001 sell=0.002 spread=-0.001 jump=-0.329 mins=6 
+  Betis           buy=0.999 sell=1.000 spread=-0.001 jump=+0.309 mins=6 
+  Panathinaikos   buy=0.000 sell=0.002 spread=-0.002 jump=-0.100 mins=6 
+
+--- Check at 21:39:47 UTC ---
+  Balance: $1.00
+  Porto           buy=0.989 sell=0.995 spread=-0.006 jump=+0.599 mins=5 
+  Stuttgart       buy=0.001 sell=0.002 spread=-0.001 jump=-0.329 mins=5 
+  Betis           buy=0.999 sell=1.000 spread=-0.001 jump=+0.309 mins=5 
+  Panathinaikos   buy=0.000 sell=0.002 spread=-0.002 jump=-0.100 mins=5 
+
+--- Check at 21:40:49 UTC ---
+  Balance: $1.00
+  Porto           buy=0.991 sell=0.995 spread=-0.004 jump=+0.601 mins=4 
+  Stuttgart       buy=0.001 sell=0.002 spread=-0.001 jump=-0.329 mins=4 
+  Betis           buy=0.999 sell=1.000 spread=-0.001 jump=+0.309 mins=4 
+  Panathinaikos   buy=0.000 sell=0.002 spread=-0.002 jump=-0.100 mins=4 
+
+--- Check at 21:41:51 UTC ---
+  Balance: $1.00
+  Porto           buy=0.992 sell=0.995 spread=-0.003 jump=+0.602 mins=3 
+  Stuttgart       buy=0.001 sell=0.002 spread=-0.001 jump=-0.329 mins=3 
+  Betis           buy=0.999 sell=1.000 spread=-0.001 jump=+0.309 mins=3 
+  Panathinaikos   buy=0.000 sell=0.002 spread=-0.002 jump=-0.100 mins=3 
+
+--- Check at 21:42:52 UTC ---
+  Balance: $1.00
+  Porto           buy=0.992 sell=0.995 spread=-0.003 jump=+0.602 mins=2 
+  Stuttgart       buy=0.001 sell=0.002 spread=-0.001 jump=-0.329 mins=2 
+  Betis           buy=0.999 sell=1.000 spread=-0.001 jump=+0.309 mins=2 
+  Panathinaikos   buy=0.000 sell=0.002 spread=-0.002 jump=-0.100 mins=2 
+
+--- Check at 21:43:54 UTC ---
+  Balance: $1.00
+  Porto           buy=0.994 sell=0.998 spread=-0.004 jump=+0.604 mins=1 
+  Stuttgart       buy=0.001 sell=0.002 spread=-0.001 jump=-0.329 mins=1 
+  Betis           buy=0.999 sell=1.000 spread=-0.001 jump=+0.309 mins=1 
+  Panathinaikos   buy=0.000 sell=0.002 spread=-0.002 jump=-0.100 mins=1 
+
+--- Check at 21:44:56 UTC ---
+  Balance: $1.00
+  Porto           buy=0.995 sell=0.996 spread=-0.001 jump=+0.605 mins=0 
+  Stuttgart       buy=0.001 sell=0.003 spread=-0.002 jump=-0.329 mins=0 
+  Betis           buy=0.999 sell=1.000 spread=-0.001 jump=+0.309 mins=0 
+  Panathinaikos   buy=0.000 sell=0.005 spread=-0.005 jump=-0.100 mins=0 
+
+--- Check at 21:45:57 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.870 spread=-0.020 jump=+0.010 mins=119 
+
+--- Check at 21:46:58 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.870 spread=-0.020 jump=+0.010 mins=118 
+
+--- Check at 21:47:59 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.870 spread=-0.020 jump=+0.010 mins=117 
+
+--- Check at 21:49:00 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.870 spread=-0.020 jump=+0.010 mins=116 
+
+--- Check at 21:50:01 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.870 spread=-0.020 jump=+0.010 mins=115 
+
+--- Check at 21:51:02 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.870 spread=-0.020 jump=+0.010 mins=114 
+
+--- Check at 21:52:03 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.870 spread=-0.020 jump=+0.010 mins=113 
+
+--- Check at 21:53:04 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.870 spread=-0.020 jump=+0.010 mins=112 
+
+--- Check at 21:54:04 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.870 spread=-0.020 jump=+0.010 mins=111 
+
+--- Check at 21:55:05 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.870 spread=-0.020 jump=+0.010 mins=110 
+
+--- Check at 21:56:06 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.870 spread=-0.020 jump=+0.010 mins=109 
+
+--- Check at 21:57:07 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=108 
+
+--- Check at 21:58:08 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=107 
+
+--- Check at 21:59:09 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=106 
+
+--- Check at 22:00:10 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=105 
+
+--- Check at 22:01:11 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=104 
+
+--- Check at 22:02:11 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=103 
+
+--- Check at 22:03:12 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=102 
+
+--- Check at 22:04:13 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=101 
+
+--- Check at 22:05:14 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=100 
+
+--- Check at 22:06:15 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=99 
+
+--- Check at 22:07:16 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=98 
+
+--- Check at 22:08:17 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=97 
+
+--- Check at 22:09:17 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=96 
+
+--- Check at 22:10:18 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=95 
+
+--- Check at 22:11:19 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=94 
+
+--- Check at 22:12:20 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=93 
+
+--- Check at 22:13:21 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=92 
+
+--- Check at 22:14:22 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=91 
+
+--- Check at 22:15:22 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=90 
+
+--- Check at 22:16:23 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=89 
+
+--- Check at 22:17:24 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=88 
+
+--- Check at 22:18:25 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=87 
+
+--- Check at 22:19:26 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=86 
+
+--- Check at 22:20:27 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=85 
+
+--- Check at 22:21:28 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=84 
+
+--- Check at 22:22:29 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=83 
+
+--- Check at 22:23:30 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=81 
+
+--- Check at 22:24:31 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=80 
+
+--- Check at 22:25:32 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=79 
+
+--- Check at 22:26:33 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=78 
+
+--- Check at 22:27:34 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=77 
+
+--- Check at 22:28:35 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=76 
+
+--- Check at 22:29:36 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=75 
+
+--- Check at 22:30:37 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=74 
+
+--- Check at 22:31:38 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=73 
+
+--- Check at 22:32:39 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=72 
+
+--- Check at 22:33:40 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=71 
+
+--- Check at 22:34:40 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=70 
+
+--- Check at 22:35:41 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=69 
+
+--- Check at 22:36:42 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=68 
+
+--- Check at 22:37:44 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=67 
+
+--- Check at 22:38:45 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=66 
+
+--- Check at 22:39:46 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=65 
+
+--- Check at 22:40:47 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=64 
+
+--- Check at 22:41:48 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=63 
+
+--- Check at 22:42:49 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=62 
+
+--- Check at 22:43:50 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=61 
+
+--- Check at 22:44:51 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=60 
+
+--- Check at 22:45:52 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=59 
+
+--- Check at 22:46:54 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=58 
+
+--- Check at 22:47:55 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=57 
+
+--- Check at 22:48:56 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=56 
+
+--- Check at 22:49:57 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=55 
+
+--- Check at 22:50:58 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=54 
+
+--- Check at 22:51:59 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=53 
+
+--- Check at 22:53:00 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=52 
+
+--- Check at 22:54:01 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=51 
+
+--- Check at 22:55:02 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=50 
+
+--- Check at 22:56:04 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=49 
+
+--- Check at 22:57:05 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=48 
+
+--- Check at 22:58:06 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=47 
+
+--- Check at 22:59:07 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=46 
+
+--- Check at 23:00:08 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.860 sell=0.870 spread=-0.010 jump=+0.020 mins=45 
+
+--- Check at 23:01:09 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=44 
+
+--- Check at 23:02:10 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.840 sell=0.870 spread=-0.030 jump=+0.000 mins=43 
+
+--- Check at 23:03:11 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=42 
+
+--- Check at 23:04:12 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.850 sell=0.860 spread=-0.010 jump=+0.010 mins=41 
+
+--- Check at 23:05:13 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.840 sell=0.850 spread=-0.010 jump=+0.000 mins=40 
+
+--- Check at 23:06:15 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.840 sell=0.850 spread=-0.010 jump=+0.000 mins=39 
+
+--- Check at 23:07:16 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.830 sell=0.850 spread=-0.020 jump=-0.010 mins=38 
+
+--- Check at 23:08:17 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.830 sell=0.850 spread=-0.020 jump=-0.010 mins=37 
+
+--- Check at 23:09:19 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.830 sell=0.840 spread=-0.010 jump=-0.010 mins=36 
+
+--- Check at 23:10:20 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.810 sell=0.820 spread=-0.010 jump=-0.030 mins=35 
+
+--- Check at 23:11:22 UTC ---
+  Balance: $1.00
+
+--- Check at 23:12:23 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.800 sell=0.820 spread=-0.020 jump=-0.040 mins=33 
+
+--- Check at 23:13:25 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.800 sell=0.810 spread=-0.010 jump=-0.040 mins=32 
+
+--- Check at 23:14:27 UTC ---
+  Balance: $1.00
+
+--- Check at 23:15:28 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.800 sell=0.810 spread=-0.010 jump=-0.040 mins=30 
+
+--- Check at 23:16:30 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.800 sell=0.810 spread=-0.010 jump=-0.040 mins=28 
+
+--- Check at 23:17:32 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.800 sell=0.820 spread=-0.020 jump=-0.040 mins=27 
+
+--- Check at 23:18:33 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.810 sell=0.820 spread=-0.010 jump=-0.030 mins=26 
+
+--- Check at 23:19:35 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.920 sell=0.940 spread=-0.020 jump=+0.080 mins=25 
+
+--- Check at 23:20:36 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.920 sell=0.930 spread=-0.010 jump=+0.080 mins=24 
+
+--- Check at 23:21:38 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.870 sell=0.900 spread=-0.030 jump=+0.030 mins=23 
+
+--- Check at 23:22:40 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.910 sell=0.920 spread=-0.010 jump=+0.070 mins=22 
+
+--- Check at 23:23:41 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.910 sell=0.920 spread=-0.010 jump=+0.070 mins=21 
+
+--- Check at 23:24:43 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.910 sell=0.920 spread=-0.010 jump=+0.070 mins=20 
+
+--- Check at 23:25:44 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.910 sell=0.930 spread=-0.020 jump=+0.070 mins=19 
+
+--- Check at 23:26:46 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.910 sell=0.920 spread=-0.010 jump=+0.070 mins=18 
+
+--- Check at 23:27:47 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.900 sell=0.910 spread=-0.010 jump=+0.060 mins=17 
+
+--- Check at 23:28:49 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.910 sell=0.920 spread=-0.010 jump=+0.070 mins=16 
+
+--- Check at 23:29:50 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.900 sell=0.910 spread=-0.010 jump=+0.060 mins=15 
+
+--- Check at 23:30:52 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.900 sell=0.910 spread=-0.010 jump=+0.060 mins=14 
+
+--- Check at 23:31:54 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.900 sell=0.910 spread=-0.010 jump=+0.060 mins=13 
+
+--- Check at 23:32:55 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.900 sell=0.910 spread=-0.010 jump=+0.060 mins=12 
+
+--- Check at 23:33:57 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.900 sell=0.910 spread=-0.010 jump=+0.060 mins=11 
+
+--- Check at 23:34:58 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.910 sell=0.920 spread=-0.010 jump=+0.070 mins=10 
+
+--- Check at 23:36:00 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.910 sell=0.920 spread=-0.010 jump=+0.070 mins=9 
+
+--- Check at 23:37:02 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.910 sell=0.920 spread=-0.010 jump=+0.070 mins=8 
+
+--- Check at 23:38:03 UTC ---
+  Balance: $1.00
+  Texas           buy=0.500 sell=0.510 spread=-0.010 jump=+0.070 mins=87 
+  BYU             buy=0.490 sell=0.500 spread=-0.010 jump=-0.070 mins=87 
+  Flamengo        buy=0.910 sell=0.920 spread=-0.010 jump=+0.070 mins=7 
+
+--- Check at 23:39:05 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.910 sell=0.920 spread=-0.010 jump=+0.070 mins=6 
+
+--- Check at 23:40:07 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.910 sell=0.920 spread=-0.010 jump=+0.070 mins=5 
+
+--- Check at 23:41:08 UTC ---
+  Balance: $1.00
+  BYU             buy=0.510 sell=0.520 spread=-0.010 jump=-0.050 mins=84 
+  Flamengo        buy=0.900 sell=0.910 spread=-0.010 jump=+0.060 mins=4 
+
+--- Check at 23:42:10 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.900 sell=0.910 spread=-0.010 jump=+0.060 mins=3 
+
+--- Check at 23:43:12 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.900 sell=0.910 spread=-0.010 jump=+0.060 mins=2 
+
+--- Check at 23:44:13 UTC ---
+  Balance: $1.00
+  Flamengo        buy=0.900 sell=0.910 spread=-0.010 jump=+0.060 mins=1 
+
+--- Check at 23:45:15 UTC ---
+  Balance: $1.00
+  BYU             buy=0.510 sell=0.520 spread=-0.010 jump=-0.050 mins=80 
+
+--- Check at 23:46:16 UTC ---
+  Balance: $1.00
+
+--- Check at 23:47:18 UTC ---
+  Balance: $1.00
+
+--- Check at 23:48:19 UTC ---
+  Balance: $1.00
+
+--- Check at 23:49:20 UTC ---
+  Balance: $1.00
+
+--- Check at 23:50:22 UTC ---
+  Balance: $1.00
+
+--- Check at 23:51:23 UTC ---
+  Balance: $1.00
+
+--- Check at 23:52:25 UTC ---
+  Balance: $1.00
+
+--- Check at 23:53:26 UTC ---
+  Balance: $1.00
+
+--- Check at 23:54:27 UTC ---
+  Balance: $1.00
+
+--- Check at 23:55:29 UTC ---
+  Balance: $1.00
+
+--- Check at 23:56:30 UTC ---
+  Balance: $1.00
+
+--- Check at 23:57:31 UTC ---
+  Balance: $1.00
+
+--- Check at 23:58:33 UTC ---
+  Balance: $1.00
+  Texas           buy=0.490 sell=0.500 spread=-0.010 jump=+0.060 mins=66 
+  BYU             buy=0.490 sell=0.500 spread=-0.010 jump=-0.070 mins=66 
+
+--- Check at 23:59:34 UTC ---
+  Balance: $1.00
+  Texas           buy=0.510 sell=0.520 spread=-0.010 jump=+0.080 mins=65 
+  BYU             buy=0.480 sell=0.490 spread=-0.010 jump=-0.080 mins=65 
+
+--- Check at 00:00:36 UTC ---
+  Balance: $1.00
+  Texas           buy=0.570 sell=0.580 spread=-0.010 jump=+0.140 mins=64 
+  BYU             buy=0.420 sell=0.430 spread=-0.010 jump=-0.140 mins=64 
+
+--- Check at 00:01:37 UTC ---
+  Balance: $1.00
+  Texas           buy=0.590 sell=0.600 spread=-0.010 jump=+0.160 mins=63 
+  BYU             buy=0.400 sell=0.410 spread=-0.010 jump=-0.160 mins=63 
+
+--- Check at 00:02:38 UTC ---
+  Balance: $1.00
+  Texas           buy=0.540 sell=0.550 spread=-0.010 jump=+0.110 mins=62 
+  BYU             buy=0.450 sell=0.460 spread=-0.010 jump=-0.110 mins=62 
+
+--- Check at 00:03:40 UTC ---
+  Balance: $1.00
+  Texas           buy=0.500 sell=0.510 spread=-0.010 jump=+0.070 mins=61 
+  BYU             buy=0.490 sell=0.500 spread=-0.010 jump=-0.070 mins=61 
+
+--- Check at 00:04:41 UTC ---
+  Balance: $1.00
+  Texas           buy=0.530 sell=0.540 spread=-0.010 jump=+0.100 mins=60 
+  BYU             buy=0.460 sell=0.470 spread=-0.010 jump=-0.100 mins=60 
+
+--- Check at 00:05:42 UTC ---
+  Balance: $1.00
+  Texas           buy=0.500 sell=0.520 spread=-0.020 jump=+0.070 mins=59 
+  BYU             buy=0.480 sell=0.500 spread=-0.020 jump=-0.080 mins=59 
+
+--- Check at 00:06:44 UTC ---
+  Balance: $1.00
+  Texas           buy=0.500 sell=0.510 spread=-0.010 jump=+0.070 mins=58 
+  BYU             buy=0.490 sell=0.500 spread=-0.010 jump=-0.070 mins=58 
+
+--- Check at 00:07:45 UTC ---
+  Balance: $1.00
+  Texas           buy=0.490 sell=0.500 spread=-0.010 jump=+0.060 mins=57 
+  BYU             buy=0.500 sell=0.510 spread=-0.010 jump=-0.060 mins=57 
+
+--- Check at 00:08:46 UTC ---
+  Balance: $1.00
+  Texas           buy=0.490 sell=0.500 spread=-0.010 jump=+0.060 mins=56 
+  BYU             buy=0.500 sell=0.510 spread=-0.010 jump=-0.060 mins=56 
+
+--- Check at 00:09:47 UTC ---
+  Balance: $1.00
+  Texas           buy=0.490 sell=0.500 spread=-0.010 jump=+0.060 mins=55 
+  BYU             buy=0.500 sell=0.510 spread=-0.010 jump=-0.060 mins=55 
+
+--- Check at 00:10:48 UTC ---
+  Balance: $1.00
+  Texas           buy=0.500 sell=0.510 spread=-0.010 jump=+0.070 mins=54 
+  BYU             buy=0.490 sell=0.510 spread=-0.020 jump=-0.070 mins=54 
+
+--- Check at 00:11:50 UTC ---
+  Balance: $1.00
+  BYU             buy=0.510 sell=0.520 spread=-0.010 jump=-0.050 mins=53 
+
+--- Check at 00:12:51 UTC ---
+  Balance: $1.00
+
+--- Check at 00:13:53 UTC ---
+  Balance: $1.00
+  BYU             buy=0.500 sell=0.510 spread=-0.010 jump=-0.060 mins=51 
+
+--- Check at 00:14:54 UTC ---
+  Balance: $1.00
+  Texas           buy=0.500 sell=0.510 spread=-0.010 jump=+0.070 mins=50 
+  BYU             buy=0.490 sell=0.500 spread=-0.010 jump=-0.070 mins=50 
+
+--- Check at 00:15:55 UTC ---
+  Balance: $1.00
+  Texas           buy=0.520 sell=0.530 spread=-0.010 jump=+0.090 mins=49 
+  BYU             buy=0.470 sell=0.480 spread=-0.010 jump=-0.090 mins=49 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=119 
+
+--- Check at 00:16:57 UTC ---
+  Balance: $1.00
+  Texas           buy=0.520 sell=0.530 spread=-0.010 jump=+0.090 mins=48 
+  BYU             buy=0.470 sell=0.480 spread=-0.010 jump=-0.090 mins=48 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=118 
+
+--- Check at 00:17:58 UTC ---
+  Balance: $1.00
+  Texas           buy=0.520 sell=0.530 spread=-0.010 jump=+0.090 mins=47 
+  BYU             buy=0.470 sell=0.480 spread=-0.010 jump=-0.090 mins=47 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=117 
+
+--- Check at 00:19:00 UTC ---
+  Balance: $1.00
+  Texas           buy=0.550 sell=0.560 spread=-0.010 jump=+0.120 mins=46 
+  BYU             buy=0.440 sell=0.450 spread=-0.010 jump=-0.120 mins=46 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=116 
+
+--- Check at 00:20:01 UTC ---
+  Balance: $1.00
+  Texas           buy=0.600 sell=0.610 spread=-0.010 jump=+0.170 mins=45 
+  BYU             buy=0.390 sell=0.400 spread=-0.010 jump=-0.170 mins=45 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=115 
+
+--- Check at 00:21:02 UTC ---
+  Balance: $1.00
+  Texas           buy=0.590 sell=0.600 spread=-0.010 jump=+0.160 mins=44 
+  BYU             buy=0.400 sell=0.410 spread=-0.010 jump=-0.160 mins=44 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=114 
+
+--- Check at 00:22:03 UTC ---
+  Balance: $1.00
+  Texas           buy=0.610 sell=0.620 spread=-0.010 jump=+0.180 mins=43 
+  BYU             buy=0.380 sell=0.390 spread=-0.010 jump=-0.180 mins=43 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=113 
+
+--- Check at 00:23:04 UTC ---
+  Balance: $1.00
+  Texas           buy=0.640 sell=0.650 spread=-0.010 jump=+0.210 mins=42 
+  BYU             buy=0.350 sell=0.360 spread=-0.010 jump=-0.210 mins=42 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=112 
+
+--- Check at 00:24:05 UTC ---
+  Balance: $1.00
+  Texas           buy=0.660 sell=0.670 spread=-0.010 jump=+0.230 mins=41 
+  BYU             buy=0.330 sell=0.340 spread=-0.010 jump=-0.230 mins=41 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=111 
+
+--- Check at 00:25:07 UTC ---
+  Balance: $1.00
+  Texas           buy=0.660 sell=0.670 spread=-0.010 jump=+0.230 mins=40 
+  BYU             buy=0.330 sell=0.340 spread=-0.010 jump=-0.230 mins=40 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=110 
+
+--- Check at 00:26:08 UTC ---
+  Balance: $1.00
+  Texas           buy=0.670 sell=0.680 spread=-0.010 jump=+0.240 mins=39 
+  BYU             buy=0.320 sell=0.330 spread=-0.010 jump=-0.240 mins=39 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=109 
+
+--- Check at 00:27:10 UTC ---
+  Balance: $1.00
+  Texas           buy=0.670 sell=0.690 spread=-0.020 jump=+0.240 mins=38 
+  BYU             buy=0.310 sell=0.320 spread=-0.010 jump=-0.250 mins=38 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=108 
+
+--- Check at 00:28:11 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=37 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=37 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=107 
+
+--- Check at 00:29:12 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=36 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=36 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=106 
+
+--- Check at 00:30:14 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=35 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=35 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=105 
+
+--- Check at 00:31:15 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=34 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=34 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=104 
+
+--- Check at 00:32:16 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=33 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=33 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=103 
+
+--- Check at 00:33:18 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=32 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=32 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=102 
+
+--- Check at 00:34:19 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=31 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=31 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=101 
+
+--- Check at 00:35:20 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=30 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=30 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=100 
+
+--- Check at 00:36:22 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.710 spread=-0.020 jump=+0.260 mins=29 
+  BYU             buy=0.290 sell=0.310 spread=-0.020 jump=-0.270 mins=29 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=99 
+
+--- Check at 00:37:23 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=28 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=28 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=98 
+
+--- Check at 00:38:25 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=27 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=27 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=97 
+
+--- Check at 00:39:26 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=26 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=26 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=96 
+
+--- Check at 00:40:27 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=25 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=25 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=95 
+
+--- Check at 00:41:29 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=24 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=24 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=94 
+
+--- Check at 00:42:30 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=22 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=22 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=92 
+
+--- Check at 00:43:31 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=21 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=21 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=91 
+
+--- Check at 00:44:33 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=20 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=20 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=90 
+
+--- Check at 00:45:34 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=19 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=19 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=89 
+
+--- Check at 00:46:35 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=18 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=18 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=88 
+
+--- Check at 00:47:37 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=17 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=17 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=87 
+
+--- Check at 00:48:38 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=16 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=16 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=86 
+
+--- Check at 00:49:39 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=15 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=15 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=85 
+
+--- Check at 00:50:41 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=14 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=14 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=84 
+
+--- Check at 00:51:42 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=13 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=13 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=83 
+
+--- Check at 00:52:44 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=12 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=12 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=82 
+
+--- Check at 00:53:45 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=11 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=11 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=81 
+
+--- Check at 00:54:46 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=10 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=10 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=80 
+
+--- Check at 00:55:48 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=9 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=9 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=79 
+
+--- Check at 00:56:49 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=8 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=8 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=78 
+
+--- Check at 00:57:50 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=7 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=7 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=77 
+
+--- Check at 00:58:52 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=6 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=6 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=76 
+
+--- Check at 00:59:53 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=5 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=5 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=75 
+
+--- Check at 01:00:54 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=4 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=4 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=74 
+
+--- Check at 01:01:56 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=3 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=3 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=73 
+
+--- Check at 01:02:57 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=2 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=2 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=72 
+
+--- Check at 01:03:58 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=1 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=1 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=71 
+
+--- Check at 01:04:59 UTC ---
+  Balance: $1.00
+  Texas           buy=0.690 sell=0.700 spread=-0.010 jump=+0.260 mins=0 
+  BYU             buy=0.300 sell=0.310 spread=-0.010 jump=-0.260 mins=0 
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=70 
+
+--- Check at 01:06:00 UTC ---
+  Balance: $1.00
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=69 
+
+--- Check at 01:07:01 UTC ---
+  Balance: $1.00
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=68 
+
+--- Check at 01:08:02 UTC ---
+  Balance: $1.00
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=67 
+
+--- Check at 01:09:03 UTC ---
+  Balance: $1.00
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=66 
+
+--- Check at 01:10:03 UTC ---
+  Balance: $1.00
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=65 
+
+--- Check at 01:11:04 UTC ---
+  Balance: $1.00
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=64 
+
+--- Check at 01:12:04 UTC ---
+  Balance: $1.00
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=63 
+
+--- Check at 01:13:05 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=62 
+
+--- Check at 01:14:06 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=61 
+
+--- Check at 01:15:07 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=60 
+
+--- Check at 01:16:08 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=59 
+
+--- Check at 01:17:09 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=58 
+
+--- Check at 01:18:09 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=57 
+
+--- Check at 01:19:10 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=56 
+
+--- Check at 01:20:11 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=55 
+
+--- Check at 01:21:11 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=54 
+
+--- Check at 01:22:12 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=53 
+
+--- Check at 01:23:13 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=52 
+
+--- Check at 01:24:13 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=51 
+
+--- Check at 01:25:14 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=50 
+
+--- Check at 01:26:15 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=49 
+
+--- Check at 01:27:16 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=48 
+
+--- Check at 01:28:17 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=47 
+
+--- Check at 01:29:18 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=46 
+
+--- Check at 01:30:18 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=45 
+
+--- Check at 01:31:19 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=44 
+
+--- Check at 01:32:20 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=43 
+
+--- Check at 01:33:21 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=42 
+
+--- Check at 01:34:22 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=41 
+
+--- Check at 01:35:23 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=40 
+
+--- Check at 01:36:23 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=39 
+
+--- Check at 01:37:24 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=38 
+
+--- Check at 01:38:25 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=37 
+
+--- Check at 01:39:26 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=36 
+
+--- Check at 01:40:27 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=35 
+
+--- Check at 01:41:28 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=34 
+
+--- Check at 01:42:28 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=33 
+
+--- Check at 01:43:29 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=32 
+
+--- Check at 01:44:30 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=30 
+
+--- Check at 01:45:31 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=29 
+
+--- Check at 01:46:32 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=28 
+
+--- Check at 01:47:33 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=27 
+
+--- Check at 01:48:33 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=26 
+
+--- Check at 01:49:34 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=25 
+
+--- Check at 01:50:35 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=24 
+
+--- Check at 01:51:36 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=23 
+
+--- Check at 01:52:37 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=22 
+
+--- Check at 01:53:37 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=21 
+
+--- Check at 01:54:38 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=20 
+
+--- Check at 01:55:39 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=19 
+
+--- Check at 01:56:40 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=18 
+
+--- Check at 01:57:41 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=17 
+
+--- Check at 01:58:42 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=16 
+
+--- Check at 01:59:43 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=15 
+
+--- Check at 02:00:44 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=14 
+
+--- Check at 02:01:45 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=13 
+
+--- Check at 02:02:45 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=12 
+
+--- Check at 02:03:46 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=11 
+
+--- Check at 02:04:47 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=10 
+
+--- Check at 02:05:47 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=9 
+
+--- Check at 02:06:48 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=8 
+
+--- Check at 02:07:49 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=7 
+
+--- Check at 02:08:50 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=6 
+
+--- Check at 02:09:51 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=5 
+
+--- Check at 02:10:52 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=4 
+
+--- Check at 02:11:53 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=3 
+
+--- Check at 02:12:54 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=2 
+
+--- Check at 02:13:55 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=1 
+
+--- Check at 02:14:56 UTC ---
+  Balance: $46.29
+  Gremio          buy=0.999 sell=1.000 spread=-0.001 jump=+0.469 mins=0 
+
+--- Check at 02:15:57 UTC ---
+  Balance: $46.29
+
+--- Check at 02:16:57 UTC ---
+  Balance: $46.29
+
+--- Check at 02:17:58 UTC ---
+  Balance: $46.29
+
+--- Check at 02:18:58 UTC ---
+  Balance: $46.29
+
+--- Check at 02:19:59 UTC ---
+  Balance: $46.29
+
+--- Check at 02:20:59 UTC ---
+  Balance: $46.29
+
+--- Check at 02:22:00 UTC ---
+  Balance: $46.29
+
+--- Check at 02:23:01 UTC ---
+  Balance: $46.29
+
+--- Check at 02:24:01 UTC ---
+  Balance: $46.29
+
+--- Check at 02:25:02 UTC ---
+  Balance: $46.29
+
+--- Check at 02:26:02 UTC ---
+  Balance: $46.29
+
+--- Check at 02:27:02 UTC ---
+  Balance: $46.29
+
+--- Check at 02:28:03 UTC ---
+  Balance: $46.29
+
+--- Check at 02:29:04 UTC ---
+  Balance: $46.29
+
+--- Check at 02:30:05 UTC ---
+  Balance: $46.29
+
+--- Check at 02:31:05 UTC ---
+  Balance: $46.29
+
+--- Check at 02:32:06 UTC ---
+  Balance: $46.29
+
+--- Check at 02:33:06 UTC ---
+  Balance: $46.29
+
+--- Check at 02:34:07 UTC ---
+  Balance: $46.29
+
+--- Check at 02:35:07 UTC ---
+  Balance: $46.29

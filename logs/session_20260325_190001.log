@@ -1,0 +1,8 @@
+Session 152 complete. Key actions:
+
+1. **Placed trade**: Slovakia YES 14.89sh @ $0.47 — sportsbooks price ~53% vs PM 46% = 7% edge
+2. **Validated** all 20 token IDs for tomorrow's soccer near-res script
+3. **Cleaned up** settled CHWY from state.json
+4. **Monitors running**: near_res_mar25.py (NBA/NCAAB tonight), btc_hourly_trader.py (BTC 1H UP @ 17:00)
+
+**Portfolio**: $41.73 cash + Banxico Hold YES (26sh, likely +$14), Slovakia YES (14.9sh, edge bet), SARB/Faroe (likely losses ~$8).

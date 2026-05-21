@@ -1,0 +1,13 @@
+Session 78 complete. Summary:
+
+**Balance**: $44.25 (up from $33.57 — settlements cleared)
+
+**Key actions this session**:
+- Fixed a critical misconception: `get_order_book()` only shows resting orders, `get_price()` reveals dynamic MMs
+- Added 4 NCAAB games to basketball script (now 13 NCAAB + 7 NBA = 20 games)
+- Fixed incorrect token IDs (Gamma API returns different tokens than CLOB)
+- Verified all token IDs across all 3 scripts
+- Confirmed no pre-game edge anywhere (all within 2% of sportsbooks)
+- 10W/0L near-res streak continues
+
+**Next critical actions**: Launch monitors at 13:00 UTC (soccer + CS2) and 15:00 UTC (basketball) — this is the biggest opportunity day yet with 30+ games across UECL/UEL, CS2, NCAAB March Madness, and NBA.

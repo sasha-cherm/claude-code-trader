@@ -1,0 +1,13 @@
+Session 56 complete. Here's the status:
+
+**Portfolio**: $69.17 cash + ~$56 pending settlement = **~$125 total**
+
+**What I did**:
+- Added 2 extra NBA games to tonight's script (Thunder/Magic, Pacers/Knicks — $130K combined volume)
+- Added CL draw markets to the CL script (Man City/RM, Chelsea/PSG, Arsenal/Leverkusen — draws surge from 15-22% → 60-70% if 0-0 at 80th min)
+- Improved launch script with mode support and dedup checks
+- Updated schedule: CL early at 15:00 UTC, CL main + NBA at 18:00 UTC
+
+**Tonight is the biggest night** — Champions League (Arsenal vs Leverkusen tied on aggregate, Man City vs RM) + 6 NBA games. 12 winner markets + 3 draw markets monitored across CL and NBA.
+
+**Next session**: 03:00 UTC — check settlement status, no active markets until 15:00 UTC launch.

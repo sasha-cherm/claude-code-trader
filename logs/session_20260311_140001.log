@@ -1,0 +1,8 @@
+Still $0. It's 14:00 UTC now — deposit was expected at 13:00 UTC. Could be delayed. The cron will check again at 16:00 UTC. There's nothing actionable right now — the system will self-trigger when funds arrive via the next cron run.
+
+**Current status:**
+- Balance: $0.00 USDC (deposit delayed, expected ~13:00 UTC)
+- Next auto-check: 16:00 UTC via cron
+- All code verified working, markets ready to trade
+
+Waiting for the deposit to land.

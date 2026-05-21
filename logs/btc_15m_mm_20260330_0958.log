@@ -1,0 +1,346 @@
+[MM] === BTC 15-min Spread Scalper ===
+[MM] UTC: 2026-03-30 09:58:56.057501+00:00
+[MM] size=5.0  sell_deadline=+3s  poll=1.0s
+[MM] Balance: $17.40
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 6:00AM-6:15AM ET
+[MM] start=2026-03-30T10:00:00+00:00  sell_deadline=+3s
+[MM] token=72395383324262677983...
+[MM] Balance: $17.40
+[MM] --- Round 1 ---
+[BUY] BUY 5sh @ 0.54  oid=0xee1cac0f8edce5c24def18ac505bd56edeca5b50d02d61be88da834f829c79d6
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 62s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 60s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 51s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 50s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 41s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 31s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 21s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 11s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 1s to start
+[BUY] cancelled 0xee1cac0f8edce5...
+[MM] Candle started, BUY not filled. Done.
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 6:15AM-6:30AM ET
+[MM] start=2026-03-30T10:15:00+00:00  sell_deadline=+3s
+[MM] token=55040125491258591865...
+[MM] Balance: $17.40
+[MM] --- Round 1 ---
+[BUY] BUY 5sh @ 0.51  oid=0x648d7f9bac4b727e3b96782a5217a98ab5066804a3cc60ade5e6a014f2e78a00
+[MM] bb=0.51 ba=0.52 sp=0.01 | BUY@0.51 | 891s to start
+[MM] bb=0.51 ba=0.52 sp=0.01 | BUY@0.51 | 881s to start
+[MM] bb=0.51 ba=0.52 sp=0.01 | BUY@0.51 | 871s to start
+[MM] bb=0.51 ba=0.52 sp=0.01 | BUY@0.51 | 862s to start
+[MM] bb=0.51 ba=0.52 sp=0.01 | BUY@0.51 | 861s to start
+[MM] book error: PolyApiException[status_code=None, error_message=Request exception!]
+[BUY] cancelled 0x648d7f9bac4b72...
+[BUY] BUY 5sh @ 0.52  oid=0x840e8bbb88a0c3f020dba787e9f9fb885c5ef5bce863d0ed9d9562369068ad14
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 831s to start
+[BUY] cancelled 0x840e8bbb88a0c3...
+[BUY] BUY 5sh @ 0.53  oid=0xc44e3cf865c81c5215e33a36bec753a766f2e01fcd1a9af22776e7af050bcf15
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 821s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 812s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 810s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 801s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 800s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 791s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 790s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 781s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 771s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 761s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 751s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 741s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 732s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 731s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 712s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 711s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 702s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 701s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 692s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 690s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 682s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 680s to start
+[MM] BUY FILLED @ 0.53
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 0, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.54 | SELL@0.53 bought@0.53 | 679.6s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 0, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.54 | SELL@0.53 bought@0.53 | 677.8s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 0, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.54 | SELL@0.53 bought@0.53 | 676.6s left
+[SELL] SELL 5sh @ 0.53  oid=0x37d10955abddadf9bc73ba6a2678ae3b13842bddbe7f0f4868c6ac2ada4eae5b
+[MM] bb=0.52 ba=0.54 | SELL@0.53 bought@0.53 | 675.3s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 674.0s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 672.7s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 671.5s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 670.2s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 668.9s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 667.7s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 666.4s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 665.1s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 663.8s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 662.5s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 661.3s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 660.0s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 658.7s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 657.5s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 656.2s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 654.9s left
+[MM] SELL FILLED @ 0.53  profit=$0.0
+[MM] Round 1 done, time left — going again
+[MM] --- Round 2 ---
+[BUY] BUY 5sh @ 0.52  oid=0xc1926ca80af222c7c8ad063a5bfbc8901e18a7e96754f5bc1ec597b02e7d4d01
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 650s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 641s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 640s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 631s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 630s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 621s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 611s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 601s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 591s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 582s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 581s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 572s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 570s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 561s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 560s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 552s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 551s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 542s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 540s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 532s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 530s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 521s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 520s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 511s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 510s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 501s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 491s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 481s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 471s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 462s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 461s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 452s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 450s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 442s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 440s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 431s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 430s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 421s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 420s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 411s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 401s to start
+[MM] BUY FILLED @ 0.52
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 3701665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 400.0s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 3701665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 398.7s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 3701665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 397.5s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 3701665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 396.2s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 394.9s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 393.7s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 392.4s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 391.1s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 389.8s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 388.6s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 387.3s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 386.0s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 384.7s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 383.5s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 382.2s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 380.9s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 379.6s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 378.4s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 377.1s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 375.8s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 374.5s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 373.3s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 372.0s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 370.7s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 369.4s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 368.2s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 366.9s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 365.6s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 364.3s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 363.0s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 361.8s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 360.5s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 359.2s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 357.9s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 356.7s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 355.4s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 354.1s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 352.8s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 351.6s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 350.3s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 348.9s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 347.6s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 346.3s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 345.1s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 343.8s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 342.5s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 341.2s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 340.0s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 338.7s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 337.4s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 336.1s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 334.9s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 333.6s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 332.3s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 331.1s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 329.8s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 328.5s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 327.2s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 326.0s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 324.7s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 323.5s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 322.2s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 320.9s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 319.7s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 318.4s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 317.1s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 315.8s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 314.6s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 313.3s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 312.0s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 310.8s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 309.5s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 308.3s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 307.0s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 305.7s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 304.5s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 303.2s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 301.9s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 300.7s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 299.4s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 298.1s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 296.8s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 295.4s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 294.2s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 292.9s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 291.6s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 290.3s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 288.9s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 287.6s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 286.3s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 285.1s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 283.6s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 282.1s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 280.8s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 279.6s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 278.3s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 277.0s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 275.7s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 274.4s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 273.2s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 271.9s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 270.6s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 269.4s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 4991665, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.52 | 268.1s left
+
+[MM] Signal 15, stopping...
+[MM] shutdown

@@ -1,0 +1,12 @@
+Maccabi at 0.80-0.83 (50 mins left), Olimpia Milano surging to 0.64-0.70 — both approaching the near-res zone. The monitor will trigger buys if they hit 0.85 with tight enough spread.
+
+**Session 140 summary:**
+
+- **Balance**: $46.02 cash + 4 open positions
+- **New trades**: 
+  - Banxico No Change YES: 26.08sh @ $0.46 ($12). Edge ~11% based on Reuters poll consensus.
+  - SARB Decrease YES: 37.43sh @ $0.10 ($3.74). Massive edge — analysts expect cut but PM prices at 10%.
+- **If all positions win**: ~$183 (Denmark $73.68 + Banxico $26.08 + SARB $37.43 + $46.02 cash)
+- **Denmark**: Polls close 19:00 UTC. Results expected tonight.
+- **Monitors active**: Euro near-res (Maccabi at 0.80, approaching trigger), NBA (games start ~20:30 UTC), candle trader (running)
+- **March 25**: near_res_mar25.py ready (9 NBA + 4 NCAAB)

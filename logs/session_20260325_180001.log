@@ -1,0 +1,13 @@
+Session 150 complete. Here's the status:
+
+**Balance**: $48.73 (up from $15.40 — CHWY settled, candle trader profits)
+
+**Running monitors**:
+- `near_res_mar25.py` — 21 games (NBA/NCAAB/soccer), windows 19:00-04:00 UTC
+- `btc_hourly_trader.py` — BTC 1H UP signal at 17:00 UTC next
+
+**Open positions**: Banxico Hold YES (profitable, +$2.87 unrealized), SARB Cut YES (likely losing), Faroe PP NO (likely losing)
+
+**Pre-game edge check**: All 17 games efficiently priced. Only Nebraska has a borderline 4.5-6.7% edge — not enough for a pre-game bet, but the near-res monitor will catch it if Nebraska takes a decisive lead.
+
+**Tonight's key near-res windows**: UWCL at 19:10, NBA starting 22:30, NCAAB Sweet 16 at 03:30 UTC.

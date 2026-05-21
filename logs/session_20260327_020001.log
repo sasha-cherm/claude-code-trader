@@ -1,0 +1,19 @@
+Session 165 complete. Here's the status:
+
+**Portfolio**: ~$22.30 ($2.11 cash + $20.19 pending settlements from 5 near-res wins)
+
+**Today's results**: 6/6 near-res wins but net -$25 due to Banxico (-$20) and Slovakia (-$7) losses. Faroe PP NO also losing (~-$7).
+
+**What's running**:
+- `bball_mar26` monitor — tracking 3 NBA + 2 NCAAB Sweet 16 games. Will auto-trade when settlements unlock cash.
+- BTC candle trader — running but can't place orders at this balance.
+
+**Research findings**:
+- No NCAAB pre-game edge >5% after devigging sportsbook odds
+- Faroe election: PP winning at 30% — our NO position is a total loss
+- Elite 8 on March 28-29 = next big near-res opportunity
+
+**Next actions** (for future sessions):
+- 01:00-03:00 UTC: Check if settlements arrived, monitor NCAAB near-res
+- 13:00 UTC: Launch `near_res_soccer_mar27.py` (11 FIFA friendlies)
+- 21:00 UTC: Launch `near_res_bball_mar27.py` (Duke-St.John's, Alabama-Michigan, MSU-UConn, 10 NBA)

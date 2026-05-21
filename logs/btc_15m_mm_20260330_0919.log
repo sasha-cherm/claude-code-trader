@@ -1,0 +1,24 @@
+[MM] === BTC 15-min Market Maker ===
+[MM] UTC: 2026-03-30 09:19:12.893037+00:00
+[MM] size=5.0  cancel=5s  poll=1.0s
+[MM] Balance: $14.24
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 5:30AM-5:45AM ET
+[MM] start=2026-03-30T09:30:00+00:00  deadline=2026-03-30T09:29:55+00:00
+[MM] up=6348773178187020...  dn=7762440050566603...
+[MM] Available balance: $14.24
+[UP] BUY 5sh @ 0.54  oid=0x71a7c5a7da2d3aba674b05f903dcf4b115e9d09834a84921c99dcf5d839ab2b8
+[DN] BUY 5sh @ 0.45  oid=0x0d7cbc65c1bce872e035dc0352c5e55cf5c003f4d6e9603a29295c0f741768e7
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 631s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 621s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 611s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 602s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 600s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 592s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 590s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 582s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 581s
+
+[MM] Signal 15, stopping...
+[MM] shutdown

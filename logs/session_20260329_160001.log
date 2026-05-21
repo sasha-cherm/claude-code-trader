@@ -1,0 +1,8 @@
+Session 195 complete. Status:
+
+- **Balance**: $4.86 (+$1 BTC candle open)
+- **Monitors running**: Soccer near-res (catching Armenia-Belarus in 37 min, Colombia-France at 18:40), BTC candle (17:00 UP next)
+- **Pre-game edge scan**: Nothing found. NBA coin flips, France-Colombia, treasury yield — all correctly priced
+- **NBA monitor**: Ready to launch at 18:00 UTC (21:00 GMT+3 cron). 9 games, best targets are the 00:10-00:30 window with 4 overlapping near-res opportunities
+
+Next cron at 15:00 UTC will check soccer results. 18:00 UTC cron launches NBA monitor.

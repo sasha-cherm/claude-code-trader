@@ -1,0 +1,26 @@
+Current portfolio picture:
+
+| | |
+|---|---|
+| **USDC balance** | $69.88 |
+| **BTC $70-72k NO** | ~$50 pending auto-settlement (sell failed, shares held, will settle at $1) |
+| **5 open positions** | ~$24 current market value |
+| **Total est. portfolio** | **~$143** |
+
+The BIG win: BTC was not between $70-72k, so NO position wins. $5 → $50, net +$45. Auto-settlement will credit the CLOB when Polymarket processes it.
+
+**Fixes applied this session:**
+1. `place_market_sell` now queries actual ERC-1155 balance and floors to 2 decimals before selling — this was the root cause of all SELL failures
+2. After BUY fills, queries actual on-chain balance instead of estimating from size/price — eliminates share count drift
+3. Corrected state.json share counts to match actual holdings
+
+**Current positions:**
+| Market | Side | Entry | Now | PnL | Expires |
+|--------|------|-------|-----|-----|---------|
+| Knicks vs Jazz | NO | 0.115 | 0.105 | -8.7% | Tonight |
+| Hornets vs Kings | NO | 0.135 | 0.135 | flat | Tonight |
+| Leverkusen | YES | 0.145 | 0.145 | flat | 44 min |
+| Real Madrid | YES | 0.255 | 0.265 | +3.9% | 20:00 UTC |
+| Chelsea | YES | 0.265 | 0.265 | flat | 20:00 UTC |
+
+The 3 soccer positions (Leverkusen, Real Madrid, Chelsea) are all long "YES wins" at low entry prices for big payout if they win. The basketball NOs are on underdog home teams. Next session runs at 18:00 UTC.

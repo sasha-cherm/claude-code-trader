@@ -1,0 +1,42 @@
+=== NBA Near-Res Monitor (NBA All 8 Monday games + WBC Final) Started at 18:03 UTC ===
+Balance: $28.36
+Capturing pre-game prices...
+  Pre-game Heat: 0.340
+  Pre-game Hornets: 0.650
+  Pre-game Pistons: 0.930
+  Pre-game Wizards: 0.060
+  Pre-game Thunder: 0.790
+  Pre-game Magic: 0.200
+  Pre-game Knicks: 0.870
+  Pre-game Pacers: 0.120
+  Pre-game USA (WBC): 0.680
+  Pre-game Venezuela (WBC): 0.311
+  Pre-game T-Wolves: 0.590
+  Pre-game Suns: 0.400
+  Pre-game Cavaliers: 0.800
+  Pre-game Bucks: 0.190
+  Pre-game Spurs: 0.860
+  Pre-game Kings: 0.130
+  Pre-game Nuggets: 0.900
+  Pre-game 76ers: 0.090
+
+--- Check #1 at 18:03:20 UTC ---
+  Balance: $28.36
+  Heat           buy=0.340 sell=0.350 spread=-0.010 jump=+0.000 mins_left=297 
+  Hornets        buy=0.650 sell=0.660 spread=-0.010 jump=+0.000 mins_left=297 
+  Pistons        buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins_left=297 
+  Wizards        buy=0.060 sell=0.070 spread=-0.010 jump=+0.000 mins_left=297 
+  Thunder        buy=0.790 sell=0.810 spread=-0.020 jump=+0.000 mins_left=297 
+  Magic          buy=0.190 sell=0.210 spread=-0.020 jump=-0.010 mins_left=297 
+  Knicks         buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins_left=327 
+  Pacers         buy=0.120 sell=0.130 spread=-0.010 jump=+0.000 mins_left=327 
+  USA (WBC)      buy=0.680 sell=0.690 spread=-0.010 jump=+0.000 mins_left=352 
+  Venezuela (WBC) buy=0.311 sell=0.315 spread=-0.004 jump=+0.000 mins_left=352 
+  T-Wolves       buy=0.590 sell=0.600 spread=-0.010 jump=+0.000 mins_left=357 
+  Suns           buy=0.400 sell=0.410 spread=-0.010 jump=+0.000 mins_left=357 
+  Cavaliers      buy=0.800 sell=0.810 spread=-0.010 jump=+0.000 mins_left=357 
+  Bucks          buy=0.190 sell=0.200 spread=-0.010 jump=+0.000 mins_left=357 
+  Spurs          buy=0.860 sell=0.870 spread=-0.010 jump=+0.000 mins_left=477 
+  Kings          buy=0.130 sell=0.140 spread=-0.010 jump=+0.000 mins_left=477 
+  Nuggets        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins_left=477 
+  76ers          buy=0.090 sell=0.100 spread=-0.010 jump=+0.000 mins_left=477 

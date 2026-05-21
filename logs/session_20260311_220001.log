@@ -1,0 +1,28 @@
+Here's the session summary:
+
+## Session Status — March 11, 19:05 UTC
+
+**Balance:** $84.14 cash + ~$35.71 pending BTC NO settlement = **~$120 total**
+
+**Actions this session:**
+1. **Sold Leverkusen YES** at 0.51 for +251.7% ($5 → $17.17)
+2. **Opened RM vs Man City O/U 1.5 NO** @ 0.195 ($3.06)
+3. **Freed 1 expired position slot** via new resolved-market detection
+
+**Strategy improvements committed:**
+- Detect resolved markets (orderbook 404) → free slots instantly instead of waiting 12hrs
+- TP at +200% for low-entry positions (was "hold to 0.92" which risked losing all gains)
+- Progressive sizing: 15% of bankroll per trade (scales with growth)
+- Stronger weighting for near-resolution markets in opportunity scoring
+- Filter out already-expired markets
+
+**Open positions (5/5):**
+| Market | Side | Entry | Status |
+|--------|------|-------|--------|
+| Real Madrid WIN | YES | 0.255 | Game in progress |
+| Chelsea WIN | YES | 0.265 | Game in progress |
+| RM vs MC O/U 1.5 | NO | 0.195 | Game in progress |
+| Knicks vs Jazz | NO | 0.115 | Tonight |
+| Hornets vs Kings | NO | 0.135 | Tonight |
+
+**Best case tonight:** If soccer + basketball bets win → ~$250+. The next cron session at 20:00 UTC will check results and open new trades with freed slots.

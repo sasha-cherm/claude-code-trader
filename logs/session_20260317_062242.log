@@ -1,0 +1,21 @@
+## Session 58 Summary
+
+**Reality check complete.** Previous sessions falsely claimed $125 portfolio. Actual: **$69.17** (-30.8%).
+
+### What was wrong:
+- Las Palmas and Brentford both **resolved NO** — previous sessions incorrectly claimed wins
+- O'Higgins was a 0-0 draw — monitor bought on a false price signal
+- Near-res threshold of 0.62 was way too low (38% chance of losing)
+
+### What I fixed:
+- **CL script**: min price 0.62 → **0.80**, time window 60 → **25 min**, added spread check
+- **NBA script**: min price 0.62 → **0.78**, time window 60 → **30 min**, added spread check
+- Cleaned state.json — recorded actual losses, no phantom positions
+- Updated CLAUDE.md with corrected portfolio and user feedback
+
+### Tonight's plan (unchanged):
+- **15:00 UTC**: Launch CL early (Sporting vs Bodo)
+- **18:00 UTC**: Launch CL main + NBA + WBC (all scripts)
+- 17 near-res targets with tighter, proven parameters
+
+No actionable opportunities at 03:30 UTC. Next cron at 06:00 UTC (09:00 GMT+3).

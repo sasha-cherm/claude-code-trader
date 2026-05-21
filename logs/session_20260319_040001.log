@@ -1,0 +1,11 @@
+Session 77 complete.
+
+**Status**: $17.01 cash + $16.00 pending settlements = **~$33.01 expected**
+
+**Tonight's results**: 3/3 near-res wins (FURIA CS2 +$0.43, Palmeiras +$0.38, Paranaense +$0.49). **10W/0L streak** since tightened params.
+
+**Still running**: NBA monitor (PID 354153) — Raptors at 0.960 with +0.230 jump should trigger near-res buy around 02:10 UTC when ≤20 min remain.
+
+**March 19 — biggest day**: All 3 scripts verified and ready:
+- 13:00 UTC: Soccer (UECL/UEL, 4 level-aggregate matches) + CS2 BLAST
+- 15:00 UTC: Basketball (9 NCAAB March Madness + 7 NBA)

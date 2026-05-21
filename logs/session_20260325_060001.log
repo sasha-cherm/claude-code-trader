@@ -1,0 +1,17 @@
+**Session 144 complete.** Here's the status:
+
+**Portfolio**: $17.90 cash + 4 positions (Banxico, SARB, Faroe, CHWY)
+
+**Running monitors**:
+- `btc_hourly_limit.py` (PID 750621) — next signal 13:00 UTC DOWN
+- `near_res_denphx.py` (PID 756935) — Nuggets vs Suns live now, near-res ~05:10 UTC
+
+**Prepared for today/tomorrow**:
+- `near_res_mar25.py` — 12 NBA + 5 NCAAB = 34 tokens, launch at 16:00-18:00 UTC
+- `near_res_soccer_mar26.py` — 10 UEFA/FIFA matches, launch at 13:00 UTC March 26
+
+**Key upcoming**:
+- 13:00 UTC: CHWY resolves (potential +$11)
+- 16:00-18:00 UTC: Launch tonight's NBA/NCAAB monitor
+- March 26 13:00 UTC: SARB resolves + launch soccer monitor
+- March 26 19:00 UTC: Banxico resolves (potential +$26)

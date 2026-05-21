@@ -1,0 +1,17 @@
+Session 71 complete. Here's the summary:
+
+**Balance**: $34.65 + weather positions (settle 12:00 UTC)
+
+**Key finding**: CS2 esports markets have **deep liquidity** (confirmed $16K+ per level, 1-cent spreads) — this opens a new near-res category. Built `near_res_cs2_mar18.py` for BLAST Open Rotterdam.
+
+**Research results**:
+- BTS Arirang: No edge (US-only resolution source)
+- GIS earnings: Possible edge (16% beat vs historical 70%+) but unverifiable
+- CL pre-game: No edge (DK matches PM)
+- CS2: **Viable near-res market** — testing today
+
+**Today's schedule** (all auto-launched by future cron sessions):
+- 12:00 UTC: Weather settlements
+- 13:00 UTC: Launch soccer near-res (CL/Europa/Brazilian + Turkish added)
+- 15:00 UTC: Launch CS2 near-res (4 BO3 matches)
+- 23:00 UTC: Launch NBA near-res (6 games)

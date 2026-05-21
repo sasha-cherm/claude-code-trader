@@ -1,0 +1,14 @@
+Session 97 complete. Summary:
+
+**Done:**
+- Fixed candle trader re-buy bug (user's Telegram feedback)
+- Confirmed TYLOO2 won (+$3 profit) and BTC 1H UP won (+$7.50 profit)
+- Updated state.json with wins
+- Verified both monitors alive (near-res 509+ checks, candle trader restarted)
+- Confirmed no new NCAAB tokens needed — all 14 games already tracked
+- No pre-game edge found on evening soccer
+- Sent Telegram update, wrote session notes, pushed to git
+
+**Portfolio:** $26.13 cash + $34.92 pending = ~$61. Streak: 19W/0L.
+
+**Active now:** Near-res monitor watching Kentucky (0.69, 25 min), Falcons CS2 (0.83, 55 min), Genoa-Udinese (ends 19:00). Evening soccer batch (EPL/BuLi/LaLiga) kicks 19:30-20:00, near-res 21:00-21:45.

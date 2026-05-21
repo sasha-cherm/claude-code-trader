@@ -1,0 +1,30 @@
+[MM] === BTC 15-min Spread Scalper ===
+[MM] UTC: 2026-03-31 02:44:56.173301+00:00
+[MM] size=6.0  sell_deadline=+0s  poll=1.0s
+[MM] Balance: $20.45
+[MM] --- main loop #1 @ 02:44:57 UTC ---
+[MM] Streak: 1x UP → enter 600s before start
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 10:45PM-11:00PM ET
+[MM] start=2026-03-31T02:45:00+00:00  sell_deadline=+0s
+[MM] Side: DN (bid depth DN=716 vs UP=308)
+[MM] Trading DN token=83009778788458908438...
+[MM] Balance: $20.45
+[MM] --- Round 1 (DN) ---
+[BUY] BUY 6sh @ 0.52  oid=0xf59c6a627b51a7f38c06149845347ba73d9a4c2171c9430777ffcc6aefeb88f4
+[MM] bb=0.51 ba=0.55 sp=0.04 | BUY@0.52 | bal=0.00 | 0s to start
+[BUY] cancelled 0xf59c6a627b51a7...
+[MM] BUY landed on UP: 6.00sh
+[MM] SELL DEADLINE (bought @ 0.52)
+[MM] Market selling 6.00sh
+[CLOSE] MARKET SELL 6.0sh => {'errorMsg': '', 'orderID': '0xe08beb486233702cf4fd80aa068bd6f7b8d0e000a7c2c9e4a269c86d25a48193', 'takingAmount': '2.64', 'makingAmount': '6', 'status': 'matched', 'transactionsHashes': ['0xd6c5e0fe45e5356cae9ba9905a959f9f65c6924809356daad3696425473a95e8'], 'success': True}
+[MM] Sell pending settlement... bal=6.00
+[MM] Sell pending settlement... bal=6.00
+[MM] Position closed (bal=0.00)
+[MM] CLEANUP DN: 6.00sh worth $3.06, market selling 6.00sh...
+[CLEANUP-DN] MARKET SELL 6.0sh => {'errorMsg': '', 'orderID': '0x4a19e829d979f56c95f8f5521be2dccb463f60c4ee382e78f86aba96a616b988', 'takingAmount': '3.06', 'makingAmount': '6', 'status': 'matched', 'transactionsHashes': ['0xe30f7d4cf24b2122890cbf904e3dd57e2d4b978b37503457e672ac8790a04ecb'], 'success': True}
+[CLEANUP-DN] Settlement confirmed: bal=0.00
+[MM] --- main loop #2 @ 02:45:22 UTC ---
+[MM] Streak: 0x NONE → enter 600s before start
+[MM] next: Bitcoin Up or Down - March 30, 11:00PM-11:15PM ET in 877s, waiting 277s

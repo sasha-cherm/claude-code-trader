@@ -1,0 +1,19 @@
+Viking at 0.990 with 19 min left — above MAX_NEAR_RES_PRICE (0.96), correctly skipped (only 1% profit). Hamburg at 0.68 with 49 min left — will approach near-res window around 18:55 UTC.
+
+All tasks complete for this session. Monitors are running for tonight's games. Session summary:
+
+**Done this session:**
+- Updated state.json (Leverkusen LOST, Fulham/Getafe/WB WON)
+- Built `near_res_mar22.py` with 27 verified tokens + volatility detection (Leverkusen lesson)
+- Found all March 22 markets: La Liga (Barca, Athletic, RM-Atletico), EFL Cup Final, EPL (Newcastle, Villa, Spurs), Eredivisie, MLS, Brazilian
+- Sent Telegram summary, wrote session notes, pushed to git
+
+**Running tonight (auto):**
+- `near_res_mar21.py` — Hamburg near-res ~18:55, Everton-Chelsea ~19:00, Leeds/Sevilla ~21:30, NBA ~01:00+
+- `btc_hourly_trader.py` — XRP 4H DOWN at 20:00 UTC
+
+**Next session (19:00 UTC):**
+- Check if Hamburg/Everton near-res triggered
+- Check settlements (Derby $20.90 should arrive soon)
+- Upcoming: Leeds-Brentford, Sevilla-Valencia near-res
+- NBA tipoffs starting

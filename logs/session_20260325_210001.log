@@ -1,0 +1,15 @@
+Session 153 complete. Here's the status:
+
+**Portfolio**: $39.23 cash + 4 open positions
+
+**Running monitors**:
+- `near_res_mar25.py` — 42 tokens across 12 NBA + 6 NCAAB + 3 soccer. No trades yet (games start ~20:30 UTC). Big NBA window 22:30-04:00 UTC.
+- `btc_hourly_trader.py` — BTC 1H UP filled at 0.50 (17:00 candle, resolving now). Next: XRP 4H DOWN at 20:00 UTC.
+
+**Key positions resolving tomorrow (Mar 26)**:
+- Banxico Hold YES (26.08sh @ 0.46, now 0.54) — if hold: **+$14 profit**
+- Slovakia YES (14.89sh @ 0.47) — if wins: **+$7.89 profit**
+- SARB Cut YES — likely total loss (-$3.74)
+- Faroe PP NO — likely loss (-$4.00)
+
+Everything is automated for tonight. The near-res monitor will catch any NBA/NCAAB surges meeting the tightened criteria (0.85+ price, 0.20+ jump, <20 min, <0.04 spread).

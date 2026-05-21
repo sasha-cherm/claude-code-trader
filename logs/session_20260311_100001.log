@@ -1,0 +1,17 @@
+**Status: Waiting for funds (~13:00 UTC, 6 hours away)**
+
+Current opportunities when funds arrive:
+| Market | Side | Price | Payout | Resolves |
+|--------|------|-------|--------|---------|
+| Elon tweets 320-339 (Mar 6-13) | YES | 0.070 | 14x | 2.4 days |
+| BTC >$72k Mar 11 | YES | 0.080 | 12.5x | ~9 hrs |
+| Elon tweets 420-439 (Mar 6-13) | YES | 0.124 | 8x | 2.4 days |
+| Knicks vs Jazz | NO | 0.125 | 8x | today |
+| Elon tweets 340-359 (Mar 6-13) | YES | 0.131 | 7.6x | 2.4 days |
+
+**Fixes committed this session:**
+1. **Expired market leak** — positions on resolved markets no longer get stuck open forever blocking new slots. They're now auto-dropped from state.json (Polymarket credits USDC automatically).
+2. **Stored `end_date` in positions** so expiry detection works.
+3. **Null token_id guard** prevents silent failures on malformed market data.
+
+Next cron runs at **12:00 UTC** (still $0) then **14:00 UTC** — that's when trading starts.

@@ -1,0 +1,331 @@
+BTC Near-Resolution Monitor
+==================================================
+Monitoring mode: checking every 300s until 16:00 UTC
+
+[10:45 UTC] BTC: $73,679 | Balance: $68.75
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=99.9% vs YES=1.000 | edge_Y=-0.0% edge_N=+0.0%
+  $70,000: P(above)=97.8% vs YES=0.996 | edge_Y=-1.7% edge_N=+1.7%
+  $72,000: P(above)=81.7% vs YES=0.937 | edge_Y=-12.0% edge_N=+12.0% → NO ✓
+    Not yet: 5.2h > 3.0h window
+  $74,000: P(above)=42.7% vs YES=0.405 | edge_Y=+2.2% edge_N=-2.2%
+  $76,000: P(above)=10.7% vs YES=0.032 | edge_Y=+7.5% edge_N=-7.5%
+  $78,000: P(above)=1.1% vs YES=0.004 | edge_Y=+0.8% edge_N=-0.8%
+  $80,000: P(above)=0.1% vs YES=0.002 | edge_Y=-0.1% edge_N=+0.1%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[10:50 UTC] BTC: $73,739 | Balance: $68.75
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=99.9% vs YES=1.000 | edge_Y=-0.0% edge_N=+0.0%
+  $70,000: P(above)=98.1% vs YES=0.993 | edge_Y=-1.2% edge_N=+1.2%
+  $72,000: P(above)=82.7% vs YES=0.946 | edge_Y=-11.8% edge_N=+11.8% → NO ✓
+    Not yet: 5.2h > 3.0h window
+  $74,000: P(above)=43.9% vs YES=0.400 | edge_Y=+3.9% edge_N=-3.9%
+  $76,000: P(above)=11.1% vs YES=0.031 | edge_Y=+8.0% edge_N=-8.0%
+  $78,000: P(above)=1.2% vs YES=0.003 | edge_Y=+0.9% edge_N=-0.9%
+  $80,000: P(above)=0.1% vs YES=0.002 | edge_Y=-0.1% edge_N=+0.1%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[10:55 UTC] BTC: $73,699 | Balance: $68.75
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=99.9% vs YES=1.000 | edge_Y=-0.0% edge_N=+0.0%
+  $70,000: P(above)=98.1% vs YES=0.994 | edge_Y=-1.3% edge_N=+1.3%
+  $72,000: P(above)=82.4% vs YES=0.943 | edge_Y=-11.9% edge_N=+11.9% → NO ✓
+    Not yet: 5.1h > 3.0h window
+  $74,000: P(above)=43.0% vs YES=0.395 | edge_Y=+3.5% edge_N=-3.5%
+  $76,000: P(above)=10.5% vs YES=0.032 | edge_Y=+7.3% edge_N=-7.3%
+  $78,000: P(above)=1.1% vs YES=0.003 | edge_Y=+0.8% edge_N=-0.8%
+  $80,000: P(above)=0.0% vs YES=0.002 | edge_Y=-0.1% edge_N=+0.1%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[11:00 UTC] BTC: $73,727 | Balance: $68.75
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=99.9% vs YES=1.000 | edge_Y=-0.0% edge_N=+0.0%
+  $70,000: P(above)=98.2% vs YES=0.994 | edge_Y=-1.1% edge_N=+1.1%
+  $72,000: P(above)=83.0% vs YES=0.945 | edge_Y=-11.5% edge_N=+11.5% → NO ✓
+    Not yet: 5.0h > 3.0h window
+  $74,000: P(above)=43.5% vs YES=0.405 | edge_Y=+3.0% edge_N=-3.0%
+  $76,000: P(above)=10.6% vs YES=0.032 | edge_Y=+7.4% edge_N=-7.4%
+  $78,000: P(above)=1.1% vs YES=0.003 | edge_Y=+0.8% edge_N=-0.8%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[11:05 UTC] BTC: $73,734 | Balance: $68.75
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=98.3% vs YES=0.995 | edge_Y=-1.2% edge_N=+1.2%
+  $72,000: P(above)=83.3% vs YES=0.945 | edge_Y=-11.2% edge_N=+11.2% → NO ✓
+    Not yet: 4.9h > 3.0h window
+  $74,000: P(above)=43.6% vs YES=0.405 | edge_Y=+3.1% edge_N=-3.1%
+  $76,000: P(above)=10.5% vs YES=0.031 | edge_Y=+7.4% edge_N=-7.4%
+  $78,000: P(above)=1.0% vs YES=0.003 | edge_Y=+0.8% edge_N=-0.8%
+  $80,000: P(above)=0.0% vs YES=0.002 | edge_Y=-0.1% edge_N=+0.1%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[11:10 UTC] BTC: $73,902 | Balance: $68.75
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=98.7% vs YES=0.996 | edge_Y=-0.9% edge_N=+0.9%
+  $72,000: P(above)=85.7% vs YES=0.952 | edge_Y=-9.5% edge_N=+9.5%
+  $74,000: P(above)=47.3% vs YES=0.440 | edge_Y=+3.3% edge_N=-3.3%
+  $76,000: P(above)=12.1% vs YES=0.032 | edge_Y=+8.9% edge_N=-8.9%
+  $78,000: P(above)=1.2% vs YES=0.003 | edge_Y=+0.9% edge_N=-0.9%
+  $80,000: P(above)=0.0% vs YES=0.002 | edge_Y=-0.1% edge_N=+0.1%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[11:15 UTC] BTC: $73,922 | Balance: $68.75
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=98.8% vs YES=0.997 | edge_Y=-0.8% edge_N=+0.8%
+  $72,000: P(above)=86.2% vs YES=0.957 | edge_Y=-9.5% edge_N=+9.5%
+  $74,000: P(above)=47.8% vs YES=0.495 | edge_Y=-1.7% edge_N=+1.7%
+  $76,000: P(above)=12.1% vs YES=0.032 | edge_Y=+8.9% edge_N=-8.9%
+  $78,000: P(above)=1.2% vs YES=0.003 | edge_Y=+1.0% edge_N=-1.0%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[11:20 UTC] BTC: $73,953 | Balance: $68.75
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=98.9% vs YES=0.997 | edge_Y=-0.7% edge_N=+0.7%
+  $72,000: P(above)=86.8% vs YES=0.964 | edge_Y=-9.6% edge_N=+9.6%
+  $74,000: P(above)=48.5% vs YES=0.505 | edge_Y=-2.0% edge_N=+2.0%
+  $76,000: P(above)=12.3% vs YES=0.032 | edge_Y=+9.1% edge_N=-9.1%
+  $78,000: P(above)=1.2% vs YES=0.004 | edge_Y=+0.8% edge_N=-0.8%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[11:25 UTC] BTC: $73,966 | Balance: $60.19
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=99.0% vs YES=0.997 | edge_Y=-0.6% edge_N=+0.6%
+  $72,000: P(above)=87.2% vs YES=0.966 | edge_Y=-9.4% edge_N=+9.4%
+  $74,000: P(above)=48.8% vs YES=0.520 | edge_Y=-3.2% edge_N=+3.2%
+  $76,000: P(above)=12.2% vs YES=0.032 | edge_Y=+9.0% edge_N=-9.0%
+  $78,000: P(above)=1.2% vs YES=0.004 | edge_Y=+0.8% edge_N=-0.8%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[11:30 UTC] BTC: $74,023 | Balance: $60.19
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=99.1% vs YES=0.997 | edge_Y=-0.5% edge_N=+0.5%
+  $72,000: P(above)=88.1% vs YES=0.966 | edge_Y=-8.5% edge_N=+8.5%
+  $74,000: P(above)=50.1% vs YES=0.545 | edge_Y=-4.4% edge_N=+4.4%
+  $76,000: P(above)=12.7% vs YES=0.036 | edge_Y=+9.1% edge_N=-9.1%
+  $78,000: P(above)=1.2% vs YES=0.004 | edge_Y=+0.8% edge_N=-0.8%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[11:35 UTC] BTC: $73,975 | Balance: $60.19
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=99.1% vs YES=0.997 | edge_Y=-0.5% edge_N=+0.5%
+  $72,000: P(above)=87.7% vs YES=0.967 | edge_Y=-8.9% edge_N=+8.9%
+  $74,000: P(above)=49.0% vs YES=0.535 | edge_Y=-4.5% edge_N=+4.5%
+  $76,000: P(above)=11.9% vs YES=0.042 | edge_Y=+7.7% edge_N=-7.7%
+  $78,000: P(above)=1.1% vs YES=0.004 | edge_Y=+0.7% edge_N=-0.7%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[11:40 UTC] BTC: $74,104 | Balance: $60.19
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=99.3% vs YES=0.997 | edge_Y=-0.3% edge_N=+0.3%
+  $72,000: P(above)=89.4% vs YES=0.966 | edge_Y=-7.2% edge_N=+7.2%
+  $74,000: P(above)=52.0% vs YES=0.560 | edge_Y=-4.0% edge_N=+4.0%
+  $76,000: P(above)=13.2% vs YES=0.046 | edge_Y=+8.6% edge_N=-8.6%
+  $78,000: P(above)=1.2% vs YES=0.004 | edge_Y=+0.9% edge_N=-0.9%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[11:45 UTC] BTC: $74,109 | Balance: $60.19
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=99.4% vs YES=0.997 | edge_Y=-0.3% edge_N=+0.3%
+  $72,000: P(above)=89.7% vs YES=0.964 | edge_Y=-6.7% edge_N=+6.7%
+  $74,000: P(above)=52.1% vs YES=0.555 | edge_Y=-3.4% edge_N=+3.4%
+  $76,000: P(above)=13.0% vs YES=0.052 | edge_Y=+7.8% edge_N=-7.8% → YES ✓
+    Not yet: 4.2h > 3.0h window
+  $78,000: P(above)=1.2% vs YES=0.004 | edge_Y=+0.8% edge_N=-0.8%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[11:50 UTC] BTC: $74,149 | Balance: $60.19
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=99.5% vs YES=0.997 | edge_Y=-0.2% edge_N=+0.2%
+  $72,000: P(above)=90.3% vs YES=0.966 | edge_Y=-6.2% edge_N=+6.2%
+  $74,000: P(above)=53.1% vs YES=0.575 | edge_Y=-4.4% edge_N=+4.4%
+  $76,000: P(above)=13.3% vs YES=0.046 | edge_Y=+8.7% edge_N=-8.7%
+  $78,000: P(above)=1.2% vs YES=0.004 | edge_Y=+0.8% edge_N=-0.8%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[11:55 UTC] BTC: $74,125 | Balance: $56.34
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=99.5% vs YES=0.997 | edge_Y=-0.2% edge_N=+0.2%
+  $72,000: P(above)=90.3% vs YES=0.969 | edge_Y=-6.5% edge_N=+6.5%
+  $74,000: P(above)=52.6% vs YES=0.595 | edge_Y=-6.9% edge_N=+6.9% → NO ✓
+    Not yet: 4.1h > 3.0h window
+  $76,000: P(above)=12.8% vs YES=0.050 | edge_Y=+7.8% edge_N=-7.8%
+  $78,000: P(above)=1.0% vs YES=0.004 | edge_Y=+0.6% edge_N=-0.6%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[12:01 UTC] BTC: $74,048 | Balance: $56.34
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=99.5% vs YES=0.997 | edge_Y=-0.2% edge_N=+0.2%
+  $72,000: P(above)=89.7% vs YES=0.976 | edge_Y=-7.9% edge_N=+7.9%
+  $74,000: P(above)=50.7% vs YES=0.545 | edge_Y=-3.8% edge_N=+3.8%
+  $76,000: P(above)=11.6% vs YES=0.035 | edge_Y=+8.0% edge_N=-8.0%
+  $78,000: P(above)=0.9% vs YES=0.004 | edge_Y=+0.5% edge_N=-0.5%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[12:06 UTC] BTC: $74,047 | Balance: $55.09
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=99.5% vs YES=0.997 | edge_Y=-0.1% edge_N=+0.1%
+  $72,000: P(above)=90.0% vs YES=0.977 | edge_Y=-7.7% edge_N=+7.7%
+  $74,000: P(above)=50.7% vs YES=0.545 | edge_Y=-3.8% edge_N=+3.8%
+  $76,000: P(above)=11.3% vs YES=0.034 | edge_Y=+8.0% edge_N=-8.0%
+  $78,000: P(above)=0.8% vs YES=0.004 | edge_Y=+0.5% edge_N=-0.5%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[12:11 UTC] BTC: $74,134 | Balance: $55.09
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=99.6% vs YES=0.997 | edge_Y=-0.0% edge_N=+0.0%
+  $72,000: P(above)=91.1% vs YES=0.974 | edge_Y=-6.2% edge_N=+6.2%
+  $74,000: P(above)=52.9% vs YES=0.545 | edge_Y=-1.6% edge_N=+1.6%
+  $76,000: P(above)=12.1% vs YES=0.033 | edge_Y=+8.8% edge_N=-8.8%
+  $78,000: P(above)=0.9% vs YES=0.004 | edge_Y=+0.5% edge_N=-0.5%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[12:16 UTC] BTC: $74,071 | Balance: $55.09
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=99.6% vs YES=0.997 | edge_Y=-0.1% edge_N=+0.1%
+  $72,000: P(above)=90.7% vs YES=0.974 | edge_Y=-6.7% edge_N=+6.7%
+  $74,000: P(above)=51.4% vs YES=0.545 | edge_Y=-3.1% edge_N=+3.1%
+  $76,000: P(above)=11.1% vs YES=0.034 | edge_Y=+7.7% edge_N=-7.7%
+  $78,000: P(above)=0.7% vs YES=0.004 | edge_Y=+0.4% edge_N=-0.4%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[12:21 UTC] BTC: $74,060 | Balance: $55.09
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=99.6% vs YES=0.998 | edge_Y=-0.1% edge_N=+0.1%
+  $72,000: P(above)=90.9% vs YES=0.968 | edge_Y=-5.9% edge_N=+5.9%
+  $74,000: P(above)=51.1% vs YES=0.495 | edge_Y=+1.6% edge_N=-1.6%
+  $76,000: P(above)=10.7% vs YES=0.028 | edge_Y=+7.9% edge_N=-7.9%
+  $78,000: P(above)=0.7% vs YES=0.003 | edge_Y=+0.4% edge_N=-0.4%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[12:26 UTC] BTC: $73,961 | Balance: $55.09
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=99.6% vs YES=0.998 | edge_Y=-0.2% edge_N=+0.2%
+  $72,000: P(above)=90.0% vs YES=0.970 | edge_Y=-7.0% edge_N=+7.0%
+  $74,000: P(above)=48.6% vs YES=0.550 | edge_Y=-6.4% edge_N=+6.4% → NO ✓
+    Not yet: 3.6h > 3.0h window
+  $76,000: P(above)=9.3% vs YES=0.034 | edge_Y=+6.0% edge_N=-6.0%
+  $78,000: P(above)=0.5% vs YES=0.002 | edge_Y=+0.4% edge_N=-0.4%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[12:31 UTC] BTC: $73,797 | Balance: $55.09
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=99.5% vs YES=0.998 | edge_Y=-0.3% edge_N=+0.3%
+  $72,000: P(above)=88.3% vs YES=0.961 | edge_Y=-7.8% edge_N=+7.8%
+  $74,000: P(above)=44.3% vs YES=0.430 | edge_Y=+1.3% edge_N=-1.3%
+  $76,000: P(above)=7.4% vs YES=0.030 | edge_Y=+4.4% edge_N=-4.4%
+  $78,000: P(above)=0.3% vs YES=0.002 | edge_Y=+0.2% edge_N=-0.2%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[12:36 UTC] BTC: $73,821 | Balance: $55.09
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=99.5% vs YES=0.997 | edge_Y=-0.1% edge_N=+0.1%
+  $72,000: P(above)=88.9% vs YES=0.964 | edge_Y=-7.4% edge_N=+7.4%
+  $74,000: P(above)=44.8% vs YES=0.435 | edge_Y=+1.3% edge_N=-1.3%
+  $76,000: P(above)=7.4% vs YES=0.023 | edge_Y=+5.1% edge_N=-5.1%
+  $78,000: P(above)=0.3% vs YES=0.002 | edge_Y=+0.2% edge_N=-0.2%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[12:41 UTC] BTC: $73,853 | Balance: $55.09
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=99.6% vs YES=0.997 | edge_Y=-0.1% edge_N=+0.1%
+  $72,000: P(above)=89.6% vs YES=0.961 | edge_Y=-6.5% edge_N=+6.5%
+  $74,000: P(above)=45.6% vs YES=0.395 | edge_Y=+6.1% edge_N=-6.1% → YES ✓
+    Not yet: 3.3h > 3.0h window
+  $76,000: P(above)=7.5% vs YES=0.021 | edge_Y=+5.4% edge_N=-5.4%
+  $78,000: P(above)=0.3% vs YES=0.002 | edge_Y=+0.2% edge_N=-0.2%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[12:46 UTC] BTC: $73,832 | Balance: $55.09
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=99.6% vs YES=0.997 | edge_Y=-0.0% edge_N=+0.0%
+  $72,000: P(above)=89.6% vs YES=0.964 | edge_Y=-6.8% edge_N=+6.8%
+  $74,000: P(above)=45.0% vs YES=0.475 | edge_Y=-2.5% edge_N=+2.5%
+  $76,000: P(above)=7.0% vs YES=0.022 | edge_Y=+4.8% edge_N=-4.8%
+  $78,000: P(above)=0.3% vs YES=0.002 | edge_Y=+0.1% edge_N=-0.1%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[12:51 UTC] BTC: $73,751 | Balance: $55.09
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=99.6% vs YES=0.997 | edge_Y=-0.0% edge_N=+0.0%
+  $72,000: P(above)=88.9% vs YES=0.957 | edge_Y=-6.7% edge_N=+6.7%
+  $74,000: P(above)=42.8% vs YES=0.415 | edge_Y=+1.3% edge_N=-1.3%
+  $76,000: P(above)=6.1% vs YES=0.025 | edge_Y=+3.5% edge_N=-3.5%
+  $78,000: P(above)=0.2% vs YES=0.004 | edge_Y=-0.2% edge_N=+0.2%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[12:56 UTC] BTC: $73,726 | Balance: $55.09
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=99.6% vs YES=0.997 | edge_Y=-0.0% edge_N=+0.0%
+  $72,000: P(above)=88.9% vs YES=0.957 | edge_Y=-6.7% edge_N=+6.7%
+  $74,000: P(above)=42.0% vs YES=0.395 | edge_Y=+2.5% edge_N=-2.5%
+  $76,000: P(above)=5.6% vs YES=0.026 | edge_Y=+3.0% edge_N=-3.0%
+  $78,000: P(above)=0.2% vs YES=0.004 | edge_Y=-0.2% edge_N=+0.2%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[13:01 UTC] BTC: $73,740 | Balance: $55.09
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=99.7% vs YES=0.997 | edge_Y=+0.0% edge_N=-0.0%
+  $72,000: P(above)=89.4% vs YES=0.958 | edge_Y=-6.3% edge_N=+6.3%
+  $74,000: P(above)=42.3% vs YES=0.405 | edge_Y=+1.8% edge_N=-1.8%
+  $76,000: P(above)=5.5% vs YES=0.025 | edge_Y=+2.9% edge_N=-2.9%
+  $78,000: P(above)=0.1% vs YES=0.004 | edge_Y=-0.2% edge_N=+0.2%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+
+[13:06 UTC] BTC: $73,743 | Balance: $55.09
+  $66,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $68,000: P(above)=100.0% vs YES=1.000 | edge_Y=+0.0% edge_N=-0.0%
+  $70,000: P(above)=99.7% vs YES=0.997 | edge_Y=+0.1% edge_N=-0.1%
+  $72,000: P(above)=89.8% vs YES=0.957 | edge_Y=-5.9% edge_N=+5.9%
+  $74,000: P(above)=42.3% vs YES=0.380 | edge_Y=+4.3% edge_N=-4.3%
+  $76,000: P(above)=5.2% vs YES=0.025 | edge_Y=+2.7% edge_N=-2.7%
+  $78,000: P(above)=0.1% vs YES=0.002 | edge_Y=-0.0% edge_N=+0.0%
+  $80,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%
+  $82,000: P(above)=0.0% vs YES=0.001 | edge_Y=-0.0% edge_N=+0.0%

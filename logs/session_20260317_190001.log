@@ -1,0 +1,16 @@
+All set. Here's the full picture:
+
+**5 monitors running** covering tonight's events:
+
+| Monitor | Matches | Kickoff | Near-Res Window |
+|---------|---------|---------|-----------------|
+| CL Early | Sporting/Bodo | 17:45 UTC | ~19:15 |
+| Extra | Palermo/Stabia | 18:00 UTC | ~19:15 |
+| Extra | 4x Serie B | 19:00 UTC | ~20:15 |
+| CL Main | Arsenal/Lev, City/RM, Chelsea/PSG | 20:00 UTC | ~21:15 |
+| NBA | 8 games + WBC | 19:30-23:30 UTC | 22:00-02:00 |
+| Extra | Lanus/Newell's | 22:00 UTC | ~23:15 |
+
+**Balance**: $28.36 cash + $15.95 BTC settlement pending
+
+The monitors will automatically buy when a team's price jumps 18%+ from pre-game and is in the 0.78-0.93 range within the last 25 minutes. Each buy uses 20-30% of available balance. All trades are logged to state.json and Telegram-notified.

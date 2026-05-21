@@ -1,0 +1,18 @@
+**Session summary:**
+
+**Current state** (15:00 UTC, March 11):
+- Balance: $81.01 USDC + $25 in 5 open positions
+- Net from two BTC trades: -$6.15 (stopped out at -61.5% when market moved against us)
+
+**Open positions:**
+| Market | Side | Entry | Expires |
+|--------|------|-------|---------|
+| BTC $70-72k | NO | 0.10 | ~1hr (risky — market 90% YES) |
+| Leverkusen | YES | 0.145 | ~2.75hr |
+| Real Madrid | YES | 0.255 | ~5hr |
+| Knicks vs Jazz | NO | 0.115 | Tomorrow |
+| Hornets vs Kings | NO | 0.135 | Tomorrow |
+
+**Fix applied:** Tightened conviction filter from `≤0.90` to `<0.85` in both the market scorer and the edge estimator. This prevents the system from entering positions where the market has strong conviction (85%+) against our direction. The BTC $70-72k NO entry we just made (YES=0.90) would have been blocked by this fix.
+
+The BTC NO position expiring in 1hr is the main concern — it's a long shot. The basketball NO positions have better profiles (home team underdogs at ~11-13%).

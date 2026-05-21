@@ -1,0 +1,94 @@
+[CANDLE] ═══ Crypto Candle Trader — 8 Bonferroni Survivors ═══
+[CANDLE] UTC now: 2026-03-21 07:02:02.583085+00:00
+[CANDLE] Signals: 8 across BTC/ETH/SOL/XRP/BNB (1H+4H)
+[CANDLE] Order size: 5.0 shares per trade
+[CANDLE] Balance: $45.32
+[CANDLE] Next: 12:00 UTC — SOL 4H DOWN.  Monitor in 268 min.
+
+[CANDLE] ── 2026-03-21 12:00 UTC batch (1 signals) ──
+[SOL] Looking up: sol-updown-4h-1774094400
+[SOL] === Solana Up or Down - March 21, 8:00AM-12:00PM ET ===
+[SOL] Side=DOWN  Edge=56.0%  MaxPrice=0.55
+[SOL] BUY 5sh @ 0.50  oid=0x5caf07a6e4d765be753d4a8559cee04d45f431becc782b7e966026d246448802
+[SOL] Filled at 0.50!
+[TRADE-SOL] 2026-03-21 12:00:00+00:00 4H DOWN → FILLED price=0.5
+[CANDLE] Next: 17:00 UTC — BTC 1H UP.  Monitor in 270 min.
+
+[CANDLE] ── 2026-03-21 17:00 UTC batch (1 signals) ──
+[BTC] Looking up: bitcoin-up-or-down-march-21-2026-1pm-et
+[BTC] === Bitcoin Up or Down - March 21, 1PM ET ===
+[BTC] Side=UP  Edge=56.4%  MaxPrice=0.55
+[BTC] BUY 5sh @ 0.50  oid=0xfdab0b6a95fbc7e0a05fcbbfa4e0db29b5a999da86912caebf1fe1260d7d974e
+[BTC] Cancelled 0xfdab0b6a95fbc7e0a05fcbbfa4e0db29b5a999da86912caebf1fe1260d7d974e
+[BTC] BUY 5sh @ 0.51  oid=0xc14f3b4e94c2450f90041ca686b6b40fae2c962a38c45f46fad5fd3553cc2683
+[BTC] Filled at 0.51!
+[TRADE-BTC] 2026-03-21 17:00:00+00:00 1H UP → FILLED price=0.51
+[CANDLE] Next: 20:00 UTC — XRP 4H DOWN.  Monitor in 168 min.
+
+[CANDLE] ── 2026-03-21 20:00 UTC batch (1 signals) ──
+[XRP] Looking up: xrp-updown-4h-1774123200
+[XRP] === XRP Up or Down - March 21, 4:00PM-8:00PM ET ===
+[XRP] Side=DOWN  Edge=56.0%  MaxPrice=0.55
+[XRP] BUY 5sh @ 0.50  oid=0x1e1eec708c07efddc70d35ac2a94af7e7305dbd38564d73276f4b3fe32ac23a6
+[XRP] Orderbook error: PolyApiException[status_code=None, error_message=Request exception!]
+[XRP] Cancelled 0x1e1eec708c07efddc70d35ac2a94af7e7305dbd38564d73276f4b3fe32ac23a6
+[XRP] BUY 5sh @ 0.51  oid=0x20490ea9c304463fbb5cf7b8a3b5284be11f1936d68f0519d7d741ceaa46ed99
+[XRP] Filled at 0.51!
+[TRADE-XRP] 2026-03-21 20:00:00+00:00 4H DOWN → FILLED price=0.51
+[CANDLE] Next: 21:00 UTC — BNB 1H UP.  Monitor in 22 min.
+
+[CANDLE] ── 2026-03-21 21:00 UTC batch (1 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-21-2026-5pm-et
+[BNB] === BNB Up or Down - March 21, 5PM ET ===
+[BNB] Side=UP  Edge=56.8%  MaxPrice=0.55
+[BNB] BUY 5sh @ 0.51  oid=0x81a85a7b9aff3253c0d1da0da9e40776df882f57a861fffaed410a8ac10eba8e
+[BNB] Cancelled 0x81a85a7b9aff3253c0d1da0da9e40776df882f57a861fffaed410a8ac10eba8e
+[TRADE-BNB] 2026-03-21 21:00:00+00:00 1H UP → NOT_FILLED price=0.51
+[CANDLE] Next: 22:00 UTC — BNB 1H UP.  Monitor in 28 min.
+
+[CANDLE] ── 2026-03-21 22:00 UTC batch (1 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-21-2026-6pm-et
+[BNB] === BNB Up or Down - March 21, 6PM ET ===
+[BNB] Side=UP  Edge=56.0%  MaxPrice=0.55
+[BNB] BUY 5sh @ 0.47  oid=0x42537a12c9d14e00b5d439b29f7cf4fdfa9418a81f0dd05160febe451c77ef5d
+[BNB] Cancelled 0x42537a12c9d14e00b5d439b29f7cf4fdfa9418a81f0dd05160febe451c77ef5d
+[BNB] BUY 5sh @ 0.50  oid=0x56489fb8f57c4ce2d595acd333a3313c52b2af4e5676941f6aa61d349e6f4593
+[BNB] Cancelled 0x56489fb8f57c4ce2d595acd333a3313c52b2af4e5676941f6aa61d349e6f4593
+[TRADE-BNB] 2026-03-21 22:00:00+00:00 1H UP → NOT_FILLED price=0.5
+[CANDLE] Next: 23:00 UTC — XRP 1H DOWN, ETH 1H DOWN, SOL 1H DOWN.  Monitor in 28 min.
+
+[CANDLE] ── 2026-03-21 23:00 UTC batch (3 signals) ──
+[SOL] Looking up: solana-up-or-down-march-21-2026-7pm-et[XRP] Looking up: xrp-up-or-down-march-21-2026-7pm-et
+
+[ETH] Looking up: ethereum-up-or-down-march-21-2026-7pm-et
+[XRP] === XRP Up or Down - March 21, 7PM ET ===
+[XRP] Side=DOWN  Edge=57.2%  MaxPrice=0.56
+[SOL] === Solana Up or Down - March 21, 7PM ET ===
+[SOL] Side=DOWN  Edge=55.8%  MaxPrice=0.54
+[ETH] === Ethereum Up or Down - March 21, 7PM ET ===
+[ETH] Side=DOWN  Edge=56.5%  MaxPrice=0.55
+[SOL] BUY 5sh @ 0.48  oid=0xbbb07bff2f22a97321ca1677519153c13fa1567b97ab320a02034ae7986fb111
+[XRP] BUY 5sh @ 0.50  oid=0x66f6acaf325a39abe108f0a07eadbf093655770b2d0bb462979d5c75fb4da430
+[ETH] BUY 5sh @ 0.49  oid=0x6c2bc8543111dd3930be1af698adf0fd40729c4c3f69bfd3395843f973b1825c
+[ETH] Orderbook error: PolyApiException[status_code=None, error_message=Request exception!]
+[XRP] Orderbook error: PolyApiException[status_code=None, error_message=Request exception!]
+[ETH] Orderbook error: PolyApiException[status_code=None, error_message=Request exception!]
+[XRP] Orderbook error: PolyApiException[status_code=None, error_message=Request exception!]
+[ETH] Filled at 0.49!
+[TRADE-ETH] 2026-03-21 23:00:00+00:00 1H DOWN → FILLED price=0.49
+[SOL] Filled at 0.48!
+[TRADE-SOL] 2026-03-21 23:00:00+00:00 1H DOWN → FILLED price=0.48
+[XRP] Filled at 0.50!
+[TRADE-XRP] 2026-03-21 23:00:00+00:00 1H DOWN → FILLED price=0.5
+[CANDLE] Next: 12:00 UTC — SOL 4H DOWN.  Monitor in 750 min.
+
+[CANDLE] ── 2026-03-22 12:00 UTC batch (1 signals) ──
+[SOL] Looking up: sol-updown-4h-1774180800
+[SOL] === Solana Up or Down - March 22, 8:00AM-12:00PM ET ===
+[SOL] Side=DOWN  Edge=56.0%  MaxPrice=0.55
+[SOL] BUY 5sh @ 0.48  oid=0x59b3f21aa45598717b3194e75ef87b774a741d94715853057e6c07ab4a7768a2
+[SOL] Filled at 0.48!
+[TRADE-SOL] 2026-03-22 12:00:00+00:00 4H DOWN → FILLED price=0.48
+[CANDLE] Next: 17:00 UTC — BTC 1H UP.  Monitor in 270 min.
+
+[CANDLE] Signal 15, shutting down...

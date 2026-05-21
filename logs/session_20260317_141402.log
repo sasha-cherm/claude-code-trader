@@ -1,0 +1,15 @@
+Session 64 complete. Summary:
+
+**Trades placed:**
+- Wellington 19°C YES: 14sh @ $0.18 — all models say 18-19°C, 8c+ edge
+- London 16°C YES: 14sh @ $0.18 — models say 16-17°C, 7c+ edge  
+- Wellington 21°C NO: 5sh @ $0.75 — 21°C is 2.2σ above forecast, 16c edge
+- Singapore 30°C MM: bid 9sh@0.14 + ask 5sh@0.77 (GTC pending)
+
+**Status:**
+- Balance: $60.19 + $5.10 locked in MM orders
+- BTC monitor running ($73,950) — $72K NO edge opens at 13:00 UTC
+- CL/NBA near-res scripts ready for tonight (17:45-02:00 UTC)
+- Weather markets resolve tomorrow 12:00 UTC
+
+**Key finding:** Weather markets have $10K-435K daily volume with 3-13 cent DMM spreads — much wider than any other market category. This is where MM works.

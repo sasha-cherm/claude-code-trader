@@ -1,0 +1,729 @@
+=== Euroleague + CS2 Mar 24 Near-Res Monitor ===
+Started at 2026-03-24 13:07:21 UTC
+Monitoring 16 tokens (8 games)
+Params: MIN_PRICE=0.85, JUMP=0.2, SPREAD=0.04, MAX_MINS=20
+Balance: $56.76
+
+Snapshotting pre-game prices...
+  Pre-game Maccabi: 0.410
+  Pre-game Fenerbahce: 0.580
+  Pre-game Monaco: 0.550
+  Pre-game Olimpia Milano: 0.430
+  Pre-game Zalgiris: 0.730
+  Pre-game Bayern: 0.260
+  Pre-game BC Dubai: 0.430
+  Pre-game Panathinaikos: 0.560
+  Pre-game Barcelona: 0.730
+  Pre-game Efes: 0.250
+  Pre-game Valencia: 0.470
+  Pre-game Olympiacos: 0.520
+  Pre-game Real Madrid: 0.680
+  Pre-game Hapoel: 0.310
+  Pre-game Inner Circle: 0.470
+  Pre-game OG: 0.520
+
+--- Check #0 at 13:07:25 UTC ---
+  Balance: $56.76
+
+--- Check #1 at 13:08:41 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.390 sell=0.400 spread=-0.010 jump=-0.080 mins=316 
+  OG             buy=0.600 sell=0.610 spread=-0.010 jump=+0.080 mins=316 
+
+--- Check #2 at 13:09:57 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.360 sell=0.370 spread=-0.010 jump=-0.110 mins=315 
+  OG             buy=0.630 sell=0.640 spread=-0.010 jump=+0.110 mins=315 
+
+--- Check #3 at 13:11:13 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.320 sell=0.330 spread=-0.010 jump=-0.150 mins=314 
+  OG             buy=0.670 sell=0.680 spread=-0.010 jump=+0.150 mins=314 
+
+--- Check #4 at 13:12:28 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.350 sell=0.370 spread=-0.020 jump=-0.120 mins=313 
+  OG             buy=0.630 sell=0.650 spread=-0.020 jump=+0.110 mins=313 
+
+--- Check #5 at 13:13:43 UTC ---
+  Balance: $56.76
+
+--- Check #6 at 13:14:58 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.310 sell=0.320 spread=-0.010 jump=-0.160 mins=310 
+  OG             buy=0.680 sell=0.700 spread=-0.020 jump=+0.160 mins=310 
+
+--- Check #7 at 13:16:14 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.260 sell=0.270 spread=-0.010 jump=-0.210 mins=309 
+  OG             buy=0.730 sell=0.740 spread=-0.010 jump=+0.210 mins=309 
+
+--- Check #8 at 13:17:29 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.700 sell=0.720 spread=-0.020 jump=+0.230 mins=308 
+  OG             buy=0.280 sell=0.300 spread=-0.020 jump=-0.240 mins=308 
+
+--- Check #9 at 13:18:44 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.830 sell=0.840 spread=-0.010 jump=+0.360 mins=306 
+  OG             buy=0.160 sell=0.170 spread=-0.010 jump=-0.360 mins=306 
+
+--- Check #10 at 13:20:00 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.940 sell=0.950 spread=-0.010 jump=+0.470 mins=305 
+  OG             buy=0.050 sell=0.060 spread=-0.010 jump=-0.470 mins=305 
+
+--- Check #11 at 13:21:15 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.990 sell=1.000 spread=-0.010 jump=+0.520 mins=304 
+  OG             buy=0.000 sell=0.010 spread=-0.010 jump=-0.520 mins=304 
+
+--- Check #12 at 13:22:30 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.990 sell=1.000 spread=-0.010 jump=+0.520 mins=302 
+  OG             buy=0.000 sell=0.010 spread=-0.010 jump=-0.520 mins=302 
+
+--- Check #13 at 13:23:45 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=301 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=301 
+
+--- Check #14 at 13:25:00 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=300 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=300 
+
+--- Check #15 at 13:26:15 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=299 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=299 
+
+--- Check #16 at 13:27:31 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=297 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=297 
+
+--- Check #17 at 13:28:46 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=296 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=296 
+
+--- Check #18 at 13:30:01 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=295 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=295 
+
+--- Check #19 at 13:31:16 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=294 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=294 
+
+--- Check #20 at 13:32:31 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=292 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=292 
+
+--- Check #21 at 13:33:47 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=291 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=291 
+
+--- Check #22 at 13:35:02 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=290 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=290 
+
+--- Check #23 at 13:36:17 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=289 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=289 
+
+--- Check #24 at 13:37:33 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=287 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=287 
+
+--- Check #25 at 13:38:48 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=286 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=286 
+
+--- Check #26 at 13:40:03 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=285 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=285 
+
+--- Check #27 at 13:41:18 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=284 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=284 
+
+--- Check #28 at 13:42:33 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=282 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=282 
+
+--- Check #29 at 13:43:48 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=281 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=281 
+
+--- Check #30 at 13:45:03 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=280 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=280 
+
+--- Check #31 at 13:46:18 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=279 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=279 
+
+--- Check #32 at 13:47:32 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=277 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=277 
+
+--- Check #33 at 13:48:48 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=276 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=276 
+
+--- Check #34 at 13:50:03 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=275 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=275 
+
+--- Check #35 at 13:51:19 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=274 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=274 
+
+--- Check #36 at 13:52:34 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=272 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=272 
+
+--- Check #37 at 13:53:49 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=271 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=271 
+
+--- Check #38 at 13:55:04 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=270 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=270 
+
+--- Check #39 at 13:56:19 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=269 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=269 
+
+--- Check #40 at 13:57:34 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=267 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=267 
+
+--- Check #41 at 13:58:50 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=266 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=266 
+
+--- Check #42 at 14:00:05 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=265 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=265 
+
+--- Check #43 at 14:01:20 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=264 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=264 
+
+--- Check #44 at 14:02:36 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=262 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=262 
+
+--- Check #45 at 14:03:51 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=261 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=261 
+
+--- Check #46 at 14:05:06 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=260 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=260 
+
+--- Check #47 at 14:06:21 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=259 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=259 
+
+--- Check #48 at 14:07:36 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=257 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=257 
+
+--- Check #49 at 14:08:51 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=256 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=256 
+
+--- Check #50 at 14:10:07 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=255 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=255 
+
+--- Check #51 at 14:11:22 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=254 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=254 
+
+--- Check #52 at 14:12:37 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=252 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=252 
+
+--- Check #53 at 14:13:52 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=251 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=251 
+
+--- Check #54 at 14:15:07 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=250 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=250 
+
+--- Check #55 at 14:16:22 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=249 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=249 
+
+--- Check #56 at 14:17:38 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=247 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=247 
+
+--- Check #57 at 14:18:53 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=246 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=246 
+
+--- Check #58 at 14:20:08 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=245 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=245 
+
+--- Check #59 at 14:21:22 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=244 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=244 
+
+--- Check #60 at 14:22:38 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=242 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=242 
+
+--- Check #61 at 14:23:53 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=241 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=241 
+
+--- Check #62 at 14:25:08 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=240 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=240 
+
+--- Check #63 at 14:26:22 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=239 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=239 
+
+--- Check #64 at 14:27:37 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=237 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=237 
+
+--- Check #65 at 14:28:52 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=236 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=236 
+
+--- Check #66 at 14:30:07 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=235 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=235 
+
+--- Check #67 at 14:31:22 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=234 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=234 
+
+--- Check #68 at 14:32:38 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=232 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=232 
+
+--- Check #69 at 14:33:52 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=231 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=231 
+
+--- Check #70 at 14:35:07 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=230 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=230 
+
+--- Check #71 at 14:36:22 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=229 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=229 
+
+--- Check #72 at 14:37:37 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=227 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=227 
+
+--- Check #73 at 14:38:52 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=226 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=226 
+
+--- Check #74 at 14:40:07 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=225 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=225 
+
+--- Check #75 at 14:41:22 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=224 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=224 
+
+--- Check #76 at 14:42:38 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=222 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=222 
+
+--- Check #77 at 14:43:53 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=221 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=221 
+
+--- Check #78 at 14:45:08 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=220 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=220 
+
+--- Check #79 at 14:46:24 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=219 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=219 
+
+--- Check #80 at 14:47:40 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=217 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=217 
+
+--- Check #81 at 14:48:56 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=216 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=216 
+
+--- Check #82 at 14:50:14 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=215 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=215 
+
+--- Check #83 at 14:51:30 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=213 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=213 
+
+--- Check #84 at 14:52:47 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=212 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=212 
+
+--- Check #85 at 14:54:03 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=211 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=211 
+
+--- Check #86 at 14:55:20 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=210 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=210 
+
+--- Check #87 at 14:56:37 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=208 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=208 
+
+--- Check #88 at 14:57:54 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=207 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=207 
+
+--- Check #89 at 14:59:14 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=206 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=206 
+
+--- Check #90 at 15:00:30 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=204 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=204 
+
+--- Check #91 at 15:01:45 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=203 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=203 
+
+--- Check #92 at 15:03:00 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=202 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=202 
+
+--- Check #93 at 15:04:15 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=201 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=201 
+
+--- Check #94 at 15:05:30 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=199 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=199 
+
+--- Check #95 at 15:06:45 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=198 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=198 
+
+--- Check #96 at 15:08:00 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=197 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=197 
+
+--- Check #97 at 15:09:15 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=196 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=196 
+
+--- Check #98 at 15:10:30 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.992 sell=1.000 spread=-0.008 jump=+0.522 mins=194 
+  OG             buy=0.000 sell=0.008 spread=-0.008 jump=-0.520 mins=194 
+
+--- Check #99 at 15:11:45 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.992 sell=1.000 spread=-0.008 jump=+0.522 mins=193 
+  OG             buy=0.000 sell=0.008 spread=-0.008 jump=-0.520 mins=193 
+
+--- Check #100 at 15:13:00 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.992 sell=1.000 spread=-0.008 jump=+0.522 mins=192 
+  OG             buy=0.000 sell=0.008 spread=-0.008 jump=-0.520 mins=192 
+
+--- Check #101 at 15:14:15 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=191 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=191 
+
+--- Check #102 at 15:15:30 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=189 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=189 
+
+--- Check #103 at 15:16:45 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=188 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=188 
+
+--- Check #104 at 15:17:59 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=187 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=187 
+
+--- Check #105 at 15:19:15 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=186 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=186 
+
+--- Check #106 at 15:20:29 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=185 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=185 
+
+--- Check #107 at 15:21:45 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=183 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=183 
+
+--- Check #108 at 15:23:00 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=182 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=182 
+
+--- Check #109 at 15:24:15 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=181 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=181 
+
+--- Check #110 at 15:25:31 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=179 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=179 
+
+--- Check #111 at 15:26:46 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=178 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=178 
+
+--- Check #112 at 15:28:01 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=177 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=177 
+
+--- Check #113 at 15:29:16 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=176 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=176 
+
+--- Check #114 at 15:30:31 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=174 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=174 
+
+--- Check #115 at 15:31:46 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=173 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=173 
+
+--- Check #116 at 15:33:01 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=172 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=172 
+
+--- Check #117 at 15:34:16 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=171 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=171 
+
+--- Check #118 at 15:35:32 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=169 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=169 
+
+--- Check #119 at 15:36:46 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=168 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=168 
+
+--- Check #120 at 15:38:01 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=167 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=167 
+
+--- Check #121 at 15:39:16 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=166 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=166 
+
+--- Check #122 at 15:40:31 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=164 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=164 
+
+--- Check #123 at 15:41:47 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=163 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=163 
+
+--- Check #124 at 15:43:02 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=162 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=162 
+
+--- Check #125 at 15:44:18 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=161 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=161 
+
+--- Check #126 at 15:45:33 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=159 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=159 
+
+--- Check #127 at 15:46:48 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=158 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=158 
+
+--- Check #128 at 15:48:04 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=157 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=157 
+
+--- Check #129 at 15:49:20 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=156 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=156 
+
+--- Check #130 at 15:50:36 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=154 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=154 
+
+--- Check #131 at 15:51:51 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=153 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=153 
+
+--- Check #132 at 15:53:07 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=152 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=152 
+
+--- Check #133 at 15:54:22 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=151 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=151 
+
+--- Check #134 at 15:55:38 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=149 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=149 
+
+--- Check #135 at 15:56:52 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=148 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=148 
+
+--- Check #136 at 15:58:10 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=147 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=147 
+
+--- Check #137 at 15:59:25 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=146 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=146 
+
+--- Check #138 at 16:00:41 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=144 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=144 
+
+--- Check #139 at 16:01:57 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=143 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=143 
+
+--- Check #140 at 16:03:13 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=142 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=142 
+
+--- Check #141 at 16:04:28 UTC ---
+  Balance: $56.76
+  Inner Circle   buy=0.999 sell=1.000 spread=-0.001 jump=+0.529 mins=141 
+  OG             buy=0.000 sell=0.001 spread=-0.001 jump=-0.520 mins=141 

@@ -1,0 +1,31 @@
+Everything is in order. Here's the current status summary:
+
+---
+
+## Session Status - March 11, 2026 02:09 UTC
+
+**Balance**: $0 — funds arrive at ~13:00 UTC today. First trade session at 14:00 UTC.
+
+**Bugs fixed this session:**
+
+1. **Order book parsing** — `OrderBookSummary` objects weren't being read (code expected a dict). All bids/asks were returning 0, causing both broken edge detection and broken TP/SL management.
+
+2. **Bid/ask sort order** — The CLOB returns bids in ascending order; fixed sorting so best bid/ask are always first.
+
+3. **Edge threshold mismatch** — `estimate_edge` only recognized prices ≤0.18 but the market scanner sent opportunities up to 0.28. Fixed to 0.28 (with 0.35 for <3-day markets).
+
+4. **Date parsing** — `days_until_end` was stripping the "Z" from timestamps but keeping it in the format string, causing all dates to fail parsing. Near-resolution scoring now works correctly.
+
+**Position sizing logic (improved):**
+| Market duration | Kelly fraction | Min bet |
+|---|---|---|
+| < 1 day (same-day) | 0.50 | $5 |
+| 1–3 days | 0.35 | $5 |
+| > 3 days | 0.25 | $2 |
+
+**When funds arrive, first bets will target:**
+- Near-resolution sports games (10x payout, same-day resolution)
+- Daily event markets (Elon tweets, BTC price)
+- Longer-dated geopolitical plays (Iran markets) at $2/each
+
+**Cron**: Running every 2 hours (`0 */2 * * *`). Next runs after deposit: 14:00, 16:00, 18:00... UTC.

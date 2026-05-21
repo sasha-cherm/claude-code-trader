@@ -1,0 +1,96 @@
+=== Near-Res Monitor: March 23 ===
+=== NBA (10) + CS2 BLAST (3) + Argentine (2) + Colombian (4) + Sp2 (1) ===
+=== Started at 23:02 UTC ===
+=== 40 tokens (20 games) ===
+Params: MIN_PRICE=0.85, JUMP=0.2, SPREAD=0.04, MAX_MINS=20
+Sizing: MAX_SPEND=$20.0, PCT=0.28, MIN_SPEND=$1.0
+
+Capturing pre-game prices...
+  Pre-game Lakers: 0.540
+  Pre-game Pistons: 0.450
+  Pre-game Pacers: 0.110
+  Pre-game Magic: 0.880
+  Pre-game Thunder: 0.900
+  Pre-game 76ers: 0.090
+  Pre-game Spurs: 0.680
+  Pre-game Heat: 0.310
+  Pre-game Grizzlies: 0.120
+  Pre-game Hawks: 0.870
+  Pre-game Rockets: 0.800
+  Pre-game Bulls: 0.190
+  Pre-game Raptors: 0.880
+  Pre-game Jazz: 0.110
+  Pre-game Warriors: 0.540
+  Pre-game Mavericks: 0.450
+  Pre-game Nets: 0.090
+  Pre-game Trail Blazers: 0.900
+  Pre-game Bucks: 0.160
+  Pre-game Clippers: 0.830
+  Pre-game NAVI: 0.600
+  Pre-game Aurora: 0.390
+  Pre-game Falcons: 0.620
+  Pre-game FURIA: 0.370
+  Pre-game PARIVISION: 0.160
+  Pre-game Vitality: 0.830
+  Pre-game Estudiantes: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+  Pre-game Central Cordoba: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+  Pre-game Huracan: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+  Pre-game Barracas: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+  Pre-game Tolima: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+  Pre-game Boyaca Chico: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+  Pre-game Santa Fe: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+  Pre-game Ind Medellin: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+  Pre-game Jaguares: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+  Pre-game Aguilas: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+  Pre-game Junior FC: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+  Pre-game Bucaramanga: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+  Pre-game Castellon: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+  Pre-game Leonesa: ERROR PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]
+
+--- Check #1 at 23:02:06 UTC ---
+  Balance: $0.54
+  Magic          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=1588 
+  Thunder        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1588 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=1618 
+  Raptors        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=1708 
+  Trail Blazers  buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1768 
+
+--- Check #2 at 23:03:15 UTC ---
+  Balance: $0.54
+  Magic          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=1587 
+  Thunder        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1587 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=1617 
+  Raptors        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=1707 
+  Trail Blazers  buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1767 
+
+--- Check #3 at 23:04:25 UTC ---
+  Balance: $0.54
+  Magic          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=1586 
+  Thunder        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1586 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=1616 
+  Raptors        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=1706 
+  Trail Blazers  buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1766 
+
+--- Check #4 at 23:05:34 UTC ---
+  Balance: $0.54
+  Magic          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=1584 
+  Thunder        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1584 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=1614 
+  Raptors        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=1704 
+  Trail Blazers  buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1764 
+
+--- Check #5 at 23:06:43 UTC ---
+  Balance: $0.54
+  Magic          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=1583 
+  Thunder        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1583 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=1613 
+  Raptors        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=1703 
+  Trail Blazers  buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1763 
+
+--- Check #6 at 23:07:52 UTC ---
+  Balance: $0.54
+  Magic          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=1582 
+  Thunder        buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1582 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=+0.000 mins=1612 
+  Raptors        buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=1702 
+  Trail Blazers  buy=0.900 sell=0.910 spread=-0.010 jump=+0.000 mins=1762 

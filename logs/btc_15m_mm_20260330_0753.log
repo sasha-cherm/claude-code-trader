@@ -1,0 +1,191 @@
+[MM] === BTC 15-min Market Maker ===
+[MM] UTC: 2026-03-30 07:53:14.398396+00:00
+[MM] size=5.0  cancel=5s  poll=1.0s
+[MM] Balance: $0.96
+[MM] Balance $0.96 < $5.50, waiting for settlements...
+[MM] discovery btc-updown-15m-1774857600: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] next: Bitcoin Up or Down - March 30, 4:15AM-4:30AM ET in 1263s, sleeping 363s
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 4:15AM-4:30AM ET
+[MM] start=2026-03-30T08:15:00+00:00  deadline=2026-03-30T08:14:55+00:00
+[MM] up=4352110618492235...  dn=3182013476469627...
+[MM] Available balance: $15.96
+[UP] BUY 5sh @ 0.49  oid=0xbe2d71a18447990262e1db5eafbfe739b07ba32df4dccf65e35b04f710d9e96e
+[DN] BUY 5sh @ 0.50  oid=0x53e37d7afb3202e0e3d4617311d6a1d41d83d966126b31685bb1c69b1baf84fb
+[MM] bb=0.49 ba=0.50 sp=0.01 | UP=0.49 DN=0.5(=0.5) | 892s
+[MM] UP DONE 5.0@0.49
+[DN] cancelled 0x53e37d7afb3202...
+[DN] BUY 5sh @ 0.52  oid=0x9dc9c50e84a94c2f0752f9bcb79ca4543bcf5d3762c3fe09b695e80959adbcb0
+[MM] bb=0.47 ba=0.48 sp=0.01 | UP=DONE DN=0.52(=0.48) | 890s
+[DN] cancelled 0x9dc9c50e84a94c...
+[DN] BUY 5sh @ 0.51  oid=0x571a0392c0dd9486e2e57d3b69470ec7f64e8680cacb3fd909b7721615aa24dc
+[MM] bb=0.47 ba=0.48 sp=0.01 | UP=DONE DN=0.51(=0.49) | 882s
+[MM] bb=0.47 ba=0.48 sp=0.01 | UP=DONE DN=0.51(=0.49) | 880s
+[MM] bb=0.47 ba=0.48 sp=0.01 | UP=DONE DN=0.51(=0.49) | 871s
+[MM] bb=0.47 ba=0.48 sp=0.01 | UP=DONE DN=0.51(=0.49) | 870s
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 862s
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 860s
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 852s
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 850s
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 841s
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 840s
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 831s
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 830s
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 821s
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 811s
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 801s
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 792s
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 791s
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 782s
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 781s
+[MM] book error: PolyApiException[status_code=None, error_message=Request exception!]
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 762s
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 760s
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 752s
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 750s
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 741s
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 740s
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 731s
+[MM] bb=0.46 ba=0.47 sp=0.01 | UP=DONE DN=0.51(=0.49) | 730s
+[MM] book error: PolyApiException[status_code=None, error_message=Request exception!]
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 711s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 701s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 691s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 681s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 672s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 671s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 662s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 661s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 652s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 651s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 642s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 641s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 632s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 630s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 622s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 620s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 612s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 610s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 601s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 600s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 591s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 590s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 581s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 571s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 570s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 561s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 552s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 551s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 541s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 540s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 531s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 521s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 502s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 501s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 492s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 490s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 482s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 480s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 472s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 470s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 461s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 460s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 451s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 441s
+[MM] book error: PolyApiException[status_code=None, error_message=Request exception!]
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 422s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 421s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 412s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 411s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 402s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 400s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 392s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 390s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 382s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 381s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 372s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 370s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 362s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 360s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 351s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 350s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 341s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 340s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 331s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 321s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 311s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 302s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 301s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 292s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 291s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 281s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 272s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 271s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 262s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 260s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 252s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 250s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 242s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 240s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 231s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 230s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 221s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 211s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 201s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 191s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 182s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 181s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 172s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 171s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 162s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 160s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 152s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 150s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 141s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 140s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 131s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 121s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 111s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 110s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 101s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 91s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 81s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 72s
+[MM] bb=0.45 ba=0.46 sp=0.01 | UP=DONE DN=0.51(=0.49) | 71s
+[MM] bb=0.44 ba=0.45 sp=0.01 | UP=DONE DN=0.51(=0.49) | 62s
+[MM] bb=0.44 ba=0.45 sp=0.01 | UP=DONE DN=0.51(=0.49) | 61s
+[MM] bb=0.44 ba=0.45 sp=0.01 | UP=DONE DN=0.51(=0.49) | 52s
+[MM] bb=0.44 ba=0.45 sp=0.01 | UP=DONE DN=0.51(=0.49) | 50s
+[MM] bb=0.44 ba=0.45 sp=0.01 | UP=DONE DN=0.51(=0.49) | 41s
+[MM] bb=0.44 ba=0.45 sp=0.01 | UP=DONE DN=0.51(=0.49) | 40s
+[MM] bb=0.44 ba=0.45 sp=0.01 | UP=DONE DN=0.51(=0.49) | 31s
+[MM] bb=0.44 ba=0.45 sp=0.01 | UP=DONE DN=0.51(=0.49) | 21s
+[MM] bb=0.44 ba=0.45 sp=0.01 | UP=DONE DN=0.51(=0.49) | 11s
+[MM] bb=0.36 ba=0.37 sp=0.01 | UP=DONE DN=0.51(=0.49) | 1s
+[MM] DEADLINE (4.5s to candle)
+[DN] cancelled 0x571a0392c0dd94...
+[MM] ONLY UP filled 5.0@0.49, market-buying Down
+[FLAT-DN] MARKET BUY 5.0sh => {'errorMsg': '', 'orderID': '0x8f633e850c2cb582a089b66f2d6999f9211b31d6d0b74ed6fe2b211f6a2654d3', 'takingAmount': '7.734375', 'makingAmount': '4.95', 'status': 'matched', 'transactionsHashes': ['0xf4c5f9f8cab7342eebaedfe260b46a3da74d05728f71cb27e6e9cb15c016d5ad'], 'success': True}
+[MM] next: Bitcoin Up or Down - March 30, 4:30AM-4:45AM ET in 900s, sleeping 0s
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 4:30AM-4:45AM ET
+[MM] start=2026-03-30T08:30:00+00:00  deadline=2026-03-30T08:29:55+00:00
+[MM] up=9548759585207193...  dn=7045445992183918...
+[MM] Available balance: $8.56
+[UP] BUY 5sh @ 0.48  oid=0xf9fb0cd5d717433ca6cbc4776e0884a1aaa6388f7de3a4ec3bf94df325bd39aa
+[DN] BUY 5sh @ 0.50  oid=0x720da5db94c842709242f80e5cdbdb22628f876fda1477702ca125c5ffe15e47
+[MM] UP DONE 5.0@0.48
+[DN] cancelled 0x720da5db94c842...
+[DN] BUY 5sh @ 0.52  oid=0x4c135191f99e98b90ac6afeff12c5cbe23634591a0d09d684bc22bdb3a143ec4
+[MM] bb=0.47 ba=0.48 sp=0.01 | UP=DONE DN=0.52(=0.48) | 892s
+[MM] bb=0.47 ba=0.48 sp=0.01 | UP=DONE DN=0.52(=0.48) | 890s
+[MM] bb=0.47 ba=0.48 sp=0.01 | UP=DONE DN=0.52(=0.48) | 881s
+[MM] bb=0.47 ba=0.48 sp=0.01 | UP=DONE DN=0.52(=0.48) | 871s
+[MM] DN DONE 5.0@0.52
+[MM] BOTH DONE EARLY  profit=$0.0000
+[MM] next: Bitcoin Up or Down - March 30, 4:45AM-5:00AM ET in 1770s, sleeping 870s
+
+[MM] Signal 15, stopping...
+[MM] shutdown

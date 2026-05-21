@@ -1,0 +1,11 @@
+Session 99 complete. Summary:
+
+**Portfolio**: ~$58 effective ($27.11 cash + $31 pending from Preston/Utah State wins)
+
+**Running monitors**:
+- `near_res_mar20.py` — watching 6 NBA games (just started, near-res at 01:00-02:30 UTC)
+- `btc_hourly_trader.py` — 3 candle fills at 23:00 (XRP/SOL/ETH DOWN), next candle 12:00 UTC
+
+**Record**: 22W/2L (91.7%)
+
+**March 21** is the biggest day yet — `near_res_mar21.py` ready with 110 tokens covering EPL, Bundesliga, La Liga, Championship, NBA, MLS, and more. NCAAB Second Round markets need to be added once created.

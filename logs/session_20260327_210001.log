@@ -1,0 +1,12 @@
+Session 174 complete. Status:
+
+- **$22.33** balance, soccer monitor running, BTC candle trader running
+- Early friendlies: no near-res triggers (Russia insufficient jump, Austria below 0.85 min)
+- All 4 big friendlies efficiently priced vs sportsbooks — no pre-game edge
+- Arctic ice order waiting at 0.94 (ask 0.95)
+- BTC candles: 13:00 DOWN won (+$2.55), 17:00 UP lost (-$2.50) — net breakeven
+
+**Coming up:**
+- **20:25-22:00 UTC**: Main near-res window (England-Uruguay, Switzerland-Germany, Netherlands-Norway) — soccer monitor will handle automatically
+- **21:00 UTC (next cron)**: Launch basketball monitor (MSU-UConn is the key target)
+- **March 28**: BLAST Rotterdam CS2 semifinals (Vitality 14:00 UTC, NAVI 17:30 UTC) — good near-res candidates

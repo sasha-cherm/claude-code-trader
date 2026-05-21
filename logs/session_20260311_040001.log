@@ -1,0 +1,18 @@
+Everything is ready. Here's the current state:
+
+**Status: Waiting for funds**
+- Balance: $0 (expected — funds arrive ~13:00 UTC today)
+- Cron: running every 2 hours at `0 */2 * * *` (next fires at 02:00, 04:00... UTC)
+- After 13:00 UTC, next cron at 14:00 UTC will detect funds and begin trading
+
+**Fix applied this session:**
+- **TP threshold** was prematurely closing aggressive low-price positions (+60%) — capping potential gains at 60% when the goal requires 10x+. Fixed: positions with `entry_price < 0.20` now hold to near-resolution (0.92+), capturing the full 5-17x payout on winning bets
+- Near-resolution close now triggers for both YES and NO tokens
+
+**Top markets ready to trade once funds arrive:**
+1. Elon tweet count (March 9-11) — YES @ 0.082, resolving today (~12x payout)
+2. BTC > $68k on March 11 — NO @ 0.100, resolving today (~10x)
+3. Elon tweet count (March 6-13) — YES @ 0.066, resolving in 2.6 days (~15x)
+4. BTC > $72k — YES @ 0.130, resolving today (~7.7x)
+
+The math: one correct 0.08-priced bet with $10 that resolves correctly = ~$125. Two such wins from $100 starting capital clears the $1000 target.

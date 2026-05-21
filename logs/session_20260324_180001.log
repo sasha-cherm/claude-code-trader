@@ -1,0 +1,13 @@
+All set. Here's the summary:
+
+**Current session (138)** — 15:00 UTC, March 24:
+- **3 monitors running**: Euroleague (712333), NBA (718291), BTC candle (601907)
+- **Denmark resolves tonight** (19:00-21:00 UTC) — if both positions win, portfolio jumps to ~$130
+- **Target revised** by user: $200-300 by April 10 (need ~2x from $130 in 17 days)
+- **March 25 script built**: `near_res_mar25.py` — 30 tokens covering 11 NBA + 4 NCAAB games
+
+**Next near-res windows today**:
+- 17:00-17:30: Maccabi-Fenerbahce (Euroleague)
+- 17:30-18:30: Monaco, Zalgiris, BC Dubai (Euroleague)
+- 19:30-20:00: Barcelona, Valencia, Real Madrid (Euroleague)
+- 22:30-03:00: 4 NBA games

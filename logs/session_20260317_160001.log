@@ -1,0 +1,10 @@
+CL odds research complete and confirms what we already concluded: **no pre-game edge >5% on any CL match tonight**. All markets are efficiently priced vs bookmakers after vig adjustment.
+
+The plan is set:
+- **BTC $72K NO**: Running, resolves 16:00 UTC (2.5h)
+- **Continuous MM**: Running, managing 2 weather orders
+- **CL early**: Auto-launches 15:00 UTC (Sporting/Bodo)
+- **CL main + NBA**: Auto-launches 18:00 UTC (Arsenal/LEV, City/RM, 8 NBA + WBC)
+- **Near-res windows**: 21:00-01:00 UTC
+
+Session 65 complete. All code pushed to git, Telegram notified.

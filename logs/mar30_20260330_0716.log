@@ -1,0 +1,256 @@
+=== Mar 30 Near-Res Monitor (Soccer + NBA) ===
+Started at 2026-03-30 07:16:08 UTC
+Monitoring 22 tokens
+Params: MIN_PRICE=0.85, JUMP=0.2, SPREAD=0.04, MAX_MINS=20
+Using LIMIT ORDERS (maker, no commission)
+Balance: $15.86
+
+Snapshotting pre-game prices...
+  Pre-game Saudi Arabia: 0.240
+  Pre-game Serbia: 0.600
+  Pre-game KSA-SER Draw: 0.110
+  Pre-game Cyprus: 0.590
+  Pre-game Moldova: 0.160
+  Pre-game CYP-MOL Draw: 0.240
+  Pre-game Egypt: 0.047
+  Pre-game Spain: 0.840
+  Pre-game EGY-ESP Draw: 0.100
+  Pre-game Germany: 0.850
+  Pre-game Ghana: 0.050
+  Pre-game GER-GHA Draw: 0.090
+  Pre-game 76ers: 0.570
+  Pre-game Heat: 0.420
+  Pre-game Celtics: 0.490
+  Pre-game Hawks: 0.500
+  Pre-game Mavericks: 0.350
+  Pre-game Bucks: 0.640
+  Pre-game AL (LoL): 0.670
+  Pre-game TES: 0.320
+  Pre-game NAVI (LoL): 0.810
+  Pre-game SK Gaming: 0.180
+
+--- Check #0 at 07:16:11 UTC ---
+  Balance: $15.86
+  Germany        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=794 
+
+--- Check #1 at 07:17:32 UTC ---
+  Balance: $15.86
+  Germany        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=792 
+
+--- Check #2 at 07:18:54 UTC ---
+  Balance: $15.86
+  Germany        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=791 
+
+--- Check #3 at 07:20:15 UTC ---
+  Balance: $15.86
+  Germany        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=790 
+
+--- Check #4 at 07:21:37 UTC ---
+  Balance: $15.86
+  Germany        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=788 
+
+--- Check #5 at 07:22:59 UTC ---
+  Balance: $15.86
+  Germany        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=787 
+
+--- Check #6 at 07:24:27 UTC ---
+  Balance: $15.86
+  Germany        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=786 
+
+--- Check #7 at 07:25:49 UTC ---
+  Balance: $15.86
+  Germany        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=784 
+
+--- Check #8 at 07:27:11 UTC ---
+  Balance: $15.86
+
+--- Check #9 at 07:28:32 UTC ---
+  Balance: $15.86
+
+--- Check #10 at 07:29:54 UTC ---
+  Balance: $15.86
+
+--- Check #11 at 07:31:15 UTC ---
+  Balance: $15.86
+
+--- Check #12 at 07:32:36 UTC ---
+  Balance: $15.86
+
+--- Check #13 at 07:33:58 UTC ---
+  Balance: $15.86
+
+--- Check #14 at 07:35:19 UTC ---
+  Balance: $15.86
+[BALANCE] Error: PolyApiException[status_code=None, error_message=Request exception!]
+
+--- Check #15 at 07:36:41 UTC ---
+  Balance: $0.00
+
+--- Check #16 at 07:38:12 UTC ---
+  Balance: $15.86
+
+--- Check #17 at 07:39:33 UTC ---
+  Balance: $15.86
+
+--- Check #18 at 07:40:54 UTC ---
+  Balance: $13.41
+
+--- Check #19 at 07:42:15 UTC ---
+  Balance: $13.41
+
+--- Check #20 at 07:43:37 UTC ---
+  Balance: $5.91
+
+--- Check #21 at 07:45:03 UTC ---
+  Balance: $5.91
+
+--- Check #22 at 07:46:24 UTC ---
+  Balance: $5.91
+
+--- Check #23 at 07:47:45 UTC ---
+  Balance: $5.91
+
+--- Check #24 at 07:49:07 UTC ---
+  Balance: $3.46
+
+--- Check #25 at 07:50:28 UTC ---
+  Balance: $3.46
+
+--- Check #26 at 07:51:50 UTC ---
+  Balance: $0.96
+
+--- Check #27 at 07:53:11 UTC ---
+  Balance: $0.96
+
+--- Check #28 at 07:54:32 UTC ---
+  Balance: $0.96
+
+--- Check #29 at 07:55:54 UTC ---
+  Balance: $0.96
+
+--- Check #30 at 07:57:15 UTC ---
+  Balance: $0.96
+
+--- Check #31 at 07:58:36 UTC ---
+  Balance: $15.96
+
+--- Check #32 at 07:59:58 UTC ---
+  Balance: $15.96
+  Saudi Arabia   buy=0.150 sell=0.270 spread=-0.120 jump=-0.090 mins=465 
+
+--- Check #33 at 08:01:19 UTC ---
+  Balance: $13.51
+  Saudi Arabia   buy=0.150 sell=0.270 spread=-0.120 jump=-0.090 mins=464 
+
+--- Check #34 at 08:02:41 UTC ---
+  Balance: $13.51
+  Saudi Arabia   buy=0.170 sell=0.250 spread=-0.080 jump=-0.070 mins=462 
+
+--- Check #35 at 08:04:02 UTC ---
+  Balance: $13.51
+  Saudi Arabia   buy=0.170 sell=0.250 spread=-0.080 jump=-0.070 mins=461 
+
+--- Check #36 at 08:05:23 UTC ---
+  Balance: $13.51
+  Saudi Arabia   buy=0.170 sell=0.250 spread=-0.080 jump=-0.070 mins=460 
+
+--- Check #37 at 08:06:44 UTC ---
+  Balance: $13.51
+  Saudi Arabia   buy=0.170 sell=0.250 spread=-0.080 jump=-0.070 mins=458 
+  Serbia         buy=0.650 sell=0.780 spread=-0.130 jump=+0.050 mins=458 
+
+--- Check #38 at 08:08:05 UTC ---
+  Balance: $13.51
+  Saudi Arabia   buy=0.170 sell=0.250 spread=-0.080 jump=-0.070 mins=457 
+  Serbia         buy=0.650 sell=0.760 spread=-0.110 jump=+0.050 mins=457 
+
+--- Check #39 at 08:09:27 UTC ---
+  Balance: $13.51
+  Saudi Arabia   buy=0.170 sell=0.250 spread=-0.080 jump=-0.070 mins=456 
+  Serbia         buy=0.650 sell=0.760 spread=-0.110 jump=+0.050 mins=456 
+
+--- Check #40 at 08:10:48 UTC ---
+  Balance: $13.51
+  Saudi Arabia   buy=0.180 sell=0.250 spread=-0.070 jump=-0.060 mins=454 
+  Serbia         buy=0.650 sell=0.770 spread=-0.120 jump=+0.050 mins=454 
+
+--- Check #41 at 08:12:10 UTC ---
+  Balance: $13.51
+  Saudi Arabia   buy=0.180 sell=0.250 spread=-0.070 jump=-0.060 mins=453 
+  Serbia         buy=0.650 sell=0.760 spread=-0.110 jump=+0.050 mins=453 
+
+--- Check #42 at 08:13:31 UTC ---
+  Balance: $13.51
+  Saudi Arabia   buy=0.180 sell=0.250 spread=-0.070 jump=-0.060 mins=451 
+  Serbia         buy=0.650 sell=0.760 spread=-0.110 jump=+0.050 mins=451 
+
+--- Check #43 at 08:14:52 UTC ---
+  Balance: $13.51
+  Serbia         buy=0.670 sell=0.750 spread=-0.080 jump=+0.070 mins=450 
+
+--- Check #44 at 08:16:14 UTC ---
+  Balance: $3.56
+  Serbia         buy=0.650 sell=0.670 spread=-0.020 jump=+0.050 mins=449 
+
+--- Check #45 at 08:17:39 UTC ---
+  Balance: $3.56
+  Saudi Arabia   buy=0.180 sell=0.240 spread=-0.060 jump=-0.060 mins=447 
+  Serbia         buy=0.530 sell=0.570 spread=-0.040 jump=-0.070 mins=447 
+
+--- Check #46 at 08:19:00 UTC ---
+  Balance: $3.56
+  Saudi Arabia   buy=0.180 sell=0.210 spread=-0.030 jump=-0.060 mins=446 
+  Serbia         buy=0.540 sell=0.570 spread=-0.030 jump=-0.060 mins=446 
+  KSA-SER Draw   buy=0.190 sell=0.270 spread=-0.080 jump=+0.080 mins=446 
+
+--- Check #47 at 08:20:22 UTC ---
+  Balance: $3.56
+  Saudi Arabia   buy=0.180 sell=0.250 spread=-0.070 jump=-0.060 mins=445 
+  KSA-SER Draw   buy=0.200 sell=0.270 spread=-0.070 jump=+0.090 mins=445 
+
+--- Check #48 at 08:21:45 UTC ---
+  Balance: $3.56
+  Saudi Arabia   buy=0.180 sell=0.250 spread=-0.070 jump=-0.060 mins=443 
+  KSA-SER Draw   buy=0.230 sell=0.270 spread=-0.040 jump=+0.120 mins=443 
+
+--- Check #49 at 08:23:07 UTC ---
+  Balance: $3.56
+  Saudi Arabia   buy=0.180 sell=0.250 spread=-0.070 jump=-0.060 mins=442 
+  Serbia         buy=0.530 sell=0.570 spread=-0.040 jump=-0.070 mins=442 
+  KSA-SER Draw   buy=0.230 sell=0.260 spread=-0.030 jump=+0.120 mins=442 
+
+--- Check #50 at 08:24:28 UTC ---
+  Balance: $3.56
+  Saudi Arabia   buy=0.180 sell=0.250 spread=-0.070 jump=-0.060 mins=441 
+  Serbia         buy=0.540 sell=0.570 spread=-0.030 jump=-0.060 mins=441 
+  KSA-SER Draw   buy=0.230 sell=0.260 spread=-0.030 jump=+0.120 mins=441 
+
+--- Check #51 at 08:25:49 UTC ---
+  Balance: $3.56
+  Saudi Arabia   buy=0.180 sell=0.250 spread=-0.070 jump=-0.060 mins=439 
+  KSA-SER Draw   buy=0.230 sell=0.250 spread=-0.020 jump=+0.120 mins=439 
+
+--- Check #52 at 08:27:11 UTC ---
+  Balance: $3.56
+  Saudi Arabia   buy=0.180 sell=0.250 spread=-0.070 jump=-0.060 mins=438 
+  KSA-SER Draw   buy=0.230 sell=0.250 spread=-0.020 jump=+0.120 mins=438 
+
+--- Check #53 at 08:28:32 UTC ---
+  Balance: $3.56
+  KSA-SER Draw   buy=0.230 sell=0.250 spread=-0.020 jump=+0.120 mins=436 
+
+--- Check #54 at 08:29:53 UTC ---
+  Balance: $3.56
+  KSA-SER Draw   buy=0.240 sell=0.250 spread=-0.010 jump=+0.130 mins=435 
+
+--- Check #55 at 08:31:15 UTC ---
+  Balance: $3.56
+  KSA-SER Draw   buy=0.240 sell=0.250 spread=-0.010 jump=+0.130 mins=434 
+
+--- Check #56 at 08:32:36 UTC ---
+  Balance: $3.56
+  KSA-SER Draw   buy=0.240 sell=0.250 spread=-0.010 jump=+0.130 mins=432 
+
+--- Check #57 at 08:33:57 UTC ---
+  Balance: $3.56
+  KSA-SER Draw   buy=0.240 sell=0.250 spread=-0.010 jump=+0.130 mins=431 

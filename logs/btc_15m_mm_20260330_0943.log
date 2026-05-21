@@ -1,0 +1,35 @@
+[MM] === BTC 15-min Spread Scalper ===
+[MM] UTC: 2026-03-30 09:43:13.110089+00:00
+[MM] size=5.0  sell_deadline=+3s  poll=1.0s
+[MM] Balance: $17.30
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 5:45AM-6:00AM ET
+[MM] start=2026-03-30T09:45:00+00:00  sell_deadline=+3s
+[MM] token=10619819866382068505...
+[MM] Balance: $17.30
+[BUY] BUY 5sh @ 0.55  oid=0x6e5723cb1cda49f3daa68081c6849918f8928006962d05798310a3efb61a642f
+[MM] bb=0.55 ba=0.56 sp=0.01 | BUY@0.55 | 102s to start
+[MM] bb=0.55 ba=0.56 sp=0.01 | BUY@0.55 | 100s to start
+[MM] bb=0.55 ba=0.56 sp=0.01 | BUY@0.55 | 92s to start
+[MM] bb=0.55 ba=0.56 sp=0.01 | BUY@0.55 | 90s to start
+[MM] BUY FILLED @ 0.55
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 0, order amount: 5000000'}]
+[MM] bb=0.54 ba=0.56 | SELL@0.55 bought@0.55 | 86.7s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 0, order amount: 5000000'}]
+[MM] bb=0.54 ba=0.56 | SELL@0.55 bought@0.55 | 85.5s left
+[SELL] SELL 5sh @ 0.55  oid=0x9a4d56648ae23ab00baab85e776e0982e87e83c1f97ada1d1abdd1827b94b720
+[MM] bb=0.54 ba=0.56 | SELL@0.55 bought@0.55 | 84.2s left
+[MM] SELL FILLED @ 0.55  profit=$0.0
+[MM] next: Bitcoin Up or Down - March 30, 6:00AM-6:15AM ET in 976s, sleeping 76s
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 6:00AM-6:15AM ET
+[MM] start=2026-03-30T10:00:00+00:00  sell_deadline=+3s
+[MM] token=72395383324262677983...
+[MM] Balance: $17.30
+[BUY] BUY 5sh @ 0.51  oid=0xa27a27a6dc945147b73293e97f9a97b78722c869e777df43c386b4778cfd09ef
+[MM] bb=0.51 ba=0.52 sp=0.01 | BUY@0.51 | 891s to start
+
+[MM] Signal 15, stopping...
+[MM] shutdown

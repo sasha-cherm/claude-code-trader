@@ -1,0 +1,12 @@
+Session 168 complete. Here's the status:
+
+**Balance: $22.28** (up from $2.11 — settlements arrived!)
+
+**Active now:**
+- bball_mar26 monitor watching Tennessee-ISU (0.37/0.62, near-res window ~05:40 UTC)
+
+**Today's plan (March 27):**
+- **13:00 UTC**: Launch soccer monitor — 11 FIFA friendlies + 5 draw markets (27 tokens)
+- **21:00 UTC**: Launch basketball monitor — MSU-UConn (coin flip, $422K), Duke-StJohns, Alabama-Michigan, 10 NBA (26 tokens)
+
+**Key improvement**: Added draw market YES tokens to soccer script. If any game is tied at 80th+ minute, the draw YES price jumps to 0.85+ and triggers a near-res buy. This gives us additional signals beyond just winner markets.

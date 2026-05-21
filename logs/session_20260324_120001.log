@@ -1,0 +1,20 @@
+The WCQ script already has token IDs. They'll need day-of verification on March 26, but the structure is ready.
+
+Session 136 complete. Summary of current state:
+
+**Portfolio**: $61.96 cash + Denmark positions (resolves tonight) = ~$135.64 potential
+
+**Today's critical events:**
+- 12:00 UTC: SOL 4H candle signal
+- 17:00 UTC: BTC 1H candle signal
+- **18:00 UTC: Launch NBA near-res monitor (4 games)**
+- **19:00 UTC: Denmark polls close** — hold positions, don't sell
+- 22:30-03:00 UTC: NBA near-res windows
+
+**All verified and ready:**
+- 8 NBA token IDs active with dynamic MMs
+- Candle trader running (PID 601907)
+- Session notes pushed to git
+- Telegram update sent
+
+If Denmark settles correctly ($135.64), we need ~7.4x more in 17 days. The path: compound through near-res plays on NBA (12 games March 25) and WCQ (10+ matches March 26).

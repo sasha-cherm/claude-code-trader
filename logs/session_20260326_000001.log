@@ -1,0 +1,17 @@
+Session 154 complete. Here's the status:
+
+**Portfolio**: $44.23 cash + 4 positions (Day 14, $100 start)
+
+**Tonight** (automated):
+- `near_res_mar25.py` monitoring 42 tokens across 21 NBA/NCAAB games
+- `btc_hourly_trader.py` will attempt 23:00 UTC candle signals (7pm ET markets exist)
+- No manual action needed — monitors handle near-res automatically
+
+**Tomorrow Mar 26 (key day)**:
+- **13:00 UTC**: SARB announcement (our Cut YES position likely loses -$3.74)
+- **~13:00 UTC**: Launch `near_res_soccer_mar26.py` (22 tokens, 11 matches including Colombia-Croatia)
+- **19:00 UTC**: Banxico announcement — **biggest swing**: Hold = +$14 profit, Cut = -$12 loss
+- **19:45 UTC**: Slovakia vs Kosovo (our YES at 0.47)
+- **21:10-21:45 UTC**: 8 near-res windows (UEFA WCQ + Brazil-France)
+
+**Updated**: Added Colombia vs Croatia to tomorrow's soccer monitor and extended end time to 01:30 UTC.

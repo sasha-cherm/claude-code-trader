@@ -1,0 +1,13 @@
+=== Euroleague + CS2 Mar 24 Near-Res Monitor ===
+Started at 2026-03-24 16:07:20 UTC
+Monitoring 16 tokens (8 games)
+Params: MIN_PRICE=0.85, JUMP=0.2, SPREAD=0.04, MAX_MINS=20
+Balance: $56.76
+
+Snapshotting pre-game prices...
+
+--- Check #0 at 16:07:21 UTC ---
+  Balance: $56.76
+
+--- Check #1 at 16:08:37 UTC ---
+  Balance: $56.76

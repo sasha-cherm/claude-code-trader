@@ -1,0 +1,7 @@
+Georgia is actually at 0.54-0.55 on CLOB (not 0.38 from earlier stale bid). At 0.55 buy price vs sportsbook 48-53%, there's no edge — price has corrected. No pre-game trade.
+
+The monitors are set up correctly:
+- **Soccer monitor running** (PID 1105447) — will catch near-res opportunities in the last 20 minutes of each match
+- **Bball monitor ready** — launch at 18:00 UTC
+
+Everything is in place. The next cron session at 07:00 UTC will check monitor status. The near-res strategy will handle the execution automatically.

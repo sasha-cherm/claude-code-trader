@@ -13,6 +13,13 @@ GAMMA_HOST: str = os.getenv("GAMMA_HOST", "https://gamma-api.polymarket.com")
 TELEGRAM_BOT_TOKEN: str = os.getenv("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHAT_ID: str = os.getenv("TELEGRAM_CHAT_ID", "")
 
+# Polymarket V2 Builder Relayer (gas-free CTF redemption)
+RELAYER_URL: str = os.getenv("RELAYER_URL", "https://relayer-v2.polymarket.com")
+RPC_URL: str = os.getenv("RPC_URL", "https://polygon-rpc.com")
+BUILDER_API_KEY: str = os.getenv("BUILDER_API_KEY", "")
+BUILDER_SECRET: str = os.getenv("BUILDER_SECRET", "")
+BUILDER_PASS_PHRASE: str = os.getenv("BUILDER_PASS_PHRASE", "")
+
 # Risk parameters — aggressive sizing for 10x goal
 MAX_POSITION_PCT = 0.20        # max 20% of bankroll per trade (was 15%)
 MIN_POSITION_USDC = 5.0        # minimum bet size (was 3.0)

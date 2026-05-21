@@ -1,0 +1,65 @@
+[PAPER] === BTC 15-min Fair-Value MM — PAPER TRADING ===
+[PAPER] UTC: 2026-04-01 05:37:06.846760+00:00
+[PAPER] size=5.0  poll=1.0s
+[PAPER] Balance: $100.00
+[PAPER] Open positions: 0
+[PAPER] Current candle not confirmed (472s to start)
+[PAPER] Current candle not confirmed (461s to start)
+[PAPER] Current candle not confirmed (451s to start)
+[PAPER] Current candle not confirmed (441s to start)
+[PAPER] Current candle not confirmed (430s to start)
+[PAPER] Current candle not confirmed (420s to start)
+[PAPER] Current candle not confirmed (410s to start)
+[PAPER] Current candle not confirmed (399s to start)
+[PAPER] Current candle not confirmed (389s to start)
+[PAPER] Current candle not confirmed (379s to start)
+[PAPER] Current candle not confirmed (368s to start)
+[PAPER] Current candle not confirmed (358s to start)
+[PAPER] Current candle not confirmed (348s to start)
+[PAPER] Current candle not confirmed (337s to start)
+[PAPER] Current candle not confirmed (327s to start)
+[PAPER] Current candle not confirmed (316s to start)
+[PAPER] Current candle not confirmed (306s to start)
+[PAPER] Current candle not confirmed (296s to start)
+[PAPER] Current candle not confirmed (284s to start)
+[PAPER] Current candle not confirmed (273s to start)
+[PAPER] Current candle not confirmed (262s to start)
+[FV] Current candle effectively DN (bid=0.96, 251s left)
+
+[PAPER] =======================================================
+[PAPER] Bitcoin Up or Down - April 1, 1:45AM-2:00AM ET
+[PAPER] streak=1xDN → base UP=49.1%
+[PAPER] RSI=62.1 → adj -1%
+[PAPER] fair: UP=0.481 DN=0.519
+[PAPER] max buy: UP@0.47 DN@0.51
+[PAPER] balance: $100.00
+[PAPER] BUY UP 5sh @ 0.46 (ask=0.46 <= max=0.47) cost=$2.30
+[PAPER] UP:FILLED@0.46 | DN:waiting(max=0.51) | 237s to start
+[PAPER] UP:FILLED@0.46 | DN:waiting(max=0.51) | 226s to start
+[PAPER] UP:FILLED@0.46 | DN:waiting(max=0.51) | 215s to start
+[PAPER] UP:FILLED@0.46 | DN:waiting(max=0.51) | 203s to start
+[PAPER] UP:FILLED@0.46 | DN:waiting(max=0.51) | 192s to start
+[PAPER] UP:FILLED@0.46 | DN:waiting(max=0.51) | 181s to start
+[PAPER] UP:FILLED@0.46 | DN:waiting(max=0.51) | 169s to start
+[PAPER] UP:FILLED@0.46 | DN:waiting(max=0.51) | 158s to start
+[PAPER] UP:FILLED@0.46 | DN:waiting(max=0.51) | 147s to start
+[PAPER] UP:FILLED@0.46 | DN:waiting(max=0.51) | 135s to start
+[PAPER] UP:FILLED@0.46 | DN:waiting(max=0.51) | 124s to start
+[PAPER] UP:FILLED@0.46 | DN:waiting(max=0.51) | 113s to start
+[PAPER] UP:FILLED@0.46 | DN:waiting(max=0.51) | 101s to start
+[PAPER] UP:FILLED@0.46 | DN:waiting(max=0.51) | 90s to start
+[PAPER] UP:FILLED@0.46 | DN:waiting(max=0.51) | 79s to start
+[PAPER] UP:FILLED@0.46 | DN:waiting(max=0.51) | 67s to start
+[PAPER] UP:FILLED@0.46 | DN:waiting(max=0.51) | 56s to start
+[PAPER] UP:FILLED@0.46 | DN:waiting(max=0.51) | 44s to start
+[PAPER] UP:FILLED@0.46 | DN:waiting(max=0.51) | 33s to start
+[PAPER] UP:FILLED@0.46 | DN:waiting(max=0.51) | 22s to start
+[PAPER] UP:FILLED@0.46 | DN:waiting(max=0.51) | 11s to start
+[PAPER] UP FILLED @ 0.46 (fair=0.481, edge=0.02)
+[PAPER] Balance: $97.70 | Positions: 1
+[PAPER] Current candle not confirmed (839s to start)
+[PAPER] Current candle not confirmed (829s to start)
+[PAPER] Current candle not confirmed (818s to start)
+
+[MM] Signal 15, stopping...
+[PAPER] shutdown

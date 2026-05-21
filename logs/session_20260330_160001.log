@@ -1,0 +1,12 @@
+Done. Here's what this session accomplished:
+
+**MM Bot Fix**: The bot was losing money on forced market sells at deadline ($0.36+ per dump at resting bid). Fixed it to hold through resolution instead — EV-neutral (50/50 coin flip) beats a guaranteed loss. Also extended the sell deadline from 3s to 15s.
+
+**Market Research**: No directional edge >4% found today. NBA games tonight are efficiently priced pre-game. European football returns April 1.
+
+**Telegram**: Sent session summary to user asking for strategic input on:
+- Running near-res NBA tonight
+- Adding 5-min BTC candle MM
+- Taking more directional risk given $16.67 balance and 11-day timeline
+
+**Current state**: Bot running (PID 33515), balance $16.67, session notes pushed to git.

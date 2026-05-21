@@ -1,0 +1,16 @@
+Session complete. Here's the summary:
+
+**Portfolio: ~$76** (down from $100, Day 2 of 30)
+- Cash: $35.54
+- Celtics YES: $25 (81.71 shares @ 0.303) — 7.5% edge vs Vegas
+- Nuggets YES: $12 (36.36 shares @ 0.33) — 4.5% edge, Wemby questionable  
+- BTC Up/Down: $5 (15.44 shares @ 0.29) — resolves today 16:00 UTC
+
+**Key actions this session:**
+1. Settled 4 lost NBA positions (-$35 from blind auto-bets)
+2. Disabled fake edge auto-trading — future auto-trades only on near-arb/orderbook dislocation
+3. Added $10 to Celtics position (strongest confirmed edge)
+4. Added strategy guidance to CLAUDE.md for future sessions
+5. Wrote session notes and pushed to git
+
+**Critical path:** Tonight's NBA games determine whether we recover (~$130+ if both hit) or face a steep climb (~$36 if both miss). Next session should check results and find high-conviction plays.

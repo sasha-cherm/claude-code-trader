@@ -1,0 +1,344 @@
+[MM] === BTC 15-min Spread Scalper ===
+[MM] UTC: 2026-03-30 15:15:49.604288+00:00
+[MM] size=6.0  sell_deadline=+0s  poll=1.0s
+[MM] Balance: $10.64
+[MM] Streak: 0x NONE → enter 600s before start
+[MM] next: Bitcoin Up or Down - March 30, 11:30AM-11:45AM ET in 848s, waiting 248s
+[MM] Streak: 1x DN → enter 600s before start
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 11:30AM-11:45AM ET
+[MM] start=2026-03-30T15:30:00+00:00  sell_deadline=+0s
+[MM] Side: DN (bid depth DN=1858 vs UP=1306)
+[MM] Trading DN token=61015924722767751924...
+[MM] Balance: $10.64
+[MM] --- Round 1 (DN) ---
+[MM] Side: DN (bid depth DN=1858 vs UP=1306)
+[BUY] BUY 6sh @ 0.49  oid=0x9798ce54aca07c104da62615b15ee3ba5e9a1e466fbab700352b64490c3125a3
+[MM] Side: DN (bid depth DN=1839 vs UP=1306)
+[MM] BUY FILLED @ 0.49
+[MM] Waiting for settlement... bal=0.00 (30s left)
+[MM] Waiting for settlement... bal=0.00 (28s left)
+[MM] Token balance settled: 6.00 shares
+[SELL] SELL 6sh @ 0.50  oid=0x4dccffca9e3988fc6d34945a6f03bf7776e6b2eeed0f467fafde2b91419da070
+[MM] bb=0.46 ba=0.48 | SELL@0.5 bought@0.49 | 589.1s left
+[MM] bb=0.46 ba=0.48 | SELL@0.5 bought@0.49 | 587.8s left
+[MM] bb=0.46 ba=0.48 | SELL@0.5 bought@0.49 | 586.5s left
+[MM] bb=0.46 ba=0.48 | SELL@0.5 bought@0.49 | 585.3s left
+[MM] bb=0.46 ba=0.48 | SELL@0.5 bought@0.49 | 584.0s left
+[MM] bb=0.46 ba=0.48 | SELL@0.5 bought@0.49 | 582.7s left
+[MM] bb=0.46 ba=0.48 | SELL@0.5 bought@0.49 | 581.5s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 580.2s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 578.9s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 577.6s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 576.3s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 575.1s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 573.8s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 572.5s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 571.3s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 570.0s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 568.7s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 567.5s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 566.2s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 564.9s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 563.7s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 562.4s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 561.2s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 559.9s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 558.6s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 557.4s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 556.1s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 554.8s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 553.5s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 552.3s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 551.0s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 549.8s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 548.5s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 547.2s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 546.0s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 544.7s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 543.4s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 542.2s left
+[MM] bb=0.47 ba=0.49 | SELL@0.5 bought@0.49 | 540.9s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 539.6s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 538.4s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 537.1s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 535.8s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 534.6s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 533.3s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 532.0s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 530.8s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 529.5s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 528.2s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 527.0s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 525.7s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 524.4s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 523.2s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 521.9s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 520.6s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 519.3s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 518.1s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 516.8s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 515.5s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 514.2s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 513.0s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 511.7s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 510.4s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 509.2s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 507.9s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 506.6s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 505.4s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 504.1s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 502.8s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 501.6s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 500.3s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 499.0s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 497.8s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 496.5s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 495.2s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 493.9s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 492.6s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 491.4s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 490.1s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 488.8s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 487.6s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 486.3s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 485.0s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 483.7s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 482.5s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 481.2s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 480.0s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 478.7s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 477.4s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 476.2s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 474.9s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 473.6s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 472.4s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 471.1s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 469.8s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 468.6s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 467.3s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 466.0s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 464.8s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 463.5s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 462.2s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 461.0s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 459.7s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 458.4s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 457.2s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 455.9s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 454.6s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 453.4s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 452.1s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 450.8s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 449.6s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 448.3s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 447.0s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 445.7s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 444.5s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 443.2s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 441.9s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 440.7s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 436.0s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 434.7s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 433.4s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 432.1s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 430.8s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 429.5s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 428.2s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 426.3s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 425.0s left
+[MM] bb=0.47 ba=0.48 | SELL@0.5 bought@0.49 | 423.7s left
+[MM] SELL FILLED @ 0.50  profit=$0.06
+[MM] Round 1 done, waiting for sell settlement...
+[MM] Sell settled (bal=0.00), ready for next round
+[MM] Side: DN (bid depth DN=3044 vs UP=999)
+[MM] --- Round 2 (DN) ---
+[MM] Side: DN (bid depth DN=3044 vs UP=989)
+[BUY] BUY 6sh @ 0.49  oid=0xc6391035d918dceb0ecfc1610c52c30924303f31822322800904e0388860436b
+[MM] Side: DN (bid depth DN=2103 vs UP=1049)
+[MM] Side: DN (bid depth DN=2297 vs UP=1049)
+[MM] Side: DN (bid depth DN=2297 vs UP=1049)
+[MM] Side: DN (bid depth DN=2297 vs UP=1049)
+[MM] Side: DN (bid depth DN=2297 vs UP=1049)
+[MM] bb=0.49 ba=0.50 sp=0.01 | BUY@0.49 | 141s to start
+[MM] Side: DN (bid depth DN=2297 vs UP=1049)
+[MM] Side: UP (bid depth UP=2675 vs DN=2297)
+[BUY] cancelled 0xc6391035d918dc...
+[BUY] BUY 6sh @ 0.50  oid=0x4ffa526b3305efd055f936ec97b5f5f54a8fd486e6564f3b0bab58ccbc0857d9
+[MM] Side: DN (bid depth DN=3249 vs UP=932)
+[BUY] cancelled 0x4ffa526b3305ef...
+[BUY] BUY 6sh @ 0.49  oid=0x0af4edd55970059afce91e2b5e0593eb0f56d2f518084ca0e98b4a64a14dd323
+[MM] Side: UP (bid depth UP=2798 vs DN=2297)
+[BUY] cancelled 0x0af4edd5597005...
+[BUY] BUY 6sh @ 0.50  oid=0x80f7233c323a0f90bc5ea84416aeb81dab132d5be11da2fd6c6df4416db47547
+[MM] Side: DN (bid depth DN=3249 vs UP=1055)
+[BUY] cancelled 0x80f7233c323a0f...
+[BUY] BUY 6sh @ 0.49  oid=0x531fd79ed9b058ef7c6113b447311f3c509009b20a2934a67636377371f8b1ff
+[MM] bb=0.48 ba=0.50 sp=0.02 | BUY@0.49 | 131s to start
+[MM] Side: UP (bid depth UP=2798 vs DN=2297)
+[BUY] cancelled 0x531fd79ed9b058...
+[BUY] BUY 6sh @ 0.50  oid=0x011064591d0df37af43478c89b5b4dbe28b717967452f7b231c6771176e851af
+[MM] Side: DN (bid depth DN=3249 vs UP=1055)
+[BUY] cancelled 0x011064591d0df3...
+[BUY] BUY 6sh @ 0.49  oid=0x6530229e214b08cc5dd375eadfb02133db2c6a20d6fb0004af564d7821797056
+[MM] Side: UP (bid depth UP=2798 vs DN=2297)
+[BUY] cancelled 0x6530229e214b08...
+[BUY] BUY 6sh @ 0.50  oid=0xeaee10055288ba1a4be02260879594094287941ed417b93c7ed3021d5b7bc78c
+[MM] Side: DN (bid depth DN=3249 vs UP=1065)
+[BUY] cancelled 0xeaee10055288ba...
+[BUY] BUY 6sh @ 0.49  oid=0x13d9642d8963020a4505f0aa3a420a3cd98c52944b4825116dfa8d5e02c4eb5c
+[MM] Side: DN (bid depth DN=2297 vs UP=1059)
+[MM] bb=0.49 ba=0.50 sp=0.01 | BUY@0.49 | 122s to start
+[MM] Side: UP (bid depth UP=2808 vs DN=2333)
+[BUY] cancelled 0x13d9642d896302...
+[BUY] BUY 6sh @ 0.50  oid=0x0682684291bb6d8d277452900b4ef0cfa25d595a8b7016f0caba7b1ba77e9279
+[MM] bb=0.49 ba=0.51 sp=0.02 | BUY@0.5 | 120s to start
+[MM] Side: DN (bid depth DN=2318 vs UP=1060)
+[BUY] cancelled 0x0682684291bb6d...
+[BUY] BUY 6sh @ 0.49  oid=0x610ebaeb6488930df7df0c71e92d43ec9a0f8635b0735216085a1e016456e05f
+[MM] Side: DN (bid depth DN=2346 vs UP=1136)
+[MM] Side: DN (bid depth DN=2346 vs UP=1136)
+[MM] Side: DN (bid depth DN=2346 vs UP=1136)
+[MM] Side: DN (bid depth DN=2346 vs UP=1136)
+[MM] bb=0.49 ba=0.50 sp=0.01 | BUY@0.49 | 111s to start
+[MM] Side: DN (bid depth DN=2346 vs UP=1061)
+[MM] Side: DN (bid depth DN=2346 vs UP=1061)
+[MM] Side: DN (bid depth DN=2346 vs UP=1067)
+[MM] Side: DN (bid depth DN=2346 vs UP=1057)
+[MM] Side: DN (bid depth DN=2346 vs UP=1057)
+[MM] Side: DN (bid depth DN=2346 vs UP=1057)
+[MM] Side: DN (bid depth DN=2346 vs UP=1057)
+[MM] bb=0.49 ba=0.50 sp=0.01 | BUY@0.49 | 100s to start
+[MM] Side: DN (bid depth DN=2346 vs UP=1057)
+[MM] Side: DN (bid depth DN=2331 vs UP=1057)
+[MM] Side: DN (bid depth DN=2331 vs UP=1057)
+[MM] Side: UP (bid depth UP=2842 vs DN=2331)
+[BUY] cancelled 0x610ebaeb648893...
+[BUY] BUY 6sh @ 0.50  oid=0x9bb101a09bf2c889a931dd315fb042a82b4fb3a5c123d405beb8ca7867c77847
+[MM] Side: DN (bid depth DN=2325 vs UP=1049)
+[BUY] cancelled 0x9bb101a09bf2c8...
+[BUY] BUY 6sh @ 0.49  oid=0x6e2a5f1ff1b40cb7a57a20008210f4855d06bcb735edbc600fbf4ac94ab36823
+[MM] Side: UP (bid depth UP=2842 vs DN=2331)
+[BUY] cancelled 0x6e2a5f1ff1b40c...
+[BUY] BUY 6sh @ 0.50  oid=0xb94026c1d219601bcd35bf31db2ef8c40698e0fe9a629297865cc1258f19f505
+[MM] Side: DN (bid depth DN=2320 vs UP=926)
+[BUY] cancelled 0xb94026c1d21960...
+[BUY] BUY 6sh @ 0.49  oid=0xe8ba264ac873f4e61e0e9b70297395d6b0c9a08022f1c30837ea90dec04345fd
+[MM] Side: UP (bid depth UP=2719 vs DN=2326)
+[BUY] cancelled 0xe8ba264ac873f4...
+[BUY] BUY 6sh @ 0.50  oid=0x0c344092a10798a953100c10fb78104307b40ad29743f02213848892aa580a00
+[MM] Side: DN (bid depth DN=2320 vs UP=926)
+[BUY] cancelled 0x0c344092a10798...
+[BUY] BUY 6sh @ 0.49  oid=0x22bc548ffda79e53bef2e39dc036ef386e5a4cf06dfbcdbe482ccb50830ca3b9
+[MM] Side: UP (bid depth UP=2719 vs DN=2326)
+[BUY] cancelled 0x22bc548ffda79e...
+[BUY] BUY 6sh @ 0.50  oid=0xd4f91d9a65854d50de8fbbd48f51324d8f1b78b6b46a499a043080769dafa232
+[MM] bb=0.49 ba=0.51 sp=0.02 | BUY@0.5 | 81s to start
+[MM] Side: DN (bid depth DN=2320 vs UP=1049)
+[BUY] cancelled 0xd4f91d9a65854d...
+[BUY] BUY 6sh @ 0.49  oid=0xa6f99f93d195b521cfd1db599f25694fc68eae1bff376b57933ca0e71c6e1198
+[MM] Side: UP (bid depth UP=2831 vs DN=2326)
+[BUY] cancelled 0xa6f99f93d195b5...
+[BUY] BUY 6sh @ 0.50  oid=0x85555836cb6f2f45adbc2b0b34e43810ae40413e614fd5e401c2d094e6c3d054
+[MM] Side: DN (bid depth DN=2320 vs UP=1038)
+[BUY] cancelled 0x85555836cb6f2f...
+[BUY] BUY 6sh @ 0.49  oid=0x4bf52bd37e4fb1d5f89409b0d5dccebf8009207968775d845b79f9b29f46804e
+[MM] Side: DN (bid depth DN=2326 vs UP=1042)
+[MM] Side: DN (bid depth DN=2326 vs UP=1042)
+[MM] bb=0.49 ba=0.50 sp=0.01 | BUY@0.49 | 72s to start
+[MM] Side: DN (bid depth DN=2326 vs UP=1042)
+[BUY] cancelled 0x4bf52bd37e4fb1...
+[BUY] BUY 6sh @ 0.50  oid=0xbb27dca224e9078c5cf3a7c2e068dc954a4c81559a6774a4ff9279a5582a98e3
+[MM] bb=0.49 ba=0.51 sp=0.02 | BUY@0.5 | 70s to start
+[MM] Side: UP (bid depth UP=2831 vs DN=632)
+[BUY] cancelled 0xbb27dca224e907...
+[BUY] BUY 6sh @ 0.49  oid=0x6611853e9e30270d710e7298f8bf873dca024dc206e5262fe85a5f873953ae6c
+[MM] Side: UP (bid depth UP=2837 vs DN=2320)
+[BUY] cancelled 0x6611853e9e3027...
+[BUY] BUY 6sh @ 0.50  oid=0xc3961a3f17ed4d4a10e54e38eddff7bfbee31f15d2a36e2b49b5af7b50f6cb80
+[MM] Side: DN (bid depth DN=2320 vs UP=1038)
+[BUY] cancelled 0xc3961a3f17ed4d...
+[BUY] BUY 6sh @ 0.49  oid=0x4224d5a93254b7834dcc4d66819e69b8f83b6e07b1a0dbed0b87db44708f510e
+[MM] Side: UP (bid depth UP=2820 vs DN=2315)
+[BUY] cancelled 0x4224d5a93254b7...
+[BUY] BUY 6sh @ 0.50  oid=0xfa8dda425e5a00c5218eede61c922f378f01d7346dede48a20d685e686e13624
+[MM] Side: UP (bid depth UP=2777 vs DN=2309)
+[MM] bb=0.49 ba=0.51 sp=0.02 | BUY@0.5 | 61s to start
+[MM] BUY FILLED @ 0.50
+[MM] Waiting for settlement... bal=0.00 (30s left)
+[MM] Waiting for settlement... bal=0.00 (28s left)
+[MM] Token balance settled: 6.00 shares
+[SELL] SELL 6sh @ 0.51  oid=0x926f453bb9fbbee246a1a81828d3cde6af0ade91ad05e177bed44fe91ffbd6bf
+[MM] bb=0.49 ba=0.50 | SELL@0.51 bought@0.50 | 54.5s left
+[MM] bb=0.49 ba=0.50 | SELL@0.51 bought@0.50 | 53.3s left
+[MM] bb=0.49 ba=0.50 | SELL@0.51 bought@0.50 | 52.0s left
+[MM] bb=0.49 ba=0.50 | SELL@0.51 bought@0.50 | 50.7s left
+[MM] bb=0.49 ba=0.50 | SELL@0.51 bought@0.50 | 49.4s left
+[MM] bb=0.49 ba=0.50 | SELL@0.51 bought@0.50 | 48.1s left
+[MM] bb=0.49 ba=0.50 | SELL@0.51 bought@0.50 | 46.8s left
+[MM] bb=0.49 ba=0.50 | SELL@0.51 bought@0.50 | 45.6s left
+[MM] bb=0.49 ba=0.50 | SELL@0.51 bought@0.50 | 44.3s left
+[MM] bb=0.49 ba=0.50 | SELL@0.51 bought@0.50 | 43.0s left
+[MM] bb=0.49 ba=0.50 | SELL@0.51 bought@0.50 | 41.8s left
+[MM] bb=0.49 ba=0.50 | SELL@0.51 bought@0.50 | 40.5s left
+[MM] bb=0.48 ba=0.51 | SELL@0.51 bought@0.50 | 39.2s left
+[MM] bb=0.48 ba=0.51 | SELL@0.51 bought@0.50 | 38.0s left
+[MM] bb=0.48 ba=0.51 | SELL@0.51 bought@0.50 | 36.7s left
+[MM] bb=0.49 ba=0.51 | SELL@0.51 bought@0.50 | 35.4s left
+[MM] SELL FILLED @ 0.51  profit=$0.06
+[MM] Round 2 done, waiting for sell settlement...
+[MM] No time for next round, sell still settling
+[MM] CLEANUP UP: 6.00sh worth $3.06, market selling...
+[CLEANUP-UP] MARKET SELL 6sh => {'errorMsg': '', 'orderID': '0x5a9682c855fea12f64a028b0cebc4c2d577e6d4bfb92a3113e1320b0571aad20', 'takingAmount': '3.06', 'makingAmount': '6', 'status': 'matched', 'transactionsHashes': ['0x3fa7e4872f2b4dda5ac9ff83acc0874598995beee72e3582429030a91384a667'], 'success': True}
+[MM] Streak: 0x NONE → enter 600s before start
+[MM] next: Bitcoin Up or Down - March 30, 11:45AM-12:00PM ET in 899s, waiting 299s
+[MM] Streak: 2x DN → enter 600s before start
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 11:45AM-12:00PM ET
+[MM] start=2026-03-30T15:45:00+00:00  sell_deadline=+0s
+[MM] Side: DN (bid depth DN=3391 vs UP=577)
+[MM] Trading DN token=96390368007340524748...
+[MM] Balance: $10.70
+[MM] --- Round 1 (DN) ---
+[MM] Side: DN (bid depth DN=3391 vs UP=577)
+[BUY] BUY 6sh @ 0.48  oid=0x63ea6551908a8f64fa9e937d7b21f3a26c03bb296ca8328dd565f3df8570fbe2
+[MM] Side: DN (bid depth DN=3397 vs UP=566)
+[MM] Side: DN (bid depth DN=3397 vs UP=566)
+[MM] Side: DN (bid depth DN=3397 vs UP=566)
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 592s to start
+[MM] Side: DN (bid depth DN=3397 vs UP=566)
+[MM] Side: DN (bid depth DN=3397 vs UP=571)
+[MM] Side: DN (bid depth DN=3397 vs UP=571)
+[MM] Side: DN (bid depth DN=3397 vs UP=571)
+[MM] Side: DN (bid depth DN=3429 vs UP=611)
+[MM] Side: DN (bid depth DN=3429 vs UP=512)
+[MM] Side: DN (bid depth DN=3429 vs UP=611)
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 581s to start
+[MM] Side: DN (bid depth DN=3450 vs UP=611)
+[MM] Side: DN (bid depth DN=3450 vs UP=611)
+[MM] Side: DN (bid depth DN=3455 vs UP=611)
+[MM] Side: DN (bid depth DN=3455 vs UP=611)
+[MM] Side: DN (bid depth DN=3455 vs UP=632)
+[MM] Side: DN (bid depth DN=3455 vs UP=627)
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 571s to start
+[MM] Side: DN (bid depth DN=3455 vs UP=627)
+[MM] Side: DN (bid depth DN=3455 vs UP=627)
+[MM] Side: DN (bid depth DN=3455 vs UP=627)
+[MM] Side: DN (bid depth DN=3455 vs UP=627)
+[MM] Side: DN (bid depth DN=3453 vs UP=627)
+[MM] Side: DN (bid depth DN=3453 vs UP=627)
+[MM] Side: DN (bid depth DN=3453 vs UP=627)
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 561s to start
+[MM] Side: DN (bid depth DN=3453 vs UP=627)
+[MM] Side: DN (bid depth DN=3453 vs UP=528)
+[MM] Side: DN (bid depth DN=3453 vs UP=528)
+[MM] Side: DN (bid depth DN=3453 vs UP=528)
+[MM] Side: DN (bid depth DN=3453 vs UP=528)
+[MM] Side: DN (bid depth DN=3453 vs UP=528)
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 551s to start
+[MM] Side: DN (bid depth DN=3453 vs UP=528)
+[MM] Side: DN (bid depth DN=3453 vs UP=627)
+[MM] Side: DN (bid depth DN=3453 vs UP=627)
+[MM] Side: DN (bid depth DN=3453 vs UP=627)

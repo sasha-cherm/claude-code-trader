@@ -1,0 +1,47 @@
+=== Mar 30 Near-Res Monitor (Soccer + NBA) ===
+Started at 2026-03-30 07:11:05 UTC
+Monitoring 18 tokens
+Params: MIN_PRICE=0.85, JUMP=0.2, SPREAD=0.04, MAX_MINS=20
+Using LIMIT ORDERS (maker, no commission)
+Balance: $9.86
+
+Snapshotting pre-game prices...
+  Pre-game Saudi Arabia: 0.250
+  Pre-game Serbia: 0.590
+  Pre-game KSA-SER Draw: 0.160
+  Pre-game Cyprus: 0.590
+  Pre-game Moldova: 0.160
+  Pre-game CYP-MOL Draw: 0.240
+  Pre-game Egypt: 0.047
+  Pre-game Spain: 0.840
+  Pre-game EGY-ESP Draw: 0.100
+  Pre-game Germany: 0.850
+  Pre-game Ghana: 0.050
+  Pre-game GER-GHA Draw: 0.090
+  Pre-game 76ers: 0.570
+  Pre-game Heat: 0.420
+  Pre-game Celtics: 0.490
+  Pre-game Hawks: 0.500
+  Pre-game Mavericks: 0.350
+  Pre-game Bucks: 0.640
+
+--- Check #0 at 07:11:08 UTC ---
+  Balance: $9.86
+  Saudi Arabia   buy=0.140 sell=0.270 spread=-0.130 jump=-0.110 mins=514 
+  Germany        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=799 
+
+--- Check #1 at 07:12:28 UTC ---
+  Balance: $9.86
+  Saudi Arabia   buy=0.150 sell=0.270 spread=-0.120 jump=-0.100 mins=513 
+  KSA-SER Draw   buy=0.100 sell=0.170 spread=-0.070 jump=-0.060 mins=513 
+  Germany        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=798 
+
+--- Check #2 at 07:13:49 UTC ---
+  Balance: $9.86
+  Saudi Arabia   buy=0.140 sell=0.270 spread=-0.130 jump=-0.110 mins=511 
+  Germany        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=796 
+
+--- Check #3 at 07:15:09 UTC ---
+  Balance: $9.86
+  KSA-SER Draw   buy=0.090 sell=0.170 spread=-0.080 jump=-0.070 mins=510 
+  Germany        buy=0.850 sell=0.860 spread=-0.010 jump=+0.000 mins=795 

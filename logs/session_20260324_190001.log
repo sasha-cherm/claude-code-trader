@@ -1,0 +1,14 @@
+Current status:
+
+- **Balance**: $56.76 + Denmark positions worth ~$73.68 if they win = **~$130 potential**
+- **Denmark**: Prices rising (sell=0.63/0.61). Polls close 19:00 UTC (3h). HOLDING.
+- **Critical fix applied**: Euroleague monitor had kickoff times as end times — would have missed every near-res window. Fixed with +1:45 offset.
+- **Added UWCL**: Wolfsburg-Lyon (near-res ~19:10) and Arsenal-Chelsea (near-res ~21:25)
+- **3 monitors running**: Euro (18 tokens, PID 721508), NBA (8 tokens, PID 718291), candle trader (PID 601907)
+
+**Tonight's near-res schedule (UTC)**:
+- 18:55-19:45 — Euroleague first wave (Maccabi, Monaco, Zalgiris) + Wolfsburg-Lyon
+- 19:55-21:45 — Euroleague second wave + UWCL Arsenal-Chelsea
+- 22:30-03:00 — NBA (Kings-Hornets, Pels-Knicks, Magic-Cavs, Nuggets-Suns)
+
+March 25 script ready with 26 tokens (9 NBA + 4 NCAAB).

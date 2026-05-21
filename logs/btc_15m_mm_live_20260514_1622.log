@@ -1,0 +1,66 @@
+[LIVE] === BTC 15-min Fair-Value MM — LIVE TRADING ===
+[LIVE] UTC: 2026-05-14 16:22:00.973248+00:00
+[LIVE] size=dynamic (min 5, +1 per $20 > $100)  poll=1.0s  maker-only  improve=0.0
+[LIVE] No sell orders will be placed — user resolves manually
+[LIVE] Killing old instance PID 63235
+[py_clob_client_v2] request error status=400 url=https://clob.polymarket.com/auth/api-key body={"error":"Could not create api key"}
+
+[py_clob_client_v2] request error status=400 url=https://clob.polymarket.com/auth/api-key body={"error":"Could not create api key"}
+
+[LIVE] USDC balance: $188.81
+[REDEEM] Relayer ready (PROXY tx type, key=019dd8ae...)
+[LIVE] Current candle not confirmed (475s to start)
+[LIVE] Current candle not confirmed (465s to start)
+[LIVE] Current candle not confirmed (455s to start)
+[LIVE] Current candle not confirmed (445s to start)
+[LIVE] Current candle not confirmed (435s to start)
+[LIVE] Current candle not confirmed (425s to start)
+[LIVE] Current candle not confirmed (414s to start)
+[LIVE] Current candle not confirmed (404s to start)
+[LIVE] Current candle not confirmed (394s to start)
+[LIVE] Current candle not confirmed (384s to start)
+[LIVE] Current candle not confirmed (374s to start)
+[LIVE] Current candle not confirmed (364s to start)
+[LIVE] Current candle not confirmed (353s to start)
+[LIVE] Current candle not confirmed (343s to start)
+[LIVE] Current candle not confirmed (333s to start)
+[LIVE] Current candle not confirmed (323s to start)
+[LIVE] Current candle not confirmed (313s to start)
+[LIVE] Current candle not confirmed (303s to start)
+[LIVE] Current candle not confirmed (292s to start)
+[LIVE] Current candle not confirmed (282s to start)
+[LIVE] Current candle not confirmed (271s to start)
+[LIVE] Current candle not confirmed (261s to start)
+[LIVE] Current candle not confirmed (250s to start)
+[LIVE] Current candle not confirmed (240s to start)
+[LIVE] Current candle not confirmed (229s to start)
+[LIVE] Current candle not confirmed (219s to start)
+[LIVE] Current candle not confirmed (208s to start)
+[LIVE] Current candle not confirmed (198s to start)
+[LIVE] Current candle not confirmed (187s to start)
+[LIVE] Current candle not confirmed (176s to start)
+[LIVE] Current candle not confirmed (166s to start)
+[LIVE] Current candle not confirmed (155s to start)
+[LIVE] Current candle not confirmed (145s to start)
+[LIVE] Current candle not confirmed (134s to start)
+[LIVE] Current candle not confirmed (124s to start)
+[LIVE] Current candle not confirmed (113s to start)
+[LIVE] Current candle not confirmed (103s to start)
+[LIVE] Current candle not confirmed (92s to start)
+[LIVE] Current candle not confirmed (81s to start)
+[LIVE] Current candle not confirmed (71s to start)
+[LIVE] Current candle not confirmed (60s to start)
+[LIVE] Current candle not confirmed (50s to start)
+[LIVE] Current candle not confirmed (39s to start)
+[LIVE] Current candle not confirmed (29s to start)
+[LIVE] Current candle not confirmed (18s to start)
+[LIVE] Current candle not confirmed (8s to start)
+[LIVE] Current candle not confirmed (840s to start)
+[LIVE] Current candle not confirmed (830s to start)
+[LIVE] Current candle not confirmed (820s to start)
+[LIVE] Current candle not confirmed (809s to start)
+[LIVE] Current candle not confirmed (799s to start)
+[LIVE] Current candle not confirmed (789s to start)
+
+[MM] Signal 15, stopping...
+[LIVE] shutdown

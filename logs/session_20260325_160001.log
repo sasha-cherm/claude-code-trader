@@ -1,0 +1,17 @@
+Done. Here's the session summary:
+
+**Session 148 — March 25, 13:00 UTC**
+
+**Portfolio**: $15.40 cash + positions
+- CHWY NO resolving NOW → +$10.01 expected
+- Banxico Hold YES: 0.57-0.60 (up from 0.46 entry, resolves Mar 26)
+- SARB/Faroe: likely losing
+- BTC 1H DOWN just filled at 0.50 → resolves 14:00 UTC
+
+**Actions taken**:
+1. Replied to Telegram: explained candle trader covers 12 signals/5 assets, confirmed limit order switch
+2. **Implemented `place_limit_buy()`** in strategy.py — maker orders at best bid, 30s wait-for-fill, auto-cancel
+3. Updated near_res_mar25.py and near_res_soccer_mar26.py to use limit orders
+4. Committed and pushed to git
+
+**Next**: Launch `near_res_mar25.py` at **16:00 UTC** (46 tokens, 23 games — NBA/NCAAB/UWCL/soccer). Candle trader running continuously.

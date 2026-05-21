@@ -1,0 +1,10 @@
+Session 54 complete. Here's the summary:
+
+**Status**: $43 cash + 4 positions = ~$125-140 when winners settle. Campaign: **$100 → ~$130 (+30% in 5.5 days)**.
+
+**Tonight's results**: Europe near-res went 3/4 (Las Palmas, Fiorentina, Brentford won; Annecy drew). Net +$17.21 on $69 deployed (+24.8% ROC). Sold Annecy loss. South monitor bought O'Higgins (pending).
+
+**Running automation**:
+- South monitor (PID 270878): watching 7 more South American games
+- NBA scheduler (PID 265938): launches NBA monitor at 01:00 UTC for 8 games
+- CL script verified for tomorrow (18:00 + 21:00 UTC) — **Arsenal vs Leverkusen (tied agg)** is the top target

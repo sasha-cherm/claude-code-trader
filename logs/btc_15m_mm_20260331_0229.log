@@ -1,0 +1,10 @@
+[MM] === BTC 15-min Spread Scalper ===
+[MM] UTC: 2026-03-31 02:29:59.861904+00:00
+[MM] size=6.0  sell_deadline=+0s  poll=1.0s
+[MM] Balance: $20.53
+[MM] --- main loop #1 @ 02:30:01 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Streak: 0x NONE → enter 600s before start
+[MM] next: Bitcoin Up or Down - March 30, 10:45PM-11:00PM ET in 886s, waiting 286s
+
+[MM] Signal 15, stopping...

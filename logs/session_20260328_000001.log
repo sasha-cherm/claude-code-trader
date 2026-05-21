@@ -1,0 +1,14 @@
+Session 175 complete. Summary:
+
+**Balance**: $13.83 (Day 16)
+
+**Active monitors**:
+- Bball Mar 27 (PID 982719): 14 games including MSU-UConn coin flip. Near-res windows 01:00-05:00 UTC.
+- Soccer Mar 27 (PID 952075): winding down, 0 trades from friendlies.
+- BTC candle trader (PID 852962): filling BTC signals consistently.
+
+**March 28 prepared**:
+- `near_res_soccer_mar28.py`: 7 friendlies (19 tokens) — launch at 13:00 UTC
+- `near_res_bball_mar28.py`: 6 NBA (12 tokens) — launch at 16:00 UTC
+- Top target: **Pistons vs Timberwolves** (coin flip, $287K vol)
+- Also need to check: NCAAB Elite 8 markets, CS2 BLAST semi match markets

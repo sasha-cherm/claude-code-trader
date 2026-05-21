@@ -1,0 +1,23 @@
+Here's the session summary:
+
+**Actions taken:**
+- Cut Tate NO position at -32% ($2.08 recovered from $3 invested) — no edge on social media counts
+- Placed $20 on **Timberwolves YES @ 0.48** — research-backed bet (T-Wolves 40-25 fully healthy vs Clippers 32-32 missing Beal/Collins/Niederhauser)
+
+**Code improvements:**
+- Filtered social media count markets (tweets/posts) — learned the hard way these have no edge
+- Raised MAX_OPEN_POSITIONS from 5 to 8 for better capital deployment
+- Tightened competitive market entry — only with real orderbook dislocation (>2.5% spread), no more coin-flip bets
+- High-payout plays now require vol>$5k, price >=0.08, resolving within 2 days
+
+**Current portfolio:**
+- USDC: $77.50 | Deployed: $36 across 5 positions
+- Max payout if all win: $148.07 + $77.50 = $225.57
+- NBA games resolve tonight (01:00-03:30 UTC), Elon tweets resolve March 13
+- Key bet: T-Wolves at 47.5% (est. true probability ~53%)
+
+**Tonight's resolution timeline:**
+- ~01:00 UTC: Knicks/Jazz game ends (our NO bet)
+- ~02:30 UTC: T-Wolves/Clippers ends (our YES bet)
+- ~03:00 UTC: Hornets/Kings ends (our NO bet)
+- Next cron sessions at 00:00, 02:00, 04:00 UTC will manage positions

@@ -1,0 +1,67 @@
+[MM] Killing old instance PID 90955
+[MM] === BTC 15-min Fair-Value Market Maker ===
+[MM] UTC: 2026-03-31 08:48:08.788734+00:00
+[MM] size=6.0  poll=1.0s
+[MM] Balance: $11.12
+
+[MM] --- main loop #1 @ 08:48:11 UTC ---
+[MM] Streak: 3x DN
+[MM] Fair value: UP=0.530  DN=0.470  RSI=30.73
+
+[MM] =======================================================
+[MM] Bitcoin Up or Down - March 31, 5:00AM-5:15AM ET
+[MM] start=2026-03-31T09:00:00+00:00
+[MM] streak=3xDN RSI=30.73
+[MM] fair: UP=0.530 DN=0.470
+[MM] max:  UP=0.52  DN=0.46  (both fill → 2c+ profit/sh)
+[MM] Balance: $11.12
+[UP] BUY 6sh @ 0.52  oid=0x480748c7d18ee555b7ded496d103602991d637ca9ea44d908a5fcffa83a5a75f
+[DN] BUY 6sh @ 0.45  oid=0xce55caadba6c1cd8c10cdcf537f091130cd5bcf4db8780a7cea1e8f14986afec
+[MM] UP:BUY@0.52(max=0.52) | DN:BUY@0.45(max=0.46) | 682s to start
+[MM] UP:BUY@0.52(max=0.52) | DN:BUY@0.45(max=0.46) | 659s to start
+[MM] UP:BUY@0.52(max=0.52) | DN:BUY@0.45(max=0.46) | 641s to start
+[MM] UP:BUY@0.52(max=0.52) | DN:BUY@0.45(max=0.46) | 621s to start
+[MM] UP:BUY@0.52(max=0.52) | DN:BUY@0.45(max=0.46) | 602s to start
+[MM] UP:BUY@0.52(max=0.52) | DN:BUY@0.45(max=0.46) | 583s to start
+[MM] UP:BUY@0.52(max=0.52) | DN:BUY@0.45(max=0.46) | 565s to start
+[MM] UP:BUY@0.52(max=0.52) | DN:BUY@0.45(max=0.46) | 547s to start
+[MM] UP:BUY@0.52(max=0.52) | DN:BUY@0.45(max=0.46) | 526s to start
+[MM] UP:BUY@0.52(max=0.52) | DN:BUY@0.45(max=0.46) | 505s to start
+[MM] UP:BUY@0.52(max=0.52) | DN:BUY@0.45(max=0.46) | 487s to start
+[ORD] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[ORD] retry 2/2: PolyApiException[status_code=None, error_message=Request exception!]
+[MM] UP:BUY@0.52(max=0.52) | DN:BUY@0.45(max=0.46) | 451s to start
+[MM] UP:BUY@0.52(max=0.52) | DN:BUY@0.45(max=0.46) | 433s to start
+[MM] UP:BUY@0.52(max=0.52) | DN:BUY@0.45(max=0.46) | 415s to start
+[MM] UP order matched @ 0.52, waiting settlement...
+[DN] cancelled 0xce55caadba6c1c...
+[DN] BUY 6sh @ 0.46  oid=0xc9cbf44ad3794231ae213611cef6a4db9e7baae8dcc805839fbc7c84854eb5d6
+[UP] cancelled 0x480748c7d18ee5...
+[MM] UP filled: 6.0sh @ 0.52
+[MM] UP:FILLED@0.52 | DN:BUY@0.46(max=0.46) | 397s to start
+[MM] UP:FILLED@0.52 | DN:BUY@0.46(max=0.46) | 383s to start
+[MM] UP:FILLED@0.52 | DN:BUY@0.46(max=0.46) | 365s to start
+[MM] UP:FILLED@0.52 | DN:BUY@0.46(max=0.46) | 351s to start
+[MM] UP:FILLED@0.52 | DN:BUY@0.46(max=0.46) | 337s to start
+[MM] UP:FILLED@0.52 | DN:BUY@0.46(max=0.46) | 323s to start
+[MM] UP:FILLED@0.52 | DN:BUY@0.46(max=0.46) | 304s to start
+[MM] UP:FILLED@0.52 | DN:BUY@0.46(max=0.46) | 290s to start
+[MM] UP:FILLED@0.52 | DN:BUY@0.46(max=0.46) | 276s to start
+[MM] UP:FILLED@0.52 | DN:BUY@0.46(max=0.46) | 262s to start
+[MM] UP:FILLED@0.52 | DN:BUY@0.46(max=0.46) | 248s to start
+[MM] UP:FILLED@0.52 | DN:BUY@0.46(max=0.46) | 234s to start
+[MM] DN order matched @ 0.46, waiting settlement...
+[DN] cancelled 0xc9cbf44ad37942...
+[MM] DN filled: 6.0sh @ 0.46
+
+[MM] ╔══════════════════════════════════════════════╗
+[MM] ║  BOTH LEGS FILLED — PROFIT LOCKED
+[MM] ║  UP: 6sh @ 0.52
+[MM] ║  DN: 6sh @ 0.46
+[MM] ║  Spread captured: 2.0c/sh → $0.12
+[MM] ╚══════════════════════════════════════════════╝
+
+[MM] --- main loop #2 @ 08:56:16 UTC ---
+[MM] Streak: 3x DN
+[MM] Fair value: UP=0.540  DN=0.460  RSI=28.6
+[MM] next: Bitcoin Up or Down - March 31, 5:15AM-5:30AM ET in 1115s, fair UP=0.540 DN=0.460, waiting 275s

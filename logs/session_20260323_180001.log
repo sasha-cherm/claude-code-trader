@@ -1,0 +1,17 @@
+Session 127 complete. Summary:
+
+**Portfolio**: $45.99 cash + 3 positions (Denmark x2, Tolima)
+
+**Actions taken**:
+1. Placed $5 pre-game bet on **Tolima YES** — 10% edge vs bookmakers (PM 47% vs book 55-58%). Match at 17:00 UTC.
+2. Launched **CS2 near-res monitor** (cs2_nearres_live.py) to catch CS2 BO3 near-res signals that the main monitor misses due to time filter.
+3. Researched GameStop, Hungary, NCAAB, Colombian/Argentine football — only Tolima had actionable edge.
+
+**3 monitors running**:
+- near_res_mar23.py — NBA (10 games) + soccer
+- cs2_nearres_live.py — CS2 BLAST
+- btc_hourly_trader.py — crypto candles
+
+**Tonight's primary target**: NBA 10 games (23:00-05:00 UTC). Monitor will auto-buy near-res signals.
+
+**March 26**: World Cup European playoff semifinals (7 matches) identified as the next big near-res opportunity.

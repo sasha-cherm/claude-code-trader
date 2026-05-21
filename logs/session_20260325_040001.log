@@ -1,0 +1,14 @@
+Done. Here's what I did this session:
+
+**Built `btc_hourly_limit.py`** — a BTC-only hourly candle limit order sniper with the user's 5 signals:
+- 13:00 UTC DOWN 53.8%, 17:00 UP 56.3%, 21:00 UP 54.9%, 22:00 UP 54.0%, 23:00 DOWN 54.1%
+- Places limit orders at best bid on the orderbook
+- Follows the book up (cancel + repost) as long as edge >= 1.9 cents
+- Keeps order at lower price if edge gets too thin at new top
+- Cancels unfilled orders **5 seconds before** candle starts
+- Logs all fills and non-fills to `logs/btc_hourly_limit.jsonl`
+- Starts with 5 shares (minimal size to validate)
+
+**Running as PID 750621**. Next signal: 13:00 UTC BTC DOWN (monitoring starts at 12:30 UTC).
+
+**Portfolio**: $8.32 cash + 4 open positions (Banxico, SARB, Faroe, CHWY). CHWY resolves at 13:00 UTC today; Banxico is the highest-value position at sell=0.53 (resolves Mar 26).

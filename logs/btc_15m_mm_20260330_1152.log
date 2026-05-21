@@ -1,0 +1,462 @@
+[MM] Killing old instance PID 29636
+[MM] === BTC 15-min Spread Scalper ===
+[MM] UTC: 2026-03-30 11:52:07.461206+00:00
+[MM] size=6.0  sell_deadline=+3s  poll=1.0s
+[MM] Balance: $13.98
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 8:00AM-8:15AM ET
+[MM] start=2026-03-30T12:00:00+00:00  sell_deadline=+3s
+[MM] Side: UP (bid depth UP=902 vs DN=693)
+[MM] Trading UP token=90349123581732299509...
+[MM] Balance: $13.98
+[MM] --- Round 1 (UP) ---
+[BUY] BUY 6sh @ 0.46  oid=0x2004237d02d61956c4219c31f34bc2d33cdf82ab19bebf2e82bfe5fdb3ac25e5
+[MM] bb=0.46 ba=0.47 sp=0.01 | BUY@0.46 | 462s to start
+[MM] bb=0.46 ba=0.47 sp=0.01 | BUY@0.46 | 461s to start
+[MM] bb=0.46 ba=0.47 sp=0.01 | BUY@0.46 | 452s to start
+[MM] bb=0.46 ba=0.47 sp=0.01 | BUY@0.46 | 450s to start
+[MM] bb=0.46 ba=0.47 sp=0.01 | BUY@0.46 | 441s to start
+[MM] bb=0.46 ba=0.47 sp=0.01 | BUY@0.46 | 421s to start
+[MM] bb=0.46 ba=0.47 sp=0.01 | BUY@0.46 | 411s to start
+[MM] BUY FILLED @ 0.46
+[MM] Token balance settled: 6.00 shares
+[SELL] SELL 6sh @ 0.47  oid=0x5de1cd7b50883d0e975df43453e6a2a032e1025826224e2e82a570ebdf671e12
+[MM] bb=0.46 ba=0.47 | SELL@0.47 bought@0.46 | 405.7s left
+[MM] bb=0.46 ba=0.47 | SELL@0.47 bought@0.46 | 404.4s left
+[MM] bb=0.46 ba=0.47 | SELL@0.47 bought@0.46 | 403.1s left
+[MM] bb=0.46 ba=0.47 | SELL@0.47 bought@0.46 | 401.8s left
+[MM] bb=0.46 ba=0.47 | SELL@0.47 bought@0.46 | 400.6s left
+[MM] bb=0.46 ba=0.47 | SELL@0.47 bought@0.46 | 399.3s left
+[MM] bb=0.46 ba=0.47 | SELL@0.47 bought@0.46 | 398.0s left
+[MM] bb=0.46 ba=0.47 | SELL@0.47 bought@0.46 | 396.7s left
+[MM] bb=0.46 ba=0.47 | SELL@0.47 bought@0.46 | 395.4s left
+[MM] bb=0.46 ba=0.47 | SELL@0.47 bought@0.46 | 394.2s left
+[MM] bb=0.46 ba=0.47 | SELL@0.47 bought@0.46 | 392.9s left
+[MM] bb=0.46 ba=0.47 | SELL@0.47 bought@0.46 | 391.6s left
+[MM] bb=0.46 ba=0.47 | SELL@0.47 bought@0.46 | 390.3s left
+[MM] SELL FILLED @ 0.47  profit=$0.06
+[MM] Round 1 done, waiting for sell settlement...
+[MM] Sell settled (bal=0.00), ready for next round
+[MM] Side: UP (bid depth UP=1013 vs DN=662)
+[MM] --- Round 2 (UP) ---
+[BUY] BUY 6sh @ 0.47  oid=0x086d692b528e1e71b04f5471a8f69dc06cbfc30ca74695cc9c4374ed46cf2cbb
+[BUY] cancelled 0x086d692b528e1e...
+[BUY] BUY 6sh @ 0.48  oid=0x42f44f0e0117ff7d221d98b9abbb095210e75b8ea653ac40a4c5fee4b7905653
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 320s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 311s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 310s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 301s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 300s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 292s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 291s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 282s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 280s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 271s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 270s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 261s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 251s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 241s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 231s to start
+[MM] book error: PolyApiException[status_code=None, error_message=Request exception!]
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 212s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 210s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 201s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 200s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 191s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 181s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 171s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 162s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 161s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 152s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 151s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 141s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 140s to start
+[MM] BUY FILLED @ 0.48
+[MM] Waiting for settlement... bal=3.85 (30s left)
+[MM] Waiting for settlement... bal=3.85 (28s left)
+[MM] Token balance settled: 5.99 shares
+[SELL] SELL 6sh @ 0.49  oid=0xe89aec601dcae47c2509329396fbd4ba8dd0c5e508916d7bf91e7784c06ed696
+[MM] bb=0.48 ba=0.49 | SELL@0.49 bought@0.48 | 134.6s left
+[MM] bb=0.48 ba=0.49 | SELL@0.49 bought@0.48 | 133.3s left
+[MM] bb=0.48 ba=0.49 | SELL@0.49 bought@0.48 | 132.1s left
+[MM] bb=0.48 ba=0.49 | SELL@0.49 bought@0.48 | 130.8s left
+[MM] bb=0.48 ba=0.49 | SELL@0.49 bought@0.48 | 129.5s left
+[MM] bb=0.48 ba=0.49 | SELL@0.49 bought@0.48 | 128.3s left
+[MM] bb=0.48 ba=0.49 | SELL@0.49 bought@0.48 | 127.0s left
+[MM] bb=0.48 ba=0.49 | SELL@0.49 bought@0.48 | 125.7s left
+[MM] bb=0.48 ba=0.49 | SELL@0.49 bought@0.48 | 124.4s left
+[MM] bb=0.48 ba=0.49 | SELL@0.49 bought@0.48 | 123.2s left
+[MM] bb=0.48 ba=0.49 | SELL@0.49 bought@0.48 | 121.9s left
+[MM] bb=0.48 ba=0.49 | SELL@0.49 bought@0.48 | 120.6s left
+[MM] bb=0.48 ba=0.49 | SELL@0.49 bought@0.48 | 119.3s left
+[MM] bb=0.48 ba=0.49 | SELL@0.49 bought@0.48 | 118.1s left
+[MM] bb=0.48 ba=0.49 | SELL@0.49 bought@0.48 | 116.8s left
+[MM] bb=0.48 ba=0.49 | SELL@0.49 bought@0.48 | 115.5s left
+[MM] SELL FILLED @ 0.49  profit=$0.0598
+[MM] Round 2 done, waiting for sell settlement...
+[MM] Sell settled (bal=0.01), ready for next round
+[MM] Side: DN (bid depth DN=1305 vs UP=952)
+[MM] --- Round 3 (DN) ---
+[BUY] BUY 6sh @ 0.51  oid=0x6e07031277de460c66ad5d70d81c61c3426bdd21414f22e2bc253cbe9eb967fc
+[MM] bb=0.51 ba=0.52 sp=0.01 | BUY@0.51 | 101s to start
+[MM] bb=0.51 ba=0.52 sp=0.01 | BUY@0.51 | 92s to start
+[MM] bb=0.51 ba=0.52 sp=0.01 | BUY@0.51 | 91s to start
+[MM] BUY FILLED @ 0.51
+[MM] Waiting for settlement... bal=2.12 (30s left)
+[MM] Token balance settled: 5.99 shares
+[SELL] SELL 6sh @ 0.53  oid=0xa8d23fb6ae855ade3cb9412181765d55968ccc724b6ee2ca7534d8409b7a3673
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.51 | 84.4s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.51 | 83.2s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.51 | 81.9s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.51 | 80.6s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.51 | 79.4s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.51 | 78.1s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.51 | 76.8s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.51 | 75.6s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.51 | 74.3s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.51 | 73.0s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.51 | 71.8s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.51 | 70.5s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.51 | 69.2s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.51 | 67.9s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.51 | 66.6s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.51 | 65.4s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.51 | 64.1s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.51 | 62.9s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.51 | 61.6s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.51 | 60.3s left
+[MM] SELL FILLED @ 0.53  profit=$0.1198
+[MM] Round 3 done, waiting for sell settlement...
+[MM] Sell settled (bal=0.00), ready for next round
+[MM] book error: PolyApiException[status_code=None, error_message=Request exception!]
+[MM] Side: UP (bid depth UP=1380 vs DN=0)
+[MM] --- Round 4 (UP) ---
+[BUY] BUY 6sh @ 0.47  oid=0xc4254e77b2b9d576d4b065c678385cc7a8e3cc8695aada29cd1dd6ce66fe0a40
+[BUY] cancelled 0xc4254e77b2b9d5...
+[BUY] BUY 6sh @ 0.48  oid=0x481c93dc6526f85de485e62c91323797b5e58c5348b74c6b1031f8cf97e4abac
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 41s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 | BUY@0.48 | 40s to start
+[MM] BUY FILLED @ 0.48
+[MM] Waiting for settlement... bal=5.78 (30s left)
+[MM] Waiting for settlement... bal=5.78 (28s left)
+[MM] Token balance settled: 6.01 shares
+[SELL] SELL 6sh @ 0.49  oid=0x99e90050c869f91611cb3c3ef64feb5022bb3a6bf600bf3e9fb8f56859c9c9be
+[MM] bb=0.47 ba=0.49 | SELL@0.49 bought@0.48 | 35.9s left
+[MM] bb=0.47 ba=0.49 | SELL@0.49 bought@0.48 | 34.7s left
+[MM] bb=0.47 ba=0.49 | SELL@0.49 bought@0.48 | 33.4s left
+[MM] bb=0.47 ba=0.49 | SELL@0.49 bought@0.48 | 32.1s left
+[MM] bb=0.47 ba=0.49 | SELL@0.49 bought@0.48 | 30.9s left
+[MM] bb=0.47 ba=0.49 | SELL@0.49 bought@0.48 | 29.6s left
+[MM] bb=0.47 ba=0.49 | SELL@0.49 bought@0.48 | 28.4s left
+[MM] bb=0.47 ba=0.49 | SELL@0.49 bought@0.48 | 27.1s left
+[MM] bb=0.46 ba=0.47 | SELL@0.49 bought@0.48 | 25.8s left
+[MM] bb=0.46 ba=0.47 | SELL@0.49 bought@0.48 | 24.5s left
+[MM] bb=0.46 ba=0.47 | SELL@0.49 bought@0.48 | 23.2s left
+[MM] bb=0.46 ba=0.47 | SELL@0.49 bought@0.48 | 22.0s left
+[MM] bb=0.46 ba=0.47 | SELL@0.49 bought@0.48 | 20.7s left
+[MM] bb=0.46 ba=0.47 | SELL@0.49 bought@0.48 | 19.5s left
+[MM] bb=0.46 ba=0.47 | SELL@0.49 bought@0.48 | 18.2s left
+[MM] bb=0.46 ba=0.47 | SELL@0.49 bought@0.48 | 16.9s left
+[MM] bb=0.46 ba=0.47 | SELL@0.49 bought@0.48 | 15.6s left
+[MM] bb=0.46 ba=0.47 | SELL@0.49 bought@0.48 | 14.4s left
+[MM] bb=0.46 ba=0.47 | SELL@0.49 bought@0.48 | 13.1s left
+[MM] bb=0.46 ba=0.47 | SELL@0.49 bought@0.48 | 11.9s left
+[MM] bb=0.46 ba=0.47 | SELL@0.49 bought@0.48 | 10.6s left
+[MM] bb=0.46 ba=0.47 | SELL@0.49 bought@0.48 | 9.3s left
+[MM] bb=0.46 ba=0.47 | SELL@0.49 bought@0.48 | 8.1s left
+[MM] bb=0.46 ba=0.47 | SELL@0.49 bought@0.48 | 6.8s left
+[MM] bb=0.46 ba=0.47 | SELL@0.49 bought@0.48 | 5.5s left
+[MM] bb=0.46 ba=0.47 | SELL@0.49 bought@0.48 | 4.3s left
+[MM] bb=0.46 ba=0.47 | SELL@0.49 bought@0.48 | 3.0s left
+[MM] bb=0.46 ba=0.47 | SELL@0.49 bought@0.48 | 1.8s left
+[MM] SELL FILLED @ 0.49  profit=$0.06
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 8:15AM-8:30AM ET
+[MM] start=2026-03-30T12:15:00+00:00  sell_deadline=+3s
+[MM] Side: DN (bid depth DN=1496 vs UP=983)
+[MM] Trading DN token=53766597222736747196...
+[MM] Balance: $14.10
+[MM] --- Round 1 (DN) ---
+[BUY] BUY 6sh @ 0.50  oid=0x9ce9aea5647527cf2e3ef610057686bb43d96c4895473c292e8805f5a8c46d70
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 891s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 890s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 881s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 871s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 862s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 861s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 852s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 850s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 832s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 831s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 822s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 821s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 812s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 810s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 801s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 800s to start
+[MM] book error: PolyApiException[status_code=None, error_message=Request exception!]
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 781s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 771s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 762s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 761s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 752s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 751s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 742s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 740s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 731s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 730s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 721s to start
+[MM] book error: PolyApiException[status_code=None, error_message=Request exception!]
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 702s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 701s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 692s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 690s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 682s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 680s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 671s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 670s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 661s to start
+[MM] bb=0.50 ba=0.51 sp=0.01 | BUY@0.5 | 651s to start
+[BUY] cancelled 0x9ce9aea5647527...
+[BUY] BUY 6sh @ 0.51  oid=0x7a3aa048355257b58f8ad9ecdda45ecbcb93b14634a733a66e6d9e5ded0adba3
+[BUY] cancelled 0x7a3aa048355257...
+[BUY] BUY 6sh @ 0.52  oid=0x261e8a8b73bf59ea77fcb0d5ff6bb977594a187ef5caf9a4ff4f3e8b5727b1a7
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 631s to start
+[MM] book error: PolyApiException[status_code=None, error_message=Request exception!]
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 611s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 610s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 601s to start
+[BUY] cancelled 0x261e8a8b73bf59...
+[BUY] BUY 6sh @ 0.53  oid=0x33b5655548a0d4cab85601979449af1ad17f86786888a7492050ba333d25dc33
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 581s to start
+[MM] BUY FILLED @ 0.53
+[MM] Waiting for settlement... bal=0.00 (30s left)
+[MM] Token balance settled: 6.00 shares
+[SELL] SELL 6sh @ 0.54  oid=0x4ab10d027bfd0b0730682b88b9c7cc2191932f4b1333730c9552a7e5287b0173
+[MM] bb=0.53 ba=0.54 | SELL@0.54 bought@0.53 | 571.2s left
+[MM] bb=0.53 ba=0.54 | SELL@0.54 bought@0.53 | 570.0s left
+[MM] bb=0.53 ba=0.54 | SELL@0.54 bought@0.53 | 568.7s left
+[MM] bb=0.53 ba=0.54 | SELL@0.54 bought@0.53 | 567.4s left
+[MM] bb=0.53 ba=0.54 | SELL@0.54 bought@0.53 | 566.2s left
+[MM] bb=0.53 ba=0.54 | SELL@0.54 bought@0.53 | 564.9s left
+[MM] bb=0.53 ba=0.54 | SELL@0.54 bought@0.53 | 563.6s left
+[MM] bb=0.53 ba=0.54 | SELL@0.54 bought@0.53 | 562.4s left
+[MM] bb=0.53 ba=0.54 | SELL@0.54 bought@0.53 | 561.1s left
+[MM] bb=0.53 ba=0.54 | SELL@0.54 bought@0.53 | 559.8s left
+[MM] bb=0.53 ba=0.54 | SELL@0.54 bought@0.53 | 558.5s left
+[MM] bb=0.53 ba=0.54 | SELL@0.54 bought@0.53 | 557.3s left
+[MM] bb=0.53 ba=0.54 | SELL@0.54 bought@0.53 | 556.0s left
+[MM] SELL FILLED @ 0.54  profit=$0.06
+[MM] Round 1 done, waiting for sell settlement...
+[MM] Sell settled (bal=0.00), ready for next round
+[MM] Side: DN (bid depth DN=1670 vs UP=1670)
+[MM] --- Round 2 (DN) ---
+[BUY] BUY 6sh @ 0.54  oid=0x812806679b27279738e49c96fe041a00ed14f1eccde73687cbfddadb6b76fa67
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 541s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 532s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 531s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 522s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 520s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 512s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 510s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 501s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 500s to start
+[BUY] cancelled 0x812806679b2727...
+[BUY] BUY 6sh @ 0.55  oid=0x29d5a707d9bf702e6bada4b131ae7bd92642c4ab63531613b203cff8006b086b
+[MM] bb=0.55 ba=0.56 sp=0.01 | BUY@0.55 | 491s to start
+[MM] bb=0.55 ba=0.56 sp=0.01 | BUY@0.55 | 490s to start
+[MM] bb=0.55 ba=0.56 sp=0.01 | BUY@0.55 | 481s to start
+[MM] bb=0.55 ba=0.56 sp=0.01 | BUY@0.55 | 471s to start
+[MM] bb=0.55 ba=0.56 sp=0.01 | BUY@0.55 | 462s to start
+[MM] bb=0.55 ba=0.56 sp=0.01 | BUY@0.55 | 461s to start
+[MM] bb=0.55 ba=0.56 sp=0.01 | BUY@0.55 | 452s to start
+[MM] bb=0.55 ba=0.56 sp=0.01 | BUY@0.55 | 450s to start
+[MM] bb=0.55 ba=0.56 sp=0.01 | BUY@0.55 | 442s to start
+[MM] bb=0.55 ba=0.56 sp=0.01 | BUY@0.55 | 440s to start
+[BUY] cancelled 0x29d5a707d9bf70...
+[BUY] BUY 6sh @ 0.56  oid=0x91d28453d7ed0f9f9c653ce1fae5f75f9fdc16aa1154fa5cfbfe7db38a67f709
+[MM] bb=0.56 ba=0.57 sp=0.01 | BUY@0.56 | 431s to start
+[MM] bb=0.56 ba=0.57 sp=0.01 | BUY@0.56 | 421s to start
+[MM] bb=0.56 ba=0.57 sp=0.01 | BUY@0.56 | 411s to start
+[MM] bb=0.56 ba=0.57 sp=0.01 | BUY@0.56 | 402s to start
+[MM] bb=0.56 ba=0.57 sp=0.01 | BUY@0.56 | 401s to start
+[MM] bb=0.56 ba=0.57 sp=0.01 | BUY@0.56 | 392s to start
+[MM] bb=0.56 ba=0.57 sp=0.01 | BUY@0.56 | 391s to start
+[MM] bb=0.56 ba=0.57 sp=0.01 | BUY@0.56 | 382s to start
+[MM] bb=0.56 ba=0.57 sp=0.01 | BUY@0.56 | 380s to start
+[MM] bb=0.56 ba=0.57 sp=0.01 | BUY@0.56 | 372s to start
+[MM] bb=0.56 ba=0.57 sp=0.01 | BUY@0.56 | 370s to start
+[MM] bb=0.56 ba=0.57 sp=0.01 | BUY@0.56 | 361s to start
+[MM] bb=0.56 ba=0.57 sp=0.01 | BUY@0.56 | 360s to start
+[MM] bb=0.56 ba=0.57 sp=0.01 | BUY@0.56 | 351s to start
+[MM] BUY FILLED @ 0.56
+[MM] Waiting for settlement... bal=0.00 (30s left)
+[MM] Waiting for settlement... bal=0.00 (28s left)
+[MM] Token balance settled: 6.00 shares
+[SELL] SELL 6sh @ 0.57  oid=0x804700e83057d0e5f617e3070d3465ff318c8bd252372aa98d4ea94a7a438cc2
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 343.3s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 342.0s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 340.7s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 339.5s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 338.2s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 336.9s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 335.7s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 334.4s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 333.1s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 331.9s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 330.6s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 329.4s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 328.1s left
+[MM] bb=0.56 ba=0.57 | SELL@0.57 bought@0.56 | 326.8s left
+[MM] bb=0.56 ba=0.57 | SELL@0.57 bought@0.56 | 325.6s left
+[MM] bb=0.56 ba=0.57 | SELL@0.57 bought@0.56 | 324.3s left
+[MM] bb=0.56 ba=0.57 | SELL@0.57 bought@0.56 | 323.0s left
+[MM] bb=0.56 ba=0.57 | SELL@0.57 bought@0.56 | 321.8s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 320.5s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 319.2s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 318.0s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 316.7s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 315.4s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 314.1s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 312.9s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 311.6s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 310.3s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 309.1s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 307.8s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 306.5s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 305.3s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 304.0s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 302.8s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 301.5s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 300.2s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 299.0s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 297.7s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 296.4s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 295.2s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 293.9s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 292.6s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 291.4s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 290.1s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 288.8s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 287.6s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 286.3s left
+[MM] bb=0.55 ba=0.57 | SELL@0.57 bought@0.56 | 285.0s left
+[MM] bb=0.55 ba=0.56 | SELL@0.57 bought@0.56 | 283.8s left
+[MM] bb=0.55 ba=0.56 | SELL@0.57 bought@0.56 | 282.5s left
+[MM] bb=0.55 ba=0.56 | SELL@0.57 bought@0.56 | 281.2s left
+[MM] bb=0.55 ba=0.56 | SELL@0.57 bought@0.56 | 280.0s left
+[MM] bb=0.55 ba=0.56 | SELL@0.57 bought@0.56 | 278.7s left
+[MM] bb=0.55 ba=0.56 | SELL@0.57 bought@0.56 | 277.4s left
+[MM] bb=0.55 ba=0.56 | SELL@0.57 bought@0.56 | 276.2s left
+[MM] bb=0.55 ba=0.56 | SELL@0.57 bought@0.56 | 274.9s left
+[MM] bb=0.55 ba=0.56 | SELL@0.57 bought@0.56 | 273.6s left
+[MM] bb=0.55 ba=0.56 | SELL@0.57 bought@0.56 | 272.4s left
+[MM] bb=0.55 ba=0.56 | SELL@0.57 bought@0.56 | 271.1s left
+[MM] bb=0.55 ba=0.56 | SELL@0.57 bought@0.56 | 269.9s left
+[MM] bb=0.55 ba=0.56 | SELL@0.57 bought@0.56 | 268.6s left
+[MM] bb=0.56 ba=0.57 | SELL@0.57 bought@0.56 | 267.3s left
+[MM] bb=0.56 ba=0.57 | SELL@0.57 bought@0.56 | 266.1s left
+[MM] bb=0.56 ba=0.57 | SELL@0.57 bought@0.56 | 264.8s left
+[MM] bb=0.56 ba=0.57 | SELL@0.57 bought@0.56 | 263.5s left
+[MM] bb=0.56 ba=0.57 | SELL@0.57 bought@0.56 | 262.3s left
+[MM] bb=0.56 ba=0.57 | SELL@0.57 bought@0.56 | 261.0s left
+[MM] bb=0.56 ba=0.57 | SELL@0.57 bought@0.56 | 259.7s left
+[MM] bb=0.56 ba=0.57 | SELL@0.57 bought@0.56 | 258.5s left
+[MM] bb=0.56 ba=0.57 | SELL@0.57 bought@0.56 | 257.2s left
+[MM] bb=0.56 ba=0.57 | SELL@0.57 bought@0.56 | 255.9s left
+[MM] bb=0.56 ba=0.57 | SELL@0.57 bought@0.56 | 254.6s left
+[MM] bb=0.56 ba=0.57 | SELL@0.57 bought@0.56 | 253.4s left
+[MM] bb=0.56 ba=0.57 | SELL@0.57 bought@0.56 | 252.1s left
+[MM] bb=0.56 ba=0.57 | SELL@0.57 bought@0.56 | 250.8s left
+[MM] bb=0.56 ba=0.57 | SELL@0.57 bought@0.56 | 249.6s left
+[MM] bb=0.56 ba=0.57 | SELL@0.57 bought@0.56 | 248.3s left
+[MM] bb=0.56 ba=0.57 | SELL@0.57 bought@0.56 | 247.1s left
+[MM] SELL FILLED @ 0.57  profit=$0.06
+[MM] Round 2 done, waiting for sell settlement...
+[MM] Sell settled (bal=0.00), ready for next round
+[MM] Side: UP (bid depth UP=3899 vs DN=1552)
+[MM] --- Round 3 (UP) ---
+[BUY] BUY 6sh @ 0.43  oid=0xfc7b97469b4a550097c4cad5ca09a47f8d61a2241700541918050f6b8f953e61
+[MM] bb=0.43 ba=0.44 sp=0.01 | BUY@0.43 | 231s to start
+[MM] bb=0.43 ba=0.44 sp=0.01 | BUY@0.43 | 221s to start
+[MM] bb=0.43 ba=0.44 sp=0.01 | BUY@0.43 | 211s to start
+[MM] bb=0.43 ba=0.44 sp=0.01 | BUY@0.43 | 201s to start
+[MM] bb=0.43 ba=0.44 sp=0.01 | BUY@0.43 | 192s to start
+[MM] bb=0.43 ba=0.44 sp=0.01 | BUY@0.43 | 191s to start
+[MM] bb=0.43 ba=0.44 sp=0.01 | BUY@0.43 | 182s to start
+[MM] bb=0.43 ba=0.44 sp=0.01 | BUY@0.43 | 180s to start
+[MM] bb=0.43 ba=0.44 sp=0.01 | BUY@0.43 | 172s to start
+[MM] bb=0.43 ba=0.44 sp=0.01 | BUY@0.43 | 170s to start
+[BUY] cancelled 0xfc7b97469b4a55...
+[BUY] BUY 6sh @ 0.44  oid=0x2f8c73d3577ab61b8c8f0ec8f1595ee44fa65e5ffea08cf54f9c3f74bc437a8e
+[MM] BUY FILLED @ 0.44
+[MM] Waiting for settlement... bal=4.07 (30s left)
+[MM] Waiting for settlement... bal=4.07 (28s left)
+[MM] Waiting for settlement... bal=4.07 (26s left)
+[MM] Waiting for settlement... bal=4.07 (24s left)
+[MM] Waiting for settlement... bal=4.07 (21s left)
+[MM] Waiting for settlement... bal=4.07 (19s left)
+[MM] Waiting for settlement... bal=4.07 (17s left)
+[MM] Waiting for settlement... bal=4.07 (15s left)
+[MM] Waiting for settlement... bal=4.07 (13s left)
+[MM] Waiting for settlement... bal=4.07 (11s left)
+[MM] Waiting for settlement... bal=4.07 (9s left)
+[MM] Waiting for settlement... bal=4.07 (6s left)
+[MM] Waiting for settlement... bal=4.07 (4s left)
+[MM] Waiting for settlement... bal=4.07 (2s left)
+[MM] Waiting for settlement... bal=4.07 (0s left)
+[MM] Settlement timeout. Balance: 4.07, needed: 6.0
+[MM] No tokens to sell, skipping SELL phase
+[MM] next: Bitcoin Up or Down - March 30, 8:30AM-8:45AM ET in 1025s, sleeping 125s
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 8:30AM-8:45AM ET
+[MM] start=2026-03-30T12:30:00+00:00  sell_deadline=+3s
+[MM] Side: DN (bid depth DN=1377 vs UP=529)
+[MM] Trading DN token=18693551880697014125...
+[MM] Balance: $15.41
+[MM] --- Round 1 (DN) ---
+[BUY] BUY 6sh @ 0.50  oid=0xa031efc16d6871e05fe3be6c6da142b22e360892c861431dadd1a19024a6a603
+[BUY] cancelled 0xa031efc16d6871...
+[BUY] BUY 6sh @ 0.51  oid=0x28e859cfdafac8da9769344f68c1d1393ee2f45ed989776a48d997aca13edc9f
+[BUY] cancelled 0x28e859cfdafac8...
+[BUY] BUY 6sh @ 0.52  oid=0x118f75fbd8a9ed42f7ccc26cb566a29d15405506394b68c45e336583ee6f7dc4
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 891s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 880s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 872s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 870s to start
+[BUY] cancelled 0x118f75fbd8a9ed...
+[BUY] BUY 6sh @ 0.53  oid=0x1df89d34cdc11f9f67aa722c28abb73fe288835f36c2254e3a790ff8f0b27d7f
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 861s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 851s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 842s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 841s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 832s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 830s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 821s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 820s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 811s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 801s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 791s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 782s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 781s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 772s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 771s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 762s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 760s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 751s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 750s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 741s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 731s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 721s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 712s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 711s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 701s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 700s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 691s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 681s to start
+
+[MM] Signal 15, stopping...
+[MM] shutdown

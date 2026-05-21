@@ -1,0 +1,17 @@
+Everything is in order:
+
+**Status: Waiting for funds**
+- Balance: $0.00 (funds deposit at 13:00 UTC, ~4 hours away)
+- Cron runs every 2 hours — the **14:00 UTC** session will be the first trading run
+- Market discovery working: 76 opportunities found, **7 tradeable right now**
+
+**Top trades queued for execution at 14:00 UTC:**
+| Market | Side | Price | Edge | Resolves |
+|--------|------|-------|------|----------|
+| Knicks vs Jazz | NO | 0.125 | 0.06 | ~17 hrs |
+| Elon tweets 320-339 (Mar 6-13) | YES | 0.114 | 0.06 | 2.3 days |
+| Elon tweets 400-419 (Mar 6-13) | YES | 0.134 | 0.06 | 2.3 days |
+| Elon tweets 380-399 (Mar 6-13) | YES | 0.148 | 0.06 | 2.3 days |
+| Real Madrid win Mar 11 | YES | 0.265 | 0.06 | ~12 hrs |
+
+The strategy will fill up to 5 positions with quarter-Kelly sizing (~$2–7 each given $100 balance, floored at $5 for near-resolution). Nothing to fix — code is clean, cron is live, waiting on deposit.

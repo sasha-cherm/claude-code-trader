@@ -1,0 +1,113 @@
+[MM] === BTC 15-min Spread Scalper ===
+[MM] UTC: 2026-03-30 09:28:05.941024+00:00
+[MM] size=5.0  sell_deadline=+3s  poll=1.0s
+[MM] Balance: $11.99
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 5:30AM-5:45AM ET
+[MM] start=2026-03-30T09:30:00+00:00  sell_deadline=+3s
+[MM] token=63487731781870208852...
+[MM] Balance: $11.99
+[BUY] BUY 5sh @ 0.59  oid=0xba14b0b68cfee03c1f4f8ae783892f6a174445ec5d31b16e98ad17d5e930a859
+[MM] bb=0.59 ba=0.60 sp=0.01 | BUY@0.59 | 112s to start
+[MM] bb=0.59 ba=0.60 sp=0.01 | BUY@0.59 | 110s to start
+[MM] bb=0.59 ba=0.60 sp=0.01 | BUY@0.59 | 101s to start
+[MM] bb=0.59 ba=0.60 sp=0.01 | BUY@0.59 | 100s to start
+[BUY] cancelled 0xba14b0b68cfee0...
+[BUY] BUY 5sh @ 0.60  oid=0xc7e6544f81c46dada74d082ab7e3ec3e5bb3736ae1d6a191338ddd08629e7d9e
+[MM] BUY FILLED @ 0.60
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 0, order amount: 5000000'}]
+[MM] bb=0.59 ba=0.61 | SELL@0.6 bought@0.60 | 98.7s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 0, order amount: 5000000'}]
+[MM] bb=0.60 ba=0.61 | SELL@0.61 bought@0.60 | 97.3s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 0, order amount: 5000000'}]
+[MM] bb=0.60 ba=0.61 | SELL@0.61 bought@0.60 | 96.1s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 0, order amount: 5000000'}]
+[MM] bb=0.60 ba=0.61 | SELL@0.61 bought@0.60 | 94.8s left
+[SELL] SELL 5sh @ 0.61  oid=0x79594208b4aaca208df344b0a70915c87ebcaba9300d6d0d70dcad95125984cc
+[MM] bb=0.60 ba=0.61 | SELL@0.61 bought@0.60 | 93.5s left
+[MM] bb=0.60 ba=0.61 | SELL@0.61 bought@0.60 | 92.3s left
+[MM] bb=0.60 ba=0.61 | SELL@0.61 bought@0.60 | 91.0s left
+[MM] bb=0.60 ba=0.61 | SELL@0.61 bought@0.60 | 89.3s left
+[MM] bb=0.60 ba=0.61 | SELL@0.61 bought@0.60 | 88.1s left
+[MM] bb=0.60 ba=0.61 | SELL@0.61 bought@0.60 | 86.7s left
+[MM] bb=0.60 ba=0.61 | SELL@0.61 bought@0.60 | 85.4s left
+[MM] bb=0.60 ba=0.61 | SELL@0.61 bought@0.60 | 84.2s left
+[MM] bb=0.60 ba=0.61 | SELL@0.61 bought@0.60 | 82.9s left
+[MM] bb=0.60 ba=0.61 | SELL@0.61 bought@0.60 | 81.6s left
+[MM] bb=0.60 ba=0.61 | SELL@0.61 bought@0.60 | 80.4s left
+[MM] bb=0.60 ba=0.61 | SELL@0.61 bought@0.60 | 79.1s left
+[MM] bb=0.60 ba=0.61 | SELL@0.61 bought@0.60 | 77.8s left
+[MM] bb=0.60 ba=0.61 | SELL@0.61 bought@0.60 | 76.6s left
+[MM] bb=0.60 ba=0.61 | SELL@0.61 bought@0.60 | 75.3s left
+[MM] bb=0.60 ba=0.61 | SELL@0.61 bought@0.60 | 74.1s left
+[MM] bb=0.60 ba=0.61 | SELL@0.61 bought@0.60 | 72.8s left
+[MM] bb=0.60 ba=0.61 | SELL@0.61 bought@0.60 | 71.5s left
+[SELL] cancelled 0x79594208b4aaca...
+[SELL] SELL 5sh @ 0.60  oid=0xdeff426882b493f892df611bd35591a123a6ce42cadb616c8e7d61d7cf67db5d
+[MM] bb=0.59 ba=0.61 | SELL@0.6 bought@0.60 | 70.3s left
+[MM] bb=0.59 ba=0.60 | SELL@0.6 bought@0.60 | 68.6s left
+[MM] SELL FILLED @ 0.60  profit=$0.0
+[MM] next: Bitcoin Up or Down - March 30, 5:45AM-6:00AM ET in 961s, sleeping 61s
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 5:45AM-6:00AM ET
+[MM] start=2026-03-30T09:45:00+00:00  sell_deadline=+3s
+[MM] token=10619819866382068505...
+[MM] Balance: $7.04
+[BUY] BUY 5sh @ 0.51  oid=0x36ac387179bf7bcf3fd0e6d52366b99b8ab9eedf548b82249b72bd125414e831
+[BUY] cancelled 0x36ac387179bf7b...
+[BUY] BUY 5sh @ 0.52  oid=0x748c59c6bab79434ba0e9254f8611c2f9f0aa8b66afeb225ee5d6c99944f88c9
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 892s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 891s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 882s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 880s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 872s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 870s to start
+[BUY] cancelled 0x748c59c6bab794...
+[BUY] BUY 5sh @ 0.53  oid=0xa3ac60f1a9304c14c6aaf46c7389841e0a053a37bd29672c6581e1abeced3932
+[MM] bb=0.52 ba=0.54 sp=0.02 | BUY@0.53 | 861s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 851s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 841s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 832s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 831s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 822s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 821s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 812s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 810s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 802s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 800s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 791s to start
+[MM] bb=0.53 ba=0.54 sp=0.01 | BUY@0.53 | 790s to start
+[MM] BUY FILLED @ 0.53
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 0, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 785.3s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 0, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 784.0s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 0, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 782.7s left
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 0, order amount: 5000000'}]
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 781.5s left
+[SELL] SELL 5sh @ 0.53  oid=0x088a6b43ce15b4d283a0b39123b91086fab081c8bdb00907c81012568083c53c
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 780.2s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 778.9s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 777.7s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 776.4s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 775.1s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 773.9s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 772.6s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 771.4s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 770.1s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 768.9s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 767.6s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 766.3s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 765.1s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 763.8s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 762.6s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 761.3s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 760.0s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 758.8s left
+[MM] bb=0.52 ba=0.53 | SELL@0.53 bought@0.53 | 757.5s left
+
+[MM] Signal 15, stopping...
+[MM] shutdown

@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/aleksandr.chermashentsev/projects/cc-trader-agent/btc_15m_mm_live.py", line 24, in <module>
+    from py_clob_client_v2 import Side
+ModuleNotFoundError: No module named 'py_clob_client_v2'

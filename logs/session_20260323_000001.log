@@ -1,0 +1,1 @@
+Just a type comparison bug in the background script — it was comparing `get_price()` dict results directly to floats. Doesn't affect us since the Mar 23 monitor script already handles price parsing correctly. All the key markets (NBA, CS2 BLAST, SA soccer) were already verified with proper token IDs in the `near_res_mar23.py` script.

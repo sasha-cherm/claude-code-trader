@@ -1,0 +1,1590 @@
+[CANDLE] ═══ Crypto Candle Trader — All Crypto Limit Sniper ═══
+[CANDLE] UTC now: 2026-03-28 15:04:56.210298+00:00
+[CANDLE] Signals: 12 across BTC/ETH/SOL/XRP/BNB (1H+4H)
+[CANDLE] Order size: 2.0 shares per trade
+[CANDLE] Cancel: 5s before candle start
+[CANDLE] Min edge: 1.9 cents
+[CANDLE] Balance: $9.56
+[CANDLE] Next: 17:00 UTC — BTC 1H UP.  Monitor in 85 min.
+
+[CANDLE] ── 2026-03-28 17:00 UTC batch (1 signals) ── Balance: $9.56
+[BTC] Looking up: bitcoin-up-or-down-march-28-2026-1pm-et
+[BTC] === Bitcoin Up or Down - March 28, 1PM ET ===
+[BTC] Side=UP  Edge=56.3%
+[BTC] BUY 5sh @ 0.49  oid=0x69d57364d8401d36e5afb81d8dc8cfa51ce44e3b0525c14f493b3dbb13871c28
+[BTC] Placed at 0.49  edge=7.3c
+[BTC] Cancelled 0x69d57364d8401d36e5afb81d8dc8cfa51ce44e3b0525c14f493b3dbb13871c28
+[BTC] BUY 5sh @ 0.50  oid=0xa2c9f53464f65be46667649dd75b3016d46c78e1961385e3d3e52a3108f95a38
+[BTC] Moved to 0.50  edge=6.3c  (move #1)
+[BTC] Filled at 0.50!
+[TRADE-BTC] 2026-03-28 17:00:00+00:00 1H UP → FILLED price=0.5
+[CANDLE] Next: 20:00 UTC — XRP 4H DOWN.  Monitor in 152 min.
+
+[CANDLE] ── 2026-03-28 20:00 UTC batch (1 signals) ── Balance: $5.09
+[XRP] Looking up: xrp-updown-4h-1774728000
+[XRP] === XRP Up or Down - March 28, 4:00PM-8:00PM ET ===
+[XRP] Side=DOWN  Edge=56.0%
+[XRP] BUY 5sh @ 0.48  oid=0x5eb6675e903c8a7d67616b864a1a30029bb3fec100666a98e46642fa14152d01
+[XRP] Placed at 0.48  edge=8.0c
+[XRP] Orderbook error: PolyApiException[status_code=None, error_message=Request exception!]
+[XRP] Cancelled 0x5eb6675e903c8a7d67616b864a1a30029bb3fec100666a98e46642fa14152d01
+[XRP] Cancelled 5s before candle start
+[TRADE-XRP] 2026-03-28 20:00:00+00:00 4H DOWN → NOT_FILLED price=0.48
+[CANDLE] Next: 21:00 UTC — BTC 1H UP, BNB 1H UP.  Monitor in 30 min.
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 21:00 UTC batch (2 signals) ── Balance: $3.67
+[CANDLE] Balance $3.67 < $5.00 minimum — SKIPPING batch
+[CANDLE] Next: 22:00 UTC — BTC 1H UP, BNB 1H UP.  Monitor in 30 min.
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 22:00 UTC batch (2 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+[CANDLE] Next: 23:00 UTC — BTC 1H DOWN, XRP 1H DOWN, ETH 1H DOWN, SOL 1H DOWN.  Monitor in 30 min.
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+
+[CANDLE] ── 2026-03-28 23:00 UTC batch (4 signals) ── Balance: $2.64
+[CANDLE] Balance $2.64 < $5.00 minimum — SKIPPING batch
+[CANDLE] Next: 12:00 UTC — SOL 4H DOWN.  Monitor in 750 min.
+
+[CANDLE] ── 2026-03-29 12:00 UTC batch (1 signals) ── Balance: $7.36
+[SOL] Looking up: sol-updown-4h-1774785600
+[SOL] === Solana Up or Down - March 29, 8:00AM-12:00PM ET ===
+[SOL] Side=DOWN  Edge=56.0%
+[SOL] BUY 5sh @ 0.48  oid=0xc3d3c8a770956a4f4f232f82c2406fdac8ac4b946d09fcfda5cc1239b0ef394a
+[SOL] Placed at 0.48  edge=8.0c
+[SOL] Cancelled 0xc3d3c8a770956a4f4f232f82c2406fdac8ac4b946d09fcfda5cc1239b0ef394a
+[SOL] Cancelled 5s before candle start
+[TRADE-SOL] 2026-03-29 12:00:00+00:00 4H DOWN → NOT_FILLED price=0.48
+[CANDLE] Next: 13:00 UTC — BTC 1H DOWN.  Monitor in 30 min.
+
+[CANDLE] ── 2026-03-29 13:00 UTC batch (1 signals) ── Balance: $7.36
+[BTC] Looking up: bitcoin-up-or-down-march-29-2026-9am-et
+[BTC] === Bitcoin Up or Down - March 29, 9AM ET ===
+[BTC] Side=DOWN  Edge=53.8%
+[BTC] BUY 5sh @ 0.50  oid=0x63456ecfa81e17e567ac8228755e9c2e5919c92320e6a09f4ac12a5c83e25540
+[BTC] Placed at 0.50  edge=3.8c
+[BTC] Filled at 0.50!
+[TRADE-BTC] 2026-03-29 13:00:00+00:00 1H DOWN → FILLED price=0.5
+[CANDLE] Next: 17:00 UTC — BTC 1H UP.  Monitor in 230 min.
+
+[CANDLE] Signal 15, shutting down...
+[CANDLE] Shutdown complete.

@@ -1,0 +1,22 @@
+Session 72 complete. Summary:
+
+**Balance**: $31.65 USDC | **Campaign**: $100 → $31.65 (-68%, day 7)
+
+**Actions taken**:
+- Placed $3 on GIS earnings YES (15.78 shares @ $0.19) — historical 83% beat rate vs 13% PM price
+- Added Hawks/Mavericks + Lakers/Rockets to NBA near-res script (now 8 games)
+- Verified all 3 near-res scripts ready (soccer, CS2, NBA)
+
+**Key findings**:
+- **No pre-game edge** on NBA (all <5% vs ESPN), CL (all efficient), or BTC
+- **NCAAB March Madness games have active dynamic MMs** — previous sessions were wrong saying no NCAAB markets exist. 14+ First Round games tradeable. Need live game test tonight.
+- **CS2 BLAST Rotterdam**: 8 BO3 matches with deep liquidity confirmed
+
+**Today's schedule**:
+| UTC | Action |
+|-----|--------|
+| 12:00 | Weather settlements + kill mm_continuous |
+| ~11:00 | GIS earnings release |
+| 13:00 | Launch soccer near-res (CL/EL/Serie B/Brazil) |
+| 15:00 | Launch CS2 near-res (BLAST 4 matches) |
+| 23:00 | Launch NBA near-res (8 games) |

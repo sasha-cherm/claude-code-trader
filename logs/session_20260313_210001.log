@@ -1,0 +1,10 @@
+European monitor is running perfectly — polling every 60s, balance reflected correctly ($39.31). Matches kick off in ~75-105 minutes. Prices are stable pre-game.
+
+**Session 24 Summary:**
+
+- **Balance**: $39.31 cash + 52.86 MBJ shares ($29.34) = ~$68.65 total
+- **Added $9.09 to MBJ Best Actor** — 11.7% edge confirmed (DraftKings -200 vs PM 55.3%). If MBJ wins Oscar on March 15, pays $52.86 (+119%)
+- **European near-res monitor running** — watches 6 matches kicking off 19:30-20:00 UTC, auto-buys on 15%+ price jumps near match end
+- **NBA/NHL watch list added** to near_res_monitor.py with `--nba` flag for 00:00/02:00 UTC sessions
+- **Saudi/Turkish matches** — no signals (Fenerbahce collapsed from 0.675→0.18)
+- The 21:00 cron session will catch European near-resolution plays when matches hit 80th+ minute

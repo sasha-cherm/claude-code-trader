@@ -1,0 +1,14 @@
+Session 158 complete. Summary:
+
+**Status**: $46.68 cash + 4 open positions. Day 15 of campaign.
+
+**Actions taken**:
+- Fixed btc_hourly_trader infinite loop bug (MARKET_NOT_FOUND candles weren't tracked). Restarted.
+- Added 20.51 shares Banxico Hold YES @ 0.39 — Reuters poll shows 57% expect hold vs PM pricing 33%. Strong positive EV.
+
+**Today's key events**:
+- ~13:00 UTC: SARB announcement (our position likely loses, -$3.74)
+- ~13:00 UTC: Launch soccer near-res monitor (14 UEFA/FIFA matches)
+- **~19:00 UTC: BANXICO announcement** — biggest swing: +$27 if hold, -$20 if cut
+- 19:45 UTC: Slovakia vs Kosovo (our YES at 0.47)
+- ~21:00 UTC: Launch basketball near-res monitor (3 NBA + 1 NCAAB)

@@ -1,0 +1,16 @@
+Session 61 complete. Here's the summary:
+
+**Actions taken:**
+- Sold London **15°C** weather position (-$0.42 loss) — user correctly identified the wrong market. Forecast is 13.7°C max, so this would have been a total loss.
+- Responded to user on Telegram with status update
+- Verified all 30 near-res targets for tonight
+
+**Balance: $68.75** | No open positions
+
+**Tonight's plan (biggest night of the campaign):**
+- **13:00 UTC**: BTC threshold monitor (9 markets, 3h-to-resolution window)
+- **15:00 UTC**: CL early — Sporting vs Bodo/Glimt
+- **18:00 UTC**: CL main (Arsenal/Leverkusen TIED AGG = top target, City/RM, Chelsea/PSG) + 8 NBA games + WBC Final
+- **21:00-01:00 UTC**: Near-res windows for all matches
+
+Key context: Arsenal missing 4 key players but at home in a do-or-die tie. All scripts verified with tightened parameters (min price 0.80, min jump 0.20).

@@ -1,0 +1,1445 @@
+=== Near-Res Monitor: March 22 ===
+=== EPL + EFL Cup + BuLi + LaLiga + SerieA + Eredivisie + L1 + NBA + MLS + SA ===
+=== Started at 21:23 UTC ===
+=== 76 tokens (38 games) ===
+Params: MIN_PRICE=0.85, JUMP=0.2, SPREAD=0.04, MAX_MINS=20
+Sizing: MAX_SPEND=$18.0, PCT=0.28, MIN_SPEND=$1.0
+
+Capturing pre-game prices...
+  Pre-game Newcastle: 0.570
+  Pre-game Sunderland: 0.170
+  Pre-game Villa: 0.520
+  Pre-game West Ham: 0.230
+  Pre-game Tottenham: 0.410
+  Pre-game Forest: 0.300
+  Pre-game Arsenal: 0.400
+  Pre-game Man City: 0.290
+  Pre-game Mainz: 0.440
+  Pre-game Frankfurt: 0.280
+  Pre-game St Pauli: 0.340
+  Pre-game Freiburg: 0.340
+  Pre-game Augsburg: 0.270
+  Pre-game Stuttgart: 0.470
+  Pre-game Barcelona: 0.790
+  Pre-game Rayo: 0.070
+  Pre-game Celta: 0.490
+  Pre-game Alaves: 0.200
+  Pre-game Athletic: 0.440
+  Pre-game Betis: 0.280
+  Pre-game Real Madrid: 0.520
+  Pre-game Atletico: 0.250
+  Pre-game Atalanta: 0.690
+  Pre-game Verona: 0.100
+  Pre-game Bologna: 0.400
+  Pre-game Lazio: 0.270
+  Pre-game Roma: 0.640
+  Pre-game Lecce: 0.110
+  Pre-game Fiorentina: 0.180
+  Pre-game Inter: 0.580
+  Pre-game Feyenoord: 0.470
+  Pre-game Ajax: 0.290
+  Pre-game Utrecht: 0.580
+  Pre-game Go Ahead: 0.160
+  Pre-game Groningen: 0.360
+  Pre-game AZ: 0.370
+  Pre-game Lyon: 0.330
+  Pre-game Monaco: 0.400
+  Pre-game Marseille: 0.500
+  Pre-game Lille: 0.230
+  Pre-game Nantes: 0.250
+  Pre-game Strasbourg: 0.480
+  Pre-game Braga: 0.270
+  Pre-game Porto: 0.420
+  Pre-game Nets: 0.350
+  Pre-game Kings: 0.640
+  Pre-game TWolves: 0.230
+  Pre-game Celtics: 0.760
+  Pre-game Raptors: 0.540
+  Pre-game Suns: 0.440
+  Pre-game Cincinnati: 0.560
+  Pre-game Montreal: 0.190
+  Pre-game NYCFC: 0.410
+  Pre-game Inter Miami: 0.320
+  Pre-game Minnesota: 0.350
+  Pre-game Seattle: 0.370
+  Pre-game Portland: 0.430
+  Pre-game Galaxy: 0.290
+  Pre-game San Diego: 0.520
+  Pre-game Salt Lake: 0.220
+  Pre-game Cruzeiro: 0.540
+  Pre-game Santos: 0.190
+  Pre-game Vasco: 0.490
+  Pre-game Gremio: 0.220
+  Pre-game Internacional: 0.660
+  Pre-game Chapecoense: 0.110
+  Pre-game Corinthians: 0.260
+  Pre-game Flamengo: 0.440
+  Pre-game Estudiantes: 0.130
+  Pre-game River Plate: 0.570
+  Pre-game Boca: 0.540
+  Pre-game Instituto: 0.150
+  Pre-game Pachuca: 0.240
+  Pre-game Toluca: 0.500
+  Pre-game Juarez: 0.280
+  Pre-game Tigres: 0.430
+
+--- Check #1 at 21:23:41 UTC ---
+  Balance: $18.46
+
+--- Check #2 at 21:25:01 UTC ---
+  Balance: $18.46
+
+--- Check #3 at 21:26:22 UTC ---
+  Balance: $18.46
+
+--- Check #4 at 21:27:43 UTC ---
+  Balance: $18.46
+
+--- Check #5 at 21:29:04 UTC ---
+  Balance: $18.46
+
+--- Check #6 at 21:30:24 UTC ---
+  Balance: $18.46
+
+--- Check #7 at 21:31:45 UTC ---
+  Balance: $18.46
+
+--- Check #8 at 21:33:05 UTC ---
+  Balance: $18.46
+
+--- Check #9 at 21:34:26 UTC ---
+  Balance: $18.46
+
+--- Check #10 at 21:35:47 UTC ---
+  Balance: $18.46
+
+--- Check #11 at 21:37:07 UTC ---
+  Balance: $18.46
+
+--- Check #12 at 21:38:27 UTC ---
+  Balance: $18.46
+
+--- Check #13 at 21:39:48 UTC ---
+  Balance: $18.46
+
+--- Check #14 at 21:41:08 UTC ---
+  Balance: $18.46
+
+--- Check #15 at 21:42:30 UTC ---
+  Balance: $18.46
+
+--- Check #16 at 21:43:50 UTC ---
+  Balance: $18.46
+
+--- Check #17 at 21:45:11 UTC ---
+  Balance: $18.46
+
+--- Check #18 at 21:46:31 UTC ---
+  Balance: $18.46
+
+--- Check #19 at 21:47:52 UTC ---
+  Balance: $18.46
+
+--- Check #20 at 21:49:12 UTC ---
+  Balance: $18.46
+
+--- Check #21 at 21:50:33 UTC ---
+  Balance: $18.46
+
+--- Check #22 at 21:51:53 UTC ---
+  Balance: $18.46
+
+--- Check #23 at 21:53:13 UTC ---
+  Balance: $18.46
+
+--- Check #24 at 21:54:34 UTC ---
+  Balance: $18.46
+
+--- Check #25 at 21:55:54 UTC ---
+  Balance: $18.46
+
+--- Check #26 at 21:57:14 UTC ---
+  Balance: $18.46
+
+--- Check #27 at 21:58:35 UTC ---
+  Balance: $18.46
+
+--- Check #28 at 21:59:56 UTC ---
+  Balance: $18.46
+
+--- Check #29 at 22:01:16 UTC ---
+  Balance: $18.46
+
+--- Check #30 at 22:02:37 UTC ---
+  Balance: $18.46
+
+--- Check #31 at 22:03:57 UTC ---
+  Balance: $18.46
+
+--- Check #32 at 22:05:17 UTC ---
+  Balance: $18.46
+
+--- Check #33 at 22:06:38 UTC ---
+  Balance: $18.46
+
+--- Check #34 at 22:07:59 UTC ---
+  Balance: $18.46
+
+--- Check #35 at 22:09:19 UTC ---
+  Balance: $18.46
+
+--- Check #36 at 22:10:40 UTC ---
+  Balance: $18.46
+
+--- Check #37 at 22:12:00 UTC ---
+  Balance: $18.46
+
+--- Check #38 at 22:13:21 UTC ---
+  Balance: $18.46
+
+--- Check #39 at 22:14:42 UTC ---
+  Balance: $18.46
+
+--- Check #40 at 22:16:02 UTC ---
+  Balance: $18.46
+
+--- Check #41 at 22:17:23 UTC ---
+  Balance: $18.46
+
+--- Check #42 at 22:18:43 UTC ---
+  Balance: $18.46
+
+--- Check #43 at 22:20:03 UTC ---
+  Balance: $18.46
+
+--- Check #44 at 22:21:24 UTC ---
+  Balance: $18.46
+
+--- Check #45 at 22:22:45 UTC ---
+  Balance: $18.46
+
+--- Check #46 at 22:24:06 UTC ---
+  Balance: $18.46
+
+--- Check #47 at 22:25:26 UTC ---
+  Balance: $18.46
+
+--- Check #48 at 22:26:47 UTC ---
+  Balance: $18.46
+
+--- Check #49 at 22:28:07 UTC ---
+  Balance: $18.46
+
+--- Check #50 at 22:29:27 UTC ---
+  Balance: $18.46
+
+--- Check #51 at 22:30:48 UTC ---
+  Balance: $16.50
+
+--- Check #52 at 22:32:09 UTC ---
+  Balance: $16.50
+
+--- Check #53 at 22:33:29 UTC ---
+  Balance: $16.50
+
+--- Check #54 at 22:34:50 UTC ---
+  Balance: $16.50
+
+--- Check #55 at 22:36:10 UTC ---
+  Balance: $16.50
+
+--- Check #56 at 22:37:31 UTC ---
+  Balance: $16.50
+
+--- Check #57 at 22:38:52 UTC ---
+  Balance: $16.50
+
+--- Check #58 at 22:40:13 UTC ---
+  Balance: $16.50
+
+--- Check #59 at 22:41:34 UTC ---
+  Balance: $16.50
+
+--- Check #60 at 22:42:55 UTC ---
+  Balance: $16.50
+
+--- Check #61 at 22:44:16 UTC ---
+  Balance: $16.50
+
+--- Check #62 at 22:45:36 UTC ---
+  Balance: $16.50
+
+--- Check #63 at 22:46:57 UTC ---
+  Balance: $16.01
+
+--- Check #64 at 22:48:17 UTC ---
+  Balance: $16.01
+
+--- Check #65 at 22:49:38 UTC ---
+  Balance: $16.01
+
+--- Check #66 at 22:50:58 UTC ---
+  Balance: $16.01
+
+--- Check #67 at 22:52:19 UTC ---
+  Balance: $16.01
+
+--- Check #68 at 22:53:39 UTC ---
+  Balance: $16.01
+
+--- Check #69 at 22:54:59 UTC ---
+  Balance: $16.01
+
+--- Check #70 at 22:56:20 UTC ---
+  Balance: $16.01
+
+--- Check #71 at 22:57:41 UTC ---
+  Balance: $16.01
+
+--- Check #72 at 22:59:01 UTC ---
+  Balance: $16.01
+
+--- Check #73 at 23:00:22 UTC ---
+  Balance: $11.11
+
+--- Check #74 at 23:01:42 UTC ---
+  Balance: $11.11
+
+--- Check #75 at 23:03:02 UTC ---
+  Balance: $11.11
+
+--- Check #76 at 23:04:24 UTC ---
+  Balance: $11.11
+
+--- Check #77 at 23:05:44 UTC ---
+  Balance: $11.11
+
+--- Check #78 at 23:07:05 UTC ---
+  Balance: $11.11
+
+--- Check #79 at 23:08:26 UTC ---
+  Balance: $11.11
+
+--- Check #80 at 23:09:46 UTC ---
+  Balance: $11.11
+
+--- Check #81 at 23:11:07 UTC ---
+  Balance: $11.11
+
+--- Check #82 at 23:12:27 UTC ---
+  Balance: $11.11
+
+--- Check #83 at 23:13:47 UTC ---
+  Balance: $11.11
+
+--- Check #84 at 23:15:08 UTC ---
+  Balance: $11.11
+
+--- Check #85 at 23:16:28 UTC ---
+  Balance: $11.11
+
+--- Check #86 at 23:17:48 UTC ---
+  Balance: $11.11
+
+--- Check #87 at 23:19:09 UTC ---
+  Balance: $11.11
+
+--- Check #88 at 23:20:29 UTC ---
+  Balance: $11.11
+
+--- Check #89 at 23:21:50 UTC ---
+  Balance: $11.11
+
+--- Check #90 at 23:23:11 UTC ---
+  Balance: $11.11
+
+--- Check #91 at 23:24:32 UTC ---
+  Balance: $11.11
+
+--- Check #92 at 23:25:52 UTC ---
+  Balance: $11.11
+
+--- Check #93 at 23:27:13 UTC ---
+  Balance: $11.11
+
+--- Check #94 at 23:28:34 UTC ---
+  Balance: $11.11
+
+--- Check #95 at 23:29:55 UTC ---
+  Balance: $11.11
+
+--- Check #96 at 23:31:16 UTC ---
+  Balance: $11.11
+
+--- Check #97 at 23:32:37 UTC ---
+  Balance: $11.11
+
+--- Check #98 at 23:33:58 UTC ---
+  Balance: $11.11
+
+--- Check #99 at 23:35:18 UTC ---
+  Balance: $11.11
+
+--- Check #100 at 23:36:39 UTC ---
+  Balance: $11.11
+
+--- Check #101 at 23:37:59 UTC ---
+  Balance: $11.11
+
+--- Check #102 at 23:39:19 UTC ---
+  Balance: $11.11
+
+--- Check #103 at 23:40:39 UTC ---
+  Balance: $11.11
+
+--- Check #104 at 23:42:01 UTC ---
+  Balance: $11.11
+
+--- Check #105 at 23:43:22 UTC ---
+  Balance: $11.11
+
+--- Check #106 at 23:44:42 UTC ---
+  Balance: $11.11
+
+--- Check #107 at 23:46:03 UTC ---
+  Balance: $11.11
+
+--- Check #108 at 23:47:23 UTC ---
+  Balance: $11.11
+
+--- Check #109 at 23:48:44 UTC ---
+  Balance: $11.11
+
+--- Check #110 at 23:50:04 UTC ---
+  Balance: $11.11
+
+--- Check #111 at 23:51:25 UTC ---
+  Balance: $11.11
+
+--- Check #112 at 23:52:45 UTC ---
+  Balance: $11.11
+
+--- Check #113 at 23:54:06 UTC ---
+  Balance: $11.11
+
+--- Check #114 at 23:55:26 UTC ---
+  Balance: $11.11
+
+--- Check #115 at 23:56:47 UTC ---
+  Balance: $11.11
+
+--- Check #116 at 23:58:08 UTC ---
+  Balance: $11.11
+
+--- Check #117 at 23:59:29 UTC ---
+  Balance: $11.11
+
+--- Check #118 at 00:00:49 UTC ---
+  Balance: $11.11
+
+--- Check #119 at 00:02:09 UTC ---
+  Balance: $11.11
+
+--- Check #120 at 00:03:30 UTC ---
+  Balance: $11.11
+
+--- Check #121 at 00:04:50 UTC ---
+  Balance: $11.11
+
+--- Check #122 at 00:06:11 UTC ---
+  Balance: $11.11
+
+--- Check #123 at 00:07:31 UTC ---
+  Balance: $11.11
+
+--- Check #124 at 00:08:52 UTC ---
+  Balance: $11.11
+
+--- Check #125 at 00:10:12 UTC ---
+  Balance: $11.11
+
+--- Check #126 at 00:11:32 UTC ---
+  Balance: $11.11
+
+--- Check #127 at 00:12:53 UTC ---
+  Balance: $11.11
+
+--- Check #128 at 00:14:14 UTC ---
+  Balance: $11.11
+
+--- Check #129 at 00:15:34 UTC ---
+  Balance: $11.11
+
+--- Check #130 at 00:16:55 UTC ---
+  Balance: $11.11
+
+--- Check #131 at 00:18:16 UTC ---
+  Balance: $11.11
+
+--- Check #132 at 00:19:36 UTC ---
+  Balance: $11.11
+
+--- Check #133 at 00:20:56 UTC ---
+  Balance: $11.11
+
+--- Check #134 at 00:22:16 UTC ---
+  Balance: $11.11
+
+--- Check #135 at 00:23:37 UTC ---
+  Balance: $11.11
+
+--- Check #136 at 00:24:57 UTC ---
+  Balance: $11.11
+
+--- Check #137 at 00:26:18 UTC ---
+  Balance: $11.11
+
+--- Check #138 at 00:27:38 UTC ---
+  Balance: $11.11
+
+--- Check #139 at 00:28:58 UTC ---
+  Balance: $11.11
+
+--- Check #140 at 00:30:19 UTC ---
+  Balance: $11.11
+  Newcastle      ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Villa          ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Tottenham      ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Arsenal        ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Mainz          ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  St Pauli       ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Augsburg       ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Barcelona      ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Celta          ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Athletic       ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Real Madrid    ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Atalanta       ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Bologna        ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Roma           ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Fiorentina     ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Feyenoord      ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Utrecht        ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Groningen      ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Lyon           ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Marseille      ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Nantes         ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Braga          ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Nets           ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  TWolves        ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Raptors        ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Cincinnati     ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  NYCFC          ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Minnesota      ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Portland       ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  San Diego      ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Cruzeiro       ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Vasco          ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Internacional  ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Corinthians    ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Estudiantes    ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Boca           ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Pachuca        ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Juarez         ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+
+--- Check #141 at 00:34:59 UTC ---
+  Balance: $11.11
+  Newcastle      ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+
+--- Check #142 at 00:36:24 UTC ---
+  Balance: $11.11
+  Newcastle      ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Villa          ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Tottenham      ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Arsenal        ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Mainz          ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Freiburg       ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Stuttgart      ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Rayo           ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Alaves         ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Betis          ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Atletico       ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Verona         ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Lazio          ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Lecce          ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Inter          ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Ajax           ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Go Ahead       ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  AZ             ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Monaco         ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Lille          ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Strasbourg     ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Porto          ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Kings          ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Celtics        ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Suns           ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Montreal       ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Inter Miami    ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Seattle        ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Galaxy         ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Salt Lake      ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Santos         ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Gremio         ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Chapecoense    ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Estudiantes    ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Boca           ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Pachuca        ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+  Juarez         ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+
+--- Check #143 at 00:40:54 UTC ---
+  Balance: $11.11
+  Newcastle      ERROR: PolyApiException[status_code=None, error_message=Request exception!]
+
+--- Check #144 at 00:42:20 UTC ---
+  Balance: $11.11
+
+--- Check #145 at 00:43:40 UTC ---
+  Balance: $11.11
+
+--- Check #146 at 00:45:01 UTC ---
+  Balance: $11.11
+
+--- Check #147 at 00:46:22 UTC ---
+  Balance: $11.11
+
+--- Check #148 at 00:47:42 UTC ---
+  Balance: $11.11
+
+--- Check #149 at 00:49:03 UTC ---
+  Balance: $11.11
+
+--- Check #150 at 00:50:23 UTC ---
+  Balance: $11.11
+
+--- Check #151 at 00:51:44 UTC ---
+  Balance: $11.11
+
+--- Check #152 at 00:53:04 UTC ---
+  Balance: $11.11
+
+--- Check #153 at 00:54:24 UTC ---
+  Balance: $11.11
+
+--- Check #154 at 00:55:44 UTC ---
+  Balance: $11.11
+
+--- Check #155 at 00:57:05 UTC ---
+  Balance: $11.11
+
+--- Check #156 at 00:58:25 UTC ---
+  Balance: $11.11
+
+--- Check #157 at 00:59:46 UTC ---
+  Balance: $11.11
+
+--- Check #158 at 01:01:06 UTC ---
+  Balance: $11.11
+
+--- Check #159 at 01:02:26 UTC ---
+  Balance: $11.11
+
+--- Check #160 at 01:03:47 UTC ---
+  Balance: $11.11
+
+--- Check #161 at 01:05:07 UTC ---
+  Balance: $11.11
+
+--- Check #162 at 01:06:27 UTC ---
+  Balance: $11.11
+
+--- Check #163 at 01:07:47 UTC ---
+  Balance: $11.11
+
+--- Check #164 at 01:09:08 UTC ---
+  Balance: $11.11
+
+--- Check #165 at 01:10:28 UTC ---
+  Balance: $11.11
+
+--- Check #166 at 01:11:48 UTC ---
+  Balance: $57.41
+
+--- Check #167 at 01:13:08 UTC ---
+  Balance: $57.41
+
+--- Check #168 at 01:14:29 UTC ---
+  Balance: $57.41
+
+--- Check #169 at 01:15:49 UTC ---
+  Balance: $57.41
+
+--- Check #170 at 01:17:09 UTC ---
+  Balance: $57.41
+
+--- Check #171 at 01:18:30 UTC ---
+  Balance: $57.41
+
+--- Check #172 at 01:19:50 UTC ---
+  Balance: $57.41
+
+--- Check #173 at 01:21:10 UTC ---
+  Balance: $57.41
+
+--- Check #174 at 01:22:31 UTC ---
+  Balance: $57.41
+
+--- Check #175 at 01:23:52 UTC ---
+  Balance: $57.41
+
+--- Check #176 at 01:25:13 UTC ---
+  Balance: $57.41
+
+--- Check #177 at 01:26:34 UTC ---
+  Balance: $57.41
+
+--- Check #178 at 01:27:54 UTC ---
+  Balance: $57.41
+
+--- Check #179 at 01:29:14 UTC ---
+  Balance: $57.41
+
+--- Check #180 at 01:30:34 UTC ---
+  Balance: $57.41
+
+--- Check #181 at 01:31:54 UTC ---
+  Balance: $57.41
+
+--- Check #182 at 01:33:15 UTC ---
+  Balance: $57.41
+
+--- Check #183 at 01:34:36 UTC ---
+  Balance: $57.41
+
+--- Check #184 at 01:35:56 UTC ---
+  Balance: $57.41
+
+--- Check #185 at 01:37:16 UTC ---
+  Balance: $57.41
+
+--- Check #186 at 01:38:37 UTC ---
+  Balance: $57.41
+
+--- Check #187 at 01:39:57 UTC ---
+  Balance: $57.41
+
+--- Check #188 at 01:41:18 UTC ---
+  Balance: $57.41
+
+--- Check #189 at 01:42:39 UTC ---
+  Balance: $57.41
+
+--- Check #190 at 01:43:59 UTC ---
+  Balance: $57.41
+
+--- Check #191 at 01:45:20 UTC ---
+  Balance: $57.41
+
+--- Check #192 at 01:46:40 UTC ---
+  Balance: $57.41
+
+--- Check #193 at 01:48:01 UTC ---
+  Balance: $57.41
+
+--- Check #194 at 01:49:21 UTC ---
+  Balance: $57.41
+
+--- Check #195 at 01:50:41 UTC ---
+  Balance: $57.41
+
+--- Check #196 at 01:52:01 UTC ---
+  Balance: $57.41
+
+--- Check #197 at 01:53:22 UTC ---
+  Balance: $57.41
+
+--- Check #198 at 01:54:42 UTC ---
+  Balance: $57.41
+
+--- Check #199 at 01:56:02 UTC ---
+  Balance: $57.41
+
+--- Check #200 at 01:57:23 UTC ---
+  Balance: $57.41
+
+--- Check #201 at 01:58:44 UTC ---
+  Balance: $57.41
+
+--- Check #202 at 02:00:04 UTC ---
+  Balance: $57.41
+
+--- Check #203 at 02:01:25 UTC ---
+  Balance: $57.41
+
+--- Check #204 at 02:02:46 UTC ---
+  Balance: $57.41
+
+--- Check #205 at 02:04:06 UTC ---
+  Balance: $57.41
+
+--- Check #206 at 02:05:26 UTC ---
+  Balance: $57.41
+
+--- Check #207 at 02:06:46 UTC ---
+  Balance: $57.41
+
+--- Check #208 at 02:08:07 UTC ---
+  Balance: $57.41
+
+--- Check #209 at 02:09:27 UTC ---
+  Balance: $57.41
+
+--- Check #210 at 02:10:47 UTC ---
+  Balance: $57.41
+
+--- Check #211 at 02:12:08 UTC ---
+  Balance: $57.41
+
+--- Check #212 at 02:13:28 UTC ---
+  Balance: $57.41
+
+--- Check #213 at 02:14:49 UTC ---
+  Balance: $57.41
+
+--- Check #214 at 02:16:09 UTC ---
+  Balance: $57.41
+
+--- Check #215 at 02:17:29 UTC ---
+  Balance: $57.41
+
+--- Check #216 at 02:18:50 UTC ---
+  Balance: $57.41
+
+--- Check #217 at 02:20:10 UTC ---
+  Balance: $57.41
+
+--- Check #218 at 02:21:30 UTC ---
+  Balance: $57.41
+
+--- Check #219 at 02:22:51 UTC ---
+  Balance: $57.41
+
+--- Check #220 at 02:24:12 UTC ---
+  Balance: $57.41
+
+--- Check #221 at 02:25:32 UTC ---
+  Balance: $57.41
+
+--- Check #222 at 02:26:52 UTC ---
+  Balance: $57.41
+
+--- Check #223 at 02:28:13 UTC ---
+  Balance: $57.41
+
+--- Check #224 at 02:29:33 UTC ---
+  Balance: $57.41
+
+--- Check #225 at 02:30:53 UTC ---
+  Balance: $57.41
+
+--- Check #226 at 02:32:13 UTC ---
+  Balance: $57.41
+
+--- Check #227 at 02:33:34 UTC ---
+  Balance: $57.41
+
+--- Check #228 at 02:34:54 UTC ---
+  Balance: $57.41
+
+--- Check #229 at 02:36:15 UTC ---
+  Balance: $57.41
+
+--- Check #230 at 02:37:35 UTC ---
+  Balance: $57.41
+
+--- Check #231 at 02:38:56 UTC ---
+  Balance: $57.41
+
+--- Check #232 at 02:40:16 UTC ---
+  Balance: $57.41
+
+--- Check #233 at 02:41:37 UTC ---
+  Balance: $57.41
+
+--- Check #234 at 02:42:57 UTC ---
+  Balance: $57.41
+
+--- Check #235 at 02:44:18 UTC ---
+  Balance: $57.41
+
+--- Check #236 at 02:45:38 UTC ---
+  Balance: $57.41
+
+--- Check #237 at 02:46:58 UTC ---
+  Balance: $57.41
+
+--- Check #238 at 02:48:18 UTC ---
+  Balance: $57.41
+
+--- Check #239 at 02:49:38 UTC ---
+  Balance: $57.41
+
+--- Check #240 at 02:50:59 UTC ---
+  Balance: $57.41
+
+--- Check #241 at 02:52:19 UTC ---
+  Balance: $57.41
+
+--- Check #242 at 02:53:39 UTC ---
+  Balance: $57.41
+
+--- Check #243 at 02:54:59 UTC ---
+  Balance: $57.41
+
+--- Check #244 at 02:56:20 UTC ---
+  Balance: $57.41
+
+--- Check #245 at 02:57:40 UTC ---
+  Balance: $57.41
+
+--- Check #246 at 02:59:01 UTC ---
+  Balance: $57.41
+
+--- Check #247 at 03:00:21 UTC ---
+  Balance: $57.41
+
+--- Check #248 at 03:01:42 UTC ---
+  Balance: $57.41
+
+--- Check #249 at 03:03:03 UTC ---
+  Balance: $57.41
+
+--- Check #250 at 03:04:23 UTC ---
+  Balance: $57.41
+
+--- Check #251 at 03:05:43 UTC ---
+  Balance: $57.41
+
+--- Check #252 at 03:07:02 UTC ---
+  Balance: $57.41
+
+--- Check #253 at 03:08:22 UTC ---
+  Balance: $57.41
+
+--- Check #254 at 03:09:42 UTC ---
+  Balance: $57.41
+
+--- Check #255 at 03:11:03 UTC ---
+  Balance: $57.41
+
+--- Check #256 at 03:12:23 UTC ---
+  Balance: $57.41
+
+--- Check #257 at 03:13:43 UTC ---
+  Balance: $57.41
+
+--- Check #258 at 03:15:04 UTC ---
+  Balance: $57.41
+
+--- Check #259 at 03:16:24 UTC ---
+  Balance: $57.41
+
+--- Check #260 at 03:17:44 UTC ---
+  Balance: $57.41
+
+--- Check #261 at 03:19:05 UTC ---
+  Balance: $57.41
+
+--- Check #262 at 03:20:26 UTC ---
+  Balance: $57.41
+
+--- Check #263 at 03:21:46 UTC ---
+  Balance: $57.41
+
+--- Check #264 at 03:23:06 UTC ---
+  Balance: $57.41
+
+--- Check #265 at 03:24:26 UTC ---
+  Balance: $57.41
+
+--- Check #266 at 03:25:46 UTC ---
+  Balance: $57.41
+
+--- Check #267 at 03:27:07 UTC ---
+  Balance: $57.41
+
+--- Check #268 at 03:28:27 UTC ---
+  Balance: $57.41
+
+--- Check #269 at 03:29:47 UTC ---
+  Balance: $57.41
+
+--- Check #270 at 03:31:08 UTC ---
+  Balance: $57.41
+
+--- Check #271 at 03:32:28 UTC ---
+  Balance: $57.41
+
+--- Check #272 at 03:33:48 UTC ---
+  Balance: $57.41
+
+--- Check #273 at 03:35:08 UTC ---
+  Balance: $57.41
+
+--- Check #274 at 03:36:29 UTC ---
+  Balance: $57.41
+
+--- Check #275 at 03:37:49 UTC ---
+  Balance: $57.41
+
+--- Check #276 at 03:39:09 UTC ---
+  Balance: $57.41
+
+--- Check #277 at 03:40:29 UTC ---
+  Balance: $57.41
+
+--- Check #278 at 03:41:49 UTC ---
+  Balance: $57.41
+
+--- Check #279 at 03:43:09 UTC ---
+  Balance: $57.41
+
+--- Check #280 at 03:44:30 UTC ---
+  Balance: $57.41
+
+--- Check #281 at 03:45:50 UTC ---
+  Balance: $57.41
+
+--- Check #282 at 03:47:09 UTC ---
+  Balance: $57.41
+
+--- Check #283 at 03:48:30 UTC ---
+  Balance: $57.41
+
+--- Check #284 at 03:49:50 UTC ---
+  Balance: $57.41
+
+--- Check #285 at 03:51:10 UTC ---
+  Balance: $57.41
+
+--- Check #286 at 03:52:31 UTC ---
+  Balance: $57.41
+
+--- Check #287 at 03:53:52 UTC ---
+  Balance: $57.41
+
+--- Check #288 at 03:55:12 UTC ---
+  Balance: $57.41
+
+--- Check #289 at 03:56:32 UTC ---
+  Balance: $57.41
+
+--- Check #290 at 03:57:53 UTC ---
+  Balance: $57.41
+
+--- Check #291 at 03:59:13 UTC ---
+  Balance: $57.41
+
+--- Check #292 at 04:00:34 UTC ---
+  Balance: $57.41
+
+--- Check #293 at 04:01:54 UTC ---
+  Balance: $57.41
+
+--- Check #294 at 04:03:15 UTC ---
+  Balance: $57.41
+
+--- Check #295 at 04:04:35 UTC ---
+  Balance: $57.41
+
+--- Check #296 at 04:05:55 UTC ---
+  Balance: $57.41
+
+--- Check #297 at 04:07:15 UTC ---
+  Balance: $57.41
+
+--- Check #298 at 04:08:36 UTC ---
+  Balance: $57.41
+
+--- Check #299 at 04:09:56 UTC ---
+  Balance: $57.41
+
+--- Check #300 at 04:11:16 UTC ---
+  Balance: $57.41
+
+--- Check #301 at 04:12:36 UTC ---
+  Balance: $57.41
+
+--- Check #302 at 04:13:56 UTC ---
+  Balance: $57.41
+
+--- Check #303 at 04:15:16 UTC ---
+  Balance: $57.41
+
+--- Check #304 at 04:16:37 UTC ---
+  Balance: $57.41
+
+--- Check #305 at 04:17:57 UTC ---
+  Balance: $57.41
+
+--- Check #306 at 04:19:17 UTC ---
+  Balance: $57.41
+
+--- Check #307 at 04:20:37 UTC ---
+  Balance: $57.41
+
+--- Check #308 at 04:21:58 UTC ---
+  Balance: $57.41
+
+--- Check #309 at 04:23:18 UTC ---
+  Balance: $57.41
+
+--- Check #310 at 04:24:38 UTC ---
+  Balance: $57.41
+
+--- Check #311 at 04:25:58 UTC ---
+  Balance: $57.41
+
+--- Check #312 at 04:27:18 UTC ---
+  Balance: $57.41
+
+--- Check #313 at 04:28:39 UTC ---
+  Balance: $57.41
+
+--- Check #314 at 04:29:59 UTC ---
+  Balance: $57.41
+
+--- Check #315 at 04:31:20 UTC ---
+  Balance: $57.41
+
+--- Check #316 at 04:32:41 UTC ---
+  Balance: $57.41
+
+--- Check #317 at 04:34:01 UTC ---
+  Balance: $57.41
+
+--- Check #318 at 04:35:21 UTC ---
+  Balance: $57.41
+
+--- Check #319 at 04:36:42 UTC ---
+  Balance: $57.41
+
+--- Check #320 at 04:38:02 UTC ---
+  Balance: $57.41
+
+--- Check #321 at 04:39:22 UTC ---
+  Balance: $72.41
+
+--- Check #322 at 04:40:42 UTC ---
+  Balance: $72.41
+
+--- Check #323 at 04:42:03 UTC ---
+  Balance: $72.41
+
+--- Check #324 at 04:43:23 UTC ---
+  Balance: $72.41
+
+--- Check #325 at 04:44:43 UTC ---
+  Balance: $72.41
+
+--- Check #326 at 04:46:04 UTC ---
+  Balance: $72.41
+
+--- Check #327 at 04:47:24 UTC ---
+  Balance: $72.41
+
+--- Check #328 at 04:48:45 UTC ---
+  Balance: $72.41
+
+--- Check #329 at 04:50:05 UTC ---
+  Balance: $72.41
+
+--- Check #330 at 04:51:25 UTC ---
+  Balance: $72.41
+
+--- Check #331 at 04:52:46 UTC ---
+  Balance: $72.41
+
+--- Check #332 at 04:54:06 UTC ---
+  Balance: $72.41
+
+--- Check #333 at 04:55:27 UTC ---
+  Balance: $72.41
+
+--- Check #334 at 04:56:47 UTC ---
+  Balance: $72.41
+
+--- Check #335 at 04:58:07 UTC ---
+  Balance: $72.41
+
+--- Check #336 at 04:59:27 UTC ---
+  Balance: $72.41
+
+--- Check #337 at 05:00:47 UTC ---
+  Balance: $72.41
+
+--- Check #338 at 05:02:07 UTC ---
+  Balance: $72.41
+
+--- Check #339 at 05:03:27 UTC ---
+  Balance: $72.41
+
+--- Check #340 at 05:04:47 UTC ---
+  Balance: $72.41
+
+--- Check #341 at 05:06:08 UTC ---
+  Balance: $72.41
+
+--- Check #342 at 05:07:28 UTC ---
+  Balance: $72.41
+
+--- Check #343 at 05:08:48 UTC ---
+  Balance: $72.41
+
+--- Check #344 at 05:10:08 UTC ---
+  Balance: $72.41
+
+--- Check #345 at 05:11:28 UTC ---
+  Balance: $72.41
+
+--- Check #346 at 05:12:48 UTC ---
+  Balance: $72.41
+
+--- Check #347 at 05:14:08 UTC ---
+  Balance: $72.41
+
+--- Check #348 at 05:15:28 UTC ---
+  Balance: $72.41
+
+--- Check #349 at 05:16:49 UTC ---
+  Balance: $72.41
+
+--- Check #350 at 05:18:10 UTC ---
+  Balance: $72.41
+
+--- Check #351 at 05:19:30 UTC ---
+  Balance: $72.41
+
+--- Check #352 at 05:20:51 UTC ---
+  Balance: $72.41
+
+--- Check #353 at 05:22:11 UTC ---
+  Balance: $72.41
+
+--- Check #354 at 05:23:32 UTC ---
+  Balance: $72.41
+
+--- Check #355 at 05:24:52 UTC ---
+  Balance: $72.41
+
+--- Check #356 at 05:26:13 UTC ---
+  Balance: $72.41
+
+--- Check #357 at 05:27:33 UTC ---
+  Balance: $72.41
+
+--- Check #358 at 05:28:53 UTC ---
+  Balance: $72.41
+
+--- Check #359 at 05:30:14 UTC ---
+  Balance: $72.41
+
+--- Check #360 at 05:31:34 UTC ---
+  Balance: $72.41
+
+--- Check #361 at 05:32:54 UTC ---
+  Balance: $72.41
+
+--- Check #362 at 05:34:15 UTC ---
+  Balance: $72.41
+
+--- Check #363 at 05:35:35 UTC ---
+  Balance: $72.41
+
+--- Check #364 at 05:36:55 UTC ---
+  Balance: $72.41
+
+--- Check #365 at 05:38:16 UTC ---
+  Balance: $72.41
+
+--- Check #366 at 05:39:36 UTC ---
+  Balance: $72.41
+
+--- Check #367 at 05:40:56 UTC ---
+  Balance: $72.41
+
+--- Check #368 at 05:42:17 UTC ---
+  Balance: $72.41
+
+--- Check #369 at 05:43:37 UTC ---
+  Balance: $72.41
+
+--- Check #370 at 05:44:57 UTC ---
+  Balance: $72.41
+
+--- Check #371 at 05:46:18 UTC ---
+  Balance: $72.41
+
+--- Check #372 at 05:47:38 UTC ---
+  Balance: $72.41
+
+--- Check #373 at 05:48:58 UTC ---
+  Balance: $72.41
+
+--- Check #374 at 05:50:19 UTC ---
+  Balance: $72.41
+
+--- Check #375 at 05:51:39 UTC ---
+  Balance: $72.41
+
+--- Check #376 at 05:53:00 UTC ---
+  Balance: $72.41
+
+--- Check #377 at 05:54:20 UTC ---
+  Balance: $72.41
+
+--- Check #378 at 05:55:40 UTC ---
+  Balance: $72.41
+
+--- Check #379 at 05:57:01 UTC ---
+  Balance: $72.41
+
+--- Check #380 at 05:58:21 UTC ---
+  Balance: $72.41
+
+--- Check #381 at 05:59:41 UTC ---
+  Balance: $72.41
+
+--- Check #382 at 06:01:02 UTC ---
+  Balance: $72.41
+
+--- Check #383 at 06:02:23 UTC ---
+  Balance: $72.41
+
+--- Check #384 at 06:03:43 UTC ---
+  Balance: $72.41
+
+--- Check #385 at 06:05:04 UTC ---
+  Balance: $72.41
+
+--- Check #386 at 06:06:24 UTC ---
+  Balance: $72.41
+
+--- Check #387 at 06:07:45 UTC ---
+  Balance: $72.41
+
+--- Check #388 at 06:09:05 UTC ---
+  Balance: $72.41
+
+--- Check #389 at 06:10:25 UTC ---
+  Balance: $72.41
+
+--- Check #390 at 06:11:45 UTC ---
+  Balance: $72.41
+
+--- Check #391 at 06:13:05 UTC ---
+  Balance: $72.41
+
+--- Check #392 at 06:14:26 UTC ---
+  Balance: $72.41
+
+--- Check #393 at 06:15:46 UTC ---
+  Balance: $72.41
+
+--- Check #394 at 06:17:07 UTC ---
+  Balance: $72.41
+
+--- Check #395 at 06:18:27 UTC ---
+  Balance: $72.41
+
+--- Check #396 at 06:19:47 UTC ---
+  Balance: $72.41
+
+--- Check #397 at 06:21:07 UTC ---
+  Balance: $72.41
+
+--- Check #398 at 06:22:28 UTC ---
+  Balance: $72.41
+
+--- Check #399 at 06:23:48 UTC ---
+  Balance: $72.41
+
+--- Check #400 at 06:25:09 UTC ---
+  Balance: $72.41
+
+--- Check #401 at 06:26:29 UTC ---
+  Balance: $72.41
+
+--- Check #402 at 06:27:50 UTC ---
+  Balance: $72.41
+
+--- Check #403 at 06:29:10 UTC ---
+  Balance: $72.41
+
+--- Check #404 at 06:30:30 UTC ---
+  Balance: $72.41
+
+--- Check #405 at 06:31:50 UTC ---
+  Balance: $72.41
+
+--- Check #406 at 06:33:11 UTC ---
+  Balance: $72.41
+
+--- Check #407 at 06:34:32 UTC ---
+  Balance: $72.41
+
+--- Check #408 at 06:35:52 UTC ---
+  Balance: $72.41
+
+--- Check #409 at 06:37:12 UTC ---
+  Balance: $72.41
+
+--- Check #410 at 06:38:33 UTC ---
+  Balance: $72.41
+
+--- Check #411 at 06:39:53 UTC ---
+  Balance: $72.41
+
+--- Check #412 at 06:41:14 UTC ---
+  Balance: $72.41
+
+--- Check #413 at 06:42:34 UTC ---
+  Balance: $72.41
+
+--- Check #414 at 06:43:55 UTC ---
+  Balance: $72.41
+
+--- Check #415 at 06:45:16 UTC ---
+  Balance: $72.41
+
+--- Check #416 at 06:46:36 UTC ---
+  Balance: $72.41
+
+--- Check #417 at 06:47:57 UTC ---
+  Balance: $72.41
+
+--- Check #418 at 06:49:18 UTC ---
+  Balance: $72.41
+
+--- Check #419 at 06:50:38 UTC ---
+  Balance: $72.41
+
+--- Check #420 at 06:52:00 UTC ---
+  Balance: $72.41
+
+--- Check #421 at 06:53:20 UTC ---
+  Balance: $72.41
+
+--- Check #422 at 06:54:41 UTC ---
+  Balance: $72.41
+
+--- Check #423 at 06:56:01 UTC ---
+  Balance: $72.41
+
+--- Check #424 at 06:57:22 UTC ---
+  Balance: $72.41
+
+--- Check #425 at 06:58:42 UTC ---
+  Balance: $72.41
+
+--- Check #426 at 07:00:03 UTC ---
+  Balance: $72.41
+
+--- Check #427 at 07:01:23 UTC ---
+  Balance: $72.41
+
+--- Check #428 at 07:02:45 UTC ---
+  Balance: $72.41

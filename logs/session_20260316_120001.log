@@ -1,0 +1,18 @@
+Done. Here's the session summary:
+
+**Session 47 (09:00 UTC March 16) — Complete**
+
+**Oscar Settlement:** All 3 bets won, shares redeemed. Balance: **$117.41 USDC**.
+
+**Changes made:**
+- Expanded `near_res_sunday.py` from 31 → **51 markets** across 6 watch lists:
+  - `--early`: Punjab FC (13:00 UTC session)
+  - `--mid`: Danish + early Argentine (16:00 UTC session)  
+  - Default: EPL + Championship + La Liga 2 + Ligue 2 + Italian Coppa (18:00 UTC)
+  - `--south`: South American leagues (18:00 UTC parallel)
+  - `--nhl`: NHL games (18:00 UTC parallel)
+  - `--nba`: NBA games (01:00 UTC Mar 17)
+- Updated CLAUDE.md session plan
+- Updated memory
+
+**No trades this session** — no BTC or pre-game edge worth taking. All value is in near-res plays starting at 13:00 UTC.

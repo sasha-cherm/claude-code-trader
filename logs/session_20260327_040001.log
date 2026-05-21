@@ -1,0 +1,8 @@
+Session 166 complete. Status:
+
+- **Balance**: $2.11 cash + ~$20.19 in pending settlements = ~$22.30 total
+- **Active**: bball_mar26 monitor watching NCAAB Sweet 16 (Illinois-Houston 02:05, Tennessee-ISU 04:00). Will auto-trade when settlements arrive.
+- **BTC candle trader**: sleeping until 12:00 UTC
+- **March 27 scripts ready**: 11 FIFA friendlies (13:00 UTC) + 13 NBA/NCAAB (21:00 UTC)
+- **Cleaned up**: state.json updated, Faroe loss (-$6.90) and 5 near-res wins (+$1.73) closed
+- **No action needed**: Just waiting for settlements. The monitor will handle NCAAB if capital unlocks in time.

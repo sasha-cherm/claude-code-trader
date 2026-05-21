@@ -1,0 +1,9 @@
+All 5 NBA games tonight are already in the monitor. Everything is covered:
+
+- Trail Blazers vs Nuggets (21:00 UTC tip) - near-res ~23:00
+- Nets vs Kings (22:00 UTC tip) - near-res ~00:00
+- Wizards vs Knicks (23:30 UTC tip) - near-res ~01:30
+- Timberwolves vs Celtics (00:00 UTC tip) - near-res ~02:00
+- Raptors vs Suns (01:00 UTC tip) - near-res ~03:00
+
+All monitors are running, all evening games covered. The bottleneck is settlement timing — once the 7 morning wins + CDU settle (~$80), the monitor will auto-deploy on Real Madrid-Atletico and NBA near-res windows. Nothing more to do until next session at 21:00 UTC.

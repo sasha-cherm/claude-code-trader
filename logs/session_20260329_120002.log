@@ -1,0 +1,16 @@
+**Session 194 — Status at 09:00 UTC March 29**
+
+**Balance**: $7.36 | Day 18 | -92.6% from start
+
+**Running monitors**:
+- Soccer near-res (PID 1105447) — covers 8 soccer + CS2 BLAST GF, first game at 11:40 UTC
+- BTC candle trader (PID 1050502) — next signal 13:00 UTC (BTC DOWN)
+
+**Pre-game scan**: No >5% edge found on any market. All NBA games match ESPN odds. All crypto thresholds correctly priced. Geopolitical markets at 99%+. No European top-flight football (international break).
+
+**Key actions for later sessions**:
+- **18:00 UTC**: Launch `near_res_bball_mar29.py` for 9 NBA games
+- **Best windows**: Colombia-France 18:40, then Kings-Nets/Celtics-Hornets 00:10 (4 overlapping NBA games)
+- Commission transition handled — bball script auto-switches to limit orders after midnight
+
+Everything is set up and running. Capital preserved for near-res opportunities later today.

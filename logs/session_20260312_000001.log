@@ -1,0 +1,21 @@
+Here's a summary of this session:
+
+**Portfolio Status (21:00 UTC, March 11)**
+- USDC Balance: **$95.42**
+- 5 open positions worth ~$18 at entry
+- Day 1 net: about +$13 from $100 start (pending basketball + tweet outcomes)
+
+**Actions Taken**
+1. Ran session 8 — closed Real Madrid YES (+$12.79), Chelsea YES (-$3.24), RM vs MC NO (worthless)
+2. Opened 3 new positions: Musk tweets (2 ranges) and Tate posts
+3. Fixed PnL tracking bug — sell failures no longer record phantom profits
+4. Fixed settlement tracking — pending on-chain shares stay tracked instead of being dropped
+5. Added competitive market tier (30-70% odds) — stops us from only betting on heavy underdogs
+6. Increased position sizing: 20% per trade (was 15%), min $5 (was $3), cap $80 (was $50)
+7. Improved scoring: heavier weight on <12h resolution, tiered payout scoring
+
+**Next Steps** 
+- Basketball games (Knicks, Hornets) resolve in ~4-5 hours → frees 2 slots
+- Tweet/post markets resolve March 13
+- Next cron session runs at 22:00 UTC — will check positions
+- Need to continue finding edge in competitive same-day markets

@@ -1,0 +1,82 @@
+[MM] === BTC 15-min Spread Scalper ===
+[MM] UTC: 2026-03-31 05:56:52.070754+00:00
+[MM] size=6.0  sell_deadline=+0s  poll=1.0s
+[MM] Balance: $14.92
+[MM] --- main loop #1 @ 05:56:53 UTC ---
+[MM] Streak: 2x UP → enter 600s before start
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 31, 2:00AM-2:15AM ET
+[MM] start=2026-03-31T06:00:00+00:00  sell_deadline=+0s
+[MM] Side: UP (bid depth UP=3726 vs DN=943)
+[MM] Trading UP token=71066846358225284207...
+[MM] Balance: $14.92
+[MM] --- Round 1 (UP) ---
+[BUY] BUY 6sh @ 0.46  oid=0xc5eb013fae329f249d87ad25e36a429768d81b789da80940c229929e29847e8e
+[MM] bb=0.46 ba=0.47 sp=0.01 support=0.46 | BUY@0.46 | bal=0.00 | 181s to start
+[MM] bb=0.46 ba=0.47 sp=0.01 support=0.46 | BUY@0.46 | bal=0.00 | 172s to start
+[MM] bb=0.46 ba=0.47 sp=0.01 support=0.46 | BUY@0.46 | bal=0.00 | 170s to start
+[MM] bb=0.46 ba=0.47 sp=0.01 support=0.46 | BUY@0.46 | bal=0.00 | 161s to start
+[MM] bb=0.46 ba=0.47 sp=0.01 support=0.46 | BUY@0.46 | bal=0.00 | 151s to start
+[MM] bb=0.46 ba=0.47 sp=0.01 support=0.46 | BUY@0.46 | bal=0.00 | 142s to start
+[MM] bb=0.46 ba=0.47 sp=0.01 support=0.46 | BUY@0.46 | bal=0.00 | 140s to start
+[MM] bb=0.46 ba=0.49 sp=0.03 support=0.46 | BUY@0.46 | bal=0.00 | 131s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 support=0.46 | BUY@0.46 | bal=0.00 | 122s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 support=0.46 | BUY@0.46 | bal=0.00 | 120s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 support=0.46 | BUY@0.46 | bal=0.00 | 111s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 support=0.46 | BUY@0.46 | bal=0.00 | 101s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 support=0.46 | BUY@0.46 | bal=0.00 | 92s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 support=0.46 | BUY@0.46 | bal=0.00 | 90s to start
+[MM] bb=0.48 ba=0.49 sp=0.01 support=0.46 | BUY@0.46 | bal=0.00 | 81s to start
+[MM] bb=0.48 ba=0.50 sp=0.02 support=0.46 | BUY@0.46 | bal=0.00 | 72s to start
+[MM] bb=0.48 ba=0.50 sp=0.02 support=0.46 | BUY@0.46 | bal=0.00 | 70s to start
+[BUY] cancelled 0xc5eb013fae329f...
+[BUY] BUY 6sh @ 0.49  oid=0xdd5e94d810dbf489792849672f164e83ecc8417837f9271dbf955f63e7582b26
+[MM] bb=0.49 ba=0.50 sp=0.01 support=0.49 | BUY@0.49 | bal=0.00 | 61s to start
+[MM] bb=0.49 ba=0.50 sp=0.01 support=0.49 | BUY@0.49 | bal=0.00 | 51s to start
+[MM] BUY reported filled @ 0.49, waiting for settlement...
+[MM] Settlement confirmed: 6.00sh
+[SELL] SELL 6sh @ 0.50  oid=0x87180a30677d665cdfff3d020231588e6cab1e2bfc14d5be8b5d80a4d7fbae92
+[MM] bb=0.49 ba=0.50 | SELL@0.5 bought@0.49 PROFIT:+0.06 | bal=6.00 | 44.6s left
+[MM] bb=0.49 ba=0.50 | SELL@0.5 bought@0.49 PROFIT:+0.06 | bal=6.00 | 43.2s left
+[MM] bb=0.49 ba=0.50 | SELL@0.5 bought@0.49 PROFIT:+0.06 | bal=6.00 | 41.8s left
+[MM] bb=0.49 ba=0.50 | SELL@0.5 bought@0.49 PROFIT:+0.06 | bal=6.00 | 40.4s left
+[MM] bb=0.49 ba=0.50 | SELL@0.5 bought@0.49 PROFIT:+0.06 | bal=6.00 | 39.0s left
+[SELL] cancelled 0x87180a30677d66...
+[SELL] SELL 6sh @ 0.49  oid=0xafc7a7c44edc1455529d9d5b6d8b31773862c91290d712d3f3df8e53c6aa83d2
+[MM] bb=0.48 ba=0.50 | SELL@0.49 bought@0.49 LOSS:+0.00 | bal=6.00 | 37.6s left
+[MM] bb=0.48 ba=0.49 | SELL@0.49 bought@0.49 LOSS:+0.00 | bal=6.00 | 35.9s left
+[MM] bb=0.48 ba=0.49 | SELL@0.49 bought@0.49 LOSS:+0.00 | bal=6.00 | 34.5s left
+[MM] bb=0.48 ba=0.49 | SELL@0.49 bought@0.49 LOSS:+0.00 | bal=6.00 | 33.1s left
+[SELL] cancelled 0xafc7a7c44edc14...
+[SELL] SELL 6sh @ 0.48  oid=0x7ac33dc9d80cbaf5326b2c7bf862d401e25e93297ba405bb9bd9a70ceebcf910
+[MM] bb=0.47 ba=0.49 | SELL@0.48 bought@0.49 LOSS:-0.06 | bal=6.00 | 31.7s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.49 LOSS:-0.06 | bal=6.00 | 30.1s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.49 LOSS:-0.06 | bal=6.00 | 28.7s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.49 LOSS:-0.06 | bal=6.00 | 27.3s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.49 LOSS:-0.06 | bal=6.00 | 25.9s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.49 LOSS:-0.06 | bal=6.00 | 24.5s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.49 LOSS:-0.06 | bal=6.00 | 23.1s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.49 LOSS:-0.06 | bal=6.00 | 21.7s left
+[MM] bb=0.47 ba=0.48 | SELL@0.48 bought@0.49 LOSS:-0.06 | bal=6.00 | 20.3s left
+[MM] SELL matched, waiting for settlement... bal=6.00
+[MM] Sell pending settlement... bal=6.00
+[MM] Position closed (bal=0.00)
+[MM] Profit: $-0.06
+[MM] Round 1 done, verifying position closed...
+[ROUND] Settlement confirmed: bal=0.00
+[MM] Side: UP (bid depth UP=3071 vs DN=2393)
+[MM] --- Round 2 (UP) ---
+[BUY] BUY 6sh @ 0.46  oid=0x9f3577237fb8ec6476be5b227fb89e2306d90fc8b090a962e8c8be354a68bc77
+[MM] bb=0.47 ba=0.48 sp=0.01 support=0.46 | BUY@0.46 | bal=0.00 | 11s to start
+[MM] bb=0.46 ba=0.47 sp=0.01 support=0.46 | BUY@0.46 | bal=0.00 | 2s to start
+[MM] BUY reported filled @ 0.46, waiting for settlement...
+[MM] Settlement confirmed: 6.00sh
+[MM] SELL DEADLINE (bought @ 0.46)
+[MM] Market selling 6.00sh
+[CLOSE] retry 1/2: PolyApiException[status_code=None, error_message=Request exception!]
+[CLOSE] retry 2/2: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 0, order amount: 6000000'}]
+[CLOSE] market sell fail: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 0, order amount: 6000000'}]
+[MM] --- main loop #2 @ 06:00:25 UTC ---
+[MM] Streak: 0x NONE → enter 600s before start
+[MM] next: Bitcoin Up or Down - March 31, 2:15AM-2:30AM ET in 872s, waiting 272s

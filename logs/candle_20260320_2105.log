@@ -1,0 +1,66 @@
+[CANDLE] ═══ Crypto Candle Trader — 8 Bonferroni Survivors ═══
+[CANDLE] UTC now: 2026-03-20 21:05:09.300326+00:00
+[CANDLE] Signals: 8 across BTC/ETH/SOL/XRP/BNB (1H+4H)
+[CANDLE] Order size: 5.0 shares per trade
+[CANDLE] Balance: $53.15
+[CANDLE] Next: 22:00 UTC — BNB 1H UP.  Monitor in 25 min.
+
+[CANDLE] ── 2026-03-20 22:00 UTC batch (1 signals) ──
+[BNB] Looking up: bnb-up-or-down-march-20-2026-6pm-et
+[BNB] === BNB Up or Down - March 20, 6PM ET ===
+[BNB] Side=UP  Edge=56.0%  MaxPrice=0.55
+[BNB] BUY 5sh @ 0.47  oid=0x8359b329f93f585f253b1ba827606ca0298def798e22f2a738e56f5a44243a18
+[BNB] Cancelled 0x8359b329f93f585f253b1ba827606ca0298def798e22f2a738e56f5a44243a18
+[BNB] BUY 5sh @ 0.50  oid=0x1d479d11f731ebaeb0ef979ae3cae8e19260ed0c28579ec181b644198065a894
+[BNB] Cancelled 0x1d479d11f731ebaeb0ef979ae3cae8e19260ed0c28579ec181b644198065a894
+[BNB] BUY 5sh @ 0.51  oid=0x4fb5fb7f2842444d4bbee311fe5a2be97610a9e585f49d3a09fad40cdffae6fb
+[BNB] Cancelled 0x4fb5fb7f2842444d4bbee311fe5a2be97610a9e585f49d3a09fad40cdffae6fb
+[BNB] BUY 5sh @ 0.55  oid=0x60603eda55b9911cf473ee680fbbc6655a4e3317c38d1c28746daf811b0cad10
+[BNB] Cancelled 0x60603eda55b9911cf473ee680fbbc6655a4e3317c38d1c28746daf811b0cad10
+[TRADE-BNB] 2026-03-20 22:00:00+00:00 1H UP → NOT_FILLED price=0.55
+[CANDLE] Next: 23:00 UTC — XRP 1H DOWN, ETH 1H DOWN, SOL 1H DOWN.  Monitor in 28 min.
+
+[CANDLE] ── 2026-03-20 23:00 UTC batch (3 signals) ──
+[XRP] Looking up: xrp-up-or-down-march-20-2026-7pm-et
+[SOL] Looking up: solana-up-or-down-march-20-2026-7pm-et
+[ETH] Looking up: ethereum-up-or-down-march-20-2026-7pm-et
+[XRP] === XRP Up or Down - March 20, 7PM ET ===
+[XRP] Side=DOWN  Edge=57.2%  MaxPrice=0.56
+[ETH] === Ethereum Up or Down - March 20, 7PM ET ===
+[ETH] Side=DOWN  Edge=56.5%  MaxPrice=0.55
+[SOL] === Solana Up or Down - March 20, 7PM ET ===
+[SOL] Side=DOWN  Edge=55.8%  MaxPrice=0.54
+[ETH] BUY 5sh @ 0.51  oid=0xce436475782412b32c2a9bb62562cf513408797e23315aa611b6280a7c3737c0
+[XRP] BUY 5sh @ 0.50  oid=0x39c5a2220fe2214a21612a316868f49065d8894b7d86a539c8ac0d4f1cc244de
+[SOL] BUY 5sh @ 0.50  oid=0x854a6375113bbff2c97c2d76825095ccaa84a592f5cc9a54f013dc7745135076
+[SOL] Orderbook error: PolyApiException[status_code=None, error_message=Request exception!]
+[ETH] Orderbook error: PolyApiException[status_code=None, error_message=Request exception!]
+[XRP] Orderbook error: PolyApiException[status_code=None, error_message=Request exception!]
+[XRP] Cancelled 0x39c5a2220fe2214a21612a316868f49065d8894b7d86a539c8ac0d4f1cc244de
+[XRP] BUY 5sh @ 0.52  oid=0x1c30fae79517811a13f3d2813e76d4576e9e6203cae9b55e99b28babd868c7a2
+[ETH] Cancelled 0xce436475782412b32c2a9bb62562cf513408797e23315aa611b6280a7c3737c0
+[ETH] BUY 5sh @ 0.52  oid=0x423ac7049575ff32ec7e4bbc48b880528817e766e2ab99c589bb0af864a1f816
+[SOL] Cancelled 0x854a6375113bbff2c97c2d76825095ccaa84a592f5cc9a54f013dc7745135076
+[SOL] BUY 5sh @ 0.51  oid=0xabbcbdfde2098ed0e47449aa4bdfef89fa5bf0342a9a30db770729d298cd9fc5
+[SOL] Cancelled 0xabbcbdfde2098ed0e47449aa4bdfef89fa5bf0342a9a30db770729d298cd9fc5
+[SOL] BUY 5sh @ 0.52  oid=0x293ec6b56a35af21e3d62b244faa82cacbe9eb5a1358e1cd62377715c6be6947
+[XRP] Orderbook error: PolyApiException[status_code=None, error_message=Request exception!]
+[ETH] Orderbook error: PolyApiException[status_code=None, error_message=Request exception!]
+[SOL] Cancelled 0x293ec6b56a35af21e3d62b244faa82cacbe9eb5a1358e1cd62377715c6be6947
+[SOL] BUY 5sh @ 0.54  oid=0x39bb07c655700bf7eca49c2a27a8586c3b9578e1df2a4f637ba0d17f74c0a1c9
+[ETH] Cancelled 0x423ac7049575ff32ec7e4bbc48b880528817e766e2ab99c589bb0af864a1f816
+[ETH] BUY 5sh @ 0.53  oid=0xc9028b3d7840167e93122652c67394403d6bea4c785272397f79ae45ae3afa24
+[ETH] Orderbook error: PolyApiException[status_code=None, error_message=Request exception!][SOL] Orderbook error: PolyApiException[status_code=None, error_message=Request exception!]
+
+[ETH] Cancelled 0xc9028b3d7840167e93122652c67394403d6bea4c785272397f79ae45ae3afa24
+[ETH] BUY 5sh @ 0.55  oid=0x2ad61d8bf57da0b06a611c81a5e66d35a39ade26a6d99d66e21de5f8cc12a7a7
+[XRP] Filled at 0.52![SOL] Filled at 0.54!
+
+[TRADE-XRP] 2026-03-20 23:00:00+00:00 1H DOWN → FILLED price=0.52
+[TRADE-SOL] 2026-03-20 23:00:00+00:00 1H DOWN → FILLED price=0.54
+[ETH] Filled at 0.55!
+[TRADE-ETH] 2026-03-20 23:00:00+00:00 1H DOWN → FILLED price=0.55
+[CANDLE] Next: 12:00 UTC — SOL 4H DOWN.  Monitor in 750 min.
+
+[CANDLE] Signal 15, shutting down...
+[CANDLE] Shutdown complete.

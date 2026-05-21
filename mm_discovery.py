@@ -44,13 +44,25 @@ def find_next_candle():
     return None
 
 
-def get_streak():
-    """Check last resolved 15-min candles. Returns (count, color) e.g. (4, 'UP')."""
+def get_streak(current_candle_color=None):
+    """Check last resolved 15-min candles. Returns (count, color) e.g. (4, 'UP').
+
+    Args:
+        current_candle_color: if the current (in-progress) candle is effectively
+            resolved (e.g. one side at 95%+), pass its color ("UP"/"DN") here
+            to extend the streak. This is determined by
+            mm_fair_value.get_current_candle_color().
+    """
     now_ts = int(utcnow().timestamp())
     current_boundary = (now_ts // 900) * 900
 
     streak = 0
     last_color = None
+
+    # If current candle is effectively resolved, start the streak with it
+    if current_candle_color in ("UP", "DN"):
+        last_color = current_candle_color
+        streak = 1
 
     for i in range(1, 8):  # check up to 7 past candles
         ts = current_boundary - i * 900

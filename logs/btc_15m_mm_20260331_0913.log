@@ -1,0 +1,83 @@
+[MM] Killing old instance PID 208734
+[MM] Cancelling 1 stale orders from previous instance
+[MM] === BTC 15-min Fair-Value Market Maker ===
+[MM] UTC: 2026-03-31 09:13:37.992214+00:00
+[MM] size=6.0  poll=1.0s
+[MM] Balance: $5.78
+
+[MM] --- main loop #1 @ 09:13:39 UTC ---
+[MM] Streak (resolved): 4x DN
+[MM] Fair value: UP=0.599  DN=0.401  RSI=26.83 curUP=0.11
+
+[MM] =======================================================
+[MM] Bitcoin Up or Down - March 31, 5:15AM-5:30AM ET
+[MM] start=2026-03-31T09:15:00+00:00
+[MM] streak=4xDN RSI=26.83
+[MM] fair: UP=0.599 DN=0.401
+[MM] max:  UP=0.59  DN=0.39  (both fill → 2c+ profit/sh)
+[MM] Balance: $5.78
+[MM] Balance $5.78 < $5.88, placing DN only (cheaper)
+[MM] Existing position UP:4sh — holding through resolution
+
+[MM] --- main loop #2 @ 09:13:50 UTC ---
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[GAMMA] retry 2/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] Streak (resolved): 4x DN
+[MM] Fair value: UP=0.608  DN=0.392  RSI=26.52 curUP=0.00
+[MM] next: Bitcoin Up or Down - March 31, 5:30AM-5:45AM ET in 956s, fair UP=0.608 DN=0.392, waiting 116s
+
+[MM] --- main loop #3 @ 09:16:54 UTC ---
+[MM] Streak (resolved): 0x NONE
+[MM] Fair value: UP=0.516  DN=0.484  RSI=25.3 curUP=0.56
+
+[MM] =======================================================
+[MM] Bitcoin Up or Down - March 31, 5:30AM-5:45AM ET
+[MM] start=2026-03-31T09:30:00+00:00
+[MM] streak=0xNONE RSI=25.3
+[MM] fair: UP=0.516 DN=0.484
+[MM] max:  UP=0.51  DN=0.47  (both fill → 2c+ profit/sh)
+[MM] Balance: $5.78
+[MM] Balance $5.78 < $5.88, placing DN only (cheaper)
+[DN] BUY 6sh @ 0.46  oid=0x52fa29cb8683803bb2c7daa980bba919b5463d7a02ec5df9153c262addca4c1c
+[MM] DN:BUY@0.46(max=0.47) | 768s to start
+[MM] DN order matched @ 0.46, waiting settlement...
+[MM] DN:BUY@0.46(max=0.47) | 754s to start
+[DN] cancelled 0x52fa29cb868380...
+[MM] DN filled: 6.0sh @ 0.46
+[MM] DN:FILLED@0.46 | 743s to start
+[MM] DN:FILLED@0.46 | 733s to start
+[MM] DN:FILLED@0.46 | 723s to start
+[MM] Fair value refresh: UP=0.514 DN=0.486 (curUP=0.32)
+[MM] DN:FILLED@0.46 | 713s to start
+[MM] DN:FILLED@0.46 | 698s to start
+[MM] DN:FILLED@0.46 | 688s to start
+[MM] DN:FILLED@0.46 | 678s to start
+[MM] DN:FILLED@0.46 | 668s to start
+[MM] DN:FILLED@0.46 | 658s to start
+[MM] DN:FILLED@0.46 | 648s to start
+[MM] DN:FILLED@0.46 | 637s to start
+[MM] DN:FILLED@0.46 | 627s to start
+[MM] DN:FILLED@0.46 | 617s to start
+[MM] DN:FILLED@0.46 | 607s to start
+[MM] DN:FILLED@0.46 | 597s to start
+[MM] DN:FILLED@0.46 | 587s to start
+[MM] DN:FILLED@0.46 | 576s to start
+[MM] DN:FILLED@0.46 | 566s to start
+[MM] DN:FILLED@0.46 | 556s to start
+[MM] DN:FILLED@0.46 | 546s to start
+[MM] DN:FILLED@0.46 | 536s to start
+[GAMMA] retry 1/3: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out.
+[MM] DN:FILLED@0.46 | 526s to start
+[MM] DN:FILLED@0.46 | 502s to start
+[MM] DN:FILLED@0.46 | 492s to start
+[MM] DN:FILLED@0.46 | 482s to start
+[MM] DN:FILLED@0.46 | 472s to start
+[MM] DN:FILLED@0.46 | 462s to start
+[MM] DN:FILLED@0.46 | 452s to start
+[MM] DN:FILLED@0.46 | 441s to start
+[MM] DN:FILLED@0.46 | 431s to start
+[MM] DN:FILLED@0.46 | 421s to start
+[MM] DN:FILLED@0.46 | 411s to start
+[MM] DN:FILLED@0.46 | 401s to start

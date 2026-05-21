@@ -1,0 +1,5 @@
+
+
+Background agent confirmed the Oscar prices and NBA markets. The agent also noted that the Gamma API only surfaced 3 NBA winner markets directly (DAL/CLE, POR/PHI, GSW/NYK) but we found more via the volume-sorted query — our NBA_WATCH list is more complete.
+
+Session count updated to 43 in state.json (by a parallel session or linter). Everything is committed and pushed. The 16:00 UTC session will run the soccer near-res monitor, and later sessions will handle NBA near-res and Oscar resolution.

@@ -1,0 +1,12 @@
+Everything is set up. Here's the final status:
+
+**Tonight (March 20, still running):**
+- `near_res_mar20.py` — monitoring NCAAB late games + NBA (6 games tipping ~23:00 UTC)
+- `btc_hourly_trader.py` — BNB UP 22:00, XRP/ETH/SOL DOWN 23:00
+
+**Tomorrow (March 21 — MASSIVE day):**
+- `near_res_mar21.py` ready: **100 tokens / 50 games** across EPL, Bundesliga, La Liga, Championship, Eredivisie, NBA (10 games), MLS, Brazilian, Argentine, Mexican
+- Near-res windows from 14:00 UTC through 05:30 UTC
+- Candle trader continues for crypto signals
+
+**Key fix applied:** Both-sides dedup prevents buying opposing teams in the same game.

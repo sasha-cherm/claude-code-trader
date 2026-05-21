@@ -1,0 +1,12 @@
+Session 124 complete.
+
+**Summary:**
+- **Balance**: $94.11 USDC (settlements cleared from $0.54)
+- **Day 12**: $100 → $94.11 (-5.9%). Need ~10.6x in 18 days.
+- 9 winning positions settled for +$11.08 total
+- State cleaned up: 0 open positions, 104 trades
+- **No NCAAB 2nd Round markets** exist yet
+- All monitors verified and running:
+  - `near_res_mar23.py` — 40 tokens / 20 games (CS2, Colombian, Argentine, NBA)
+  - `btc_hourly_trader.py` — candle signals
+- **Today's key windows**: CS2 from 13:00, SA football from 17:00, NBA 10 games from 23:00 UTC

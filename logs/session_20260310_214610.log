@@ -1,0 +1,26 @@
+All set. Here's a summary of what was built and deployed:
+
+---
+
+## Trading Infrastructure Deployed
+
+**What was built:**
+
+| File | Purpose |
+|------|---------|
+| `main.py` | Entry point — called each session, skips if balance is 0 |
+| `trader/config.py` | Risk params: max $20/trade, 4% min edge, 5 max positions |
+| `trader/client.py` | Polymarket CLOB client, USDC balance check |
+| `trader/markets.py` | Gamma API market scanner — ranks by volume/liquidity/spread |
+| `trader/strategy.py` | Kelly-sized position sizing, TP at +70%, SL at -50% |
+| `trader/notify.py` | Telegram alerts for every trade and session summary |
+
+**How it works:**
+1. Cron fires `session_runner.sh` every 6 hours → Claude agent → `python3 main.py`
+2. Checks USDC balance (0 until March 11 ~13:00 UTC — expected)
+3. Scans Polymarket for the best opportunities by volume, liquidity, spread
+4. Sizes positions using quarter-Kelly criterion (safe, prevents ruin)
+5. Manages open positions: TP at +70%, SL at -50%
+6. Sends Telegram notifications for all activity
+
+**Current status:** Waiting for funds. The next session after ~13:00 UTC tomorrow will detect the $100 deposit and start trading.

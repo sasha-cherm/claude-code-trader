@@ -1,0 +1,33 @@
+[LIVE] === BTC 15-min Fair-Value MM — LIVE TRADING ===
+[LIVE] UTC: 2026-05-14 16:32:02.102475+00:00
+[LIVE] size=dynamic (min 5, +1 per $20 > $100)  poll=1.0s  maker-only  improve=0.0
+[LIVE] No sell orders will be placed — user resolves manually
+[py_clob_client_v2] request error status=400 url=https://clob.polymarket.com/auth/api-key body={"error":"Could not create api key"}
+
+[py_clob_client_v2] request error status=400 url=https://clob.polymarket.com/auth/api-key body={"error":"Could not create api key"}
+
+[LIVE] USDC balance: $188.81
+[REDEEM] Relayer ready (PROXY tx type, key=019dd8ae...)
+[LIVE] Current candle unconfirmed — using resolved streak only (776s to start)
+
+[LIVE] =======================================================
+[LIVE] Bitcoin Up or Down - May 14, 12:45PM-1:00PM ET
+[LIVE] streak=0xNONE  rsi=84.03
+[LIVE] fair: UP=0.500 DN=0.500
+[LIVE] target: UP@0.49 DN@0.49 (improve=0.0)
+[LIVE] USDC: $188.81 | Size: 9.0
+[UP] BUY 9sh @ 0.48  oid=0x41b0a1ec7bd646d8827bab1cdb30e75bb3511a0ed1f2c5d6778468cad4405204
+[LIVE] UP placed @ 0.48  (target=0.49, best_ask=0.49) (improved)
+[DN] BUY 9sh @ 0.49  oid=0xf95ec8af5a9c6b05fe0a903db0508fe168a2af4dab9065578d7560e15b8adea1
+[LIVE] DN placed @ 0.49  (target=0.49, best_ask=0.52)
+[LIVE] UP:open@0.48 | DN:open@0.49 | 765s to start
+[LIVE] UP:open@0.48 | DN:open@0.49 | 753s to start
+[LIVE] UP:open@0.48 | DN:open@0.49 | 742s to start
+[LIVE] UP:open@0.48 | DN:open@0.49 | 731s to start
+[LIVE] UP:open@0.48 | DN:open@0.49 | 719s to start
+[LIVE] UP:open@0.48 | DN:open@0.49 | 708s to start
+
+[MM] Signal 15, stopping...
+[UP] cancelled 0x41b0a1ec7bd646...
+[DN] cancelled 0xf95ec8af5a9c6b...
+[LIVE] candle done: no fills

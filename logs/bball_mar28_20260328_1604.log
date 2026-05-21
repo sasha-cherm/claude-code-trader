@@ -1,0 +1,2301 @@
+=== NBA Mar 28 Near-Res Monitor ===
+Started at 2026-03-28 16:04:22 UTC
+Monitoring 14 tokens (7 games)
+Params: MIN_PRICE=0.85, JUMP=0.2, SPREAD=0.04, MAX_MINS=20
+Balance: $9.56
+
+Snapshotting pre-game prices...
+  Pre-game Spurs: 0.930
+  Pre-game Bucks: 0.060
+  Pre-game Pistons: 0.530
+  Pre-game Timberwolves: 0.460
+  Pre-game 76ers: 0.310
+  Pre-game Hornets: 0.680
+  Pre-game Kings: 0.110
+  Pre-game Hawks: 0.880
+  Pre-game Bulls: 0.620
+  Pre-game Grizzlies: 0.370
+  Pre-game Jazz: 0.070
+  Pre-game Suns: 0.920
+  Pre-game Illinois: 0.730
+  Pre-game Iowa: 0.260
+
+--- Check #0 at 16:04:25 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=326 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=596 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=746 
+
+--- Check #1 at 16:05:44 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=324 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=594 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=744 
+
+--- Check #2 at 16:07:03 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=323 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=593 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=743 
+
+--- Check #3 at 16:08:22 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=322 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=592 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=742 
+
+--- Check #4 at 16:09:42 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=320 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=590 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=740 
+
+--- Check #5 at 16:11:01 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=319 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=589 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=739 
+
+--- Check #6 at 16:12:20 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=318 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=588 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=738 
+
+--- Check #7 at 16:13:40 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=316 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=586 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=736 
+
+--- Check #8 at 16:14:59 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=315 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=585 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=735 
+
+--- Check #9 at 16:16:19 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=314 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=584 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=734 
+
+--- Check #10 at 16:17:38 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=312 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=582 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=732 
+
+--- Check #11 at 16:18:57 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=311 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=581 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=731 
+
+--- Check #12 at 16:20:16 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=310 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=580 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=730 
+
+--- Check #13 at 16:21:35 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=308 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=578 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=728 
+
+--- Check #14 at 16:22:54 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=307 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=577 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=727 
+
+--- Check #15 at 16:24:14 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=306 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=576 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=726 
+
+--- Check #16 at 16:25:34 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=304 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=574 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=724 
+
+--- Check #17 at 16:26:53 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=303 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=573 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=723 
+
+--- Check #18 at 16:28:13 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=302 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=572 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=722 
+
+--- Check #19 at 16:29:32 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=300 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=570 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=720 
+
+--- Check #20 at 16:30:52 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=299 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=569 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=719 
+
+--- Check #21 at 16:32:11 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=298 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=568 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=718 
+
+--- Check #22 at 16:33:31 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=296 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=566 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=716 
+
+--- Check #23 at 16:34:52 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=295 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=565 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=715 
+
+--- Check #24 at 16:36:11 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=294 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=564 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=714 
+
+--- Check #25 at 16:37:30 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=292 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=562 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=712 
+
+--- Check #26 at 16:38:50 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=291 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=561 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=711 
+
+--- Check #27 at 16:40:09 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=290 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=560 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=710 
+
+--- Check #28 at 16:41:29 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=289 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=559 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=709 
+
+--- Check #29 at 16:42:49 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=287 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=557 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=707 
+
+--- Check #30 at 16:44:09 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=286 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=556 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=706 
+
+--- Check #31 at 16:45:29 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=285 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=555 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=705 
+
+--- Check #32 at 16:46:48 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=283 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=553 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=703 
+
+--- Check #33 at 16:48:08 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=282 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=552 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=702 
+
+--- Check #34 at 16:49:28 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=281 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=551 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=701 
+
+--- Check #35 at 16:50:47 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=279 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=549 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=699 
+
+--- Check #36 at 16:52:08 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=278 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=548 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=698 
+
+--- Check #37 at 16:53:27 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=277 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=547 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=697 
+
+--- Check #38 at 16:54:48 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=275 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=545 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=695 
+
+--- Check #39 at 16:56:08 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=274 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=544 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=694 
+
+--- Check #40 at 16:57:27 UTC ---
+  Balance: $9.56
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=273 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=543 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=693 
+
+--- Check #41 at 16:58:47 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=271 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=541 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=691 
+
+--- Check #42 at 17:00:07 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=270 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=540 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=690 
+
+--- Check #43 at 17:01:27 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=269 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=539 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=689 
+
+--- Check #44 at 17:02:48 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=267 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=537 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=687 
+
+--- Check #45 at 17:04:09 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=266 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=536 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=686 
+
+--- Check #46 at 17:05:30 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=264 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=534 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=684 
+
+--- Check #47 at 17:06:50 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=263 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=533 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=683 
+
+--- Check #48 at 17:08:10 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=262 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=532 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=682 
+
+--- Check #49 at 17:09:29 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=261 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=531 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=681 
+
+--- Check #50 at 17:10:48 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=259 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=529 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=679 
+
+--- Check #51 at 17:12:08 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=258 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=528 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=678 
+
+--- Check #52 at 17:13:27 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=257 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=527 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=677 
+
+--- Check #53 at 17:14:47 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=255 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=525 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=675 
+
+--- Check #54 at 17:16:06 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=254 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=524 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=674 
+
+--- Check #55 at 17:17:26 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=253 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=523 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=673 
+
+--- Check #56 at 17:18:45 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=251 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=521 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=671 
+
+--- Check #57 at 17:20:04 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=250 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=520 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=670 
+
+--- Check #58 at 17:21:24 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=249 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=519 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=669 
+
+--- Check #59 at 17:22:43 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=247 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=517 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=667 
+
+--- Check #60 at 17:24:03 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=246 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=516 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=666 
+
+--- Check #61 at 17:25:23 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=245 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=515 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=665 
+
+--- Check #62 at 17:26:42 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=243 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=513 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=663 
+
+--- Check #63 at 17:28:02 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=242 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=512 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=662 
+
+--- Check #64 at 17:29:22 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=241 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=511 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=661 
+
+--- Check #65 at 17:30:44 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=239 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=509 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=659 
+
+--- Check #66 at 17:32:04 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=238 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=508 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=658 
+
+--- Check #67 at 17:33:25 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=237 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=507 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=657 
+
+--- Check #68 at 17:34:44 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=235 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=505 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=655 
+
+--- Check #69 at 17:36:04 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=234 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=504 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=654 
+
+--- Check #70 at 17:37:25 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=233 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=503 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=653 
+
+--- Check #71 at 17:38:44 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=231 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=501 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=651 
+
+--- Check #72 at 17:40:04 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=230 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=500 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=650 
+
+--- Check #73 at 17:41:24 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=229 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=499 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=649 
+
+--- Check #74 at 17:42:45 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=227 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=497 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=647 
+
+--- Check #75 at 17:44:05 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=226 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=496 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=646 
+
+--- Check #76 at 17:45:24 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=225 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=495 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=645 
+
+--- Check #77 at 17:46:44 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=223 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=493 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=643 
+
+--- Check #78 at 17:48:03 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=222 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=492 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=642 
+
+--- Check #79 at 17:49:22 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=221 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=491 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=641 
+
+--- Check #80 at 17:50:42 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=219 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=489 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=639 
+
+--- Check #81 at 17:52:01 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.940 spread=-0.020 jump=-0.010 mins=218 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=488 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=638 
+
+--- Check #82 at 17:53:20 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=217 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=487 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=637 
+
+--- Check #83 at 17:54:40 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=215 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=485 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=635 
+
+--- Check #84 at 17:55:59 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=214 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=484 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=634 
+
+--- Check #85 at 17:57:19 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=213 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=483 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=633 
+
+--- Check #86 at 17:58:39 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=211 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=481 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=631 
+
+--- Check #87 at 17:59:58 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=210 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=480 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=630 
+
+--- Check #88 at 18:01:18 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=209 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=479 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=629 
+
+--- Check #89 at 18:02:38 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=207 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=477 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=627 
+
+--- Check #90 at 18:03:58 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=206 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=476 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=626 
+
+--- Check #91 at 18:05:17 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=205 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=475 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=625 
+
+--- Check #92 at 18:06:36 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=203 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=473 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=623 
+
+--- Check #93 at 18:07:56 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=202 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=472 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=622 
+
+--- Check #94 at 18:09:15 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=201 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=471 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=621 
+
+--- Check #95 at 18:10:34 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=199 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=469 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=619 
+
+--- Check #96 at 18:11:54 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=198 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=468 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=618 
+
+--- Check #97 at 18:13:13 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=197 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=467 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=617 
+
+--- Check #98 at 18:14:33 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=195 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=465 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=615 
+
+--- Check #99 at 18:15:52 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=194 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=464 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=614 
+
+--- Check #100 at 18:17:11 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=193 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=463 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=613 
+
+--- Check #101 at 18:18:31 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.920 sell=0.930 spread=-0.010 jump=-0.010 mins=191 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=461 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=611 
+
+--- Check #102 at 18:19:50 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=190 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=460 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=610 
+
+--- Check #103 at 18:21:09 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=189 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=459 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=609 
+
+--- Check #104 at 18:22:29 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=188 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=458 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=608 
+
+--- Check #105 at 18:23:49 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=186 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=456 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=606 
+
+--- Check #106 at 18:25:10 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=185 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=455 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=605 
+
+--- Check #107 at 18:26:30 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=183 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=453 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=603 
+
+--- Check #108 at 18:27:49 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=182 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=452 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=602 
+
+--- Check #109 at 18:29:11 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=181 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=451 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=601 
+
+--- Check #110 at 18:30:30 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=179 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=449 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=599 
+
+--- Check #111 at 18:31:50 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=178 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=448 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=598 
+
+--- Check #112 at 18:33:10 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=177 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=447 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=597 
+
+--- Check #113 at 18:34:29 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=176 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=446 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=596 
+
+--- Check #114 at 18:35:49 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=174 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=444 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=594 
+
+--- Check #115 at 18:37:08 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=173 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=443 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=593 
+
+--- Check #116 at 18:38:28 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=172 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=442 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=592 
+
+--- Check #117 at 18:39:47 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=170 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=440 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=590 
+
+--- Check #118 at 18:41:06 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=169 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=439 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=589 
+
+--- Check #119 at 18:42:26 UTC ---
+  Balance: $7.06
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=168 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=438 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=588 
+
+--- Check #120 at 18:43:47 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=166 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=436 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=586 
+
+--- Check #121 at 18:45:06 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=165 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=435 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=585 
+
+--- Check #122 at 18:46:26 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=164 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=434 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=584 
+
+--- Check #123 at 18:47:46 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=162 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=432 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=582 
+
+--- Check #124 at 18:49:05 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=161 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=431 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=581 
+
+--- Check #125 at 18:50:25 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=160 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=430 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=580 
+
+--- Check #126 at 18:51:44 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=158 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=428 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=578 
+
+--- Check #127 at 18:53:04 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=157 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=427 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=577 
+
+--- Check #128 at 18:54:23 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=156 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=426 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=576 
+
+--- Check #129 at 18:55:42 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=154 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=424 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=574 
+
+--- Check #130 at 18:57:02 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=153 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=423 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=573 
+
+--- Check #131 at 18:58:21 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=152 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=422 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=572 
+
+--- Check #132 at 18:59:40 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=150 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=420 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=570 
+
+--- Check #133 at 19:01:00 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=149 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=419 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=569 
+
+--- Check #134 at 19:02:19 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=148 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=418 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=568 
+
+--- Check #135 at 19:03:38 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=146 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=416 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=566 
+
+--- Check #136 at 19:04:58 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=145 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=415 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=565 
+
+--- Check #137 at 19:06:18 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=144 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=414 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=564 
+
+--- Check #138 at 19:07:38 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=142 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=412 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=562 
+
+--- Check #139 at 19:08:58 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=141 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=411 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=561 
+
+--- Check #140 at 19:10:17 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=140 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=410 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=560 
+
+--- Check #141 at 19:11:37 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=138 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=408 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=558 
+
+--- Check #142 at 19:12:56 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=137 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=407 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=557 
+
+--- Check #143 at 19:14:16 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.930 sell=0.940 spread=-0.010 jump=+0.000 mins=136 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=406 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=556 
+
+--- Check #144 at 19:15:36 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=134 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=404 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=554 
+
+--- Check #145 at 19:16:58 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=133 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=403 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=553 
+
+--- Check #146 at 19:18:19 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=132 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=402 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=552 
+
+--- Check #147 at 19:19:39 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.950 sell=0.960 spread=-0.010 jump=+0.020 mins=130 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=400 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=550 
+
+--- Check #148 at 19:20:59 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.950 sell=0.960 spread=-0.010 jump=+0.020 mins=129 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=399 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=549 
+
+--- Check #149 at 19:22:19 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=128 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=398 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=548 
+
+--- Check #150 at 19:23:39 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=126 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=396 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=546 
+
+--- Check #151 at 19:24:58 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.950 sell=0.960 spread=-0.010 jump=+0.020 mins=125 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=395 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=545 
+
+--- Check #152 at 19:26:19 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.950 sell=0.960 spread=-0.010 jump=+0.020 mins=124 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=394 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=544 
+
+--- Check #153 at 19:27:39 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.950 sell=0.960 spread=-0.010 jump=+0.020 mins=122 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=392 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=542 
+
+--- Check #154 at 19:28:58 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.950 sell=0.960 spread=-0.010 jump=+0.020 mins=121 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=391 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=541 
+
+--- Check #155 at 19:30:18 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.940 sell=0.950 spread=-0.010 jump=+0.010 mins=120 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=390 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=540 
+
+--- Check #156 at 19:31:38 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.950 sell=0.960 spread=-0.010 jump=+0.020 mins=118 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=388 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=538 
+
+--- Check #157 at 19:32:57 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.960 sell=0.970 spread=-0.010 jump=+0.030 mins=117 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=387 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=537 
+
+--- Check #158 at 19:34:16 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.960 sell=0.970 spread=-0.010 jump=+0.030 mins=116 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=386 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=536 
+
+--- Check #159 at 19:35:35 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.960 sell=0.970 spread=-0.010 jump=+0.030 mins=114 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=384 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=534 
+
+--- Check #160 at 19:36:56 UTC ---
+  Balance: $5.09
+  Spurs          buy=0.967 sell=0.970 spread=-0.003 jump=+0.037 mins=113 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=383 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=533 
+
+--- Check #161 at 19:38:16 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.974 sell=0.976 spread=-0.002 jump=+0.044 mins=112 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=382 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=532 
+
+--- Check #162 at 19:39:35 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.973 sell=0.979 spread=-0.006 jump=+0.043 mins=110 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=380 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=530 
+
+--- Check #163 at 19:40:55 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.975 sell=0.979 spread=-0.004 jump=+0.045 mins=109 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=379 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=529 
+
+--- Check #164 at 19:42:14 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.978 sell=0.980 spread=-0.002 jump=+0.048 mins=108 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=378 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=528 
+
+--- Check #165 at 19:43:33 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.985 sell=0.987 spread=-0.002 jump=+0.055 mins=106 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=376 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=526 
+
+--- Check #166 at 19:44:53 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.983 sell=0.989 spread=-0.006 jump=+0.053 mins=105 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=375 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=525 
+
+--- Check #167 at 19:46:12 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.986 sell=0.987 spread=-0.001 jump=+0.056 mins=104 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=374 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=524 
+
+--- Check #168 at 19:47:31 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.987 sell=0.989 spread=-0.002 jump=+0.057 mins=102 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=372 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=522 
+
+--- Check #169 at 19:48:51 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.988 sell=0.990 spread=-0.002 jump=+0.058 mins=101 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=371 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=521 
+
+--- Check #170 at 19:50:10 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.987 sell=0.991 spread=-0.004 jump=+0.057 mins=100 
+  Bucks          buy=0.009 sell=0.013 spread=-0.004 jump=-0.051 mins=100 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=370 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=520 
+
+--- Check #171 at 19:51:30 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.988 sell=0.993 spread=-0.005 jump=+0.058 mins=98 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=368 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=518 
+
+--- Check #172 at 19:52:49 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.992 sell=0.993 spread=-0.001 jump=+0.062 mins=97 
+  Bucks          buy=0.007 sell=0.008 spread=-0.001 jump=-0.053 mins=97 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=367 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=517 
+
+--- Check #173 at 19:54:08 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.994 sell=0.997 spread=-0.003 jump=+0.064 mins=96 
+  Bucks          buy=0.003 sell=0.006 spread=-0.003 jump=-0.057 mins=96 
+  Hawks          buy=0.870 sell=0.890 spread=-0.020 jump=-0.010 mins=366 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=516 
+
+--- Check #174 at 19:55:27 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.994 sell=0.996 spread=-0.002 jump=+0.064 mins=95 
+  Bucks          buy=0.004 sell=0.006 spread=-0.002 jump=-0.056 mins=95 
+  Hawks          buy=0.870 sell=0.890 spread=-0.020 jump=-0.010 mins=365 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=515 
+
+--- Check #175 at 19:56:47 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.994 sell=0.996 spread=-0.002 jump=+0.064 mins=93 
+  Bucks          buy=0.004 sell=0.006 spread=-0.002 jump=-0.056 mins=93 
+  Hawks          buy=0.870 sell=0.890 spread=-0.020 jump=-0.010 mins=363 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=513 
+
+--- Check #176 at 19:58:06 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.994 sell=0.997 spread=-0.003 jump=+0.064 mins=92 
+  Bucks          buy=0.003 sell=0.006 spread=-0.003 jump=-0.057 mins=92 
+  Hawks          buy=0.870 sell=0.890 spread=-0.020 jump=-0.010 mins=362 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=512 
+
+--- Check #177 at 19:59:25 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.994 sell=0.998 spread=-0.004 jump=+0.064 mins=91 
+  Bucks          buy=0.002 sell=0.006 spread=-0.004 jump=-0.058 mins=91 
+  Hawks          buy=0.870 sell=0.890 spread=-0.020 jump=-0.010 mins=361 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=511 
+
+--- Check #178 at 20:00:44 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.994 sell=0.998 spread=-0.004 jump=+0.064 mins=89 
+  Bucks          buy=0.002 sell=0.006 spread=-0.004 jump=-0.058 mins=89 
+  Hawks          buy=0.870 sell=0.890 spread=-0.020 jump=-0.010 mins=359 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=509 
+
+--- Check #179 at 20:02:04 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=88 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=88 
+  Hawks          buy=0.870 sell=0.890 spread=-0.020 jump=-0.010 mins=358 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=508 
+
+--- Check #180 at 20:03:23 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.996 sell=0.998 spread=-0.002 jump=+0.066 mins=87 
+  Bucks          buy=0.002 sell=0.004 spread=-0.002 jump=-0.058 mins=87 
+  Hawks          buy=0.870 sell=0.890 spread=-0.020 jump=-0.010 mins=357 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=507 
+
+--- Check #181 at 20:04:42 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.996 sell=0.998 spread=-0.002 jump=+0.066 mins=85 
+  Bucks          buy=0.002 sell=0.004 spread=-0.002 jump=-0.058 mins=85 
+  Hawks          buy=0.870 sell=0.890 spread=-0.020 jump=-0.010 mins=355 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=505 
+
+--- Check #182 at 20:06:01 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.993 sell=0.997 spread=-0.004 jump=+0.063 mins=84 
+  Bucks          buy=0.003 sell=0.007 spread=-0.004 jump=-0.057 mins=84 
+  Hawks          buy=0.870 sell=0.890 spread=-0.020 jump=-0.010 mins=354 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=504 
+
+--- Check #183 at 20:07:21 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.993 sell=0.996 spread=-0.003 jump=+0.063 mins=83 
+  Bucks          buy=0.004 sell=0.007 spread=-0.003 jump=-0.056 mins=83 
+  Hawks          buy=0.870 sell=0.890 spread=-0.020 jump=-0.010 mins=353 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=503 
+
+--- Check #184 at 20:08:40 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.993 sell=0.997 spread=-0.004 jump=+0.063 mins=81 
+  Bucks          buy=0.003 sell=0.007 spread=-0.004 jump=-0.057 mins=81 
+  Hawks          buy=0.870 sell=0.890 spread=-0.020 jump=-0.010 mins=351 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=501 
+
+--- Check #185 at 20:10:00 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.994 sell=0.997 spread=-0.003 jump=+0.064 mins=80 
+  Bucks          buy=0.003 sell=0.006 spread=-0.003 jump=-0.057 mins=80 
+  Hawks          buy=0.870 sell=0.890 spread=-0.020 jump=-0.010 mins=350 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=500 
+
+--- Check #186 at 20:11:20 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.994 sell=0.995 spread=-0.001 jump=+0.064 mins=79 
+  Bucks          buy=0.005 sell=0.006 spread=-0.001 jump=-0.055 mins=79 
+  Hawks          buy=0.870 sell=0.890 spread=-0.020 jump=-0.010 mins=349 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=499 
+
+--- Check #187 at 20:12:39 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.994 sell=0.997 spread=-0.003 jump=+0.064 mins=77 
+  Bucks          buy=0.003 sell=0.006 spread=-0.003 jump=-0.057 mins=77 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=347 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=497 
+
+--- Check #188 at 20:13:59 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.994 sell=0.997 spread=-0.003 jump=+0.064 mins=76 
+  Bucks          buy=0.003 sell=0.006 spread=-0.003 jump=-0.057 mins=76 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=346 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=496 
+
+--- Check #189 at 20:15:18 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.994 sell=0.997 spread=-0.003 jump=+0.064 mins=75 
+  Bucks          buy=0.003 sell=0.006 spread=-0.003 jump=-0.057 mins=75 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=345 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=495 
+
+--- Check #190 at 20:16:37 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.994 sell=0.997 spread=-0.003 jump=+0.064 mins=73 
+  Bucks          buy=0.003 sell=0.006 spread=-0.003 jump=-0.057 mins=73 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=343 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=493 
+
+--- Check #191 at 20:17:57 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.992 sell=0.997 spread=-0.005 jump=+0.062 mins=72 
+  Bucks          buy=0.003 sell=0.008 spread=-0.005 jump=-0.057 mins=72 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=342 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=492 
+
+--- Check #192 at 20:19:16 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.991 sell=0.992 spread=-0.001 jump=+0.061 mins=71 
+  Bucks          buy=0.008 sell=0.009 spread=-0.001 jump=-0.052 mins=71 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=341 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=491 
+
+--- Check #193 at 20:20:35 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.990 sell=0.992 spread=-0.002 jump=+0.060 mins=69 
+  Bucks          buy=0.008 sell=0.010 spread=-0.002 jump=-0.052 mins=69 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=339 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=489 
+
+--- Check #194 at 20:21:54 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.990 sell=0.994 spread=-0.004 jump=+0.060 mins=68 
+  Bucks          buy=0.006 sell=0.010 spread=-0.004 jump=-0.054 mins=68 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=338 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=488 
+
+--- Check #195 at 20:23:13 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.990 sell=0.993 spread=-0.003 jump=+0.060 mins=67 
+  Bucks          buy=0.007 sell=0.010 spread=-0.003 jump=-0.053 mins=67 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=337 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=487 
+
+--- Check #196 at 20:24:33 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.987 sell=0.990 spread=-0.003 jump=+0.057 mins=65 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=335 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=485 
+
+--- Check #197 at 20:25:52 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.986 sell=0.990 spread=-0.004 jump=+0.056 mins=64 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=334 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=484 
+
+--- Check #198 at 20:27:11 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.985 sell=0.991 spread=-0.006 jump=+0.055 mins=63 
+  Bucks          buy=0.009 sell=0.015 spread=-0.006 jump=-0.051 mins=63 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=333 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=483 
+
+--- Check #199 at 20:28:31 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.988 sell=0.990 spread=-0.002 jump=+0.058 mins=61 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=331 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=481 
+
+--- Check #200 at 20:29:50 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.988 sell=0.990 spread=-0.002 jump=+0.058 mins=60 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=330 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=480 
+
+--- Check #201 at 20:31:10 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.989 sell=0.990 spread=-0.001 jump=+0.059 mins=59 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=329 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=479 
+
+--- Check #202 at 20:32:29 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.990 sell=0.992 spread=-0.002 jump=+0.060 mins=58 
+  Bucks          buy=0.008 sell=0.010 spread=-0.002 jump=-0.052 mins=58 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=328 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=478 
+
+--- Check #203 at 20:33:49 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.987 sell=0.990 spread=-0.003 jump=+0.057 mins=56 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=326 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=476 
+
+--- Check #204 at 20:35:08 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.990 sell=0.991 spread=-0.001 jump=+0.060 mins=55 
+  Bucks          buy=0.009 sell=0.010 spread=-0.001 jump=-0.051 mins=55 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=325 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=475 
+
+--- Check #205 at 20:36:27 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.987 sell=0.989 spread=-0.002 jump=+0.057 mins=54 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=324 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=474 
+
+--- Check #206 at 20:37:46 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.994 sell=0.996 spread=-0.002 jump=+0.064 mins=52 
+  Bucks          buy=0.004 sell=0.006 spread=-0.002 jump=-0.056 mins=52 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=322 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=472 
+
+--- Check #207 at 20:39:06 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.994 sell=0.996 spread=-0.002 jump=+0.064 mins=51 
+  Bucks          buy=0.004 sell=0.006 spread=-0.002 jump=-0.056 mins=51 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=321 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=471 
+
+--- Check #208 at 20:40:25 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.996 sell=0.997 spread=-0.001 jump=+0.066 mins=50 
+  Bucks          buy=0.003 sell=0.004 spread=-0.001 jump=-0.057 mins=50 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=320 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=470 
+
+--- Check #209 at 20:41:45 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.996 sell=0.997 spread=-0.001 jump=+0.066 mins=48 
+  Bucks          buy=0.003 sell=0.004 spread=-0.001 jump=-0.057 mins=48 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=318 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=468 
+
+--- Check #210 at 20:43:05 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.996 sell=0.997 spread=-0.001 jump=+0.066 mins=47 
+  Bucks          buy=0.003 sell=0.004 spread=-0.001 jump=-0.057 mins=47 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=317 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=467 
+
+--- Check #211 at 20:44:25 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.996 sell=0.997 spread=-0.001 jump=+0.066 mins=46 
+  Bucks          buy=0.003 sell=0.004 spread=-0.001 jump=-0.057 mins=46 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=316 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=466 
+
+--- Check #212 at 20:45:45 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.996 sell=0.997 spread=-0.001 jump=+0.066 mins=44 
+  Bucks          buy=0.003 sell=0.004 spread=-0.001 jump=-0.057 mins=44 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=314 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=464 
+
+--- Check #213 at 20:47:05 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.997 sell=0.998 spread=-0.001 jump=+0.067 mins=43 
+  Bucks          buy=0.002 sell=0.003 spread=-0.001 jump=-0.058 mins=43 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=313 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=463 
+
+--- Check #214 at 20:48:24 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.998 sell=0.999 spread=-0.001 jump=+0.068 mins=42 
+  Bucks          buy=0.001 sell=0.002 spread=-0.001 jump=-0.059 mins=42 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=312 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=462 
+
+--- Check #215 at 20:49:44 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.997 sell=0.999 spread=-0.002 jump=+0.067 mins=40 
+  Bucks          buy=0.001 sell=0.003 spread=-0.002 jump=-0.059 mins=40 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=310 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=460 
+
+--- Check #216 at 20:51:04 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.998 sell=0.999 spread=-0.001 jump=+0.068 mins=39 
+  Bucks          buy=0.001 sell=0.002 spread=-0.001 jump=-0.059 mins=39 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=309 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=459 
+
+--- Check #217 at 20:52:24 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=38 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=38 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=308 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=458 
+
+--- Check #218 at 20:53:44 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=36 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=36 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=306 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=456 
+
+--- Check #219 at 20:55:04 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=35 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=35 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=305 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=455 
+
+--- Check #220 at 20:56:24 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=34 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=34 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=304 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=454 
+
+--- Check #221 at 20:57:43 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=32 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=32 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=302 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=452 
+
+--- Check #222 at 20:59:03 UTC ---
+  Balance: $3.67
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=31 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=31 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=301 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=451 
+
+--- Check #223 at 21:00:22 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=30 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=30 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=300 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=450 
+
+--- Check #224 at 21:01:41 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=28 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=28 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=298 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=448 
+
+--- Check #225 at 21:03:00 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=27 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=27 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=297 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=447 
+
+--- Check #226 at 21:04:19 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=26 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=26 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=296 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=446 
+
+--- Check #227 at 21:05:39 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=24 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=24 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=294 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=444 
+
+--- Check #228 at 21:06:58 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=23 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=23 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=293 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=443 
+
+--- Check #229 at 21:08:17 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=22 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=22 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=292 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=442 
+
+--- Check #230 at 21:09:36 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=20 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=20 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=290 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=440 
+
+--- Check #231 at 21:10:55 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=19 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=19 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=289 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=439 
+
+--- Check #232 at 21:12:14 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=18 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=18 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=288 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=438 
+
+--- Check #233 at 21:13:34 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=16 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=16 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=286 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=436 
+
+--- Check #234 at 21:14:53 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=15 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=15 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=285 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=435 
+
+--- Check #235 at 21:16:12 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=14 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=14 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=284 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=434 
+
+--- Check #236 at 21:17:31 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=12 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=12 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=282 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=432 
+
+--- Check #237 at 21:18:51 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=11 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=11 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=281 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=431 
+
+--- Check #238 at 21:20:10 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=10 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=10 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=280 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=430 
+
+--- Check #239 at 21:21:29 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=9 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=9 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=279 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=429 
+
+--- Check #240 at 21:22:48 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=7 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=7 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=277 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=427 
+
+--- Check #241 at 21:24:07 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=6 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=6 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=276 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=426 
+
+--- Check #242 at 21:25:27 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=5 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=5 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=275 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=425 
+
+--- Check #243 at 21:26:46 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=3 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=3 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=273 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=423 
+
+--- Check #244 at 21:28:07 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=2 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=2 
+  Hawks          buy=0.880 sell=0.890 spread=-0.010 jump=+0.000 mins=272 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=422 
+
+--- Check #245 at 21:29:26 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=1 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=1 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=271 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=421 
+
+--- Check #246 at 21:30:45 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-1 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-1 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=269 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=419 
+
+--- Check #247 at 21:32:04 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-2 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-2 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=268 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=418 
+
+--- Check #248 at 21:33:24 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-3 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-3 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=267 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=417 
+
+--- Check #249 at 21:34:43 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-5 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-5 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=265 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=415 
+
+--- Check #250 at 21:36:03 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-6 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-6 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=264 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=414 
+
+--- Check #251 at 21:37:24 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-7 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-7 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=263 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=413 
+
+--- Check #252 at 21:38:43 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-9 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-9 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=261 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=411 
+
+--- Check #253 at 21:40:02 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-10 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-10 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=260 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=410 
+
+--- Check #254 at 21:41:21 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-11 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-11 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=259 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=409 
+
+--- Check #255 at 21:42:41 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-13 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-13 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=257 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=407 
+
+--- Check #256 at 21:44:00 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-14 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-14 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=256 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=406 
+
+--- Check #257 at 21:45:20 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-15 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-15 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=255 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=405 
+
+--- Check #258 at 21:46:40 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-17 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-17 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=253 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=403 
+
+--- Check #259 at 21:47:59 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-18 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-18 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=252 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=402 
+
+--- Check #260 at 21:49:18 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-19 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-19 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=251 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=401 
+
+--- Check #261 at 21:50:38 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-21 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-21 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=249 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=399 
+
+--- Check #262 at 21:51:58 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-22 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-22 
+  Timberwolves   buy=0.410 sell=0.420 spread=-0.010 jump=-0.050 mins=128 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=248 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=398 
+
+--- Check #263 at 21:53:17 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-23 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-23 
+  Timberwolves   buy=0.410 sell=0.420 spread=-0.010 jump=-0.050 mins=127 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=247 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=397 
+
+--- Check #264 at 21:54:37 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-25 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-25 
+  Timberwolves   buy=0.410 sell=0.420 spread=-0.010 jump=-0.050 mins=125 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=245 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=395 
+
+--- Check #265 at 21:55:56 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-26 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-26 
+  Pistons        buy=0.610 sell=0.620 spread=-0.010 jump=+0.080 mins=124 
+  Timberwolves   buy=0.380 sell=0.390 spread=-0.010 jump=-0.080 mins=124 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=244 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=394 
+
+--- Check #266 at 21:57:16 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-27 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-27 
+  Timberwolves   buy=0.410 sell=0.420 spread=-0.010 jump=-0.050 mins=123 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=243 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=393 
+
+--- Check #267 at 21:58:35 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-29 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-29 
+  Pistons        buy=0.590 sell=0.600 spread=-0.010 jump=+0.060 mins=121 
+  Timberwolves   buy=0.400 sell=0.410 spread=-0.010 jump=-0.060 mins=121 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=241 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=391 
+
+--- Check #268 at 21:59:55 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-30 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-30 
+  Timberwolves   buy=0.400 sell=0.420 spread=-0.020 jump=-0.060 mins=120 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=240 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=390 
+
+--- Check #269 at 22:01:14 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-31 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-31 
+  Pistons        buy=0.630 sell=0.640 spread=-0.010 jump=+0.100 mins=119 
+  Timberwolves   buy=0.360 sell=0.370 spread=-0.010 jump=-0.100 mins=119 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=239 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=389 
+
+--- Check #270 at 22:02:33 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-33 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-33 
+  Pistons        buy=0.680 sell=0.690 spread=-0.010 jump=+0.150 mins=117 
+  Timberwolves   buy=0.310 sell=0.320 spread=-0.010 jump=-0.150 mins=117 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=237 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=387 
+
+--- Check #271 at 22:03:53 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-34 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-34 
+  Pistons        buy=0.670 sell=0.680 spread=-0.010 jump=+0.140 mins=116 
+  Timberwolves   buy=0.320 sell=0.330 spread=-0.010 jump=-0.140 mins=116 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=236 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=386 
+
+--- Check #272 at 22:05:12 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-35 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-35 
+  Pistons        buy=0.680 sell=0.690 spread=-0.010 jump=+0.150 mins=115 
+  Timberwolves   buy=0.310 sell=0.320 spread=-0.010 jump=-0.150 mins=115 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=235 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=385 
+
+--- Check #273 at 22:06:32 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-37 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-37 
+  Pistons        buy=0.680 sell=0.690 spread=-0.010 jump=+0.150 mins=113 
+  Timberwolves   buy=0.310 sell=0.320 spread=-0.010 jump=-0.150 mins=113 
+  Hawks          buy=0.860 sell=0.880 spread=-0.020 jump=-0.020 mins=233 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=383 
+
+--- Check #274 at 22:07:51 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-38 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-38 
+  Pistons        buy=0.690 sell=0.700 spread=-0.010 jump=+0.160 mins=112 
+  Timberwolves   buy=0.300 sell=0.310 spread=-0.010 jump=-0.160 mins=112 
+  Hawks          buy=0.860 sell=0.880 spread=-0.020 jump=-0.020 mins=232 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=382 
+
+--- Check #275 at 22:09:10 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-39 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-39 
+  Pistons        buy=0.690 sell=0.700 spread=-0.010 jump=+0.160 mins=111 
+  Timberwolves   buy=0.300 sell=0.310 spread=-0.010 jump=-0.160 mins=111 
+  Hawks          buy=0.860 sell=0.880 spread=-0.020 jump=-0.020 mins=231 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=381 
+
+--- Check #276 at 22:10:30 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-41 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-41 
+  Pistons        buy=0.690 sell=0.710 spread=-0.020 jump=+0.160 mins=109 
+  Timberwolves   buy=0.290 sell=0.310 spread=-0.020 jump=-0.170 mins=109 
+  Hawks          buy=0.860 sell=0.880 spread=-0.020 jump=-0.020 mins=229 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=379 
+
+--- Check #277 at 22:11:49 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-42 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-42 
+  Pistons        buy=0.740 sell=0.750 spread=-0.010 jump=+0.210 mins=108 
+  Timberwolves   buy=0.250 sell=0.280 spread=-0.030 jump=-0.210 mins=108 
+  76ers          buy=0.250 sell=0.260 spread=-0.010 jump=-0.060 mins=138 
+  Hornets        buy=0.740 sell=0.750 spread=-0.010 jump=+0.060 mins=138 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=228 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=378 
+
+--- Check #278 at 22:13:08 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-43 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-43 
+  Pistons        buy=0.730 sell=0.740 spread=-0.010 jump=+0.200 mins=107 
+  Timberwolves   buy=0.260 sell=0.270 spread=-0.010 jump=-0.200 mins=107 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=227 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=377 
+
+--- Check #279 at 22:14:28 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-44 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-44 
+  Pistons        buy=0.770 sell=0.780 spread=-0.010 jump=+0.240 mins=106 
+  Timberwolves   buy=0.220 sell=0.230 spread=-0.010 jump=-0.240 mins=106 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=226 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=376 
+  Illinois       buy=0.600 sell=0.620 spread=-0.020 jump=-0.130 mins=115 
+  Iowa           buy=0.390 sell=0.400 spread=-0.010 jump=+0.130 mins=115 
+
+--- Check #280 at 22:15:47 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-46 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-46 
+  Pistons        buy=0.740 sell=0.750 spread=-0.010 jump=+0.210 mins=104 
+  Timberwolves   buy=0.250 sell=0.260 spread=-0.010 jump=-0.210 mins=104 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=224 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=374 
+  Illinois       buy=0.590 sell=0.600 spread=-0.010 jump=-0.140 mins=113 
+  Iowa           buy=0.400 sell=0.410 spread=-0.010 jump=+0.140 mins=113 
+
+--- Check #281 at 22:17:06 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-47 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-47 
+  Pistons        buy=0.750 sell=0.760 spread=-0.010 jump=+0.220 mins=103 
+  Timberwolves   buy=0.240 sell=0.250 spread=-0.010 jump=-0.220 mins=103 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=223 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=373 
+  Illinois       buy=0.590 sell=0.600 spread=-0.010 jump=-0.140 mins=112 
+  Iowa           buy=0.400 sell=0.410 spread=-0.010 jump=+0.140 mins=112 
+
+--- Check #282 at 22:18:26 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-48 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-48 
+  Pistons        buy=0.740 sell=0.750 spread=-0.010 jump=+0.210 mins=102 
+  Timberwolves   buy=0.250 sell=0.260 spread=-0.010 jump=-0.210 mins=102 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=222 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=372 
+  Illinois       buy=0.590 sell=0.600 spread=-0.010 jump=-0.140 mins=111 
+  Iowa           buy=0.400 sell=0.410 spread=-0.010 jump=+0.140 mins=111 
+
+--- Check #283 at 22:19:45 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-50 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-50 
+  Pistons        buy=0.790 sell=0.800 spread=-0.010 jump=+0.260 mins=100 
+  Timberwolves   buy=0.200 sell=0.210 spread=-0.010 jump=-0.260 mins=100 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=220 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=370 
+  Illinois       buy=0.580 sell=0.590 spread=-0.010 jump=-0.150 mins=109 
+  Iowa           buy=0.410 sell=0.420 spread=-0.010 jump=+0.150 mins=109 
+
+--- Check #284 at 22:21:04 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-51 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-51 
+  Pistons        buy=0.700 sell=0.710 spread=-0.010 jump=+0.170 mins=99 
+  Timberwolves   buy=0.290 sell=0.300 spread=-0.010 jump=-0.170 mins=99 
+  76ers          buy=0.250 sell=0.260 spread=-0.010 jump=-0.060 mins=129 
+  Hornets        buy=0.740 sell=0.750 spread=-0.010 jump=+0.060 mins=129 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=219 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=369 
+  Illinois       buy=0.580 sell=0.590 spread=-0.010 jump=-0.150 mins=108 
+  Iowa           buy=0.410 sell=0.420 spread=-0.010 jump=+0.150 mins=108 
+
+--- Check #285 at 22:22:24 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-52 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-52 
+  Pistons        buy=0.700 sell=0.710 spread=-0.010 jump=+0.170 mins=98 
+  Timberwolves   buy=0.290 sell=0.300 spread=-0.010 jump=-0.170 mins=98 
+  76ers          buy=0.250 sell=0.260 spread=-0.010 jump=-0.060 mins=128 
+  Hornets        buy=0.740 sell=0.750 spread=-0.010 jump=+0.060 mins=128 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=218 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=368 
+  Illinois       buy=0.640 sell=0.660 spread=-0.020 jump=-0.090 mins=107 
+  Iowa           buy=0.340 sell=0.360 spread=-0.020 jump=+0.080 mins=107 
+
+--- Check #286 at 22:23:43 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-54 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-54 
+  Pistons        buy=0.690 sell=0.710 spread=-0.020 jump=+0.160 mins=96 
+  Timberwolves   buy=0.290 sell=0.310 spread=-0.020 jump=-0.170 mins=96 
+  76ers          buy=0.250 sell=0.260 spread=-0.010 jump=-0.060 mins=126 
+  Hornets        buy=0.740 sell=0.750 spread=-0.010 jump=+0.060 mins=126 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=216 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=366 
+
+--- Check #287 at 22:25:02 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-55 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-55 
+  Pistons        buy=0.730 sell=0.740 spread=-0.010 jump=+0.200 mins=95 
+  Timberwolves   buy=0.260 sell=0.270 spread=-0.010 jump=-0.200 mins=95 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=215 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=365 
+
+--- Check #288 at 22:26:22 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-56 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-56 
+  Pistons        buy=0.660 sell=0.680 spread=-0.020 jump=+0.130 mins=94 
+  Timberwolves   buy=0.320 sell=0.340 spread=-0.020 jump=-0.140 mins=94 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=214 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=364 
+  Illinois       buy=0.670 sell=0.680 spread=-0.010 jump=-0.060 mins=103 
+  Iowa           buy=0.320 sell=0.330 spread=-0.010 jump=+0.060 mins=103 
+
+--- Check #289 at 22:27:41 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-58 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-58 
+  Pistons        buy=0.640 sell=0.660 spread=-0.020 jump=+0.110 mins=92 
+  Timberwolves   buy=0.340 sell=0.360 spread=-0.020 jump=-0.120 mins=92 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=212 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=362 
+  Illinois       buy=0.670 sell=0.680 spread=-0.010 jump=-0.060 mins=101 
+  Iowa           buy=0.320 sell=0.330 spread=-0.010 jump=+0.060 mins=101 
+
+--- Check #290 at 22:29:00 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-59 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-59 
+  Pistons        buy=0.640 sell=0.650 spread=-0.010 jump=+0.110 mins=91 
+  Timberwolves   buy=0.350 sell=0.360 spread=-0.010 jump=-0.110 mins=91 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=211 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=361 
+  Illinois       buy=0.670 sell=0.680 spread=-0.010 jump=-0.060 mins=100 
+  Iowa           buy=0.320 sell=0.330 spread=-0.010 jump=+0.060 mins=100 
+
+--- Check #291 at 22:30:20 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-60 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-60 
+  Pistons        buy=0.680 sell=0.690 spread=-0.010 jump=+0.150 mins=90 
+  Timberwolves   buy=0.310 sell=0.320 spread=-0.010 jump=-0.150 mins=90 
+  76ers          buy=0.240 sell=0.250 spread=-0.010 jump=-0.070 mins=120 
+  Hornets        buy=0.750 sell=0.760 spread=-0.010 jump=+0.070 mins=120 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=210 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=360 
+  Illinois       buy=0.670 sell=0.680 spread=-0.010 jump=-0.060 mins=99 
+  Iowa           buy=0.320 sell=0.330 spread=-0.010 jump=+0.060 mins=99 
+
+--- Check #292 at 22:31:39 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-62 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-62 
+  Pistons        buy=0.670 sell=0.680 spread=-0.010 jump=+0.140 mins=88 
+  Timberwolves   buy=0.320 sell=0.330 spread=-0.010 jump=-0.140 mins=88 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=208 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=358 
+  Illinois       buy=0.630 sell=0.640 spread=-0.010 jump=-0.100 mins=97 
+  Iowa           buy=0.360 sell=0.370 spread=-0.010 jump=+0.100 mins=97 
+
+--- Check #293 at 22:32:58 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-63 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-63 
+  Pistons        buy=0.670 sell=0.680 spread=-0.010 jump=+0.140 mins=87 
+  Timberwolves   buy=0.320 sell=0.330 spread=-0.010 jump=-0.140 mins=87 
+  76ers          buy=0.220 sell=0.230 spread=-0.010 jump=-0.090 mins=117 
+  Hornets        buy=0.770 sell=0.780 spread=-0.010 jump=+0.090 mins=117 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=207 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=357 
+
+--- Check #294 at 22:34:18 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-64 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-64 
+  Pistons        buy=0.670 sell=0.680 spread=-0.010 jump=+0.140 mins=86 
+  Timberwolves   buy=0.320 sell=0.330 spread=-0.010 jump=-0.140 mins=86 
+  76ers          buy=0.210 sell=0.230 spread=-0.020 jump=-0.100 mins=116 
+  Hornets        buy=0.770 sell=0.790 spread=-0.020 jump=+0.090 mins=116 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=206 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=356 
+
+--- Check #295 at 22:35:37 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-66 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-66 
+  Pistons        buy=0.650 sell=0.660 spread=-0.010 jump=+0.120 mins=84 
+  Timberwolves   buy=0.340 sell=0.350 spread=-0.010 jump=-0.120 mins=84 
+  76ers          buy=0.210 sell=0.230 spread=-0.020 jump=-0.100 mins=114 
+  Hornets        buy=0.770 sell=0.790 spread=-0.020 jump=+0.090 mins=114 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=204 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=354 
+
+--- Check #296 at 22:36:57 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-67 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-67 
+  Pistons        buy=0.650 sell=0.660 spread=-0.010 jump=+0.120 mins=83 
+  Timberwolves   buy=0.340 sell=0.350 spread=-0.010 jump=-0.120 mins=83 
+  76ers          buy=0.160 sell=0.170 spread=-0.010 jump=-0.150 mins=113 
+  Hornets        buy=0.830 sell=0.840 spread=-0.010 jump=+0.150 mins=113 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=203 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=353 
+
+--- Check #297 at 22:38:16 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-68 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-68 
+  Pistons        buy=0.650 sell=0.660 spread=-0.010 jump=+0.120 mins=82 
+  Timberwolves   buy=0.340 sell=0.350 spread=-0.010 jump=-0.120 mins=82 
+  76ers          buy=0.180 sell=0.190 spread=-0.010 jump=-0.130 mins=112 
+  Hornets        buy=0.810 sell=0.820 spread=-0.010 jump=+0.130 mins=112 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=202 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=352 
+
+--- Check #298 at 22:39:35 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-70 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-70 
+  Pistons        buy=0.670 sell=0.680 spread=-0.010 jump=+0.140 mins=80 
+  Timberwolves   buy=0.320 sell=0.330 spread=-0.010 jump=-0.140 mins=80 
+  76ers          buy=0.170 sell=0.190 spread=-0.020 jump=-0.140 mins=110 
+  Hornets        buy=0.810 sell=0.830 spread=-0.020 jump=+0.130 mins=110 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=200 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=350 
+
+--- Check #299 at 22:40:54 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-71 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-71 
+  Pistons        buy=0.670 sell=0.680 spread=-0.010 jump=+0.140 mins=79 
+  Timberwolves   buy=0.320 sell=0.330 spread=-0.010 jump=-0.140 mins=79 
+  76ers          buy=0.170 sell=0.180 spread=-0.010 jump=-0.140 mins=109 
+  Hornets        buy=0.820 sell=0.830 spread=-0.010 jump=+0.140 mins=109 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=199 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=349 
+
+--- Check #300 at 22:42:14 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-72 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-72 
+  Pistons        buy=0.660 sell=0.680 spread=-0.020 jump=+0.130 mins=78 
+  Timberwolves   buy=0.320 sell=0.340 spread=-0.020 jump=-0.140 mins=78 
+  76ers          buy=0.210 sell=0.220 spread=-0.010 jump=-0.100 mins=108 
+  Hornets        buy=0.780 sell=0.790 spread=-0.010 jump=+0.100 mins=108 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=198 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=348 
+
+--- Check #301 at 22:43:33 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-74 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-74 
+  Pistons        buy=0.660 sell=0.670 spread=-0.010 jump=+0.130 mins=76 
+  Timberwolves   buy=0.330 sell=0.340 spread=-0.010 jump=-0.130 mins=76 
+  76ers          buy=0.200 sell=0.220 spread=-0.020 jump=-0.110 mins=106 
+  Hornets        buy=0.780 sell=0.800 spread=-0.020 jump=+0.100 mins=106 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=196 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=346 
+
+--- Check #302 at 22:44:52 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-75 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-75 
+  Pistons        buy=0.660 sell=0.670 spread=-0.010 jump=+0.130 mins=75 
+  Timberwolves   buy=0.330 sell=0.340 spread=-0.010 jump=-0.130 mins=75 
+  76ers          buy=0.190 sell=0.200 spread=-0.010 jump=-0.120 mins=105 
+  Hornets        buy=0.800 sell=0.810 spread=-0.010 jump=+0.120 mins=105 
+  Hawks          buy=0.870 sell=0.880 spread=-0.010 jump=-0.010 mins=195 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=345 
+
+--- Check #303 at 22:46:11 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-76 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-76 
+  Pistons        buy=0.660 sell=0.670 spread=-0.010 jump=+0.130 mins=74 
+  Timberwolves   buy=0.330 sell=0.340 spread=-0.010 jump=-0.130 mins=74 
+  76ers          buy=0.160 sell=0.180 spread=-0.020 jump=-0.150 mins=104 
+  Hornets        buy=0.820 sell=0.840 spread=-0.020 jump=+0.140 mins=104 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=194 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=344 
+
+--- Check #304 at 22:47:30 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-78 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-78 
+  Pistons        buy=0.660 sell=0.670 spread=-0.010 jump=+0.130 mins=72 
+  Timberwolves   buy=0.330 sell=0.340 spread=-0.010 jump=-0.130 mins=72 
+  76ers          buy=0.150 sell=0.160 spread=-0.010 jump=-0.160 mins=102 
+  Hornets        buy=0.840 sell=0.850 spread=-0.010 jump=+0.160 mins=102 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=192 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=342 
+
+--- Check #305 at 22:48:50 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-79 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-79 
+  Pistons        buy=0.650 sell=0.660 spread=-0.010 jump=+0.120 mins=71 
+  Timberwolves   buy=0.340 sell=0.350 spread=-0.010 jump=-0.120 mins=71 
+  76ers          buy=0.150 sell=0.160 spread=-0.010 jump=-0.160 mins=101 
+  Hornets        buy=0.840 sell=0.850 spread=-0.010 jump=+0.160 mins=101 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=191 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=341 
+
+--- Check #306 at 22:50:09 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-80 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-80 
+  Pistons        buy=0.650 sell=0.660 spread=-0.010 jump=+0.120 mins=70 
+  Timberwolves   buy=0.340 sell=0.350 spread=-0.010 jump=-0.120 mins=70 
+  76ers          buy=0.150 sell=0.160 spread=-0.010 jump=-0.160 mins=100 
+  Hornets        buy=0.840 sell=0.850 spread=-0.010 jump=+0.160 mins=100 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=190 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=340 
+  Illinois       buy=0.600 sell=0.610 spread=-0.010 jump=-0.130 mins=79 
+  Iowa           buy=0.390 sell=0.400 spread=-0.010 jump=+0.130 mins=79 
+
+--- Check #307 at 22:51:28 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-81 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-81 
+  Pistons        buy=0.650 sell=0.660 spread=-0.010 jump=+0.120 mins=69 
+  Timberwolves   buy=0.340 sell=0.350 spread=-0.010 jump=-0.120 mins=69 
+  76ers          buy=0.150 sell=0.160 spread=-0.010 jump=-0.160 mins=99 
+  Hornets        buy=0.840 sell=0.850 spread=-0.010 jump=+0.160 mins=99 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=189 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=339 
+  Illinois       buy=0.620 sell=0.630 spread=-0.010 jump=-0.110 mins=78 
+  Iowa           buy=0.370 sell=0.380 spread=-0.010 jump=+0.110 mins=78 
+
+--- Check #308 at 22:52:47 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-83 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-83 
+  Pistons        buy=0.640 sell=0.650 spread=-0.010 jump=+0.110 mins=67 
+  Timberwolves   buy=0.350 sell=0.360 spread=-0.010 jump=-0.110 mins=67 
+  76ers          buy=0.150 sell=0.160 spread=-0.010 jump=-0.160 mins=97 
+  Hornets        buy=0.840 sell=0.850 spread=-0.010 jump=+0.160 mins=97 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=187 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=337 
+
+--- Check #309 at 22:54:07 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-84 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-84 
+  Pistons        buy=0.650 sell=0.660 spread=-0.010 jump=+0.120 mins=66 
+  Timberwolves   buy=0.340 sell=0.350 spread=-0.010 jump=-0.120 mins=66 
+  76ers          buy=0.220 sell=0.230 spread=-0.010 jump=-0.090 mins=96 
+  Hornets        buy=0.770 sell=0.780 spread=-0.010 jump=+0.090 mins=96 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=186 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=336 
+
+--- Check #310 at 22:55:26 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-85 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-85 
+  Pistons        buy=0.640 sell=0.660 spread=-0.020 jump=+0.110 mins=65 
+  Timberwolves   buy=0.340 sell=0.360 spread=-0.020 jump=-0.120 mins=65 
+  76ers          buy=0.220 sell=0.230 spread=-0.010 jump=-0.090 mins=95 
+  Hornets        buy=0.770 sell=0.780 spread=-0.010 jump=+0.090 mins=95 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=185 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=335 
+
+--- Check #311 at 22:56:45 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-87 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-87 
+  Pistons        buy=0.650 sell=0.670 spread=-0.020 jump=+0.120 mins=63 
+  Timberwolves   buy=0.330 sell=0.350 spread=-0.020 jump=-0.130 mins=63 
+  76ers          buy=0.240 sell=0.250 spread=-0.010 jump=-0.070 mins=93 
+  Hornets        buy=0.750 sell=0.760 spread=-0.010 jump=+0.070 mins=93 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=183 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=333 
+
+--- Check #312 at 22:58:04 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-88 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-88 
+  Pistons        buy=0.650 sell=0.660 spread=-0.010 jump=+0.120 mins=62 
+  Timberwolves   buy=0.340 sell=0.350 spread=-0.010 jump=-0.120 mins=62 
+  76ers          buy=0.250 sell=0.260 spread=-0.010 jump=-0.060 mins=92 
+  Hornets        buy=0.740 sell=0.750 spread=-0.010 jump=+0.060 mins=92 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=182 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=332 
+
+--- Check #313 at 22:59:23 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-89 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-89 
+  Pistons        buy=0.790 sell=0.800 spread=-0.010 jump=+0.260 mins=61 
+  Timberwolves   buy=0.200 sell=0.210 spread=-0.010 jump=-0.260 mins=61 
+  76ers          buy=0.230 sell=0.240 spread=-0.010 jump=-0.080 mins=91 
+  Hornets        buy=0.760 sell=0.770 spread=-0.010 jump=+0.080 mins=91 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=181 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=331 
+  Illinois       buy=0.660 sell=0.680 spread=-0.020 jump=-0.070 mins=70 
+  Iowa           buy=0.320 sell=0.340 spread=-0.020 jump=+0.060 mins=70 
+
+--- Check #314 at 23:00:43 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-91 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-91 
+  Pistons        buy=0.790 sell=0.800 spread=-0.010 jump=+0.260 mins=59 
+  Timberwolves   buy=0.200 sell=0.210 spread=-0.010 jump=-0.260 mins=59 
+  76ers          buy=0.250 sell=0.260 spread=-0.010 jump=-0.060 mins=89 
+  Hornets        buy=0.740 sell=0.750 spread=-0.010 jump=+0.060 mins=89 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=179 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=329 
+  Illinois       buy=0.660 sell=0.670 spread=-0.010 jump=-0.070 mins=68 
+  Iowa           buy=0.330 sell=0.340 spread=-0.010 jump=+0.070 mins=68 
+
+--- Check #315 at 23:02:02 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-92 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-92 
+  Pistons        buy=0.790 sell=0.800 spread=-0.010 jump=+0.260 mins=58 
+  Timberwolves   buy=0.200 sell=0.210 spread=-0.010 jump=-0.260 mins=58 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=178 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=328 
+
+--- Check #316 at 23:03:21 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-93 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-93 
+  Pistons        buy=0.740 sell=0.750 spread=-0.010 jump=+0.210 mins=57 
+  Timberwolves   buy=0.250 sell=0.260 spread=-0.010 jump=-0.210 mins=57 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=177 
+  Suns           buy=0.910 sell=0.920 spread=-0.010 jump=-0.010 mins=327 
+
+--- Check #317 at 23:04:40 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-95 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-95 
+  Pistons        buy=0.770 sell=0.790 spread=-0.020 jump=+0.240 mins=55 
+  Timberwolves   buy=0.210 sell=0.230 spread=-0.020 jump=-0.250 mins=55 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=175 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=325 
+  Illinois       buy=0.640 sell=0.650 spread=-0.010 jump=-0.090 mins=64 
+  Iowa           buy=0.350 sell=0.360 spread=-0.010 jump=+0.090 mins=64 
+
+--- Check #318 at 23:05:59 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-96 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-96 
+  Pistons        buy=0.790 sell=0.800 spread=-0.010 jump=+0.260 mins=54 
+  Timberwolves   buy=0.200 sell=0.210 spread=-0.010 jump=-0.260 mins=54 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=174 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=324 
+  Illinois       buy=0.640 sell=0.650 spread=-0.010 jump=-0.090 mins=63 
+  Iowa           buy=0.350 sell=0.360 spread=-0.010 jump=+0.090 mins=63 
+
+--- Check #319 at 23:07:18 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-97 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-97 
+  Pistons        buy=0.790 sell=0.810 spread=-0.020 jump=+0.260 mins=53 
+  Timberwolves   buy=0.190 sell=0.200 spread=-0.010 jump=-0.270 mins=53 
+  76ers          buy=0.220 sell=0.230 spread=-0.010 jump=-0.090 mins=83 
+  Hornets        buy=0.770 sell=0.780 spread=-0.010 jump=+0.090 mins=83 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=173 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=323 
+  Illinois       buy=0.640 sell=0.650 spread=-0.010 jump=-0.090 mins=62 
+  Iowa           buy=0.350 sell=0.360 spread=-0.010 jump=+0.090 mins=62 
+
+--- Check #320 at 23:08:38 UTC ---
+  Balance: $2.64
+  Spurs          buy=0.999 sell=1.000 spread=-0.001 jump=+0.069 mins=-99 
+  Bucks          buy=0.000 sell=0.001 spread=-0.001 jump=-0.060 mins=-99 
+  Pistons        buy=0.800 sell=0.820 spread=-0.020 jump=+0.270 mins=51 
+  Timberwolves   buy=0.180 sell=0.200 spread=-0.020 jump=-0.280 mins=51 
+  76ers          buy=0.230 sell=0.240 spread=-0.010 jump=-0.080 mins=81 
+  Hornets        buy=0.760 sell=0.770 spread=-0.010 jump=+0.080 mins=81 
+  Hawks          buy=0.860 sell=0.870 spread=-0.010 jump=-0.020 mins=171 
+  Suns           buy=0.920 sell=0.930 spread=-0.010 jump=+0.000 mins=321 
+  Illinois       buy=0.610 sell=0.620 spread=-0.010 jump=-0.120 mins=60 
+  Iowa           buy=0.380 sell=0.390 spread=-0.010 jump=+0.120 mins=60 

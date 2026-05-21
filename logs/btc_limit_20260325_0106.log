@@ -1,0 +1,11 @@
+[BTC-H] ═══ BTC Hourly Limit Order Sniper ═══
+[BTC-H] UTC now:  2026-03-25 01:06:24.670386+00:00
+[BTC-H] Signals:  5 hours (13:00 DOWN 53.8%, 17:00 UP 56.3%, 21:00 UP 54.9%, 22:00 UP 54.0%, 23:00 DOWN 54.1%)
+[BTC-H] Order size: 5.0 shares
+[BTC-H] Min edge:   1.9 cents
+[BTC-H] Cancel:     5s before candle start
+[BTC-H] Balance: $8.32
+[BTC-H] Next: 13:00 UTC — BTC DOWN (53.8%).  Monitor in 684 min.
+
+[BTC-H] Signal 15, shutting down gracefully...
+[BTC-H] Shutdown complete.

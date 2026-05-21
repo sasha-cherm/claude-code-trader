@@ -1,0 +1,230 @@
+[MM] === BTC 15-min Market Maker ===
+[MM] UTC: 2026-03-30 08:57:39.497223+00:00
+[MM] size=5.0  cancel=5s  poll=1.0s
+[MM] Balance: $16.16
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 5:00AM-5:15AM ET
+[MM] start=2026-03-30T09:00:00+00:00  deadline=2026-03-30T08:59:55+00:00
+[MM] up=3754811818677670...  dn=4559206469291985...
+[MM] Available balance: $16.16
+[UP] BUY 5sh @ 0.54  oid=0x054d0f29e5b9448135f3a7692c676429b80a06e1931f2cf102a429c8c801424f
+[DN] BUY 5sh @ 0.45  oid=0x453f4fcfbbce26bf83bd644a6b082a696cbb54074b521f4bff37a088813713f5
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 131s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 121s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 111s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 110s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 102s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 100s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 92s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.54 DN=0.45(=0.55) | 91s
+[MM] UP DONE 5.0@0.54
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=DONE DN=0.45(=0.55) | 81s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=DONE DN=0.45(=0.55) | 71s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=DONE DN=0.45(=0.55) | 61s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=DONE DN=0.45(=0.55) | 51s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=DONE DN=0.45(=0.55) | 41s
+[MM] bb=0.53 ba=0.55 sp=0.02 | UP=DONE DN=0.45(=0.55) | 32s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=DONE DN=0.45(=0.55) | 31s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=DONE DN=0.45(=0.55) | 22s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=DONE DN=0.45(=0.55) | 20s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=DONE DN=0.45(=0.55) | 12s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=DONE DN=0.45(=0.55) | 10s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=DONE DN=0.45(=0.55) | 2s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=DONE DN=0.45(=0.55) | 0s
+[MM] DEADLINE (4.0s to candle)
+[DN] cancelled 0x453f4fcfbbce26...
+[MM] ONLY UP filled 5.0@0.54, market-buying Down
+[FLAT-DN] market buy fail: PolyApiException[status_code=None, error_message=Request exception!]
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 5:15AM-5:30AM ET
+[MM] start=2026-03-30T09:15:00+00:00  deadline=2026-03-30T09:14:55+00:00
+[MM] up=1034071867283588...  dn=1060194101814229...
+[MM] Available balance: $8.51
+[UP] BUY 5sh @ 0.49  oid=0xdc1c4a576c9565c11c6a6fd50cda42a47cf7a1dce8afa644f719273005a54a79
+[DN] BUY 5sh @ 0.50  oid=0x50c2bb97119b675b8b808174b91b7401a06d9fccb442e5e8357cd1892e5a62ed
+[MM] DN DONE 5.0@0.5
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 881s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 880s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 871s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 870s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 861s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 852s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 851s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 842s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 840s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 831s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 830s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 821s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 820s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 811s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 801s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 791s
+[MM] bb=0.50 ba=0.52 sp=0.02 | UP=0.49 DN=DONE | 781s
+[MM] bb=0.50 ba=0.52 sp=0.02 | UP=0.49 DN=DONE | 771s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 762s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 761s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 752s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 750s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 742s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 740s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 732s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 730s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 722s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 720s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 711s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 710s
+[MM] bb=0.50 ba=0.52 sp=0.02 | UP=0.49 DN=DONE | 701s
+[MM] bb=0.50 ba=0.52 sp=0.02 | UP=0.49 DN=DONE | 691s
+[MM] bb=0.50 ba=0.52 sp=0.02 | UP=0.49 DN=DONE | 681s
+[MM] bb=0.50 ba=0.52 sp=0.02 | UP=0.49 DN=DONE | 671s
+[MM] bb=0.50 ba=0.52 sp=0.02 | UP=0.49 DN=DONE | 661s
+[MM] bb=0.50 ba=0.52 sp=0.02 | UP=0.49 DN=DONE | 651s
+[MM] bb=0.50 ba=0.52 sp=0.02 | UP=0.49 DN=DONE | 642s
+[MM] bb=0.50 ba=0.52 sp=0.02 | UP=0.49 DN=DONE | 641s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.49 DN=DONE | 632s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.49 DN=DONE | 631s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 622s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 620s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 612s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 610s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 602s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 600s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 591s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 590s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 581s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 571s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 561s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 552s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 551s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 542s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 541s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 532s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 530s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 521s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 520s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 511s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 501s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 491s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 482s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 481s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 472s
+[MM] bb=0.53 ba=0.55 sp=0.02 | UP=0.49 DN=DONE | 471s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 462s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 460s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 452s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 450s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 442s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 440s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 431s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 430s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 421s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 411s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 401s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 391s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 381s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 372s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 371s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 362s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 361s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 352s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 350s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 342s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 340s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 331s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 330s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 321s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 320s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 311s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 310s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 301s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 291s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 281s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 271s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 261s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 252s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 251s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 242s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 241s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 232s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 230s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 222s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 220s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 211s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 210s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 201s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 200s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 191s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 190s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 181s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 171s
+[MM] bb=0.50 ba=0.54 sp=0.04 | UP=0.49 DN=DONE | 161s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 151s
+[MM] bb=0.50 ba=0.51 sp=0.01 | UP=0.49 DN=DONE | 141s
+[MM] bb=0.51 ba=0.52 sp=0.01 | UP=0.49 DN=DONE | 131s
+[MM] bb=0.51 ba=0.52 sp=0.01 | UP=0.49 DN=DONE | 122s
+[MM] bb=0.51 ba=0.52 sp=0.01 | UP=0.49 DN=DONE | 121s
+[MM] bb=0.51 ba=0.54 sp=0.03 | UP=0.49 DN=DONE | 112s
+[MM] bb=0.51 ba=0.54 sp=0.03 | UP=0.49 DN=DONE | 111s
+[MM] bb=0.52 ba=0.53 sp=0.01 | UP=0.49 DN=DONE | 102s
+[MM] bb=0.52 ba=0.54 sp=0.02 | UP=0.49 DN=DONE | 100s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 92s
+[MM] bb=0.53 ba=0.54 sp=0.01 | UP=0.49 DN=DONE | 90s
+[MM] bb=0.53 ba=0.55 sp=0.02 | UP=0.49 DN=DONE | 82s
+[MM] bb=0.53 ba=0.55 sp=0.02 | UP=0.49 DN=DONE | 80s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 71s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 70s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 61s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 51s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.49 DN=DONE | 41s
+[MM] bb=0.54 ba=0.56 sp=0.02 | UP=0.49 DN=DONE | 31s
+[MM] bb=0.55 ba=0.56 sp=0.01 | UP=0.49 DN=DONE | 21s
+[MM] bb=0.56 ba=0.57 sp=0.01 | UP=0.49 DN=DONE | 11s
+[MM] bb=0.57 ba=0.59 sp=0.02 | UP=0.49 DN=DONE | 2s
+[MM] bb=0.57 ba=0.59 sp=0.02 | UP=0.49 DN=DONE | 1s
+[MM] DEADLINE (4.5s to candle)
+[UP] cancelled 0xdc1c4a576c9565...
+[MM] ONLY DN filled 5.0@0.5, market-buying Up
+[FLAT-UP] MARKET BUY 5.0sh => {'errorMsg': '', 'orderID': '0xd3e9bcd9e8b96dd8e054a776ae19b610014e30d5a70029facd62dad0e862bfd5', 'takingAmount': '8.389829', 'makingAmount': '4.949999', 'status': 'matched', 'transactionsHashes': ['0xe041654e57c333a196f7e3549d0816597f7069df4e1ca419213a050e27a04de0'], 'success': True}
+[MM] next: Bitcoin Up or Down - March 30, 5:30AM-5:45AM ET in 900s, sleeping 0s
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 5:30AM-5:45AM ET
+[MM] start=2026-03-30T09:30:00+00:00  deadline=2026-03-30T09:29:55+00:00
+[MM] up=6348773178187020...  dn=7762440050566603...
+[MM] Available balance: $11.86
+[UP] BUY 5sh @ 0.50  oid=0x5757f4a0029e28f77c2cf92cf05ea5eae1fc5a849f9d16ab57a7224f61ff46c5
+[DN] BUY 5sh @ 0.48  oid=0xf08876a195dd77b628c1a1d1efad31589bf69d9c3d554cbd7a6653f495d6273c
+[UP] cancelled 0x5757f4a0029e28...
+[UP] BUY 5sh @ 0.51  oid=0x92c6f7fe714b10ec14be3b935325670d1cd5403c5f44a8b2a0f003ea5118d6a5
+[MM] bb=0.51 ba=0.52 sp=0.01 | UP=0.51 DN=0.48(=0.52) | 891s
+[MM] bb=0.51 ba=0.52 sp=0.01 | UP=0.51 DN=0.48(=0.52) | 882s
+[MM] bb=0.51 ba=0.52 sp=0.01 | UP=0.51 DN=0.48(=0.52) | 881s
+[MM] bb=0.51 ba=0.52 sp=0.01 | UP=0.51 DN=0.48(=0.52) | 871s
+[MM] bb=0.51 ba=0.52 sp=0.01 | UP=0.51 DN=0.48(=0.52) | 861s
+[MM] DN DONE 5.0@0.48
+[MM] bb=0.51 ba=0.53 sp=0.02 | UP=0.51 DN=DONE | 852s
+[MM] bb=0.51 ba=0.53 sp=0.02 | UP=0.51 DN=DONE | 850s
+[MM] bb=0.51 ba=0.53 sp=0.02 | UP=0.51 DN=DONE | 842s
+[MM] bb=0.51 ba=0.53 sp=0.02 | UP=0.51 DN=DONE | 840s
+[MM] bb=0.51 ba=0.53 sp=0.02 | UP=0.51 DN=DONE | 832s
+[MM] bb=0.51 ba=0.53 sp=0.02 | UP=0.51 DN=DONE | 830s
+[MM] bb=0.51 ba=0.53 sp=0.02 | UP=0.51 DN=DONE | 822s
+[MM] bb=0.51 ba=0.53 sp=0.02 | UP=0.51 DN=DONE | 820s
+[MM] bb=0.51 ba=0.53 sp=0.02 | UP=0.51 DN=DONE | 811s
+[MM] bb=0.51 ba=0.53 sp=0.02 | UP=0.51 DN=DONE | 810s
+[MM] bb=0.53 ba=0.55 sp=0.02 | UP=0.51 DN=DONE | 801s
+[MM] bb=0.53 ba=0.55 sp=0.02 | UP=0.51 DN=DONE | 800s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.51 DN=DONE | 791s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.51 DN=DONE | 790s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.51 DN=DONE | 781s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.51 DN=DONE | 780s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.51 DN=DONE | 771s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.51 DN=DONE | 761s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.51 DN=DONE | 751s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.51 DN=DONE | 741s
+[MM] bb=0.54 ba=0.55 sp=0.01 | UP=0.51 DN=DONE | 731s
+
+[MM] Signal 15, stopping...
+[MM] shutdown

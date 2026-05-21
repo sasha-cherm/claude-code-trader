@@ -1,0 +1,12 @@
+Session 100 complete. Summary:
+
+- **Cash**: $18.44, **Effective total**: ~$61 (with pending settlements)
+- **Iowa** at 0.991 — winning, game ending now
+- **Candle trades** (XRP/SOL/ETH DOWN) all won, pending settlement (~$15)
+- **Preston** 18.09 shares pending settlement (~$18)
+- **BTC hourly trader** restarted (PID 452757, next SOL 4H DOWN at 12:00 UTC)
+- **near_res_mar21.py** verified ready — 55+ games, 110 tokens, all token IDs valid
+- **NCAAB 2nd Round** markets not yet created — will check at 09:00 UTC
+- **near_res_mar20.py** still running for tonight's remaining NBA/NCAAB games
+
+Next session (04:00 GMT+3 = 01:00 UTC already, or 06:00 GMT+3 = 03:00 UTC) should check NBA results and any late near-res buys. The **12:00 UTC session** is critical — must launch near_res_mar21.py before Brighton-Liverpool kickoff at 12:30 UTC.

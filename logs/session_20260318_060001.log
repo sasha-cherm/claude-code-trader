@@ -1,0 +1,13 @@
+Session 69 complete. Summary:
+
+**Portfolio**: $21.01 cash (+ Wellington weather pending 12:00 UTC)
+
+**This session**:
+- Sold T-Wolves @ 0.999: +$0.75
+- Killed stale NBA monitor
+- Analyzed near-res profitability — it's **negative EV** at current params (57% WR, need 83%+ to break even)
+- Tightened both monitors: MIN_PRICE 0.80→0.85, window 30→15 min, spread 0.06→0.04
+- Scanned non-sports markets (Fed, BoE, ECB, elections, crypto) — all efficiently priced
+- No trades to make at 03:00 UTC — next action window is 09:00 UTC (weather settlement) then 13:00 UTC (launch CL monitor)
+
+**Campaign**: $100 → $21 in 7 days. The math requires 47.6x in 23 days — near-res alone won't get there. Need to find big mispriced markets (like the Oscars were) or get very lucky with a string of wins.

@@ -1,0 +1,38 @@
+[MM] Generating weather MM config...
+[MM] Tokyo: forecast=15.0°C, 7 tradeable buckets
+[MM] Warsaw: forecast=12.3°C, 6 tradeable buckets
+[MM] Madrid: forecast=13.8°C, 7 tradeable buckets
+[MM] Munich: forecast=8.0°C, 7 tradeable buckets
+[MM] Singapore: forecast=34.2°C, 5 tradeable buckets
+[MM] Lucknow: forecast=29.1°C, 5 tradeable buckets
+[MM] Sao Paulo: forecast=29.0°C, 7 tradeable buckets
+[MM] Generated config with 77 markets
+[MM] Starting. Balance: $68.75, Budget: $10.00
+[MM] 20/77 markets selected (top by probability)
+[MM] Order failed (BUY 1.8sh @ 0.400): PolyApiException[status_code=400, error_message={'error': 'invalid amount for a marketable BUY order ($0.724), min size: $1'}]
+[MM] Order failed (BUY 1.9sh @ 0.340): PolyApiException[status_code=400, error_message={'error': 'order 0xf5cfe58f39f642f8130290e25be8a8721249581601056773bc4a207f38fcd91e is invalid. Size (1.85) lower than the minimum: 5'}]
+[MM] Order failed (BUY 2.0sh @ 0.230): PolyApiException[status_code=400, error_message={'error': 'order 0xf6ce59c1b5969110872dfddfed19aa07798caa9122ac2952b7be3743b7e24964 is invalid. Size (1.97) lower than the minimum: 5'}]
+[MM] Order failed (BUY 2.0sh @ 0.160): PolyApiException[status_code=400, error_message={'error': 'order 0x8c70ceefd2fc25badaaeef8f1db83b4ee4be726e46c40c39aba84fefddebf4c2 is invalid. Size (2.02) lower than the minimum: 5'}]
+[MM] Order failed (BUY 2.0sh @ 0.160): PolyApiException[status_code=400, error_message={'error': 'order 0xc1df1602359403a92aa4678624c8ef41bbb7c7d09604e77aa0d1b212db04e5df is invalid. Size (2.02) lower than the minimum: 5'}]
+[MM] Order failed (BUY 2.0sh @ 0.160): PolyApiException[status_code=400, error_message={'error': 'order 0x069dbbf80491bab924a881cfb47be7ce601a57cd2193e77231b65eac5ac91bc1 is invalid. Size (2.02) lower than the minimum: 5'}]
+[MM] Order failed (BUY 2.0sh @ 0.160): PolyApiException[status_code=400, error_message={'error': 'order 0x13162f32c5467b27d7bc058178feafa82b35d6476d5399dfc2a26278bfcc1262 is invalid. Size (2.02) lower than the minimum: 5'}]
+[MM] Order failed (BUY 2.0sh @ 0.160): PolyApiException[status_code=400, error_message={'error': 'order 0x493dca37aea92249928ab2b6084a27493796edb2ccbc3eb09530f62786b3b7fd is invalid. Size (2.02) lower than the minimum: 5'}]
+[MM] Order failed (BUY 2.0sh @ 0.160): PolyApiException[status_code=400, error_message={'error': 'order 0xebd1ef86d46cedfc5534906c935a6ff7ea562ccf2e814570f15f95c0fe08926a is invalid. Size (2.02) lower than the minimum: 5'}]
+[MM] Order failed (BUY 2.0sh @ 0.160): PolyApiException[status_code=400, error_message={'error': 'order 0xbd48b7f08d96ee079e4ab513c83d4e8cba7562e0c588eb649f495376f7031c69 is invalid. Size (2) lower than the minimum: 5'}]
+[MM] Order failed (BUY 2.0sh @ 0.150): PolyApiException[status_code=400, error_message={'error': 'order 0x930a780cd11450868c5ed58c403888eab94229aff10823b5bc4af83af3bec483 is invalid. Size (2.04) lower than the minimum: 5'}]
+[MM] Order failed (BUY 2.1sh @ 0.140): PolyApiException[status_code=400, error_message={'error': 'order 0x90a7cb9643f10f7daca572b1ace2e2ab26359436aefd78e2b1adbd74fbd19eca is invalid. Size (2.15) lower than the minimum: 5'}]
+[MM] Order failed (BUY 2.1sh @ 0.140): PolyApiException[status_code=400, error_message={'error': 'order 0xe7cd6400ad8877005a5861782ead1c68ab528e27d1bffba79e8f2fee8f3cf2ab is invalid. Size (2.11) lower than the minimum: 5'}]
+[MM] Order failed (BUY 2.2sh @ 0.130): PolyApiException[status_code=400, error_message={'error': 'order 0xea46cbbeddb26033584473da2f185509970e09a2b9c40a6dff292ff7142c9753 is invalid. Size (2.22) lower than the minimum: 5'}]
+[MM] Order failed (BUY 2.2sh @ 0.130): PolyApiException[status_code=400, error_message={'error': 'order 0xc69138ffd667aff72222c9002d24ff7d18d55dc5f5a3d696e0c3427bdd19d493 is invalid. Size (2.22) lower than the minimum: 5'}]
+[MM] Order failed (BUY 2.2sh @ 0.130): PolyApiException[status_code=400, error_message={'error': 'order 0x3af924126573abb5d9775de1e44995cd3bfd1dfd5e71d6a987b26ccb4e071172 is invalid. Size (2.22) lower than the minimum: 5'}]
+[MM] Order failed (BUY 2.2sh @ 0.130): PolyApiException[status_code=400, error_message={'error': 'order 0xca427cb6b27530825b329bc9891fbb4b38fc9c2a8c1e12f281071915d6672adb is invalid. Size (2.22) lower than the minimum: 5'}]
+[MM] Order failed (BUY 2.2sh @ 0.130): PolyApiException[status_code=400, error_message={'error': 'order 0x6bc9542962e4163a44062b569b0e473de34e8bfcd9118b5655b98a3dcb46cca4 is invalid. Size (2.22) lower than the minimum: 5'}]
+[MM] Order failed (BUY 2.2sh @ 0.130): PolyApiException[status_code=400, error_message={'error': 'order 0xc897b0d13e324d7692ceb3abdd81af8df30d1e7cdc2135aa3f702f65a36f4cef is invalid. Size (2.22) lower than the minimum: 5'}]
+[MM] Order failed (BUY 2.1sh @ 0.130): PolyApiException[status_code=400, error_message={'error': 'order 0xfd70facf21afe1372bdb1cc3849e90b650d3c8aefc518cd93c5747fc5402a86d is invalid. Size (2.1) lower than the minimum: 5'}]
+[MM] MM Bot: 0 orders placed across 20 markets ($0.00 committed)
+[MM] Entering monitor loop (poll every 120s)
+
+[MM] Signal 15 received, shutting down gracefully...
+[MM] Shutting down, cancelling remaining orders...
+[MM] All orders cancelled
+[MM] Done.

@@ -6,11 +6,14 @@ import math
 import time
 from datetime import timedelta
 
-from trader.client import get_client, get_usdc_balance, orderbook_to_dict
-from py_clob_client.clob_types import (
+from trader.client import orderbook_to_dict
+from py_clob_client_v2 import (
     OrderArgs, OrderType, BalanceAllowanceParams, AssetType, OpenOrderParams,
+    Side, OrderPayload, PartialCreateOrderOptions,
 )
-from py_clob_client.order_builder.constants import BUY, SELL
+
+BUY = Side.BUY
+SELL = Side.SELL
 
 from mm_config import _retry, utcnow, MIN_SIZE, TICK
 
@@ -53,13 +56,8 @@ def find_support_price(book, max_levels=4):
             fattest_idx = i
 
     fattest_price = float(bids[fattest_idx]["price"])
-
-    if fattest_idx == 0:
-        # Fattest IS best bid — place at bb + tick (ahead of it)
-        return round(fattest_price + TICK, 2)
-    else:
-        # Place one tick above the wall
-        return round(fattest_price + TICK, 2)
+    # Place one tick above the support wall
+    return round(fattest_price + TICK, 2)
 
 
 def pick_side(client, up_token, dn_token, current_side=None, hysteresis=0.2):
@@ -113,8 +111,9 @@ def place_order(client, token_id, price, size, side, tag=""):
     try:
         def _do():
             args = OrderArgs(token_id=token_id, price=price, size=size, side=side)
-            signed = client.create_order(args)
-            return client.post_order(signed, orderType=OrderType.GTC)
+            opts = PartialCreateOrderOptions(tick_size="0.01")
+            signed = client.create_order(args, options=opts)
+            return client.post_order(signed, order_type=OrderType.GTC)
         resp = _retry(_do, retries=2, delay=2, tag=tag)
         oid = resp.get("orderID") or resp.get("id") or resp.get("order_id")
         side_str = "BUY" if side == BUY else "SELL"
@@ -127,7 +126,7 @@ def place_order(client, token_id, price, size, side, tag=""):
 
 def cancel_ord(client, oid, tag=""):
     try:
-        _retry(lambda: client.cancel(oid), retries=2, delay=1, tag=tag)
+        _retry(lambda: client.cancel_order(OrderPayload(orderID=oid)), retries=2, delay=1, tag=tag)
         print(f"[{tag}] cancelled {oid[:16]}...")
         return True
     except Exception as e:
@@ -144,7 +143,8 @@ def order_filled(client, oid):
         st = (o.get("status") or "").upper()
         filled = float(o.get("size_matched") or o.get("sizeMatched") or 0)
         return st in ("FILLED", "MATCHED"), filled
-    except:
+    except Exception as e:
+        print(f"[ORD] order status error: {e}")
         return False, 0
 
 
@@ -167,8 +167,9 @@ def market_sell(client, token_id, size, tag=""):
     try:
         def _do():
             args = OrderArgs(token_id=token_id, price=0.01, size=size, side=SELL)
-            signed = client.create_order(args)
-            return client.post_order(signed, orderType=OrderType.FOK)
+            opts = PartialCreateOrderOptions(tick_size="0.01")
+            signed = client.create_order(args, options=opts)
+            return client.post_order(signed, order_type=OrderType.FOK)
         resp = _retry(_do, retries=2, delay=2, tag=tag)
         print(f"[{tag}] MARKET SELL {size}sh => {resp}")
         return resp
@@ -184,7 +185,7 @@ def market_sell(client, token_id, size, tag=""):
 def cancel_all_token_orders(client, token_id, tag=""):
     """Cancel all open orders for a given token."""
     try:
-        orders = _retry(lambda: client.get_orders(OpenOrderParams(asset_id=token_id)),
+        orders = _retry(lambda: client.get_open_orders(OpenOrderParams(asset_id=token_id)),
                         retries=4, delay=2, tag=tag)
         if not orders:
             return

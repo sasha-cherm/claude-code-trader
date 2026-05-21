@@ -1,0 +1,322 @@
+[MM] === BTC 15-min Spread Scalper ===
+[MM] UTC: 2026-03-30 12:20:58.753230+00:00
+[MM] size=6.0  sell_deadline=+3s  poll=1.0s
+[MM] Balance: $17.37
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 8:30AM-8:45AM ET
+[MM] start=2026-03-30T12:30:00+00:00  sell_deadline=+3s
+[MM] Side: DN (bid depth DN=1588 vs UP=546)
+[MM] Trading DN token=18693551880697014125...
+[MM] Balance: $17.37
+[MM] --- Round 1 (DN) ---
+[BUY] BUY 6sh @ 0.54  oid=0xb8ad4c88f89563af7a7c6359576917c4017c6174517ee7bd8e2f3f92769ba1ac
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 531s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 522s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 521s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 512s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 510s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 501s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 500s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 491s to start
+[MM] bb=0.54 ba=0.55 sp=0.01 | BUY@0.54 | 481s to start
+[BUY] cancelled 0xb8ad4c88f89563...
+[BUY] BUY 6sh @ 0.55  oid=0x7a230c08f3e9d4bcf23c5d4c470db8a898d5e5cf81a612ff91c118e1019b21a2
+[MM] bb=0.55 ba=0.56 sp=0.01 | BUY@0.55 | 472s to start
+[MM] bb=0.55 ba=0.56 sp=0.01 | BUY@0.55 | 470s to start
+[BUY] cancelled 0x7a230c08f3e9d4...
+[BUY] BUY 6sh @ 0.56  oid=0xcd1bd829d4370185e4e1e26bba4110a4c02c645d79185b2efb594e4c97a0fc83
+[MM] bb=0.55 ba=0.57 sp=0.02 | BUY@0.56 | 461s to start
+[MM] bb=0.56 ba=0.57 sp=0.01 | BUY@0.56 | 452s to start
+[MM] bb=0.56 ba=0.57 sp=0.01 | BUY@0.56 | 451s to start
+[MM] bb=0.56 ba=0.58 sp=0.02 | BUY@0.56 | 442s to start
+[MM] bb=0.56 ba=0.58 sp=0.02 | BUY@0.56 | 440s to start
+[MM] bb=0.56 ba=0.58 sp=0.02 | BUY@0.56 | 431s to start
+[MM] bb=0.56 ba=0.58 sp=0.02 | BUY@0.56 | 421s to start
+[MM] bb=0.57 ba=0.58 sp=0.01 | BUY@0.56 | 411s to start
+[MM] bb=0.57 ba=0.58 sp=0.01 | BUY@0.56 | 402s to start
+[MM] bb=0.57 ba=0.58 sp=0.01 | BUY@0.56 | 401s to start
+[MM] bb=0.57 ba=0.58 sp=0.01 | BUY@0.56 | 392s to start
+[MM] bb=0.57 ba=0.58 sp=0.01 | BUY@0.56 | 390s to start
+[MM] bb=0.57 ba=0.58 sp=0.01 | BUY@0.56 | 381s to start
+[MM] bb=0.57 ba=0.58 sp=0.01 | BUY@0.56 | 371s to start
+[MM] bb=0.57 ba=0.58 sp=0.01 | BUY@0.56 | 361s to start
+[MM] bb=0.57 ba=0.58 sp=0.01 | BUY@0.56 | 352s to start
+[MM] bb=0.57 ba=0.58 sp=0.01 | BUY@0.56 | 351s to start
+[MM] bb=0.57 ba=0.58 sp=0.01 | BUY@0.56 | 342s to start
+[MM] bb=0.57 ba=0.58 sp=0.01 | BUY@0.56 | 331s to start
+[MM] bb=0.57 ba=0.58 sp=0.01 | BUY@0.56 | 330s to start
+[MM] bb=0.57 ba=0.58 sp=0.01 | BUY@0.56 | 321s to start
+[MM] bb=0.57 ba=0.58 sp=0.01 | BUY@0.56 | 311s to start
+[MM] bb=0.57 ba=0.58 sp=0.01 | BUY@0.56 | 301s to start
+[MM] BUY FILLED @ 0.56
+[MM] Waiting for settlement... bal=0.00 (30s left)
+[MM] Waiting for settlement... bal=0.00 (23s left)
+[MM] Waiting for settlement... bal=0.00 (21s left)
+[MM] Waiting for settlement... bal=0.00 (19s left)
+[MM] Waiting for settlement... bal=0.00 (17s left)
+[MM] Waiting for settlement... bal=0.00 (15s left)
+[MM] Waiting for settlement... bal=0.00 (12s left)
+[MM] Waiting for settlement... bal=0.00 (10s left)
+[MM] Waiting for settlement... bal=0.00 (8s left)
+[MM] Waiting for settlement... bal=0.00 (6s left)
+[MM] Waiting for settlement... bal=0.00 (4s left)
+[MM] Waiting for settlement... bal=0.00 (2s left)
+[MM] Settlement timeout. Balance: 0.00, needed: 6.0
+[MM] Not enough for limit sell, cleanup will handle
+[SELL] place error: PolyApiException[status_code=400, error_message={'error': 'not enough balance / allowance: the balance is not enough -> balance: 0, order amount: 5000000'}]
+[MM] SELL limit failed, cleanup will handle
+[MM] next: Bitcoin Up or Down - March 30, 8:45AM-9:00AM ET in 1160s, sleeping 260s
+
+[MM] ==================================================
+[MM] Bitcoin Up or Down - March 30, 8:45AM-9:00AM ET
+[MM] start=2026-03-30T12:45:00+00:00  sell_deadline=+3s
+[MM] Side: DN (bid depth DN=1286 vs UP=605)
+[MM] Trading DN token=89915829689746244426...
+[MM] Balance: $17.37
+[MM] --- Round 1 (DN) ---
+[BUY] BUY 6sh @ 0.51  oid=0x289aff3ce86e612adadcae679523e793ca8e812b528f6fb11ea55569d6d337da
+[BUY] cancelled 0x289aff3ce86e61...
+[BUY] BUY 6sh @ 0.52  oid=0xc7a3836a5ab03768f5429c3714f45eb13cbcf5376a88a1e9f67bbd51fbf65336
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 891s to start
+[MM] book error: PolyApiException[status_code=None, error_message=Request exception!]
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 882s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 880s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 871s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 861s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 851s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 842s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 841s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 832s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 831s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 821s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 820s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 811s to start
+[MM] bb=0.52 ba=0.53 sp=0.01 | BUY@0.52 | 801s to start
+[BUY] cancelled 0xc7a3836a5ab037...
+[BUY] BUY 6sh @ 0.55  oid=0x03e3fbf7fc91c58f796f8350d25ae4ed89b8efb07b2819cd793514f1691b6e34
+[MM] bb=0.55 ba=0.56 sp=0.01 | BUY@0.55 | 792s to start
+[MM] bb=0.55 ba=0.56 sp=0.01 | BUY@0.55 | 791s to start
+[MM] BUY FILLED @ 0.55
+[MM] Waiting for settlement... bal=0.00 (30s left)
+[MM] Waiting for settlement... bal=0.00 (28s left)
+[MM] Token balance settled: 6.00 shares
+[SELL] SELL 6sh @ 0.56  oid=0x57d3e023701ebe140971bb29f08777c3d893821b7137ea7df9476d1ff80b99fd
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 781.2s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 780.0s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 778.6s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 777.4s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 776.1s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 774.8s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 773.5s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 772.3s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 771.0s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 769.7s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 768.4s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 767.1s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 765.8s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 764.6s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 763.3s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 762.0s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 760.7s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 759.4s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 758.1s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 756.8s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 755.5s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 754.2s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 753.0s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 751.7s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 750.4s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 749.1s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 747.9s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 746.6s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 745.3s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 744.0s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 742.8s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 741.5s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 740.2s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 738.9s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 737.7s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 736.4s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 735.1s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 733.9s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 732.6s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 731.3s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 730.1s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 728.8s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 727.5s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 726.2s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 725.0s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 723.7s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 722.4s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 721.1s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 719.8s left
+[MM] bb=0.54 ba=0.56 | SELL@0.56 bought@0.55 | 718.6s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 717.3s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 716.0s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 714.8s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 713.5s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 712.2s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 711.0s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 709.7s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 708.4s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 707.1s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 705.9s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 704.6s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 703.3s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 702.1s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 700.8s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 699.5s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 698.3s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 696.9s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 695.7s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 694.4s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 693.1s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 691.9s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 690.6s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 689.3s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 688.1s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 686.8s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 685.5s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 684.3s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 683.0s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 681.7s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 680.5s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 679.2s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 678.0s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 676.7s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 675.4s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 674.2s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 672.9s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 671.6s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 670.3s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 669.1s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 667.8s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 666.5s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 665.3s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 664.0s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 662.7s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 661.5s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 660.2s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 658.9s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 657.7s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 656.4s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 655.1s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 653.9s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 652.6s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 651.3s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 650.1s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 648.8s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 647.5s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 646.3s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 645.0s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 643.7s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 642.5s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 641.2s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 639.9s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 638.6s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 637.4s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 636.1s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 634.8s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 633.6s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 632.3s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 631.0s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 629.8s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 628.5s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 627.2s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 626.0s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 624.7s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 623.4s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 622.2s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 620.9s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 619.6s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 618.3s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 617.1s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 615.8s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 614.5s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 613.3s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 612.0s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 610.8s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 609.5s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 608.2s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 606.9s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 605.7s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 604.4s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 603.1s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 601.8s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 600.6s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 599.3s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 598.0s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 596.7s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 595.5s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 594.2s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 592.9s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 591.7s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 590.4s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 589.1s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 586.0s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 584.7s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 583.5s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 582.2s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 580.9s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 579.6s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 578.4s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 577.1s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 575.8s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 574.5s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 573.3s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 572.0s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 570.7s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 569.5s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 568.2s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 566.9s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 565.6s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 564.4s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 563.1s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 561.8s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 560.6s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 559.3s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 558.0s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 556.8s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 555.5s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 554.2s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 553.0s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 551.7s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 550.4s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 549.1s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 547.9s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 546.6s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 545.3s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 544.0s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 542.8s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 541.5s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 540.2s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 539.0s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 537.7s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 536.4s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 535.1s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 533.8s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 532.6s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 531.3s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 530.0s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 528.7s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 527.4s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 526.2s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 524.9s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 523.6s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 522.3s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 521.0s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 519.8s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 518.5s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 516.9s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 515.6s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 514.4s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 513.1s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 511.8s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 510.5s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 509.2s left
+[MM] bb=0.55 ba=0.56 | SELL@0.56 bought@0.55 | 508.0s left
+[MM] SELL FILLED @ 0.56  profit=$0.06
+[MM] Round 1 done, waiting for sell settlement...
+
+[MM] Signal 15, stopping...
